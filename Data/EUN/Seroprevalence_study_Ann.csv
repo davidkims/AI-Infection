@@ -1,0 +1,10 @@
+﻿Seq,Origin,Country,TestPeriod,TestTareget,antibody_positive,Link
+1,Public Health Ontario,캐나다,2020년 3월~,잔여 혈액 샘플 1. 3월 3/827 2. 5월 15/1061 3. 6월 79/7014 4. 7월 70/7001 5. 8월 72/6789 6. 9월 35/4901 7. 10월 79/7107,1. 3월 0.4% 2. 5월 1.4% 3. 6월 1.1% 4. 7월 1% 5. 8월 1.1% 6. 9월 0.7% 7. 10월 1.1%,https://www.publichealthontario.ca/en/data-and-analysis/infectious-disease/covid-19-data-surveillance/covid-19-serosurveillance
+2,Canadian Blood Services,캐나다,2020년 5월~,혈액 기증자 5-7월 37737 11월 17049,5-7월 0.7% 11월 1.51%,https://www.blood.ca/en/stories/latest-study-results-show-upward-shift-covid-19-prevalence https://onlinelibrary.wiley.com/doi/10.1111/trf.16296
+3,Norwegian Institute of Public Health,노르웨이,2020년 4월,잔여 혈액 샘플 10/900,1.10%,https://www.fhi.no/en/publ/2020/seroprevalence-of-sars-cov-2-in-the-norwegian-population--measured-in-resid/
+4,Office of National Statistics,영국,2020년 4월,일반 인구 집단  476/9343,5.10%,https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/englandwalesandnorthernireland25september2020#measuring-the-data
+5,Government of Jersey,영국/저지섬,2020년 4월,저지섬 가구 1차 855 2차 1062 3차 1386,"1차 3.1% 2차 4.2% 3차 4.0% ",https://www.gov.je/news/2020/pages/community-antibody-survey-report-published-round-3.aspx
+6,Health Protection Surveillance Centre,아일랜드,"2020년 6월 ","더블린, 슬리고 주민 33/1733",1.70%,https://www.hse.ie/scopi
+7,CDC Commercial Laboratory Seroprevalence Surveys,미국,"2020년 3-5월 ",미국 [10 Lab] 혈액 샘플,"1.13% WA, 6.93% NYC, 1.85% FL, 4.94% CT, 2.65% Missouri, 2.18% Utah, 2.4% Minnesota, 5.8% Louisiana, 3.2% Philadelphia, 1% San Francisco",https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/commercial-lab-surveys.html#interpreting-serology-results
+8,CDC Nationwide Commercial Laboratory Seroprevalence Survey,미국,2020년 8월~,미국 [전국 Lab] 혈액 샘플,"전국 22%-2021년 4월 ",https://covid.cdc.gov/covid-data-tracker/#national-lab
+9,CDC Nationwide Blood Donor Seroprevalence Survey,미국,2020년 7월~,미국 전국 혈액 기증자,"전국 49.1%-2021년 3월 ",https://covid.cdc.gov/covid-data-tracker/#nationwide-blood-donor-seroprevalence
