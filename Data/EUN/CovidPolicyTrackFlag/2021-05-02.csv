@@ -1,0 +1,313 @@
+ tDate, Country, Province, SchoolFlag, WorkplaceFlag, CancelPublicEventsFlag, RestrictionsOnGatheringsFlag, PublicTransportFlag, StayAtHomeFlag, RestrictionsOnInternalFlag, PublicInformationCampaignsFlag 
+2021-05-02,Afghanistan,,,1,1,,,,,1
+2021-05-02,Albania,,1,1,1,1,,1,,1
+2021-05-02,Algeria,,1,1,1,0,0,0,0,1
+2021-05-02,Andorra,,1,1,1,1,1,1,1,1
+2021-05-02,Angola,,,1,1,1,1,1,0,1
+2021-05-02,Argentina,,0,0,1,0,0,0,0,1
+2021-05-02,Aruba,,1,1,1,1,,1,,1
+2021-05-02,Australia,,,0,0,0,0,,0,1
+2021-05-02,Austria,,1,0,0,1,1,1,0,1
+2021-05-02,Azerbaijan,,0,1,1,1,1,1,,1
+2021-05-02,Bahamas,,0,0,0,0,1,0,1,1
+2021-05-02,Bahrain,,1,1,1,1,,1,1,1
+2021-05-02,Bangladesh,,1,1,1,1,1,1,1,1
+2021-05-02,Barbados,,1,1,1,1,1,1,1,1
+2021-05-02,Belarus,,,,1,1,,1,,1
+2021-05-02,Belgium,,1,1,1,1,,1,,1
+2021-05-02,Belize,,1,1,1,,,1,1,1
+2021-05-02,Benin,,,,1,1,1,,,1
+2021-05-02,Bermuda,,1,1,1,1,1,1,,1
+2021-05-02,Bhutan,,0,0,0,0,0,0,0,1
+2021-05-02,Bolivia,,0,,,,,,,1
+2021-05-02,Bosnia and Herzegovina,,1,0,1,1,,0,,1
+2021-05-02,Botswana,,1,1,1,1,,1,1,1
+2021-05-02,Brazil,,0,0,0,0,0,0,0,1
+2021-05-02,Brazil,Acre,1,1,1,,1,1,1,1
+2021-05-02,Brazil,Alagoas,1,1,1,1,1,1,1,1
+2021-05-02,Brazil,Amapa,1,1,1,,0,1,0,1
+2021-05-02,Brazil,Amazonas,1,1,1,0,1,1,1,1
+2021-05-02,Brazil,Bahia,0,1,1,0,1,0,1,1
+2021-05-02,Brazil,Ceara,0,1,1,1,1,1,1,1
+2021-05-02,Brazil,Distrito Federal,,,,,,,,
+2021-05-02,Brazil,Espirito Santo,1,1,1,1,1,1,,1
+2021-05-02,Brazil,Goias,1,1,1,,1,0,,1
+2021-05-02,Brazil,Maranhao,1,1,1,1,1,1,0,1
+2021-05-02,Brazil,Mato Grosso,0,1,1,1,0,1,1,1
+2021-05-02,Brazil,Mato Grosso do Sul,0,1,1,1,0,1,1,1
+2021-05-02,Brazil,Minas Gerais,0,1,1,1,1,1,1,1
+2021-05-02,Brazil,Para,1,1,1,0,,1,1,1
+2021-05-02,Brazil,Paraiba,1,1,0,,1,,,1
+2021-05-02,Brazil,Parana,1,0,1,1,,0,1,1
+2021-05-02,Brazil,Pernambuco,0,0,1,1,1,1,1,1
+2021-05-02,Brazil,Piaui,1,1,1,,,1,1,1
+2021-05-02,Brazil,Rio de Janeiro,0,1,1,0,1,,0,1
+2021-05-02,Brazil,Rio Grande do Norte,0,1,1,,0,1,0,1
+2021-05-02,Brazil,Rio Grande do Sul,1,1,1,1,1,1,1,1
+2021-05-02,Brazil,Rondonia,0,1,1,1,1,0,0,1
+2021-05-02,Brazil,Roraima,1,1,1,1,1,0,0,1
+2021-05-02,Brazil,Santa Catarina,,,,,,,,
+2021-05-02,Brazil,Sao Paulo,1,1,1,,,1,,1
+2021-05-02,Brazil,Sergipe,1,1,1,1,1,1,,1
+2021-05-02,Brazil,Tocantins,0,1,1,1,0,0,0,1
+2021-05-02,Brunei,,1,1,1,1,,,,1
+2021-05-02,Bulgaria,,1,1,1,1,,,,1
+2021-05-02,Burkina Faso,,,,,,,0,,1
+2021-05-02,Burundi,,,1,,,,,,1
+2021-05-02,Cambodia,,1,0,0,0,,0,0,1
+2021-05-02,Cameroon,,1,1,1,1,,,,1
+2021-05-02,Canada,,0,0,0,0,0,0,0,1
+2021-05-02,Canada,Alberta,0,1,1,1,,1,0,1
+2021-05-02,Canada,British Columbia,1,1,1,1,,1,1,1
+2021-05-02,Canada,Manitoba,0,0,1,1,,0,1,1
+2021-05-02,Canada,New Brunswick,1,1,1,1,,1,1,1
+2021-05-02,Canada,Newfoundland and Labrador,1,1,1,1,1,1,1,1
+2021-05-02,Canada,Northwest Territories,1,1,1,1,0,1,1,1
+2021-05-02,Canada,Nova Scotia,1,1,1,1,,0,1,1
+2021-05-02,Canada,Nunavut,0,0,0,0,,0,0,1
+2021-05-02,Canada,Ontario,1,1,1,1,1,1,1,1
+2021-05-02,Canada,Prince Edward Island,1,1,1,1,,1,1,1
+2021-05-02,Canada,Quebec,0,1,1,1,,1,0,1
+2021-05-02,Canada,Saskatchewan,1,0,1,1,,1,1,1
+2021-05-02,Canada,Yukon,1,1,1,1,,1,1,1
+2021-05-02,Cape Verde,,1,1,1,1,,1,0,1
+2021-05-02,Central African Republic,,,,,,,,1,
+2021-05-02,Chad,,,,,,,,0,1
+2021-05-02,Chile,,0,0,0,0,0,0,0,1
+2021-05-02,China,,0,0,0,0,0,0,0,1
+2021-05-02,China,Anhui,1,1,1,1,1,,1,1
+2021-05-02,China,Beijing,1,1,1,1,1,1,1,1
+2021-05-02,China,Chongqing,1,1,1,1,1,1,1,1
+2021-05-02,China,Fujian,1,1,1,1,1,1,1,1
+2021-05-02,China,Gansu,1,1,1,,,,1,1
+2021-05-02,China,Guangdong,1,1,1,1,1,,,1
+2021-05-02,China,Guangxi,1,1,1,1,1,,0,1
+2021-05-02,China,Guizhou,1,1,1,,,,1,1
+2021-05-02,China,Hainan,1,1,,,1,,1,1
+2021-05-02,China,Hebei,1,1,,,,,,1
+2021-05-02,China,Heilongjiang,1,1,1,1,1,1,1,1
+2021-05-02,China,Henan,1,1,,,1,1,1,1
+2021-05-02,China,Hubei,1,1,1,1,1,1,1,1
+2021-05-02,China,Hunan,1,1,1,,,,1,1
+2021-05-02,China,Inner Mongolia,1,1,1,,1,,1,1
+2021-05-02,China,Jiangsu,1,1,1,1,1,1,1,1
+2021-05-02,China,Jiangxi,1,1,1,1,,1,1,1
+2021-05-02,China,Jilin,1,1,1,1,1,1,1,1
+2021-05-02,China,Liaoning,1,1,1,,,,,1
+2021-05-02,China,Ningxia,1,1,1,,,,1,1
+2021-05-02,China,Qinghai,1,1,1,1,1,1,1,1
+2021-05-02,China,Shaanxi,1,1,1,1,1,1,1,1
+2021-05-02,China,Shandong,1,1,1,0,,,,1
+2021-05-02,China,Shanghai,1,1,1,1,1,1,1,1
+2021-05-02,China,Shanxi,1,1,1,1,1,1,,1
+2021-05-02,China,Sichuan,1,1,1,1,1,,1,1
+2021-05-02,China,Tianjin,1,1,1,1,,,1,1
+2021-05-02,China,Tibet,1,1,1,1,,,1,1
+2021-05-02,China,Xinjiang,1,1,1,1,1,,1,1
+2021-05-02,China,Yunnan,0,0,0,0,1,0,0,1
+2021-05-02,China,Zhejiang,1,1,1,1,1,1,1,1
+2021-05-02,Colombia,,0,1,1,1,0,1,,1
+2021-05-02,Comoros,,,,,,,,,
+2021-05-02,Congo,,0,1,1,1,1,0,1,1
+2021-05-02,Costa Rica,,1,1,1,1,1,1,0,1
+2021-05-02,Cote d`Ivoire,,,,,,,1,,1
+2021-05-02,Croatia,,1,1,1,1,1,,,1
+2021-05-02,Cuba,,0,0,1,1,0,0,0,1
+2021-05-02,Cyprus,,1,1,1,1,1,1,1,1
+2021-05-02,Czechia,,1,1,1,1,,,,1
+2021-05-02,Democratic Republic of Congo,,,,0,1,1,0,0,1
+2021-05-02,Denmark,,0,1,1,1,,1,,1
+2021-05-02,Djibouti,,1,1,1,1,,,,1
+2021-05-02,Dominica,,1,,,1,,1,,1
+2021-05-02,Dominican Republic,,1,1,1,1,1,1,,1
+2021-05-02,Ecuador,,0,0,0,0,0,0,0,1
+2021-05-02,Egypt,,1,1,1,1,,1,,1
+2021-05-02,El Salvador,,1,1,1,,,,,1
+2021-05-02,Eritrea,,,,1,1,1,1,1,1
+2021-05-02,Estonia,,1,1,1,1,,1,,1
+2021-05-02,Eswatini,,1,1,1,1,,1,1,1
+2021-05-02,Ethiopia,,1,1,1,1,1,,,1
+2021-05-02,Faeroe Islands,,1,1,1,1,,1,,1
+2021-05-02,Fiji,,1,1,1,1,,1,0,1
+2021-05-02,Finland,,0,0,0,0,,1,,1
+2021-05-02,France,,1,1,1,1,,1,1,1
+2021-05-02,Gabon,,1,1,1,1,1,1,1,1
+2021-05-02,Gambia,,,,1,1,1,,,1
+2021-05-02,Georgia,,,1,1,1,,1,1,1
+2021-05-02,Germany,,0,1,1,1,1,0,1,1
+2021-05-02,Ghana,,,0,1,1,,1,,1
+2021-05-02,Greece,,1,1,1,1,1,1,1,1
+2021-05-02,Greenland,,1,1,1,1,,1,,1
+2021-05-02,Guam,,1,1,1,1,,1,,1
+2021-05-02,Guatemala,,0,0,0,1,1,,,1
+2021-05-02,Guinea,,,1,1,1,,0,0,1
+2021-05-02,Guyana,,1,1,1,1,,1,,1
+2021-05-02,Haiti,,,,,1,,1,,1
+2021-05-02,Honduras,,1,1,1,1,,1,1,1
+2021-05-02,Hong Kong,,1,1,1,1,1,1,1,1
+2021-05-02,Hungary,,1,1,1,1,,1,,1
+2021-05-02,Iceland,,1,1,1,1,1,,,1
+2021-05-02,India,,0,0,0,0,,0,0,1
+2021-05-02,Indonesia,,0,0,0,0,0,0,0,1
+2021-05-02,Iran,,1,0,1,1,1,0,0,1
+2021-05-02,Iraq,,1,1,1,0,,1,1,1
+2021-05-02,Ireland,,1,1,1,1,1,1,1,1
+2021-05-02,Israel,,1,1,1,1,,,,1
+2021-05-02,Italy,,0,0,0,1,1,1,1,1
+2021-05-02,Jamaica,,1,1,1,1,1,1,1,1
+2021-05-02,Japan,,1,0,1,1,,1,1,1
+2021-05-02,Jordan,,1,1,1,1,1,1,1,1
+2021-05-02,Kazakhstan,,1,0,1,1,,,0,1
+2021-05-02,Kenya,,1,1,1,1,1,1,1,1
+2021-05-02,Kiribati,,,,,,,,,1
+2021-05-02,Kosovo,,1,1,1,1,1,1,,1
+2021-05-02,Kuwait,,1,1,1,1,1,1,1,1
+2021-05-02,Kyrgyz Republic,,0,1,1,1,1,,,1
+2021-05-02,Laos,,0,0,0,0,0,0,0,1
+2021-05-02,Latvia,,1,1,1,1,,,,1
+2021-05-02,Lebanon,,1,1,1,1,1,1,1,1
+2021-05-02,Lesotho,,1,1,1,1,,1,,1
+2021-05-02,Liberia,,,1,1,1,1,,,1
+2021-05-02,Libya,,1,1,1,1,1,1,1,1
+2021-05-02,Liechtenstein,,1,1,1,1,1,1,1,1
+2021-05-02,Lithuania,,1,1,1,1,,,,1
+2021-05-02,Luxembourg,,1,1,1,1,,1,,1
+2021-05-02,Macao,,1,,,,,,,1
+2021-05-02,Madagascar,,0,0,1,1,1,1,1,1
+2021-05-02,Malawi,,,1,1,1,1,,,1
+2021-05-02,Malaysia,,0,0,0,0,0,0,0,1
+2021-05-02,Mali,,1,1,1,1,,1,,1
+2021-05-02,Malta,,1,1,1,1,,,1,1
+2021-05-02,Mauritania,,,,1,1,,1,1,1
+2021-05-02,Mauritius,,1,1,1,1,1,1,1,1
+2021-05-02,Mexico,,0,0,0,,0,0,0,1
+2021-05-02,Moldova,,0,1,1,1,1,1,0,1
+2021-05-02,Monaco,,1,1,1,1,,1,,1
+2021-05-02,Mongolia,,1,1,1,1,1,1,1,1
+2021-05-02,Morocco,,1,1,1,1,1,1,1,1
+2021-05-02,Mozambique,,1,1,1,1,1,0,,
+2021-05-02,Myanmar,,1,0,1,1,0,0,0,1
+2021-05-02,Namibia,,1,1,1,0,1,1,,1
+2021-05-02,Nepal,,1,1,1,1,1,1,1,1
+2021-05-02,Netherlands,,1,1,1,1,1,1,1,1
+2021-05-02,New Zealand,,,,,,,,,1
+2021-05-02,Nicaragua,,,,,,,,,1
+2021-05-02,Niger,,,,1,1,,,,1
+2021-05-02,Nigeria,,,1,1,1,1,1,,1
+2021-05-02,Norway,,0,0,1,1,1,1,1,1
+2021-05-02,Oman,,1,1,1,1,1,1,1,1
+2021-05-02,Pakistan,,0,0,0,0,0,0,1,1
+2021-05-02,Palestine,,1,1,1,1,1,1,1,1
+2021-05-02,Panama,,1,1,0,1,1,0,,1
+2021-05-02,Papua New Guinea,,1,1,1,,1,1,1,1
+2021-05-02,Paraguay,,0,1,1,1,,1,,1
+2021-05-02,Peru,,0,0,1,1,1,0,0,1
+2021-05-02,Philippines,,1,1,0,0,0,0,1,1
+2021-05-02,Poland,,1,0,1,1,1,1,1,1
+2021-05-02,Portugal,,1,1,1,1,1,0,0,1
+2021-05-02,Puerto Rico,,1,1,1,1,0,1,0,1
+2021-05-02,Qatar,,1,1,1,1,1,1,,1
+2021-05-02,Romania,,0,1,1,1,,1,1,1
+2021-05-02,Russia,,,0,0,0,,,,1
+2021-05-02,Rwanda,,1,1,1,1,1,1,0,1
+2021-05-02,San Marino,,1,1,1,1,,1,,1
+2021-05-02,Saudi Arabia,,1,1,1,1,,,,1
+2021-05-02,Senegal,,1,,,,,,,1
+2021-05-02,Serbia,,1,1,1,1,1,1,,1
+2021-05-02,Seychelles,,,,1,1,,1,,1
+2021-05-02,Sierra Leone,,1,1,1,1,1,1,,1
+2021-05-02,Singapore,,1,1,1,1,,1,,1
+2021-05-02,Slovakia,,0,1,0,1,,1,1,1
+2021-05-02,Slovenia,,1,1,1,1,,,1,1
+2021-05-02,Solomon Islands,,,,1,,,,,1
+2021-05-02,Somalia,,,0,1,1,,1,,1
+2021-05-02,South Africa,,1,1,,1,1,1,,1
+2021-05-02,South Korea,,1,1,1,1,,1,1,1
+2021-05-02,South Sudan,,1,1,1,1,1,1,1,1
+2021-05-02,Spain,,1,0,1,1,,1,1,1
+2021-05-02,Sri Lanka,,1,0,1,1,,1,,1
+2021-05-02,Sudan,,0,1,0,0,,1,,1
+2021-05-02,Suriname,,1,1,1,1,,1,,1
+2021-05-02,Sweden,,0,1,1,1,1,1,1,1
+2021-05-02,Switzerland,,1,1,1,1,,1,,1
+2021-05-02,Syria,,0,0,1,0,,0,0,0
+2021-05-02,Taiwan,,,,1,,,,,1
+2021-05-02,Tajikistan,,1,1,,1,,,,1
+2021-05-02,Tanzania,,,,,,,,,
+2021-05-02,Thailand,,1,0,1,1,1,0,0,1
+2021-05-02,Timor-Leste,,1,,0,0,0,0,0,1
+2021-05-02,Togo,,,0,,1,,1,0,1
+2021-05-02,Tonga,,1,,1,1,,1,,1
+2021-05-02,Trinidad and Tobago,,1,1,1,1,1,,,1
+2021-05-02,Tunisia,,1,1,1,1,1,1,0,
+2021-05-02,Turkey,,1,1,1,1,1,1,1,1
+2021-05-02,Turkmenistan,,1,1,1,1,,,1,1
+2021-05-02,Uganda,,,1,,,0,0,1,1
+2021-05-02,Ukraine,,0,0,0,0,0,1,0,1
+2021-05-02,United Arab Emirates,,1,0,0,1,,,0,1
+2021-05-02,United Kingdom,,1,1,1,1,1,,0,1
+2021-05-02,United Kingdom,England,1,1,1,1,1,,1,1
+2021-05-02,United Kingdom,Northern Ireland,1,1,1,1,1,,1,1
+2021-05-02,United Kingdom,Scotland,1,1,1,1,1,,,1
+2021-05-02,United Kingdom,Wales,1,1,1,1,1,,,1
+2021-05-02,Uruguay,,0,1,1,1,1,1,1,1
+2021-05-02,United States,,0,1,1,0,1,0,1,1
+2021-05-02,United States,Alabama,1,,1,,,,1,1
+2021-05-02,United States,Alaska,1,0,0,0,,0,1,1
+2021-05-02,United States,Arizona,0,1,0,,,,1,1
+2021-05-02,United States,Arkansas,1,1,1,,0,,1,1
+2021-05-02,United States,California,0,0,0,0,,1,1,1
+2021-05-02,United States,Colorado,0,0,0,0,0,,1,1
+2021-05-02,United States,Connecticut,0,1,1,1,,,1,1
+2021-05-02,United States,Delaware,0,1,1,1,,,1,1
+2021-05-02,United States,Florida,1,0,0,0,,,1,0
+2021-05-02,United States,Georgia,1,1,1,,,,1,1
+2021-05-02,United States,Hawaii,0,0,1,1,,0,1,1
+2021-05-02,United States,Idaho,1,1,1,1,,,1,1
+2021-05-02,United States,Illinois,1,1,1,1,,1,0,1
+2021-05-02,United States,Indiana,0,,0,0,,,1,1
+2021-05-02,United States,Iowa,1,,1,,,,1,1
+2021-05-02,United States,Kansas,,0,0,,0,,1,1
+2021-05-02,United States,Kentucky,0,1,0,,0,0,,1
+2021-05-02,United States,Louisiana,0,1,1,0,0,1,1,1
+2021-05-02,United States,Maine,1,,1,1,,1,1,1
+2021-05-02,United States,Maryland,0,,1,1,,1,1,1
+2021-05-02,United States,Massachusetts,0,1,1,1,1,,1,1
+2021-05-02,United States,Michigan,0,1,1,1,0,,1,1
+2021-05-02,United States,Minnesota,0,1,1,1,0,1,1,1
+2021-05-02,United States,Mississippi,0,,1,,,,1,1
+2021-05-02,United States,Missouri,1,0,0,0,,0,1,1
+2021-05-02,United States,Montana,1,1,1,0,,,1,1
+2021-05-02,United States,Nebraska,,,1,,1,1,0,1
+2021-05-02,United States,Nevada,1,1,1,1,,,1,1
+2021-05-02,United States,New Hampshire,1,1,1,,,1,1,1
+2021-05-02,United States,New Jersey,0,0,1,1,0,0,1,1
+2021-05-02,United States,New Mexico,1,0,0,0,0,1,1,1
+2021-05-02,United States,New York,0,0,0,1,0,,1,1
+2021-05-02,United States,North Carolina,0,1,1,1,1,0,1,1
+2021-05-02,United States,North Dakota,0,,1,,,,1,1
+2021-05-02,United States,Ohio,0,1,1,1,,,1,1
+2021-05-02,United States,Oklahoma,0,1,1,,0,1,1,1
+2021-05-02,United States,Oregon,1,0,1,1,,1,1,1
+2021-05-02,United States,Pennsylvania,0,1,1,,,,1,1
+2021-05-02,United States,Rhode Island,1,1,1,1,,1,1,1
+2021-05-02,United States,South Carolina,1,1,1,,,,1,1
+2021-05-02,United States,South Dakota,1,,1,,,,1,1
+2021-05-02,United States,Tennessee,1,0,0,,,,1,1
+2021-05-02,United States,Texas,0,0,0,0,,0,0,1
+2021-05-02,United States,Utah,1,1,0,,,,1,1
+2021-05-02,United States,Vermont,0,1,1,1,,1,1,1
+2021-05-02,United States,Virginia,0,1,1,1,,1,1,1
+2021-05-02,United States,Washington,0,1,1,1,0,1,1,1
+2021-05-02,United States,Washington DC,1,1,1,1,,,1,1
+2021-05-02,United States,West Virginia,1,,1,,,1,1,1
+2021-05-02,United States,Wisconsin,0,1,1,0,0,1,1,1
+2021-05-02,United States,Wyoming,1,1,1,1,0,,1,1
+2021-05-02,US Virgin Islands,,1,1,1,1,,1,,1
+2021-05-02,Uzbekistan,,0,,1,1,,,,1
+2021-05-02,Vanuatu,,,,,,,,,1
+2021-05-02,Venezuela,,1,1,0,1,1,1,1,1
+2021-05-02,Vietnam,,0,0,0,0,1,1,1,1
+2021-05-02,Yemen,,,1,1,,,0,1,1
+2021-05-02,Zambia,,,,1,1,,1,,1
+2021-05-02,Zimbabwe,,1,1,1,1,,1,,1
