@@ -1,0 +1,313 @@
+ tDate, Country, Province, SchoolFlag, WorkplaceFlag, CancelPublicEventsFlag, RestrictionsOnGatheringsFlag, PublicTransportFlag, StayAtHomeFlag, RestrictionsOnInternalFlag, PublicInformationCampaignsFlag 
+2022-01-01,Afghanistan,,,,,,,,,
+2022-01-01,Albania,,1,0,1,1,,1,,1
+2022-01-01,Algeria,,,,,,,,,
+2022-01-01,Andorra,,,,,,,,,
+2022-01-01,Angola,,,1,1,1,1,1,0,1
+2022-01-01,Argentina,,,1,1,1,1,1,,1
+2022-01-01,Aruba,,,,,,,,,
+2022-01-01,Australia,,,,,0,0,,0,1
+2022-01-01,Austria,,0,1,1,1,1,1,,1
+2022-01-01,Azerbaijan,,1,1,1,1,,1,,1
+2022-01-01,Bahamas,,,,,,,,,
+2022-01-01,Bahrain,,,1,1,,,1,,1
+2022-01-01,Bangladesh,,1,1,1,1,,1,,1
+2022-01-01,Barbados,,,,,,,,,
+2022-01-01,Belarus,,,,,,,,,
+2022-01-01,Belgium,,1,1,1,1,,,,1
+2022-01-01,Belize,,,,,,,,,
+2022-01-01,Benin,,,,,,,,,
+2022-01-01,Bermuda,,,,,,,,,
+2022-01-01,Bhutan,,,,,,,,,
+2022-01-01,Bolivia,,0,1,1,,1,,,1
+2022-01-01,Bosnia and Herzegovina,,1,1,1,1,,,,1
+2022-01-01,Botswana,,,,,,,,,1
+2022-01-01,Brazil,,,,,,,,,
+2022-01-01,Brazil,Acre,,,,,,,,
+2022-01-01,Brazil,Alagoas,,,,,,,,
+2022-01-01,Brazil,Amapa,,,,,,,,
+2022-01-01,Brazil,Amazonas,,,,,,,,
+2022-01-01,Brazil,Bahia,,,,,,,,
+2022-01-01,Brazil,Ceara,,,,,,,,
+2022-01-01,Brazil,Distrito Federal,,,,,,,,
+2022-01-01,Brazil,Espirito Santo,,,,,,,,
+2022-01-01,Brazil,Goias,,,,,,,,
+2022-01-01,Brazil,Maranhao,,,,,,,,
+2022-01-01,Brazil,Mato Grosso,,,,,,,,
+2022-01-01,Brazil,Mato Grosso do Sul,,,,,,,,
+2022-01-01,Brazil,Minas Gerais,,,,,,,,
+2022-01-01,Brazil,Para,,,,,,,,
+2022-01-01,Brazil,Paraiba,,,,,,,,
+2022-01-01,Brazil,Parana,,,,,,,,
+2022-01-01,Brazil,Pernambuco,,,,,,,,
+2022-01-01,Brazil,Piaui,,,,,,,,
+2022-01-01,Brazil,Rio de Janeiro,,,,,,,,
+2022-01-01,Brazil,Rio Grande do Norte,,,,,,,,
+2022-01-01,Brazil,Rio Grande do Sul,,,,,,,,
+2022-01-01,Brazil,Rondonia,,,,,,,,
+2022-01-01,Brazil,Roraima,,,,,,,,
+2022-01-01,Brazil,Santa Catarina,,,,,,,,
+2022-01-01,Brazil,Sao Paulo,,,,,,,,
+2022-01-01,Brazil,Sergipe,,,,,,,,
+2022-01-01,Brazil,Tocantins,,,,,,,,
+2022-01-01,Brunei,,,,,,,,,
+2022-01-01,Bulgaria,,,,,,,,,
+2022-01-01,Burkina Faso,,,,,,,,,
+2022-01-01,Burundi,,,,,,1,,,1
+2022-01-01,Cambodia,,,,,,,,,
+2022-01-01,Cameroon,,,,,,,,,
+2022-01-01,Canada,,0,0,0,0,0,0,1,1
+2022-01-01,Canada,Alberta,,,,,,,,
+2022-01-01,Canada,British Columbia,,,,,,,,
+2022-01-01,Canada,Manitoba,,,,,,,,
+2022-01-01,Canada,New Brunswick,,,,,,,,
+2022-01-01,Canada,Newfoundland and Labrador,,,,,,,,
+2022-01-01,Canada,Northwest Territories,,,,,,,,
+2022-01-01,Canada,Nova Scotia,,,,,,,,
+2022-01-01,Canada,Nunavut,,,,,,,,
+2022-01-01,Canada,Ontario,,,,,,,,
+2022-01-01,Canada,Prince Edward Island,,,,,,,,
+2022-01-01,Canada,Quebec,,,,,,,,
+2022-01-01,Canada,Saskatchewan,,,,,,,,
+2022-01-01,Canada,Yukon,,,,,,,,
+2022-01-01,Cape Verde,,,,,,,,,
+2022-01-01,Central African Republic,,,,,,,,,
+2022-01-01,Chad,,,,,,,,,
+2022-01-01,Chile,,,,,,,,,
+2022-01-01,China,,,,,,,,,
+2022-01-01,China,Anhui,,,,,,,,
+2022-01-01,China,Beijing,,,,,,,,
+2022-01-01,China,Chongqing,,,,,,,,
+2022-01-01,China,Fujian,,,,,,,,
+2022-01-01,China,Gansu,,,,,,,,
+2022-01-01,China,Guangdong,,,,,,,,
+2022-01-01,China,Guangxi,,,,,,,,
+2022-01-01,China,Guizhou,,,,,,,,
+2022-01-01,China,Hainan,,,,,,,,
+2022-01-01,China,Hebei,,,,,,,,
+2022-01-01,China,Heilongjiang,,,,,,,,
+2022-01-01,China,Henan,,,,,,,,
+2022-01-01,China,Hubei,,,,,,,,
+2022-01-01,China,Hunan,,,,,,,,
+2022-01-01,China,Inner Mongolia,,,,,,,,
+2022-01-01,China,Jiangsu,,,,,,,,
+2022-01-01,China,Jiangxi,,,,,,,,
+2022-01-01,China,Jilin,,,,,,,,
+2022-01-01,China,Liaoning,,,,,,,,
+2022-01-01,China,Ningxia,,,,,,,,
+2022-01-01,China,Qinghai,,,,,,,,
+2022-01-01,China,Shaanxi,,,,,,,,
+2022-01-01,China,Shandong,,,,,,,,
+2022-01-01,China,Shanghai,,,,,,,,
+2022-01-01,China,Shanxi,,,,,,,,
+2022-01-01,China,Sichuan,,,,,,,,
+2022-01-01,China,Tianjin,,,,,,,,
+2022-01-01,China,Tibet,,,,,,,,
+2022-01-01,China,Xinjiang,,,,,,,,
+2022-01-01,China,Yunnan,,,,,,,,
+2022-01-01,China,Zhejiang,,,,,,,,
+2022-01-01,Colombia,,,,,,,,,
+2022-01-01,Comoros,,,,,,,,,
+2022-01-01,Congo,,,,,,,,,
+2022-01-01,Costa Rica,,1,1,1,1,,1,,1
+2022-01-01,Cote d`Ivoire,,,,,,,,,
+2022-01-01,Croatia,,1,1,1,1,,,,1
+2022-01-01,Cuba,,,,,,,,,
+2022-01-01,Cyprus,,,,,,,,,
+2022-01-01,Czechia,,,,,,,,,
+2022-01-01,Democratic Republic of Congo,,,1,1,1,,1,,1
+2022-01-01,Denmark,,1,1,1,1,,,,1
+2022-01-01,Djibouti,,1,1,1,1,1,,,1
+2022-01-01,Dominica,,,,,,,,,
+2022-01-01,Dominican Republic,,,1,1,1,1,0,,1
+2022-01-01,Ecuador,,1,1,1,0,0,1,0,1
+2022-01-01,Egypt,,,,,,,,,
+2022-01-01,El Salvador,,,,,,,,,
+2022-01-01,Eritrea,,1,1,1,1,1,1,,1
+2022-01-01,Estonia,,,1,1,1,,,,1
+2022-01-01,Eswatini,,,,,,,,,
+2022-01-01,Ethiopia,,1,1,1,1,1,,,1
+2022-01-01,Faeroe Islands,,1,1,1,1,,,,1
+2022-01-01,Fiji,,,,,,,,,
+2022-01-01,Finland,,1,0,0,0,,,,1
+2022-01-01,France,,,,,,,,,
+2022-01-01,Gabon,,,,1,1,,0,1,1
+2022-01-01,Gambia,,,,,,,,,1
+2022-01-01,Georgia,,,1,1,1,,,,1
+2022-01-01,Germany,,,,,,,,,
+2022-01-01,Ghana,,,,,,,,,
+2022-01-01,Greece,,,,,,,,,
+2022-01-01,Greenland,,1,0,1,,,1,1,1
+2022-01-01,Guam,,1,1,1,1,,,,1
+2022-01-01,Guatemala,,1,0,0,0,0,1,,1
+2022-01-01,Guinea,,1,1,1,1,,0,1,1
+2022-01-01,Guyana,,,,,,,,,
+2022-01-01,Haiti,,,,,,,,,
+2022-01-01,Honduras,,0,1,1,,,1,1,1
+2022-01-01,Hong Kong,,1,1,1,1,1,1,1,1
+2022-01-01,Hungary,,,,,,,,,
+2022-01-01,Iceland,,1,1,1,1,,,,1
+2022-01-01,India,,0,,0,0,,1,1,1
+2022-01-01,Indonesia,,,,,,,,,
+2022-01-01,Iran,,,0,1,1,,1,,1
+2022-01-01,Iraq,,,,,,,,,
+2022-01-01,Ireland,,1,1,1,1,,,,1
+2022-01-01,Israel,,1,1,1,1,,,,1
+2022-01-01,Italy,,1,1,1,1,1,0,0,1
+2022-01-01,Jamaica,,,,,,,,,
+2022-01-01,Japan,,1,1,1,1,,1,1,1
+2022-01-01,Jordan,,,,,,,,,
+2022-01-01,Kazakhstan,,1,1,1,1,0,0,0,1
+2022-01-01,Kenya,,,,,,,,,
+2022-01-01,Kiribati,,,,,,,,,1
+2022-01-01,Kosovo,,,,,,,,,
+2022-01-01,Kuwait,,1,1,,,,,,1
+2022-01-01,Kyrgyz Republic,,1,,,,,,,1
+2022-01-01,Laos,,,,,,,,,
+2022-01-01,Latvia,,1,1,1,1,,,,1
+2022-01-01,Lebanon,,,,,,,,,
+2022-01-01,Lesotho,,,,,,,,,
+2022-01-01,Liberia,,,,,,,,,
+2022-01-01,Libya,,1,,1,1,,,,1
+2022-01-01,Liechtenstein,,1,1,1,1,1,1,,1
+2022-01-01,Lithuania,,,,,,,,,
+2022-01-01,Luxembourg,,1,1,1,1,1,,,1
+2022-01-01,Macao,,,,,,,,,
+2022-01-01,Madagascar,,,,,,,0,,1
+2022-01-01,Malawi,,,,,,,,,
+2022-01-01,Malaysia,,,,,,,,,
+2022-01-01,Mali,,,,,,,,,
+2022-01-01,Malta,,1,1,1,1,,,,1
+2022-01-01,Mauritania,,,1,1,1,,,,1
+2022-01-01,Mauritius,,,,,,,,,
+2022-01-01,Mexico,,,,,,,,,
+2022-01-01,Moldova,,,,,,,,,1
+2022-01-01,Monaco,,1,1,1,1,1,,,1
+2022-01-01,Mongolia,,1,0,0,0,,0,0,1
+2022-01-01,Morocco,,1,1,1,1,1,,,1
+2022-01-01,Mozambique,,,,,,,,,
+2022-01-01,Myanmar,,,,,,,,,
+2022-01-01,Namibia,,,,,,,,,
+2022-01-01,Nepal,,1,1,1,0,0,1,0,1
+2022-01-01,Netherlands,,,,,,,,,
+2022-01-01,New Zealand,,,,,,,,,
+2022-01-01,Nicaragua,,,,,,,,,1
+2022-01-01,Niger,,,,,,,,,
+2022-01-01,Nigeria,,,,1,1,,,,1
+2022-01-01,Norway,,,,,,,,,
+2022-01-01,Oman,,1,1,,,,,,
+2022-01-01,Pakistan,,,,,,,,,
+2022-01-01,Palestine,,,,,,,,0,1
+2022-01-01,Panama,,,,,,,,,
+2022-01-01,Papua New Guinea,,0,0,0,1,0,0,0,1
+2022-01-01,Paraguay,,1,1,1,1,,,,1
+2022-01-01,Peru,,0,0,1,1,1,1,1,1
+2022-01-01,Philippines,,,,,,,,,
+2022-01-01,Poland,,1,1,1,,,,,1
+2022-01-01,Portugal,,,,,,,,,
+2022-01-01,Puerto Rico,,,,,,,,,
+2022-01-01,Qatar,,,,,,,,,
+2022-01-01,Romania,,,,,,,,,
+2022-01-01,Russia,,0,0,,0,,,,1
+2022-01-01,Rwanda,,,,,,,,,
+2022-01-01,San Marino,,,,,,,,,
+2022-01-01,Saudi Arabia,,,,,,,,,
+2022-01-01,Senegal,,1,1,,,,,,1
+2022-01-01,Serbia,,,,,1,,1,,1
+2022-01-01,Seychelles,,1,1,1,1,1,1,1,1
+2022-01-01,Sierra Leone,,1,1,,,1,,,1
+2022-01-01,Singapore,,1,1,1,1,,1,,1
+2022-01-01,Slovakia,,,,,,,,,
+2022-01-01,Slovenia,,1,1,1,1,1,1,,1
+2022-01-01,Solomon Islands,,,,,,,,,
+2022-01-01,Somalia,,,,,,,,,
+2022-01-01,South Africa,,1,1,1,1,1,,,1
+2022-01-01,South Korea,,,,,,,,,
+2022-01-01,South Sudan,,1,1,,1,,1,1,1
+2022-01-01,Spain,,,,,,,,,
+2022-01-01,Sri Lanka,,,,,,,,,
+2022-01-01,Sudan,,,,,,,,,
+2022-01-01,Suriname,,,,,,,,,
+2022-01-01,Sweden,,,,,,,,,1
+2022-01-01,Switzerland,,1,1,1,1,,,,1
+2022-01-01,Syria,,,,,,,,,
+2022-01-01,Taiwan,,,,,,,,,
+2022-01-01,Tajikistan,,,,,,,,,
+2022-01-01,Tanzania,,,,,,,,,
+2022-01-01,Thailand,,,,,,,,,
+2022-01-01,Timor-Leste,,,0,1,0,0,0,,1
+2022-01-01,Togo,,,,,,,,,
+2022-01-01,Tonga,,1,,1,1,,1,,1
+2022-01-01,Trinidad and Tobago,,1,1,1,1,,,,1
+2022-01-01,Tunisia,,,,,,,,,1
+2022-01-01,Turkey,,,,,,,,,
+2022-01-01,Turkmenistan,,,,,,,,,
+2022-01-01,Uganda,,,,,,,,,
+2022-01-01,Ukraine,,0,1,1,1,,,0,1
+2022-01-01,United Arab Emirates,,,,,,,,,
+2022-01-01,United Kingdom,,,,,,,,,
+2022-01-01,United Kingdom,England,,,,,,,,
+2022-01-01,United Kingdom,Northern Ireland,,,,,,,,
+2022-01-01,United Kingdom,Scotland,,,,,,,,
+2022-01-01,United Kingdom,Wales,,,,,,,,
+2022-01-01,Uruguay,,,,,,,,,
+2022-01-01,United States,,0,0,0,0,0,0,0,1
+2022-01-01,United States,Alabama,,,,,,,,
+2022-01-01,United States,Alaska,1,1,1,0,,,1,1
+2022-01-01,United States,Arizona,,,,,,,1,1
+2022-01-01,United States,Arkansas,,,,,,,,
+2022-01-01,United States,California,1,1,1,1,,,1,1
+2022-01-01,United States,Colorado,0,0,0,0,0,,1,1
+2022-01-01,United States,Connecticut,1,,,,,,1,1
+2022-01-01,United States,Delaware,1,,,,,,1,1
+2022-01-01,United States,Florida,,,,,,,,
+2022-01-01,United States,Georgia,1,,,,,,1,1
+2022-01-01,United States,Hawaii,1,1,1,0,,,1,1
+2022-01-01,United States,Idaho,,,,,,,,
+2022-01-01,United States,Illinois,,,,,,,1,1
+2022-01-01,United States,Indiana,,,,,,,1,1
+2022-01-01,United States,Iowa,0,,,,,,1,1
+2022-01-01,United States,Kansas,1,1,,,,,1,1
+2022-01-01,United States,Kentucky,0,,1,,,,1,1
+2022-01-01,United States,Louisiana,1,0,0,0,1,1,1,1
+2022-01-01,United States,Maine,0,,,,,,1,1
+2022-01-01,United States,Maryland,0,,,,,,1,0
+2022-01-01,United States,Massachusetts,1,,,,1,,1,1
+2022-01-01,United States,Michigan,0,,,,,,1,1
+2022-01-01,United States,Minnesota,,,,,,,,
+2022-01-01,United States,Mississippi,,,,,,,,
+2022-01-01,United States,Missouri,0,,,,,,1,1
+2022-01-01,United States,Montana,0,,,,,,1,1
+2022-01-01,United States,Nebraska,0,,,,1,,1,1
+2022-01-01,United States,Nevada,,,,,,,1,1
+2022-01-01,United States,New Hampshire,1,1,1,,,,1,1
+2022-01-01,United States,New Jersey,1,0,,,,,1,1
+2022-01-01,United States,New Mexico,,,,,,,1,1
+2022-01-01,United States,New York,,,,,,,,
+2022-01-01,United States,North Carolina,,,,,0,,1,1
+2022-01-01,United States,North Dakota,0,,1,1,,,1,1
+2022-01-01,United States,Ohio,,,,,,,1,1
+2022-01-01,United States,Oklahoma,1,0,1,,,1,1,1
+2022-01-01,United States,Oregon,,,,,,,1,1
+2022-01-01,United States,Pennsylvania,0,,,,,,1,1
+2022-01-01,United States,Rhode Island,,,,,,,,
+2022-01-01,United States,South Carolina,1,1,,,,,1,1
+2022-01-01,United States,South Dakota,1,,,,,,1,1
+2022-01-01,United States,Tennessee,,,,,,,1,1
+2022-01-01,United States,Texas,,,,,,,1,1
+2022-01-01,United States,Utah,0,0,,,,,1,1
+2022-01-01,United States,Vermont,,,,,,,,
+2022-01-01,United States,Virginia,,,,,,,1,1
+2022-01-01,United States,Washington,1,,,,,,1,1
+2022-01-01,United States,Washington DC,0,1,1,,,,1,1
+2022-01-01,United States,West Virginia,0,,,,,,1,1
+2022-01-01,United States,Wisconsin,1,,,,,,1,1
+2022-01-01,United States,Wyoming,0,,,,0,,1,1
+2022-01-01,US Virgin Islands,,1,1,1,1,,1,,1
+2022-01-01,Uzbekistan,,,,,,,,,
+2022-01-01,Vanuatu,,,,,,,,,1
+2022-01-01,Venezuela,,1,,,,1,,,1
+2022-01-01,Vietnam,,1,0,0,1,0,0,0,1
+2022-01-01,Yemen,,,,,,,,,
+2022-01-01,Zambia,,1,1,1,1,,,,1
+2022-01-01,Zimbabwe,,,,,,,,,
