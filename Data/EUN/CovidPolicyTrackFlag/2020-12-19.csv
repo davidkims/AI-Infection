@@ -1,0 +1,313 @@
+ tDate, Country, Province, SchoolFlag, WorkplaceFlag, CancelPublicEventsFlag, RestrictionsOnGatheringsFlag, PublicTransportFlag, StayAtHomeFlag, RestrictionsOnInternalFlag, PublicInformationCampaignsFlag 
+2020-12-19,Afghanistan,,1,,,,,,,1
+2020-12-19,Albania,,1,1,1,1,,1,1,1
+2020-12-19,Algeria,,1,1,1,1,0,0,0,1
+2020-12-19,Andorra,,1,1,1,1,1,,,1
+2020-12-19,Angola,,1,1,1,1,1,1,1,1
+2020-12-19,Argentina,,1,0,1,0,0,0,0,1
+2020-12-19,Aruba,,,,1,1,,1,,1
+2020-12-19,Australia,,0,0,0,0,0,0,1,1
+2020-12-19,Austria,,1,1,1,1,1,1,1,1
+2020-12-19,Azerbaijan,,1,0,0,0,1,0,0,1
+2020-12-19,Bahamas,,0,0,0,0,1,0,1,1
+2020-12-19,Bahrain,,1,1,1,1,,1,,1
+2020-12-19,Bangladesh,,1,0,0,0,0,0,0,1
+2020-12-19,Barbados,,1,1,1,1,1,,,1
+2020-12-19,Belarus,,,,1,1,,1,,1
+2020-12-19,Belgium,,1,1,1,1,,1,,1
+2020-12-19,Belize,,1,1,1,1,1,1,0,1
+2020-12-19,Benin,,1,1,1,1,,,,1
+2020-12-19,Bermuda,,1,1,1,1,,1,,1
+2020-12-19,Bhutan,,1,1,1,1,,1,1,1
+2020-12-19,Bolivia,,1,1,1,,,1,1,1
+2020-12-19,Bosnia and Herzegovina,,1,0,1,1,,0,,1
+2020-12-19,Botswana,,1,1,1,1,,1,1,1
+2020-12-19,Brazil,,0,0,0,0,,0,0,1
+2020-12-19,Brazil,Acre,1,1,0,0,1,1,1,1
+2020-12-19,Brazil,Alagoas,1,1,0,0,1,1,,1
+2020-12-19,Brazil,Amapa,1,1,1,,0,1,0,1
+2020-12-19,Brazil,Amazonas,0,0,1,0,,0,0,1
+2020-12-19,Brazil,Bahia,1,1,1,1,0,1,,1
+2020-12-19,Brazil,Ceara,0,1,1,1,1,1,1,1
+2020-12-19,Brazil,Distrito Federal,,,,,,,,
+2020-12-19,Brazil,Espirito Santo,0,1,0,1,0,1,0,1
+2020-12-19,Brazil,Goias,1,1,1,1,1,1,,1
+2020-12-19,Brazil,Maranhao,1,1,1,1,1,1,,1
+2020-12-19,Brazil,Mato Grosso,0,0,0,0,0,0,0,1
+2020-12-19,Brazil,Mato Grosso do Sul,1,0,0,0,0,1,,1
+2020-12-19,Brazil,Minas Gerais,1,0,0,0,1,1,1,1
+2020-12-19,Brazil,Para,0,1,1,1,0,1,,1
+2020-12-19,Brazil,Paraiba,1,0,0,0,1,1,1,1
+2020-12-19,Brazil,Parana,1,1,1,1,1,1,1,1
+2020-12-19,Brazil,Pernambuco,0,1,1,0,1,1,1,1
+2020-12-19,Brazil,Piaui,1,0,0,0,0,1,0,1
+2020-12-19,Brazil,Rio de Janeiro,0,0,0,0,1,,0,1
+2020-12-19,Brazil,Rio Grande do Norte,1,1,1,,1,1,1,1
+2020-12-19,Brazil,Rio Grande do Sul,1,0,1,1,1,0,0,1
+2020-12-19,Brazil,Rondonia,0,0,1,1,,0,1,1
+2020-12-19,Brazil,Roraima,1,1,1,1,1,0,0,1
+2020-12-19,Brazil,Santa Catarina,0,0,0,,1,,0,1
+2020-12-19,Brazil,Sao Paulo,1,0,0,0,,1,,1
+2020-12-19,Brazil,Sergipe,1,0,0,0,1,1,,1
+2020-12-19,Brazil,Tocantins,1,0,1,0,0,1,,1
+2020-12-19,Brunei,,1,1,1,1,,,,1
+2020-12-19,Bulgaria,,1,1,1,1,,,,1
+2020-12-19,Burkina Faso,,,,,,,,,1
+2020-12-19,Burundi,,1,,,,,,,1
+2020-12-19,Cambodia,,1,1,1,1,,1,,1
+2020-12-19,Cameroon,,1,,1,1,,,,
+2020-12-19,Canada,,0,0,0,0,,1,0,1
+2020-12-19,Canada,Alberta,1,1,1,1,,1,0,1
+2020-12-19,Canada,British Columbia,1,1,1,1,,1,1,1
+2020-12-19,Canada,Manitoba,0,1,1,1,,1,0,1
+2020-12-19,Canada,New Brunswick,1,0,1,0,1,,1,1
+2020-12-19,Canada,Newfoundland and Labrador,1,1,1,1,,1,1,1
+2020-12-19,Canada,Northwest Territories,1,1,1,1,0,,1,1
+2020-12-19,Canada,Nova Scotia,1,0,0,0,,1,1,1
+2020-12-19,Canada,Nunavut,0,0,0,0,,0,0,1
+2020-12-19,Canada,Ontario,1,0,0,0,1,0,,1
+2020-12-19,Canada,Prince Edward Island,0,1,1,1,,1,1,1
+2020-12-19,Canada,Quebec,1,1,1,1,,1,1,1
+2020-12-19,Canada,Saskatchewan,0,1,1,1,,1,0,1
+2020-12-19,Canada,Yukon,1,1,1,1,1,,1,1
+2020-12-19,Cape Verde,,0,1,1,1,,1,1,1
+2020-12-19,Central African Republic,,,,,,,1,,1
+2020-12-19,Chad,,1,1,1,1,1,1,1,1
+2020-12-19,Chile,,0,0,1,0,0,0,0,1
+2020-12-19,China,,0,0,0,0,0,0,0,1
+2020-12-19,China,Anhui,1,1,1,1,1,,1,1
+2020-12-19,China,Beijing,1,0,1,,1,1,1,1
+2020-12-19,China,Chongqing,1,1,1,1,1,1,1,1
+2020-12-19,China,Fujian,1,1,1,1,1,1,1,1
+2020-12-19,China,Gansu,1,1,1,,1,1,1,1
+2020-12-19,China,Guangdong,1,1,1,1,1,1,1,1
+2020-12-19,China,Guangxi,1,1,1,,1,,1,1
+2020-12-19,China,Guizhou,1,1,1,,,,1,1
+2020-12-19,China,Hainan,1,,,,1,,1,1
+2020-12-19,China,Hebei,1,1,1,,0,,,1
+2020-12-19,China,Heilongjiang,0,0,0,1,0,0,0,1
+2020-12-19,China,Henan,1,1,1,1,1,1,1,1
+2020-12-19,China,Hubei,1,1,1,1,1,1,1,1
+2020-12-19,China,Hunan,1,1,1,,,,1,1
+2020-12-19,China,Inner Mongolia,0,0,0,0,0,0,1,1
+2020-12-19,China,Jiangsu,1,1,1,1,1,1,1,1
+2020-12-19,China,Jiangxi,1,1,1,1,,1,1,1
+2020-12-19,China,Jilin,1,1,1,1,1,1,1,1
+2020-12-19,China,Liaoning,1,1,1,,,,1,1
+2020-12-19,China,Ningxia,1,,1,1,1,1,1,1
+2020-12-19,China,Qinghai,1,1,1,1,1,1,1,1
+2020-12-19,China,Shaanxi,1,1,1,0,1,1,1,1
+2020-12-19,China,Shandong,1,1,0,1,,,,1
+2020-12-19,China,Shanghai,1,1,1,1,1,1,1,1
+2020-12-19,China,Shanxi,1,1,1,1,1,1,1,1
+2020-12-19,China,Sichuan,0,0,0,0,1,0,1,1
+2020-12-19,China,Tianjin,1,1,1,,1,1,1,1
+2020-12-19,China,Tibet,1,1,1,1,,1,1,1
+2020-12-19,China,Xinjiang,0,0,0,1,0,0,0,1
+2020-12-19,China,Yunnan,1,1,1,1,1,1,1,1
+2020-12-19,China,Zhejiang,1,1,1,1,1,1,1,1
+2020-12-19,Colombia,,0,1,1,1,1,1,1,1
+2020-12-19,Comoros,,,,,,,,,
+2020-12-19,Congo,,1,1,1,1,,0,,1
+2020-12-19,Costa Rica,,1,1,1,1,,1,,1
+2020-12-19,Cote d`Ivoire,,,,,,,0,,1
+2020-12-19,Croatia,,1,1,1,1,1,,,1
+2020-12-19,Cuba,,1,0,1,1,0,,0,1
+2020-12-19,Cyprus,,1,1,1,1,1,1,,1
+2020-12-19,Czechia,,1,1,1,1,,1,1,1
+2020-12-19,Democratic Republic of Congo,,1,0,,,,1,,1
+2020-12-19,Denmark,,0,0,0,1,,0,,1
+2020-12-19,Djibouti,,1,1,1,1,,,,1
+2020-12-19,Dominica,,1,1,1,1,,1,,1
+2020-12-19,Dominican Republic,,1,1,1,1,1,0,,1
+2020-12-19,Ecuador,,0,1,1,1,,,,1
+2020-12-19,Egypt,,1,1,1,1,,1,1,1
+2020-12-19,El Salvador,,1,1,1,1,,1,0,1
+2020-12-19,Eritrea,,1,1,1,1,1,1,1,1
+2020-12-19,Estonia,,1,0,0,1,,,,1
+2020-12-19,Eswatini,,1,1,1,1,,1,1,1
+2020-12-19,Ethiopia,,1,1,1,1,1,,0,1
+2020-12-19,Faeroe Islands,,,1,1,1,,,,1
+2020-12-19,Fiji,,1,1,1,1,,1,,1
+2020-12-19,Finland,,0,0,0,0,,1,,1
+2020-12-19,France,,1,1,1,1,,1,,1
+2020-12-19,Gabon,,1,1,1,1,,1,0,1
+2020-12-19,Gambia,,1,,1,1,1,,,1
+2020-12-19,Georgia,,0,1,1,1,0,0,0,1
+2020-12-19,Germany,,1,1,1,1,1,1,1,1
+2020-12-19,Ghana,,1,1,1,1,,,,1
+2020-12-19,Greece,,1,1,1,1,1,1,1,1
+2020-12-19,Greenland,,1,,1,1,,,,1
+2020-12-19,Guam,,1,1,1,1,,1,1,1
+2020-12-19,Guatemala,,1,1,1,0,1,,,1
+2020-12-19,Guinea,,1,1,1,,,0,0,1
+2020-12-19,Guyana,,1,1,1,1,1,1,0,1
+2020-12-19,Haiti,,1,,,1,,,,1
+2020-12-19,Honduras,,1,1,1,1,1,1,1,1
+2020-12-19,Hong Kong,,1,1,1,1,1,1,1,1
+2020-12-19,Hungary,,1,1,1,1,1,1,,1
+2020-12-19,Iceland,,1,1,1,1,,,,1
+2020-12-19,India,,0,0,0,0,1,0,1,1
+2020-12-19,Indonesia,,0,0,0,0,0,0,1,1
+2020-12-19,Iran,,0,0,1,0,1,0,0,1
+2020-12-19,Iraq,,1,1,1,1,1,1,1,1
+2020-12-19,Ireland,,1,1,1,1,1,1,1,1
+2020-12-19,Israel,,0,1,1,1,1,0,0,1
+2020-12-19,Italy,,1,0,1,1,1,1,0,1
+2020-12-19,Jamaica,,1,1,1,1,1,1,1,1
+2020-12-19,Japan,,1,0,0,,1,1,1,1
+2020-12-19,Jordan,,1,1,1,1,1,1,1,1
+2020-12-19,Kazakhstan,,0,0,1,0,0,0,0,1
+2020-12-19,Kenya,,1,1,1,1,1,1,,1
+2020-12-19,Kiribati,,,,,,,,,1
+2020-12-19,Kosovo,,1,1,1,1,1,1,1,1
+2020-12-19,Kuwait,,1,1,1,1,1,1,1,1
+2020-12-19,Kyrgyz Republic,,0,0,0,1,,0,,1
+2020-12-19,Laos,,,1,,,,,,1
+2020-12-19,Latvia,,1,1,1,1,,,,1
+2020-12-19,Lebanon,,1,1,1,1,1,1,1,1
+2020-12-19,Lesotho,,1,1,1,1,,1,,1
+2020-12-19,Liberia,,,1,1,1,1,1,1,1
+2020-12-19,Libya,,1,1,1,1,1,0,1,1
+2020-12-19,Liechtenstein,,1,1,1,1,,1,,
+2020-12-19,Lithuania,,1,1,1,1,,1,1,1
+2020-12-19,Luxembourg,,1,1,1,1,,1,,1
+2020-12-19,Macao,,1,,,,,,,1
+2020-12-19,Madagascar,,1,,,1,,,0,1
+2020-12-19,Malawi,,1,1,1,1,,,,1
+2020-12-19,Malaysia,,1,1,1,0,1,0,0,1
+2020-12-19,Mali,,1,1,1,1,,1,,1
+2020-12-19,Malta,,1,1,1,1,,,,1
+2020-12-19,Mauritania,,1,1,1,1,,1,,1
+2020-12-19,Mauritius,,,,,,,,,1
+2020-12-19,Mexico,,1,0,1,0,1,0,0,1
+2020-12-19,Moldova,,1,1,1,1,,0,0,1
+2020-12-19,Monaco,,1,1,1,1,,1,,1
+2020-12-19,Mongolia,,0,0,0,0,0,0,0,1
+2020-12-19,Morocco,,1,0,1,0,1,0,0,1
+2020-12-19,Mozambique,,1,1,1,1,1,,,1
+2020-12-19,Myanmar,,1,0,0,1,0,0,0,1
+2020-12-19,Namibia,,,1,1,1,,,,1
+2020-12-19,Nepal,,0,1,0,1,1,1,1,1
+2020-12-19,Netherlands,,1,1,1,1,1,1,1,1
+2020-12-19,New Zealand,,,,,,,,,1
+2020-12-19,Nicaragua,,,,,,,,,1
+2020-12-19,Niger,,,1,1,1,,,,1
+2020-12-19,Nigeria,,1,1,1,1,,1,1,1
+2020-12-19,Norway,,1,0,1,0,,1,1,1
+2020-12-19,Oman,,1,,1,1,,,,1
+2020-12-19,Pakistan,,1,0,0,0,,0,,1
+2020-12-19,Palestine,,0,0,,0,0,0,0,1
+2020-12-19,Panama,,1,1,1,1,,1,,1
+2020-12-19,Papua New Guinea,,,1,1,1,,,,1
+2020-12-19,Paraguay,,1,1,1,1,,1,,1
+2020-12-19,Peru,,0,1,1,1,1,1,1,1
+2020-12-19,Philippines,,0,0,0,1,1,0,1,1
+2020-12-19,Poland,,1,1,1,1,1,1,1,1
+2020-12-19,Portugal,,1,1,1,1,1,0,,1
+2020-12-19,Puerto Rico,,1,1,1,1,0,1,0,1
+2020-12-19,Qatar,,1,1,1,1,1,1,1,1
+2020-12-19,Romania,,1,1,1,1,,0,1,1
+2020-12-19,Russia,,0,0,0,0,,0,,1
+2020-12-19,Rwanda,,,0,1,0,1,1,0,1
+2020-12-19,San Marino,,1,1,1,1,,1,,1
+2020-12-19,Saudi Arabia,,1,1,1,1,,,,1
+2020-12-19,Senegal,,,1,1,1,,,,1
+2020-12-19,Serbia,,1,1,1,1,,1,1,1
+2020-12-19,Seychelles,,1,,1,1,,,,1
+2020-12-19,Sierra Leone,,1,,1,1,1,,,1
+2020-12-19,Singapore,,1,1,1,1,,1,,1
+2020-12-19,Slovakia,,1,1,1,1,,1,,1
+2020-12-19,Slovenia,,1,1,1,1,1,1,1,1
+2020-12-19,Solomon Islands,,,,1,,1,,0,1
+2020-12-19,Somalia,,1,,1,1,,1,,1
+2020-12-19,South Africa,,1,1,1,1,1,1,,1
+2020-12-19,South Korea,,1,1,1,0,,1,0,1
+2020-12-19,South Sudan,,1,,1,1,,1,1,1
+2020-12-19,Spain,,1,1,1,1,,1,1,1
+2020-12-19,Sri Lanka,,0,0,0,0,0,0,0,1
+2020-12-19,Sudan,,0,1,,,,,,1
+2020-12-19,Suriname,,1,1,1,1,,1,,1
+2020-12-19,Sweden,,0,1,1,1,1,1,1,1
+2020-12-19,Switzerland,,1,1,1,1,,1,,1
+2020-12-19,Syria,,0,1,1,0,,,0,1
+2020-12-19,Taiwan,,,,,,,,,1
+2020-12-19,Tajikistan,,1,,1,1,,,,1
+2020-12-19,Tanzania,,1,,,,,,,
+2020-12-19,Thailand,,1,1,1,1,1,1,1,1
+2020-12-19,Timor-Leste,,1,,,,,1,,1
+2020-12-19,Togo,,1,1,1,1,1,0,0,1
+2020-12-19,Tonga,,1,,1,1,,1,,1
+2020-12-19,Trinidad and Tobago,,1,1,1,1,1,,,1
+2020-12-19,Tunisia,,1,1,1,1,,1,1,1
+2020-12-19,Turkey,,1,1,1,0,1,0,1,1
+2020-12-19,Turkmenistan,,1,1,1,1,1,,0,1
+2020-12-19,Uganda,,1,1,1,1,,1,,1
+2020-12-19,Ukraine,,1,1,1,1,1,1,,1
+2020-12-19,United Arab Emirates,,1,1,1,1,,,0,1
+2020-12-19,United Kingdom,,0,0,1,1,1,0,0,1
+2020-12-19,United Kingdom,England,1,0,1,1,1,0,0,1
+2020-12-19,United Kingdom,Northern Ireland,1,1,1,1,1,1,1,1
+2020-12-19,United Kingdom,Scotland,1,1,1,1,1,1,1,1
+2020-12-19,United Kingdom,Wales,1,1,1,1,1,1,1,1
+2020-12-19,Uruguay,,1,1,1,1,,1,,1
+2020-12-19,United States,,0,0,0,0,1,0,0,1
+2020-12-19,United States,Alabama,0,1,1,,,1,1,1
+2020-12-19,United States,Alaska,0,0,0,0,,0,1,1
+2020-12-19,United States,Arizona,0,1,1,1,,1,1,1
+2020-12-19,United States,Arkansas,0,0,1,1,0,1,1,1
+2020-12-19,United States,California,0,0,0,0,,0,1,1
+2020-12-19,United States,Colorado,0,0,1,1,0,0,1,1
+2020-12-19,United States,Connecticut,0,1,1,1,1,0,1,1
+2020-12-19,United States,Delaware,0,1,1,1,,1,1,1
+2020-12-19,United States,Florida,0,0,0,0,,0,1,0
+2020-12-19,United States,Georgia,0,1,1,1,,0,1,1
+2020-12-19,United States,Hawaii,0,1,1,1,1,1,1,1
+2020-12-19,United States,Idaho,0,0,1,1,,1,1,1
+2020-12-19,United States,Illinois,0,1,1,1,,1,0,1
+2020-12-19,United States,Indiana,0,1,1,1,,1,0,1
+2020-12-19,United States,Iowa,0,1,1,,,1,1,1
+2020-12-19,United States,Kansas,0,0,0,0,0,1,1,1
+2020-12-19,United States,Kentucky,1,1,0,1,0,0,1,1
+2020-12-19,United States,Louisiana,0,1,1,1,0,1,1,1
+2020-12-19,United States,Maine,1,1,1,1,1,1,1,1
+2020-12-19,United States,Maryland,0,1,1,1,,1,1,1
+2020-12-19,United States,Massachusetts,0,1,1,1,0,1,1,1
+2020-12-19,United States,Michigan,1,1,1,1,0,1,1,1
+2020-12-19,United States,Minnesota,0,1,1,1,1,1,1,1
+2020-12-19,United States,Mississippi,0,1,1,0,,1,1,1
+2020-12-19,United States,Missouri,0,0,0,1,,0,0,0
+2020-12-19,United States,Montana,1,1,1,1,,0,1,1
+2020-12-19,United States,Nebraska,1,1,1,0,1,1,1,0
+2020-12-19,United States,Nevada,0,1,1,1,,1,1,1
+2020-12-19,United States,New Hampshire,0,1,1,,,1,1,1
+2020-12-19,United States,New Jersey,0,1,1,1,,1,1,1
+2020-12-19,United States,New Mexico,0,1,1,1,0,1,0,1
+2020-12-19,United States,New York,0,0,0,0,1,1,1,1
+2020-12-19,United States,North Carolina,0,1,1,1,1,1,1,1
+2020-12-19,United States,North Dakota,0,1,1,0,,1,1,1
+2020-12-19,United States,Ohio,0,1,1,1,,1,1,1
+2020-12-19,United States,Oklahoma,0,1,1,,0,0,1,1
+2020-12-19,United States,Oregon,0,1,1,1,,1,0,1
+2020-12-19,United States,Pennsylvania,0,1,1,1,,1,1,1
+2020-12-19,United States,Rhode Island,1,1,1,1,,1,1,1
+2020-12-19,United States,South Carolina,0,1,1,1,,1,1,1
+2020-12-19,United States,South Dakota,1,1,1,,,1,1,1
+2020-12-19,United States,Tennessee,0,0,0,0,0,0,1,1
+2020-12-19,United States,Texas,0,0,0,0,,1,0,1
+2020-12-19,United States,Utah,0,1,1,1,,1,1,1
+2020-12-19,United States,Vermont,0,1,1,1,,1,1,1
+2020-12-19,United States,Virginia,0,1,1,1,,1,1,1
+2020-12-19,United States,Washington,0,1,1,1,0,0,0,1
+2020-12-19,United States,Washington DC,1,1,1,1,,1,1,1
+2020-12-19,United States,West Virginia,0,1,0,1,,0,1,1
+2020-12-19,United States,Wisconsin,0,1,1,0,0,1,1,1
+2020-12-19,United States,Wyoming,0,1,1,1,0,1,1,1
+2020-12-19,US Virgin Islands,,1,1,1,1,,1,,1
+2020-12-19,Uzbekistan,,0,1,1,1,,1,,1
+2020-12-19,Vanuatu,,,,,,,,0,1
+2020-12-19,Venezuela,,1,1,1,1,0,1,1,1
+2020-12-19,Vietnam,,0,0,1,0,,0,,1
+2020-12-19,Yemen,,,,,,,0,1,1
+2020-12-19,Zambia,,1,1,1,1,,1,,1
+2020-12-19,Zimbabwe,,1,0,1,1,1,1,1,1
