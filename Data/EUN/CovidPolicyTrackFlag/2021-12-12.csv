@@ -1,0 +1,313 @@
+ tDate, Country, Province, SchoolFlag, WorkplaceFlag, CancelPublicEventsFlag, RestrictionsOnGatheringsFlag, PublicTransportFlag, StayAtHomeFlag, RestrictionsOnInternalFlag, PublicInformationCampaignsFlag 
+2021-12-12,Afghanistan,,,,,,,,,
+2021-12-12,Albania,,1,1,1,1,,1,,1
+2021-12-12,Algeria,,,,,,,,,
+2021-12-12,Andorra,,,,,,,,,1
+2021-12-12,Angola,,,1,1,1,1,1,0,1
+2021-12-12,Argentina,,,,1,1,,,,1
+2021-12-12,Aruba,,,,,,,,,
+2021-12-12,Australia,,,0,0,0,0,,0,1
+2021-12-12,Austria,,0,1,1,1,1,1,,1
+2021-12-12,Azerbaijan,,,,,,,,,
+2021-12-12,Bahamas,,1,1,1,1,,1,0,1
+2021-12-12,Bahrain,,,,,,,,,
+2021-12-12,Bangladesh,,,,,,,,,
+2021-12-12,Barbados,,,,,,,,,
+2021-12-12,Belarus,,,,,,,,,
+2021-12-12,Belgium,,1,1,1,1,,,,1
+2021-12-12,Belize,,,,,,,,,
+2021-12-12,Benin,,,,,,,,,
+2021-12-12,Bermuda,,1,1,1,1,,1,,1
+2021-12-12,Bhutan,,,,,,,,,
+2021-12-12,Bolivia,,,,,,,,,
+2021-12-12,Bosnia and Herzegovina,,,,,,,,,
+2021-12-12,Botswana,,,,,,,,,
+2021-12-12,Brazil,,,,,,,,,
+2021-12-12,Brazil,Acre,,,,,,,,
+2021-12-12,Brazil,Alagoas,,,,,,,,
+2021-12-12,Brazil,Amapa,,,,,,,,
+2021-12-12,Brazil,Amazonas,,,,,,,,
+2021-12-12,Brazil,Bahia,,,,,,,,
+2021-12-12,Brazil,Ceara,,,,,,,,
+2021-12-12,Brazil,Distrito Federal,,,,,,,,
+2021-12-12,Brazil,Espirito Santo,,,,,,,,
+2021-12-12,Brazil,Goias,,,,,,,,
+2021-12-12,Brazil,Maranhao,,,,,,,,
+2021-12-12,Brazil,Mato Grosso,,,,,,,,
+2021-12-12,Brazil,Mato Grosso do Sul,,,,,,,,
+2021-12-12,Brazil,Minas Gerais,,,,,,,,
+2021-12-12,Brazil,Para,,,,,,,,
+2021-12-12,Brazil,Paraiba,,,,,,,,
+2021-12-12,Brazil,Parana,,,,,,,,
+2021-12-12,Brazil,Pernambuco,,,,,,,,
+2021-12-12,Brazil,Piaui,,,,,,,,
+2021-12-12,Brazil,Rio de Janeiro,,,,,,,,
+2021-12-12,Brazil,Rio Grande do Norte,,,,,,,,
+2021-12-12,Brazil,Rio Grande do Sul,,,,,,,,
+2021-12-12,Brazil,Rondonia,,,,,,,,
+2021-12-12,Brazil,Roraima,,,,,,,,
+2021-12-12,Brazil,Santa Catarina,,,,,,,,
+2021-12-12,Brazil,Sao Paulo,,,,,,,,
+2021-12-12,Brazil,Sergipe,,,,,,,,
+2021-12-12,Brazil,Tocantins,,,,,,,,
+2021-12-12,Brunei,,1,1,1,1,,1,,1
+2021-12-12,Bulgaria,,,,,,,,,
+2021-12-12,Burkina Faso,,,,,,,,,1
+2021-12-12,Burundi,,,,,,,,,
+2021-12-12,Cambodia,,,,,,,,,
+2021-12-12,Cameroon,,,,1,1,,,,1
+2021-12-12,Canada,,0,0,0,0,0,,1,1
+2021-12-12,Canada,Alberta,,,,,,,,
+2021-12-12,Canada,British Columbia,,,,,,,,
+2021-12-12,Canada,Manitoba,,,,,,,,
+2021-12-12,Canada,New Brunswick,,,,,,,,
+2021-12-12,Canada,Newfoundland and Labrador,,,,,,,,
+2021-12-12,Canada,Northwest Territories,,,,,,,,
+2021-12-12,Canada,Nova Scotia,,,,,,,,
+2021-12-12,Canada,Nunavut,,,,,,,,
+2021-12-12,Canada,Ontario,,,,,,,,
+2021-12-12,Canada,Prince Edward Island,,,,,,,,
+2021-12-12,Canada,Quebec,,,,,,,,
+2021-12-12,Canada,Saskatchewan,,,,,,,,
+2021-12-12,Canada,Yukon,,,,,,,,
+2021-12-12,Cape Verde,,,,,,,,,
+2021-12-12,Central African Republic,,,,,,,,,
+2021-12-12,Chad,,,,,,,,,
+2021-12-12,Chile,,0,0,0,0,,,0,1
+2021-12-12,China,,0,0,0,0,1,0,0,1
+2021-12-12,China,Anhui,,,,,,,,
+2021-12-12,China,Beijing,1,0,1,1,1,1,1,1
+2021-12-12,China,Chongqing,1,0,1,1,1,1,1,1
+2021-12-12,China,Fujian,0,0,0,0,0,1,0,1
+2021-12-12,China,Gansu,1,1,1,,,1,1,1
+2021-12-12,China,Guangdong,1,1,1,1,0,0,1,1
+2021-12-12,China,Guangxi,,,,,,,,
+2021-12-12,China,Guizhou,1,1,1,1,,,1,1
+2021-12-12,China,Hainan,1,1,1,,,1,1,1
+2021-12-12,China,Hebei,1,1,1,0,1,1,0,1
+2021-12-12,China,Heilongjiang,0,0,0,0,1,1,1,1
+2021-12-12,China,Henan,1,0,0,,,1,1,1
+2021-12-12,China,Hubei,1,1,1,1,,1,1,1
+2021-12-12,China,Hunan,1,1,,1,1,,1,1
+2021-12-12,China,Inner Mongolia,0,0,0,0,0,0,0,1
+2021-12-12,China,Jiangsu,1,0,1,1,,1,1,1
+2021-12-12,China,Jiangxi,1,1,1,0,,,1,1
+2021-12-12,China,Jilin,1,1,1,1,,1,1,1
+2021-12-12,China,Liaoning,1,1,1,0,,,1,1
+2021-12-12,China,Ningxia,1,1,1,0,0,0,0,1
+2021-12-12,China,Qinghai,,,,,,,,
+2021-12-12,China,Shaanxi,1,1,1,1,,0,1,1
+2021-12-12,China,Shandong,1,0,0,0,,,1,1
+2021-12-12,China,Shanghai,,,,,,,,
+2021-12-12,China,Shanxi,1,0,0,0,0,1,1,1
+2021-12-12,China,Sichuan,1,1,1,1,1,,1,1
+2021-12-12,China,Tianjin,,,,,,,,
+2021-12-12,China,Tibet,1,1,1,1,,,1,1
+2021-12-12,China,Xinjiang,1,1,1,1,1,1,1,1
+2021-12-12,China,Yunnan,0,0,0,0,1,1,0,1
+2021-12-12,China,Zhejiang,0,0,0,0,0,0,0,1
+2021-12-12,Colombia,,1,1,0,1,1,1,,1
+2021-12-12,Comoros,,,,,,,,,
+2021-12-12,Congo,,,,,,,,,
+2021-12-12,Costa Rica,,,,,,,,,
+2021-12-12,Cote d`Ivoire,,,,,,,,,
+2021-12-12,Croatia,,1,1,1,1,,,,1
+2021-12-12,Cuba,,,,,,,,,
+2021-12-12,Cyprus,,,,,,,,,
+2021-12-12,Czechia,,1,1,1,1,,,,1
+2021-12-12,Democratic Republic of Congo,,,1,1,1,,0,0,1
+2021-12-12,Denmark,,1,1,1,1,,,,1
+2021-12-12,Djibouti,,1,1,,1,1,,,1
+2021-12-12,Dominica,,,,,,,,,
+2021-12-12,Dominican Republic,,,,,,,,,
+2021-12-12,Ecuador,,1,1,1,0,0,1,0,1
+2021-12-12,Egypt,,,,,,,,,
+2021-12-12,El Salvador,,,,1,1,,,,1
+2021-12-12,Eritrea,,1,1,1,1,1,1,,1
+2021-12-12,Estonia,,,1,1,1,,,,1
+2021-12-12,Eswatini,,,,,,,,,
+2021-12-12,Ethiopia,,1,1,1,1,1,,,1
+2021-12-12,Faeroe Islands,,1,1,1,1,,,,1
+2021-12-12,Fiji,,,,,,,,,
+2021-12-12,Finland,,1,0,0,0,,,,1
+2021-12-12,France,,,,,,,,,
+2021-12-12,Gabon,,,,,,,,,
+2021-12-12,Gambia,,,,,,,,,1
+2021-12-12,Georgia,,1,1,1,1,,,,1
+2021-12-12,Germany,,,,,,,,,
+2021-12-12,Ghana,,,,,,,,,
+2021-12-12,Greece,,1,1,0,0,1,0,1,1
+2021-12-12,Greenland,,1,0,1,,,1,1,1
+2021-12-12,Guam,,,,,,,,,
+2021-12-12,Guatemala,,,,,,,,,
+2021-12-12,Guinea,,1,0,1,1,1,0,1,1
+2021-12-12,Guyana,,1,1,1,1,,1,,1
+2021-12-12,Haiti,,,,,,,,,
+2021-12-12,Honduras,,,,,,,,,
+2021-12-12,Hong Kong,,1,1,1,1,1,1,1,1
+2021-12-12,Hungary,,,,,,,,,
+2021-12-12,Iceland,,,,,,,,,
+2021-12-12,India,,0,,0,0,,0,1,1
+2021-12-12,Indonesia,,,,,,,,,
+2021-12-12,Iran,,,0,1,0,,1,0,1
+2021-12-12,Iraq,,1,1,1,1,,1,,1
+2021-12-12,Ireland,,,,,,,,,
+2021-12-12,Israel,,1,1,1,1,,,,1
+2021-12-12,Italy,,,,,,,,,
+2021-12-12,Jamaica,,,,,,,,,
+2021-12-12,Japan,,1,1,1,1,,1,1,1
+2021-12-12,Jordan,,,,,,,,,
+2021-12-12,Kazakhstan,,,,,,,,,
+2021-12-12,Kenya,,,,,,,,,
+2021-12-12,Kiribati,,,,,,,,,
+2021-12-12,Kosovo,,,,,,,,,
+2021-12-12,Kuwait,,1,,,,,,,1
+2021-12-12,Kyrgyz Republic,,,,,,,,,
+2021-12-12,Laos,,,,,,,,,
+2021-12-12,Latvia,,,,,,,,,
+2021-12-12,Lebanon,,,,,,,,,
+2021-12-12,Lesotho,,1,1,1,1,,1,,1
+2021-12-12,Liberia,,1,1,1,,,,,1
+2021-12-12,Libya,,,,,,,,,
+2021-12-12,Liechtenstein,,,,,,,,,
+2021-12-12,Lithuania,,,,,,,,,
+2021-12-12,Luxembourg,,1,1,1,1,1,,,1
+2021-12-12,Macao,,1,1,,,,,,1
+2021-12-12,Madagascar,,,,,,,0,,1
+2021-12-12,Malawi,,1,1,1,1,,1,,1
+2021-12-12,Malaysia,,,,,,,,,
+2021-12-12,Mali,,1,1,1,1,,,,1
+2021-12-12,Malta,,1,1,1,1,,,,1
+2021-12-12,Mauritania,,,1,1,1,1,1,1,1
+2021-12-12,Mauritius,,1,1,1,1,,,,1
+2021-12-12,Mexico,,,,,,,,,
+2021-12-12,Moldova,,,,,,,,,
+2021-12-12,Monaco,,1,1,1,1,,,,1
+2021-12-12,Mongolia,,0,0,0,1,,0,0,1
+2021-12-12,Morocco,,,,,,,,,
+2021-12-12,Mozambique,,,,,,,,,
+2021-12-12,Myanmar,,0,1,1,1,1,0,0,1
+2021-12-12,Namibia,,,,,,,,,
+2021-12-12,Nepal,,1,1,1,0,0,1,0,1
+2021-12-12,Netherlands,,,,,,,,,
+2021-12-12,New Zealand,,0,0,0,0,0,0,0,1
+2021-12-12,Nicaragua,,,,,,,,,1
+2021-12-12,Niger,,,,1,,,,,
+2021-12-12,Nigeria,,,,1,1,,1,,1
+2021-12-12,Norway,,,,,,,,,
+2021-12-12,Oman,,,,,,,,,
+2021-12-12,Pakistan,,,1,0,0,,0,,1
+2021-12-12,Palestine,,,,,,,,0,1
+2021-12-12,Panama,,1,1,1,1,1,0,,1
+2021-12-12,Papua New Guinea,,,,,,,,,
+2021-12-12,Paraguay,,,,,,,,,
+2021-12-12,Peru,,,,,,,,,
+2021-12-12,Philippines,,,,,,,,,
+2021-12-12,Poland,,1,1,1,1,,1,,
+2021-12-12,Portugal,,,,,,,,,
+2021-12-12,Puerto Rico,,1,1,1,,,,,1
+2021-12-12,Qatar,,1,1,1,1,1,1,1,1
+2021-12-12,Romania,,,,,,,,,
+2021-12-12,Russia,,0,,,,,,,
+2021-12-12,Rwanda,,,,,,,,,
+2021-12-12,San Marino,,1,1,1,1,,,,1
+2021-12-12,Saudi Arabia,,1,1,1,1,1,,1,1
+2021-12-12,Senegal,,1,1,,,,,,1
+2021-12-12,Serbia,,0,,1,1,,1,,1
+2021-12-12,Seychelles,,,,,,,,,
+2021-12-12,Sierra Leone,,1,1,,,1,,,1
+2021-12-12,Singapore,,1,1,1,1,,1,,1
+2021-12-12,Slovakia,,1,1,1,1,,1,,1
+2021-12-12,Slovenia,,,,,,,,,
+2021-12-12,Solomon Islands,,,,,,,,,1
+2021-12-12,Somalia,,,,,,,,,
+2021-12-12,South Africa,,,,,,,,,
+2021-12-12,South Korea,,,0,1,1,,,,1
+2021-12-12,South Sudan,,,,,,,,,
+2021-12-12,Spain,,,,,,,,,
+2021-12-12,Sri Lanka,,,,,,,,,
+2021-12-12,Sudan,,,,,,,,,
+2021-12-12,Suriname,,,,,,,,,
+2021-12-12,Sweden,,,,,,,,,
+2021-12-12,Switzerland,,,,,,,,,
+2021-12-12,Syria,,,,,,,,,
+2021-12-12,Taiwan,,1,,,,,,,1
+2021-12-12,Tajikistan,,,,,,,,,
+2021-12-12,Tanzania,,,,,,,,,
+2021-12-12,Thailand,,0,0,0,0,,0,0,1
+2021-12-12,Timor-Leste,,,,,,,,,
+2021-12-12,Togo,,,,,,,,,
+2021-12-12,Tonga,,,,,,,,,
+2021-12-12,Trinidad and Tobago,,,,,,,,,
+2021-12-12,Tunisia,,,,,,,,,
+2021-12-12,Turkey,,,1,1,,1,,1,1
+2021-12-12,Turkmenistan,,,,,,,,,
+2021-12-12,Uganda,,1,1,1,1,1,1,1,1
+2021-12-12,Ukraine,,0,1,1,1,1,,0,1
+2021-12-12,United Arab Emirates,,,,,,,,,
+2021-12-12,United Kingdom,,1,0,0,0,0,,,1
+2021-12-12,United Kingdom,England,1,,,,,,,1
+2021-12-12,United Kingdom,Northern Ireland,1,1,1,1,1,,,1
+2021-12-12,United Kingdom,Scotland,1,1,1,,,,,1
+2021-12-12,United Kingdom,Wales,1,1,1,,,,,1
+2021-12-12,Uruguay,,,,,,,,,
+2021-12-12,United States,,0,0,0,0,0,0,0,1
+2021-12-12,United States,Alabama,1,,,,,,1,1
+2021-12-12,United States,Alaska,1,1,1,0,,,1,1
+2021-12-12,United States,Arizona,,,,,,,1,1
+2021-12-12,United States,Arkansas,0,,,,,,1,1
+2021-12-12,United States,California,1,1,,,,,,
+2021-12-12,United States,Colorado,0,0,0,0,0,,1,1
+2021-12-12,United States,Connecticut,1,,,,,,1,1
+2021-12-12,United States,Delaware,1,,,,,,1,1
+2021-12-12,United States,Florida,,,,,,,,
+2021-12-12,United States,Georgia,,,,,,,,
+2021-12-12,United States,Hawaii,1,1,1,0,,,1,1
+2021-12-12,United States,Idaho,,,,,,,1,1
+2021-12-12,United States,Illinois,,,,,,,1,1
+2021-12-12,United States,Indiana,,,,,,,,
+2021-12-12,United States,Iowa,0,,,,,,1,1
+2021-12-12,United States,Kansas,1,1,,,,1,1,1
+2021-12-12,United States,Kentucky,1,1,1,,,,1,1
+2021-12-12,United States,Louisiana,,,,,,,,
+2021-12-12,United States,Maine,,,,,,,,
+2021-12-12,United States,Maryland,0,,,,,,1,0
+2021-12-12,United States,Massachusetts,1,,,,1,,1,1
+2021-12-12,United States,Michigan,,,,,,,,
+2021-12-12,United States,Minnesota,,,,,,,1,1
+2021-12-12,United States,Mississippi,,,,,,,,
+2021-12-12,United States,Missouri,0,,,,,,1,1
+2021-12-12,United States,Montana,,,,,,,,
+2021-12-12,United States,Nebraska,,,,,,,,
+2021-12-12,United States,Nevada,,,,,,,1,1
+2021-12-12,United States,New Hampshire,1,1,1,,,,1,1
+2021-12-12,United States,New Jersey,1,,,,,,1,1
+2021-12-12,United States,New Mexico,,,,,,,1,1
+2021-12-12,United States,New York,1,0,1,1,,,1,1
+2021-12-12,United States,North Carolina,,,0,,0,,1,1
+2021-12-12,United States,North Dakota,,,,,,,,
+2021-12-12,United States,Ohio,,,,,,,1,1
+2021-12-12,United States,Oklahoma,1,0,1,,,1,1,1
+2021-12-12,United States,Oregon,,,,,,,1,1
+2021-12-12,United States,Pennsylvania,,,,,,,,
+2021-12-12,United States,Rhode Island,,,,,,,,
+2021-12-12,United States,South Carolina,,,,,,,,
+2021-12-12,United States,South Dakota,1,,,,,,1,1
+2021-12-12,United States,Tennessee,,,,,,,,
+2021-12-12,United States,Texas,,,,,,,1,1
+2021-12-12,United States,Utah,0,0,,,,,1,1
+2021-12-12,United States,Vermont,,,,,,,,
+2021-12-12,United States,Virginia,,,,,,,,
+2021-12-12,United States,Washington,1,,,,,,1,1
+2021-12-12,United States,Washington DC,,,,,,,,
+2021-12-12,United States,West Virginia,,,,,,,,
+2021-12-12,United States,Wisconsin,1,,,,,,1,1
+2021-12-12,United States,Wyoming,0,,,,0,,1,1
+2021-12-12,US Virgin Islands,,,,,,,,,
+2021-12-12,Uzbekistan,,,,,,,,,
+2021-12-12,Vanuatu,,,,,,,,,
+2021-12-12,Venezuela,,,,,,,,,
+2021-12-12,Vietnam,,,,,,,,,
+2021-12-12,Yemen,,,,,,,,,
+2021-12-12,Zambia,,,,,,,,,
+2021-12-12,Zimbabwe,,,,,,,,,
