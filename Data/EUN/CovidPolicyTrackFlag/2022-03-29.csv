@@ -1,0 +1,358 @@
+ tDate, Country, Province, SchoolFlag, WorkplaceFlag, CancelPublicEventsFlag, RestrictionsOnGatheringsFlag, PublicTransportFlag, StayAtHomeFlag, RestrictionsOnInternalFlag, PublicInformationCampaignsFlag 
+2022-03-29,Afghanistan,,,,,,,,,
+2022-03-29,Albania,,,,,,,,,
+2022-03-29,Algeria,,,,,,,,,
+2022-03-29,Andorra,,,,,,,,,
+2022-03-29,Angola,,,,,,,,,
+2022-03-29,Argentina,,,,,,,,,
+2022-03-29,Aruba,,,,1,1,,1,,1
+2022-03-29,Australia,,,0,0,0,0,,0,1
+2022-03-29,Australia,Australian Capital Territory,,,,,,,,
+2022-03-29,Australia,New South Wales,,,,,,,,
+2022-03-29,Australia,Northern Territory,,,,,,,,
+2022-03-29,Australia,Queensland,,,,,,,,
+2022-03-29,Australia,South Australia,,,,,,,,
+2022-03-29,Australia,Tasmania,,,,,,,,
+2022-03-29,Australia,Victoria,,,,,,,,
+2022-03-29,Australia,Western Australia,,,,,,,,
+2022-03-29,Austria,,,,,,,,,
+2022-03-29,Azerbaijan,,,,,,,,,
+2022-03-29,Bahamas,,,,,,,,,
+2022-03-29,Bahrain,,,,,,,,,
+2022-03-29,Bangladesh,,,,,,,,,
+2022-03-29,Barbados,,,,,,,,,
+2022-03-29,Belarus,,,,,,,,,
+2022-03-29,Belgium,,,,,,,,,
+2022-03-29,Belize,,1,1,1,,1,1,0,1
+2022-03-29,Benin,,,,,,,,,
+2022-03-29,Bermuda,,,,,,,,,
+2022-03-29,Bhutan,,,,,,,,,
+2022-03-29,Bolivia,,,,,,,,,
+2022-03-29,Bosnia and Herzegovina,,,,,,,,,
+2022-03-29,Botswana,,,,,,,,,
+2022-03-29,Brazil,,,,,,,,,
+2022-03-29,Brazil,Acre,,,,,,,,
+2022-03-29,Brazil,Alagoas,,,,,,,,
+2022-03-29,Brazil,Amapa,,,,,,,,
+2022-03-29,Brazil,Amazonas,,,,,,,,
+2022-03-29,Brazil,Bahia,,,,,,,,
+2022-03-29,Brazil,Ceara,,,,,,,,
+2022-03-29,Brazil,Distrito Federal,,,,,,,,
+2022-03-29,Brazil,Espirito Santo,,,,,,,,
+2022-03-29,Brazil,Goias,,,,,,,,
+2022-03-29,Brazil,Maranhao,,,,,,,,
+2022-03-29,Brazil,Mato Grosso,,,,,,,,
+2022-03-29,Brazil,Mato Grosso do Sul,,,,,,,,
+2022-03-29,Brazil,Minas Gerais,,,,,,,,
+2022-03-29,Brazil,Para,,,,,,,,
+2022-03-29,Brazil,Paraiba,,,,,,,,
+2022-03-29,Brazil,Parana,,,,,,,,
+2022-03-29,Brazil,Pernambuco,,,,,,,,
+2022-03-29,Brazil,Piaui,,,,,,,,
+2022-03-29,Brazil,Rio de Janeiro,,,,,,,,
+2022-03-29,Brazil,Rio Grande do Norte,,,,,,,,
+2022-03-29,Brazil,Rio Grande do Sul,,,,,,,,
+2022-03-29,Brazil,Rondonia,,,,,,,,
+2022-03-29,Brazil,Roraima,,,,,,,,
+2022-03-29,Brazil,Santa Catarina,,,,,,,,
+2022-03-29,Brazil,Sao Paulo,,,,,,,,
+2022-03-29,Brazil,Sergipe,,,,,,,,
+2022-03-29,Brazil,Tocantins,,,,,,,,
+2022-03-29,Brunei,,1,1,1,1,1,1,,1
+2022-03-29,Bulgaria,,,,,,,,,
+2022-03-29,Burkina Faso,,,,,,,,,
+2022-03-29,Burundi,,,,,,,,,
+2022-03-29,Cambodia,,,,,,,,,
+2022-03-29,Cameroon,,,,,,,,,
+2022-03-29,Canada,,,,,,,,,
+2022-03-29,Canada,Alberta,,,,,,,,
+2022-03-29,Canada,British Columbia,,,,,,,,
+2022-03-29,Canada,Manitoba,,,,,,,,
+2022-03-29,Canada,New Brunswick,,,,,,,,
+2022-03-29,Canada,Newfoundland and Labrador,,,,,,,,
+2022-03-29,Canada,Northwest Territories,,,,,,,,
+2022-03-29,Canada,Nova Scotia,,,,,,,,
+2022-03-29,Canada,Nunavut,,,,,,,,
+2022-03-29,Canada,Ontario,,,,,,,,
+2022-03-29,Canada,Prince Edward Island,,,,,,,,
+2022-03-29,Canada,Quebec,,,,,,,,
+2022-03-29,Canada,Saskatchewan,,,,,,,,
+2022-03-29,Canada,Yukon,,,,,,,,
+2022-03-29,Cape Verde,,1,1,1,,1,1,1,1
+2022-03-29,Central African Republic,,,,,,,,,
+2022-03-29,Chad,,,,,,,,,
+2022-03-29,Chile,,0,0,0,0,,,0,1
+2022-03-29,China,,,,,,,,,
+2022-03-29,China,Anhui,0,0,0,0,0,0,1,1
+2022-03-29,China,Beijing,0,0,1,1,,1,1,1
+2022-03-29,China,Chongqing,,,,,,,,
+2022-03-29,China,Fujian,0,0,1,1,0,1,0,1
+2022-03-29,China,Gansu,0,0,1,1,0,0,1,1
+2022-03-29,China,Guangdong,,,,,,,,
+2022-03-29,China,Guangxi,1,1,1,1,1,0,1,1
+2022-03-29,China,Guizhou,0,0,0,0,0,0,1,1
+2022-03-29,China,Hainan,1,0,0,0,0,0,1,1
+2022-03-29,China,Hebei,,,,,,,,
+2022-03-29,China,Heilongjiang,0,0,0,0,0,0,0,1
+2022-03-29,China,Henan,1,0,0,0,,1,1,1
+2022-03-29,China,Hubei,1,1,1,1,,1,1,1
+2022-03-29,China,Hunan,0,1,0,0,1,,1,1
+2022-03-29,China,Inner Mongolia,0,0,0,0,1,0,0,1
+2022-03-29,China,Jiangsu,0,0,0,0,1,1,1,1
+2022-03-29,China,Jiangxi,0,0,0,0,0,0,0,1
+2022-03-29,China,Jilin,1,0,1,0,,0,1,1
+2022-03-29,China,Liaoning,,,,,,,,
+2022-03-29,China,Ningxia,,,,,,,,
+2022-03-29,China,Qinghai,1,1,1,1,1,1,1,1
+2022-03-29,China,Shaanxi,,,,,,,,
+2022-03-29,China,Shandong,0,0,0,0,,,1,1
+2022-03-29,China,Shanghai,1,1,1,0,0,0,1,1
+2022-03-29,China,Shanxi,1,0,1,0,0,0,1,1
+2022-03-29,China,Sichuan,1,1,1,1,0,,1,1
+2022-03-29,China,Tianjin,,,,,,,,
+2022-03-29,China,Tibet,,,,,,,,
+2022-03-29,China,Xinjiang,,,,,,,,
+2022-03-29,China,Yunnan,0,0,0,0,0,1,0,1
+2022-03-29,China,Zhejiang,0,0,0,0,0,1,1,1
+2022-03-29,Colombia,,,,,,,,,
+2022-03-29,Comoros,,,,,,,,,
+2022-03-29,Congo,,,,,,,,,
+2022-03-29,Costa Rica,,,,,,,,,
+2022-03-29,Cote d`Ivoire,,1,1,,,,,,
+2022-03-29,Croatia,,,,,,,,,
+2022-03-29,Cuba,,,,,,,,,
+2022-03-29,Cyprus,,,,,,,,,
+2022-03-29,Czechia,,,,,,,,,
+2022-03-29,Democratic Republic of Congo,,,,,,,,,
+2022-03-29,Denmark,,,,,,,,,
+2022-03-29,Djibouti,,,,,,,,,
+2022-03-29,Dominica,,,,,,,,,
+2022-03-29,Dominican Republic,,,,,,,,,
+2022-03-29,Ecuador,,,,,,,,,
+2022-03-29,Egypt,,,,,,,,,
+2022-03-29,El Salvador,,,,,,,,,
+2022-03-29,Eritrea,,,,,,,,,
+2022-03-29,Estonia,,,,,,,,,
+2022-03-29,Eswatini,,,,,,,,,
+2022-03-29,Ethiopia,,1,1,1,1,1,,,1
+2022-03-29,Faeroe Islands,,,,,,,,,1
+2022-03-29,Fiji,,,1,1,,0,,1,1
+2022-03-29,Finland,,,,,,,,,
+2022-03-29,France,,,,,,,,,
+2022-03-29,Gabon,,,,,,,,,
+2022-03-29,Gambia,,,,,,,,,1
+2022-03-29,Georgia,,,,,,,,,
+2022-03-29,Germany,,,,,,,,,
+2022-03-29,Ghana,,,,,,,,,
+2022-03-29,Greece,,,,,,,,,
+2022-03-29,Greenland,,1,1,,,,1,,1
+2022-03-29,Grenada,,,,,,,,,
+2022-03-29,Guam,,,,,,,,,
+2022-03-29,Guatemala,,,,,,,,,
+2022-03-29,Guinea,,,,,,,,,
+2022-03-29,Guyana,,,,,,,,,
+2022-03-29,Haiti,,,,,,,,,
+2022-03-29,Honduras,,,,,,,,,
+2022-03-29,Hong Kong,,,,,,,,,
+2022-03-29,Hungary,,,,,,,,,
+2022-03-29,Iceland,,,,,,,,,
+2022-03-29,India,,,,,,,,,
+2022-03-29,India,Andaman and Nicobar Islands,,,,,,,,
+2022-03-29,India,Andhra Pradesh,,,,,,,,
+2022-03-29,India,Arunachal Pradesh,,,,,,,,
+2022-03-29,India,Assam,,,,,,,,
+2022-03-29,India,Bihar,,,,,,,,
+2022-03-29,India,Chandigarh,,,,,,,,
+2022-03-29,India,Chhattisgarh,,,,,,,,
+2022-03-29,India,Dadra and Nagar Haveli and Daman and Diu,,,,,,,,
+2022-03-29,India,Delhi,,,,,,,,
+2022-03-29,India,Goa,,,,,,,,
+2022-03-29,India,Gujarat,,,,,,,,
+2022-03-29,India,Haryana,,,,,,,,
+2022-03-29,India,Himachal Pradesh,,,,,,,,
+2022-03-29,India,Jammu and Kashmir,,,,,,,,
+2022-03-29,India,Jharkhand,,,,,,,,
+2022-03-29,India,Karnataka,,,,,,,,
+2022-03-29,India,Kerala,,,,,,,,
+2022-03-29,India,Ladakh,,,,,,,,
+2022-03-29,India,Lakshadweep,,,,,,,,
+2022-03-29,India,Madhya Pradesh,,,,,,,,
+2022-03-29,India,Maharashtra,,,,,,,,
+2022-03-29,India,Manipur,,,,,,,,
+2022-03-29,India,Meghalaya,,,,,,,,
+2022-03-29,India,Mizoram,,,,,,,,
+2022-03-29,India,Nagaland,,,,,,,,
+2022-03-29,India,Odisha,,,,,,,,
+2022-03-29,India,Puducherry,,,,,,,,
+2022-03-29,India,Punjab,,,,,,,,
+2022-03-29,India,Rajasthan,,,,,,,,
+2022-03-29,India,Sikkim,,,,,,,,
+2022-03-29,India,Tamil Nadu,,,,,,,,
+2022-03-29,India,Telangana,,,,,,,,
+2022-03-29,India,Tripura,,,,,,,,
+2022-03-29,India,Uttar Pradesh,,,,,,,,
+2022-03-29,India,Uttarakhand,,,,,,,,
+2022-03-29,India,West Bengal,,,,,,,,
+2022-03-29,Indonesia,,,,,,,,,
+2022-03-29,Iran,,,,,,,,,
+2022-03-29,Iraq,,,,,,,,,
+2022-03-29,Ireland,,,,,,,,,
+2022-03-29,Israel,,1,,,,,,,1
+2022-03-29,Italy,,1,1,1,1,1,1,,1
+2022-03-29,Jamaica,,,,,,,,,
+2022-03-29,Japan,,1,1,1,1,,1,1,1
+2022-03-29,Jordan,,,,,,,,,
+2022-03-29,Kazakhstan,,,,,,,,,
+2022-03-29,Kenya,,,,,,,,,
+2022-03-29,Kiribati,,,,,,,,,
+2022-03-29,Kosovo,,,,,,,,,
+2022-03-29,Kuwait,,,,,,,,,
+2022-03-29,Kyrgyz Republic,,,,,,,,,
+2022-03-29,Laos,,,,,,,,,
+2022-03-29,Latvia,,1,0,,0,,,,1
+2022-03-29,Lebanon,,,,,,,,,1
+2022-03-29,Lesotho,,,1,1,1,,,,1
+2022-03-29,Liberia,,,,,,,,,
+2022-03-29,Libya,,,,,,,,,
+2022-03-29,Liechtenstein,,,1,1,1,,,,1
+2022-03-29,Lithuania,,,,,,,,,
+2022-03-29,Luxembourg,,,,,,,,,
+2022-03-29,Macao,,1,1,1,,,,,1
+2022-03-29,Madagascar,,,,,,,,,
+2022-03-29,Malawi,,,,,,,,,
+2022-03-29,Malaysia,,,,,,,,,
+2022-03-29,Mali,,,1,1,1,,,,1
+2022-03-29,Malta,,,,,,,,,
+2022-03-29,Mauritania,,,,,,,,,
+2022-03-29,Mauritius,,,,,,,,,
+2022-03-29,Mexico,,1,,,,1,,,1
+2022-03-29,Moldova,,,1,,,,,,1
+2022-03-29,Monaco,,,,,,,,,
+2022-03-29,Mongolia,,,,,,,,,
+2022-03-29,Morocco,,,,,,,,,
+2022-03-29,Mozambique,,,,,,,,,
+2022-03-29,Myanmar,,,,,,,,,
+2022-03-29,Namibia,,,,,,,,,
+2022-03-29,Nepal,,,,,,,,,
+2022-03-29,Netherlands,,,,,,,,,
+2022-03-29,New Zealand,,1,,,,,,,
+2022-03-29,Nicaragua,,,,,,,,,
+2022-03-29,Niger,,,,,,,,,
+2022-03-29,Nigeria,,,,,,,,,
+2022-03-29,Norway,,,,,,,,,
+2022-03-29,Oman,,1,1,1,1,,,,1
+2022-03-29,Pakistan,,,,,,,,,
+2022-03-29,Palestine,,,,,,,,,1
+2022-03-29,Panama,,,,,,,,,
+2022-03-29,Papua New Guinea,,,,,,,,,
+2022-03-29,Paraguay,,,,,,,,,
+2022-03-29,Peru,,,,,,,,,
+2022-03-29,Philippines,,,,,,,,,
+2022-03-29,Poland,,,1,,,,,,1
+2022-03-29,Portugal,,,,,,,,,
+2022-03-29,Puerto Rico,,,,,,,,,
+2022-03-29,Qatar,,,,,,,,,
+2022-03-29,Romania,,,,,,,,,
+2022-03-29,Russia,,,,,,,,,
+2022-03-29,Rwanda,,,,,,,,,
+2022-03-29,San Marino,,,,,,,,,
+2022-03-29,Saudi Arabia,,,,,,,,,
+2022-03-29,Senegal,,,,,,,,,
+2022-03-29,Serbia,,1,1,1,1,,1,,1
+2022-03-29,Seychelles,,,,,,,,,
+2022-03-29,Sierra Leone,,,,,,,,,
+2022-03-29,Singapore,,,,,,,,,
+2022-03-29,Slovakia,,,,,,,,,
+2022-03-29,Slovenia,,,,,,,,,
+2022-03-29,Solomon Islands,,,,,,,,,
+2022-03-29,Somalia,,,,,,,,,
+2022-03-29,South Africa,,,,,,,,,
+2022-03-29,South Korea,,,1,1,1,,,,1
+2022-03-29,South Sudan,,,,,,,,,
+2022-03-29,Spain,,,,,,,,,
+2022-03-29,Sri Lanka,,,,1,0,,1,,1
+2022-03-29,Sudan,,,,,,,,,
+2022-03-29,Suriname,,,,,,,,,
+2022-03-29,Sweden,,,,,,,,,
+2022-03-29,Switzerland,,,1,,,,,,1
+2022-03-29,Syria,,,,,,,,,
+2022-03-29,Taiwan,,,,,,,,,
+2022-03-29,Tajikistan,,,,,,,,,
+2022-03-29,Tanzania,,,,,,,,,
+2022-03-29,Thailand,,,,,,,,,
+2022-03-29,Timor-Leste,,,,,,,,,
+2022-03-29,Togo,,,,,,,,,
+2022-03-29,Tonga,,,,,,,,,
+2022-03-29,Trinidad and Tobago,,,,,,,,,
+2022-03-29,Tunisia,,,,,,,,,
+2022-03-29,Turkey,,,,,,,,,
+2022-03-29,Turkmenistan,,,,,,,,,
+2022-03-29,Uganda,,,,,,,,,
+2022-03-29,Ukraine,,,,,,,,,
+2022-03-29,United Arab Emirates,,,,,,,,,
+2022-03-29,United Kingdom,,,,,,,,,
+2022-03-29,United Kingdom,England,,,,,,,,1
+2022-03-29,United Kingdom,Northern Ireland,,,,,,,,1
+2022-03-29,United Kingdom,Scotland,1,,,,,,,1
+2022-03-29,United Kingdom,Wales,1,,,,,,,1
+2022-03-29,Uruguay,,,,1,,,,,1
+2022-03-29,United States,,0,0,0,0,0,0,0,1
+2022-03-29,United States,Alabama,,,,,,,,
+2022-03-29,United States,Alaska,,,,,,,1,1
+2022-03-29,United States,Arizona,,,,,,,,
+2022-03-29,United States,Arkansas,1,,,,,,1,1
+2022-03-29,United States,California,1,0,1,1,,,1,1
+2022-03-29,United States,Colorado,,,,,,,1,1
+2022-03-29,United States,Connecticut,,,,,,,,
+2022-03-29,United States,Delaware,,,,,,,1,1
+2022-03-29,United States,Florida,1,,1,,,,1,1
+2022-03-29,United States,Georgia,,,,,,,,
+2022-03-29,United States,Hawaii,,,,,,,,
+2022-03-29,United States,Idaho,,,,,,,,
+2022-03-29,United States,Illinois,,,,,,,,
+2022-03-29,United States,Indiana,,,,,,,1,1
+2022-03-29,United States,Iowa,,,,,,,,
+2022-03-29,United States,Kansas,,,,,,,,
+2022-03-29,United States,Kentucky,,,,,,,,
+2022-03-29,United States,Louisiana,,,,,,,,
+2022-03-29,United States,Maine,,,,,,,,
+2022-03-29,United States,Maryland,,,,,,,,
+2022-03-29,United States,Massachusetts,,,,,,,,
+2022-03-29,United States,Michigan,,,,,,,,
+2022-03-29,United States,Minnesota,,,,,,,1,1
+2022-03-29,United States,Mississippi,,,,,,,,
+2022-03-29,United States,Missouri,,,,,,,,
+2022-03-29,United States,Montana,,,,,,,,
+2022-03-29,United States,Nebraska,,,,,,,1,1
+2022-03-29,United States,Nevada,,,,,,,1,1
+2022-03-29,United States,New Hampshire,,,,,,,,
+2022-03-29,United States,New Jersey,,,,,,,,
+2022-03-29,United States,New Mexico,,,,,,,,
+2022-03-29,United States,New York,,,,,,,,
+2022-03-29,United States,North Carolina,,,,,,,,
+2022-03-29,United States,North Dakota,0,,1,1,,,1,1
+2022-03-29,United States,Ohio,,,,,,,,
+2022-03-29,United States,Oklahoma,,,,,,,,
+2022-03-29,United States,Oregon,,,,,,,1,1
+2022-03-29,United States,Pennsylvania,,,,,,,,
+2022-03-29,United States,Rhode Island,,,,,,,,
+2022-03-29,United States,South Carolina,,,,,,,,
+2022-03-29,United States,South Dakota,,,,,,,,
+2022-03-29,United States,Tennessee,,,,,,,,
+2022-03-29,United States,Texas,,,,,,,,
+2022-03-29,United States,Utah,,,,,,,,
+2022-03-29,United States,Vermont,,,,,,,,
+2022-03-29,United States,Virginia,,,,,,,,
+2022-03-29,United States,Washington,,,,,,,,
+2022-03-29,United States,Washington DC,1,,,,,,1,1
+2022-03-29,United States,West Virginia,,,,,,,,
+2022-03-29,United States,Wisconsin,,,,,,,,
+2022-03-29,United States,Wyoming,,,,,,,,
+2022-03-29,US Virgin Islands,,1,1,1,1,,1,,1
+2022-03-29,Uzbekistan,,,,,,,,,
+2022-03-29,Vanuatu,,,,,,,,,
+2022-03-29,Venezuela,,,,,,,,,
+2022-03-29,Vietnam,,,,,,,,,
+2022-03-29,Yemen,,,,,,,,,
+2022-03-29,Zambia,,,,,,,,,
+2022-03-29,Zimbabwe,,,,,,,,,
