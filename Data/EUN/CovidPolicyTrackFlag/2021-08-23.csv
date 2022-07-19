@@ -1,0 +1,313 @@
+ tDate, Country, Province, SchoolFlag, WorkplaceFlag, CancelPublicEventsFlag, RestrictionsOnGatheringsFlag, PublicTransportFlag, StayAtHomeFlag, RestrictionsOnInternalFlag, PublicInformationCampaignsFlag 
+2021-08-23,Afghanistan,,1,,,,,,,
+2021-08-23,Albania,,,,,,,,,
+2021-08-23,Algeria,,,,,,,,,
+2021-08-23,Andorra,,1,1,1,1,1,,,1
+2021-08-23,Angola,,,,,,,,,
+2021-08-23,Argentina,,1,0,1,1,0,0,0,1
+2021-08-23,Aruba,,1,,1,1,,,,1
+2021-08-23,Australia,,0,0,0,0,0,0,0,1
+2021-08-23,Austria,,0,1,1,0,1,,0,1
+2021-08-23,Azerbaijan,,0,1,1,1,0,1,,1
+2021-08-23,Bahamas,,0,0,1,0,,0,0,1
+2021-08-23,Bahrain,,,0,0,0,,0,,1
+2021-08-23,Bangladesh,,1,,1,1,,1,,1
+2021-08-23,Barbados,,1,1,1,1,,1,,1
+2021-08-23,Belarus,,,1,1,1,,,,1
+2021-08-23,Belgium,,1,1,1,1,,,,1
+2021-08-23,Belize,,1,1,1,1,1,1,1,1
+2021-08-23,Benin,,,,1,1,,1,1,1
+2021-08-23,Bermuda,,,,,,,,,
+2021-08-23,Bhutan,,1,1,1,1,1,1,1,1
+2021-08-23,Bolivia,,0,1,1,1,1,0,1,1
+2021-08-23,Bosnia and Herzegovina,,1,1,1,1,,,,1
+2021-08-23,Botswana,,1,1,1,1,,1,1,1
+2021-08-23,Brazil,,0,0,0,0,0,0,0,1
+2021-08-23,Brazil,Acre,,,,,,,,
+2021-08-23,Brazil,Alagoas,,,,,,,,
+2021-08-23,Brazil,Amapa,,,,,,,,
+2021-08-23,Brazil,Amazonas,,,,,,,,
+2021-08-23,Brazil,Bahia,,,,,,,,
+2021-08-23,Brazil,Ceara,,,,,,,,
+2021-08-23,Brazil,Distrito Federal,,,,,,,,
+2021-08-23,Brazil,Espirito Santo,,,,,,,,
+2021-08-23,Brazil,Goias,,,,,,,,
+2021-08-23,Brazil,Maranhao,,,,,,,,
+2021-08-23,Brazil,Mato Grosso,,,,,,,,
+2021-08-23,Brazil,Mato Grosso do Sul,,,,,,,,
+2021-08-23,Brazil,Minas Gerais,,,,,,,,
+2021-08-23,Brazil,Para,,,,,,,,
+2021-08-23,Brazil,Paraiba,,,,,,,,
+2021-08-23,Brazil,Parana,,,,,,,,
+2021-08-23,Brazil,Pernambuco,,,,,,,,
+2021-08-23,Brazil,Piaui,,,,,,,,
+2021-08-23,Brazil,Rio de Janeiro,,,,,,,,
+2021-08-23,Brazil,Rio Grande do Norte,,,,,,,,
+2021-08-23,Brazil,Rio Grande do Sul,,,,,,,,
+2021-08-23,Brazil,Rondonia,,,,,,,,
+2021-08-23,Brazil,Roraima,,,,,,,,
+2021-08-23,Brazil,Santa Catarina,,,,,,,,
+2021-08-23,Brazil,Sao Paulo,,,,,,,,
+2021-08-23,Brazil,Sergipe,,,,,,,,
+2021-08-23,Brazil,Tocantins,,,,,,,,
+2021-08-23,Brunei,,1,1,1,1,1,1,,1
+2021-08-23,Bulgaria,,,,,,,,,
+2021-08-23,Burkina Faso,,,,,,,,,1
+2021-08-23,Burundi,,,1,,,,,,1
+2021-08-23,Cambodia,,1,0,0,1,,0,0,1
+2021-08-23,Cameroon,,1,,,,,,,1
+2021-08-23,Canada,,0,0,0,0,0,1,0,1
+2021-08-23,Canada,Alberta,1,,1,,,1,,1
+2021-08-23,Canada,British Columbia,,1,1,0,,1,0,1
+2021-08-23,Canada,Manitoba,0,,1,1,,1,1,1
+2021-08-23,Canada,New Brunswick,1,,1,,,1,,1
+2021-08-23,Canada,Newfoundland and Labrador,1,1,1,1,0,1,1,1
+2021-08-23,Canada,Northwest Territories,0,0,0,0,0,1,1,1
+2021-08-23,Canada,Nova Scotia,1,1,1,1,,1,1,1
+2021-08-23,Canada,Nunavut,0,1,1,1,,1,0,1
+2021-08-23,Canada,Ontario,,,,,,,,
+2021-08-23,Canada,Prince Edward Island,,,,,,,,
+2021-08-23,Canada,Quebec,,,,,,,,
+2021-08-23,Canada,Saskatchewan,,,,,,,,
+2021-08-23,Canada,Yukon,1,1,1,1,,1,,1
+2021-08-23,Cape Verde,,,,,,,,,
+2021-08-23,Central African Republic,,,,,,,1,,1
+2021-08-23,Chad,,,,,1,,,,1
+2021-08-23,Chile,,1,1,1,1,1,1,1,1
+2021-08-23,China,,,,,,,,,
+2021-08-23,China,Anhui,1,0,0,0,1,1,1,1
+2021-08-23,China,Beijing,1,1,1,1,1,1,1,1
+2021-08-23,China,Chongqing,1,0,1,1,1,1,1,1
+2021-08-23,China,Fujian,1,0,0,0,,,1,1
+2021-08-23,China,Gansu,1,0,0,0,,,1,1
+2021-08-23,China,Guangdong,1,0,0,0,0,0,1,1
+2021-08-23,China,Guangxi,1,1,1,,1,,1,1
+2021-08-23,China,Guizhou,1,0,1,0,,1,1,1
+2021-08-23,China,Hainan,1,1,1,,0,1,1,1
+2021-08-23,China,Hebei,0,0,0,0,0,,1,1
+2021-08-23,China,Heilongjiang,1,1,0,,1,1,1,1
+2021-08-23,China,Henan,0,0,0,1,0,0,0,1
+2021-08-23,China,Hubei,1,0,1,,0,0,0,1
+2021-08-23,China,Hunan,1,0,0,0,0,0,0,1
+2021-08-23,China,Inner Mongolia,1,1,1,,1,1,1,1
+2021-08-23,China,Jiangsu,1,0,0,0,0,0,1,1
+2021-08-23,China,Jiangxi,1,1,0,1,,1,1,1
+2021-08-23,China,Jilin,1,0,0,0,,1,0,1
+2021-08-23,China,Liaoning,1,0,0,0,,,0,1
+2021-08-23,China,Ningxia,0,1,1,0,,,1,1
+2021-08-23,China,Qinghai,1,1,1,1,1,1,0,1
+2021-08-23,China,Shaanxi,1,0,0,0,,1,1,1
+2021-08-23,China,Shandong,1,0,0,0,,,1,1
+2021-08-23,China,Shanghai,1,0,1,0,1,1,1,1
+2021-08-23,China,Shanxi,1,1,1,1,1,1,1,1
+2021-08-23,China,Sichuan,1,1,1,1,1,,1,1
+2021-08-23,China,Tianjin,1,1,1,1,,,1,1
+2021-08-23,China,Tibet,1,1,1,1,1,1,1,1
+2021-08-23,China,Xinjiang,1,1,1,1,1,,1,1
+2021-08-23,China,Yunnan,1,0,0,0,1,1,0,1
+2021-08-23,China,Zhejiang,1,1,1,0,1,1,1,1
+2021-08-23,Colombia,,0,0,0,0,0,0,0,1
+2021-08-23,Comoros,,,,,,,,,
+2021-08-23,Congo,,,,1,1,1,1,,
+2021-08-23,Costa Rica,,1,1,1,1,,1,0,1
+2021-08-23,Cote d`Ivoire,,,,,,,1,,1
+2021-08-23,Croatia,,1,1,1,0,,,,1
+2021-08-23,Cuba,,0,0,0,0,0,0,0,1
+2021-08-23,Cyprus,,1,1,1,1,1,,,1
+2021-08-23,Czechia,,1,1,,1,,,,1
+2021-08-23,Democratic Republic of Congo,,,0,1,1,,0,0,1
+2021-08-23,Denmark,,1,1,1,1,,,,1
+2021-08-23,Djibouti,,,,,,,,,
+2021-08-23,Dominica,,1,1,1,1,1,1,1,1
+2021-08-23,Dominican Republic,,1,1,1,1,1,0,1,1
+2021-08-23,Ecuador,,1,1,1,1,1,0,0,1
+2021-08-23,Egypt,,1,1,1,1,,,,1
+2021-08-23,El Salvador,,1,1,0,1,,,,1
+2021-08-23,Eritrea,,,,1,1,1,1,,1
+2021-08-23,Estonia,,1,,,1,,,,1
+2021-08-23,Eswatini,,1,1,1,1,1,1,1,1
+2021-08-23,Ethiopia,,1,1,1,1,1,,,1
+2021-08-23,Faeroe Islands,,1,1,1,1,,1,,1
+2021-08-23,Fiji,,1,0,1,1,1,1,0,1
+2021-08-23,Finland,,1,1,0,0,,0,,1
+2021-08-23,France,,1,1,1,1,1,,1,1
+2021-08-23,Gabon,,1,1,1,1,1,1,1,1
+2021-08-23,Gambia,,1,1,1,0,1,1,1,1
+2021-08-23,Georgia,,,,,,,,,
+2021-08-23,Germany,,1,1,1,1,1,1,,1
+2021-08-23,Ghana,,,1,1,1,,1,,1
+2021-08-23,Greece,,1,1,1,0,0,1,1,1
+2021-08-23,Greenland,,1,1,1,1,,,,1
+2021-08-23,Guam,,,,,,,,,
+2021-08-23,Guatemala,,1,0,1,1,,,1,1
+2021-08-23,Guinea,,1,0,1,1,,1,1,1
+2021-08-23,Guyana,,1,1,1,1,,1,,1
+2021-08-23,Haiti,,1,,1,1,1,1,,1
+2021-08-23,Honduras,,0,1,1,1,,1,1,1
+2021-08-23,Hong Kong,,1,1,1,1,1,1,1,
+2021-08-23,Hungary,,,,1,1,,,,1
+2021-08-23,Iceland,,1,1,1,1,,,,1
+2021-08-23,India,,0,0,0,0,0,0,0,1
+2021-08-23,Indonesia,,0,0,0,0,0,0,0,1
+2021-08-23,Iran,,1,0,0,0,,0,1,1
+2021-08-23,Iraq,,1,1,1,1,,1,1,1
+2021-08-23,Ireland,,1,1,1,1,,1,,1
+2021-08-23,Israel,,1,1,1,1,,,,1
+2021-08-23,Italy,,1,1,1,1,1,,1,1
+2021-08-23,Jamaica,,0,1,1,1,1,1,1,1
+2021-08-23,Japan,,0,0,1,0,,1,1,1
+2021-08-23,Jordan,,1,1,1,1,1,0,1,1
+2021-08-23,Kazakhstan,,1,0,1,1,,,0,1
+2021-08-23,Kenya,,,0,0,0,,0,0,1
+2021-08-23,Kiribati,,,,,0,,0,,1
+2021-08-23,Kosovo,,,,,,,,,
+2021-08-23,Kuwait,,1,0,1,1,,,,1
+2021-08-23,Kyrgyz Republic,,0,1,1,1,1,,0,1
+2021-08-23,Laos,,0,1,1,1,1,1,1,1
+2021-08-23,Latvia,,1,1,1,1,,,,1
+2021-08-23,Lebanon,,1,1,1,1,1,1,1,1
+2021-08-23,Lesotho,,1,1,1,1,1,1,,1
+2021-08-23,Liberia,,,1,0,1,1,1,,1
+2021-08-23,Libya,,,,,,,,,
+2021-08-23,Liechtenstein,,,,,,,,,
+2021-08-23,Lithuania,,1,1,1,,,,,1
+2021-08-23,Luxembourg,,1,1,1,1,,,,1
+2021-08-23,Macao,,1,,,1,,,,1
+2021-08-23,Madagascar,,1,1,1,1,,0,,1
+2021-08-23,Malawi,,,1,1,1,1,,,1
+2021-08-23,Malaysia,,1,,,,,,,
+2021-08-23,Mali,,1,1,1,1,,,,1
+2021-08-23,Malta,,1,1,1,1,,,,1
+2021-08-23,Mauritania,,,1,1,1,,1,1,1
+2021-08-23,Mauritius,,1,1,1,1,,1,,1
+2021-08-23,Mexico,,0,0,0,0,0,0,0,1
+2021-08-23,Moldova,,1,1,,1,,,,1
+2021-08-23,Monaco,,,1,1,1,,,,1
+2021-08-23,Mongolia,,1,0,1,1,,1,0,1
+2021-08-23,Morocco,,,,,,,,,
+2021-08-23,Mozambique,,,,,,,,,
+2021-08-23,Myanmar,,0,0,0,0,1,0,1,1
+2021-08-23,Namibia,,,1,1,1,1,1,,1
+2021-08-23,Nepal,,0,1,1,1,1,1,1,1
+2021-08-23,Netherlands,,1,1,1,,1,,,1
+2021-08-23,New Zealand,,1,1,1,1,1,1,1,1
+2021-08-23,Nicaragua,,,,,,,,,
+2021-08-23,Niger,,,,1,1,,,,
+2021-08-23,Nigeria,,,1,1,1,1,1,,1
+2021-08-23,Norway,,1,1,1,,1,1,,1
+2021-08-23,Oman,,1,1,1,1,1,1,1,1
+2021-08-23,Pakistan,,0,1,1,1,1,1,1,1
+2021-08-23,Palestine,,,,,,,,,
+2021-08-23,Panama,,0,1,0,1,1,1,1,1
+2021-08-23,Papua New Guinea,,,1,1,1,1,1,1,1
+2021-08-23,Paraguay,,1,1,1,1,,1,,1
+2021-08-23,Peru,,0,0,0,1,1,1,0,1
+2021-08-23,Philippines,,1,0,0,0,0,0,0,1
+2021-08-23,Poland,,1,1,1,1,,1,,1
+2021-08-23,Portugal,,1,1,1,1,,,,1
+2021-08-23,Puerto Rico,,1,,1,1,,,,1
+2021-08-23,Qatar,,1,1,1,1,1,1,,1
+2021-08-23,Romania,,,,,,,,,
+2021-08-23,Russia,,1,0,0,0,,,0,1
+2021-08-23,Rwanda,,1,1,1,1,1,1,,1
+2021-08-23,San Marino,,1,1,1,1,1,1,1,1
+2021-08-23,Saudi Arabia,,1,1,1,1,,,,1
+2021-08-23,Senegal,,1,1,,,,,,1
+2021-08-23,Serbia,,1,1,1,1,,1,,1
+2021-08-23,Seychelles,,1,1,1,1,1,1,1,1
+2021-08-23,Sierra Leone,,1,1,,1,1,1,,1
+2021-08-23,Singapore,,1,1,1,1,,1,,1
+2021-08-23,Slovakia,,0,1,1,0,,,,1
+2021-08-23,Slovenia,,1,1,1,1,,,,1
+2021-08-23,Solomon Islands,,,,1,,,,1,1
+2021-08-23,Somalia,,,,,,,,,
+2021-08-23,South Africa,,1,1,1,1,1,1,,1
+2021-08-23,South Korea,,0,0,0,1,,,,1
+2021-08-23,South Sudan,,,,,1,,,,1
+2021-08-23,Spain,,1,1,0,0,,0,,1
+2021-08-23,Sri Lanka,,1,1,1,1,1,1,1,1
+2021-08-23,Sudan,,,,,,,,,1
+2021-08-23,Suriname,,1,1,1,1,1,1,1,1
+2021-08-23,Sweden,,,,1,1,,1,,1
+2021-08-23,Switzerland,,1,1,1,1,,1,,1
+2021-08-23,Syria,,1,1,,,,,,1
+2021-08-23,Taiwan,,1,1,1,1,,,1,1
+2021-08-23,Tajikistan,,1,1,,1,,,,1
+2021-08-23,Tanzania,,,,,,,,,1
+2021-08-23,Thailand,,0,0,1,1,1,0,0,1
+2021-08-23,Timor-Leste,,0,0,0,0,0,0,0,1
+2021-08-23,Togo,,,,1,1,,1,1,1
+2021-08-23,Tonga,,,,1,1,,1,,1
+2021-08-23,Trinidad and Tobago,,1,1,1,1,1,1,1,1
+2021-08-23,Tunisia,,1,1,1,1,1,1,1,1
+2021-08-23,Turkey,,1,1,1,,,,,1
+2021-08-23,Turkmenistan,,1,1,1,0,,,1,1
+2021-08-23,Uganda,,1,1,1,1,1,1,1,1
+2021-08-23,Ukraine,,1,1,1,1,,,0,1
+2021-08-23,United Arab Emirates,,1,1,1,1,,,0,1
+2021-08-23,United Kingdom,,1,0,0,0,0,,,1
+2021-08-23,United Kingdom,England,1,,,,,,,1
+2021-08-23,United Kingdom,Northern Ireland,1,1,1,1,1,,,1
+2021-08-23,United Kingdom,Scotland,1,,1,,,,,1
+2021-08-23,United Kingdom,Wales,1,,,,,,,1
+2021-08-23,Uruguay,,1,1,0,1,1,1,1,1
+2021-08-23,United States,,0,0,0,0,0,0,0,1
+2021-08-23,United States,Alabama,,,,,,,1,1
+2021-08-23,United States,Alaska,0,0,1,0,,0,0,1
+2021-08-23,United States,Arizona,,,,,,,1,1
+2021-08-23,United States,Arkansas,,,,,,,1,1
+2021-08-23,United States,California,1,,1,1,,,1,1
+2021-08-23,United States,Colorado,0,0,0,0,0,,1,1
+2021-08-23,United States,Connecticut,,,,,,,0,1
+2021-08-23,United States,Delaware,0,,,,,,1,1
+2021-08-23,United States,Florida,,,,,,,1,1
+2021-08-23,United States,Georgia,1,1,1,,,,1,1
+2021-08-23,United States,Hawaii,,1,1,1,,,,1
+2021-08-23,United States,Idaho,1,1,,,,,1,1
+2021-08-23,United States,Illinois,,,,,,,1,1
+2021-08-23,United States,Indiana,0,,,,,,1,1
+2021-08-23,United States,Iowa,0,,,,,,1,1
+2021-08-23,United States,Kansas,,1,,,,1,1,1
+2021-08-23,United States,Kentucky,0,0,0,0,,0,0,1
+2021-08-23,United States,Louisiana,1,0,0,0,,1,1,1
+2021-08-23,United States,Maine,1,,,,,,1,1
+2021-08-23,United States,Maryland,0,,,,,,1,1
+2021-08-23,United States,Massachusetts,1,,,,1,,1,1
+2021-08-23,United States,Michigan,1,,,,,,1,1
+2021-08-23,United States,Minnesota,0,,,,,,1,1
+2021-08-23,United States,Mississippi,0,1,1,,,,1,1
+2021-08-23,United States,Missouri,0,,,,,,1,1
+2021-08-23,United States,Montana,1,1,1,,,,1,1
+2021-08-23,United States,Nebraska,,,,,,1,1,1
+2021-08-23,United States,Nevada,1,,,,,,1,
+2021-08-23,United States,New Hampshire,1,1,1,,,,1,1
+2021-08-23,United States,New Jersey,,,,,,,1,1
+2021-08-23,United States,New Mexico,0,1,,,,,1,1
+2021-08-23,United States,New York,0,0,1,1,,,,
+2021-08-23,United States,North Carolina,0,0,0,,0,,1,1
+2021-08-23,United States,North Dakota,0,,1,1,,,1,1
+2021-08-23,United States,Ohio,1,,,,,,1,1
+2021-08-23,United States,Oklahoma,0,0,1,,0,1,1,1
+2021-08-23,United States,Oregon,,,,,,,,
+2021-08-23,United States,Pennsylvania,,,,,,,1,1
+2021-08-23,United States,Rhode Island,1,,1,,,,1,1
+2021-08-23,United States,South Carolina,1,1,0,,,,1,1
+2021-08-23,United States,South Dakota,,,,,,,,
+2021-08-23,United States,Tennessee,1,,,,,,1,1
+2021-08-23,United States,Texas,0,1,0,,,0,0,1
+2021-08-23,United States,Utah,0,1,1,,,,1,1
+2021-08-23,United States,Vermont,,,,,,,1,1
+2021-08-23,United States,Virginia,,,,,,,1,1
+2021-08-23,United States,Washington,,,,,,,,
+2021-08-23,United States,Washington DC,,,,,,,,
+2021-08-23,United States,West Virginia,,,,,,,,
+2021-08-23,United States,Wisconsin,,,,,,,1,1
+2021-08-23,United States,Wyoming,1,1,,,0,,1,1
+2021-08-23,US Virgin Islands,,,,,,,,,
+2021-08-23,Uzbekistan,,0,,1,1,1,,1,1
+2021-08-23,Vanuatu,,,,,,,,,1
+2021-08-23,Venezuela,,,,,,,,,
+2021-08-23,Vietnam,,1,0,0,0,0,0,0,1
+2021-08-23,Yemen,,,,,,,,,
+2021-08-23,Zambia,,,1,1,1,,,,1
+2021-08-23,Zimbabwe,,1,1,1,1,,1,1,1
