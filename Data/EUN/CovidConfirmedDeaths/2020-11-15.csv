@@ -1,0 +1,3623 @@
+tDate,Country,Province1,Province2,Confirmed,Deaths,AccConfirmed,AccDeaths
+2020-11-15,Australia,Australian Capital Territory,,0,0,114,3
+2020-11-15,Australia,New South Wales,,17,0,4486,53
+2020-11-15,Australia,Northern Territory,,0,0,46,0
+2020-11-15,Australia,Queensland,,0,0,1185,6
+2020-11-15,Australia,South Australia,,5,0,522,4
+2020-11-15,Australia,Tasmania,,0,0,230,13
+2020-11-15,Australia,Victoria,,0,0,20345,819
+2020-11-15,Australia,Western Australia,,7,0,783,9
+2020-11-15,Austria,,,7063,85,198291,1746
+2020-11-15,Belgium,Antwerp,,672,0,61703,0
+2020-11-15,Belgium,Brussels,,500,0,72211,0
+2020-11-15,Belgium,East Flanders,,817,0,47808,0
+2020-11-15,Belgium,Flemish Brabant,,448,0,40934,0
+2020-11-15,Belgium,Hainaut,,1014,0,85035,0
+2020-11-15,Belgium,Liege,,1001,0,86749,0
+2020-11-15,Belgium,Limburg,,258,0,21843,0
+2020-11-15,Belgium,Luxembourg,,242,0,14787,0
+2020-11-15,Belgium,Namur,,340,0,30043,0
+2020-11-15,Belgium,Unknown,,102,197,8776,14303
+2020-11-15,Belgium,Walloon Brabant,,287,0,21646,0
+2020-11-15,Belgium,West Flanders,,587,0,39745,0
+2020-11-15,Canada,Alberta,,1026,3,38338,401
+2020-11-15,Canada,British Columbia,,0,0,20986,290
+2020-11-15,Canada,Diamond Princess,,0,0,0,1
+2020-11-15,Canada,Grand Princess,,0,0,13,0
+2020-11-15,Canada,Manitoba,,237,15,10453,152
+2020-11-15,Canada,New Brunswick,,6,0,364,6
+2020-11-15,Canada,Newfoundland and Labrador,,2,0,301,4
+2020-11-15,Canada,Northwest Territories,,0,0,15,0
+2020-11-15,Canada,Nova Scotia,,6,0,1142,65
+2020-11-15,Canada,Nunavut,,4,0,8,0
+2020-11-15,Canada,Ontario,,1394,19,95964,3387
+2020-11-15,Canada,Prince Edward Island,,0,0,68,0
+2020-11-15,Canada,Quebec,,1239,25,123898,6677
+2020-11-15,Canada,Saskatchewan,,307,0,4820,29
+2020-11-15,Canada,Yukon,,0,0,24,1
+2020-11-15,Chile,Antofagasta,,38,1,21820,549
+2020-11-15,Chile,Araucania,,237,2,15020,184
+2020-11-15,Chile,Arica y Parinacota,,25,0,9974,193
+2020-11-15,Chile,Atacama,,6,2,7966,100
+2020-11-15,Chile,Aysen,,7,0,1149,8
+2020-11-15,Chile,Biobio,,275,2,32613,542
+2020-11-15,Chile,Coquimbo,,19,1,12831,260
+2020-11-15,Chile,Los Lagos,,245,4,17754,158
+2020-11-15,Chile,Los Rios,,90,1,4703,42
+2020-11-15,Chile,Magallanes,,108,1,13300,163
+2020-11-15,Chile,Maule,,85,1,19946,448
+2020-11-15,Chile,Metropolitana,,313,15,300603,10100
+2020-11-15,Chile,Nuble,,39,0,7989,162
+2020-11-15,Chile,OHiggins,,65,4,19241,517
+2020-11-15,Chile,Tarapaca,,25,0,13390,246
+2020-11-15,Chile,Unknown,,-1,0,46,1
+2020-11-15,Chile,Valparaiso,,70,5,31331,1104
+2020-11-15,China,Anhui,,0,0,992,6
+2020-11-15,China,Beijing,,0,0,947,9
+2020-11-15,China,Chongqing,,0,0,589,6
+2020-11-15,China,Fujian,,0,0,461,1
+2020-11-15,China,Gansu,,0,0,181,2
+2020-11-15,China,Guangdong,,3,0,1966,8
+2020-11-15,China,Guangxi,,0,0,260,2
+2020-11-15,China,Guizhou,,0,0,147,2
+2020-11-15,China,Hainan,,0,0,171,6
+2020-11-15,China,Hebei,,0,0,373,6
+2020-11-15,China,Heilongjiang,,0,0,949,13
+2020-11-15,China,Henan,,1,0,1288,22
+2020-11-15,China,Hong Kong,,8,0,5444,108
+2020-11-15,China,Hubei,,1,0,68148,4512
+2020-11-15,China,Hunan,,0,0,1020,4
+2020-11-15,China,Inner Mongolia,,0,0,307,1
+2020-11-15,China,Jiangsu,,0,0,676,0
+2020-11-15,China,Jiangxi,,0,0,935,1
+2020-11-15,China,Jilin,,0,0,157,2
+2020-11-15,China,Liaoning,,0,0,288,2
+2020-11-15,China,Macau,,0,0,46,0
+2020-11-15,China,Ningxia,,0,0,75,0
+2020-11-15,China,Qinghai,,0,0,18,0
+2020-11-15,China,Shaanxi,,2,0,486,3
+2020-11-15,China,Shandong,,0,0,848,7
+2020-11-15,China,Shanghai,,1,0,1277,7
+2020-11-15,China,Shanxi,,0,0,218,0
+2020-11-15,China,Sichuan,,0,0,783,3
+2020-11-15,China,Tianjin,,2,0,289,3
+2020-11-15,China,Tibet,,0,0,1,0
+2020-11-15,China,Unknown,,0,0,0,0
+2020-11-15,China,Xinjiang,,0,0,980,3
+2020-11-15,China,Yunnan,,3,0,217,2
+2020-11-15,China,Zhejiang,,0,0,1291,1
+2020-11-15,Colombia,Amazonas,,14,1,2996,121
+2020-11-15,Colombia,Antioquia,,1732,33,192874,3600
+2020-11-15,Colombia,Arauca,,39,1,3770,107
+2020-11-15,Colombia,Atlantico,,187,1,74450,3155
+2020-11-15,Colombia,Bolivar,,86,3,34845,873
+2020-11-15,Colombia,Boyaca,,154,7,18105,375
+2020-11-15,Colombia,Caldas,,499,8,19835,365
+2020-11-15,Colombia,Capital District,,1770,32,345742,8047
+2020-11-15,Colombia,Caqueta,,52,2,12353,428
+2020-11-15,Colombia,Casanare,,78,0,5939,121
+2020-11-15,Colombia,Cauca,,49,3,14566,404
+2020-11-15,Colombia,Cesar,,94,3,27906,856
+2020-11-15,Colombia,Choco,,67,0,4354,163
+2020-11-15,Colombia,Cordoba,,156,1,27490,1636
+2020-11-15,Colombia,Cundinamarca,,274,6,46983,1312
+2020-11-15,Colombia,Guainia,,3,0,1167,19
+2020-11-15,Colombia,Guaviare,,18,0,1680,26
+2020-11-15,Colombia,Huila,,872,13,27705,801
+2020-11-15,Colombia,La Guajira,,24,2,10921,434
+2020-11-15,Colombia,Magdalena,,144,0,18386,932
+2020-11-15,Colombia,Meta,,100,10,25416,577
+2020-11-15,Colombia,Narino,,105,2,23724,797
+2020-11-15,Colombia,Norte de Santander,,226,6,24469,1198
+2020-11-15,Colombia,Putumayo,,19,0,4657,214
+2020-11-15,Colombia,Quindio,,702,0,13871,330
+2020-11-15,Colombia,Risaralda,,219,4,20296,464
+2020-11-15,Colombia,San Andres y Providencia,,6,0,1976,31
+2020-11-15,Colombia,Santander,,308,8,47655,1824
+2020-11-15,Colombia,Sucre,,34,1,16073,629
+2020-11-15,Colombia,Tolima,,144,7,24291,736
+2020-11-15,Colombia,Unknown,,0,-18,0,160
+2020-11-15,Colombia,Valle del Cauca,,748,24,95173,3071
+2020-11-15,Colombia,Vaupes,,12,0,1108,12
+2020-11-15,Colombia,Vichada,,2,0,858,11
+2020-11-15,Costa Rica,,,1100,9,123223,1546
+2020-11-15,Czechia,,,4199,132,458229,6058
+2020-11-15,Denmark,,,1078,1,61078,757
+2020-11-15,Denmark,Faroe Islands,,0,0,497,0
+2020-11-15,Denmark,Greenland,,0,0,18,0
+2020-11-15,Estonia,,,264,0,7412,80
+2020-11-15,Finland,,,244,0,19102,369
+2020-11-15,France,,,31921,353,1958235,43925
+2020-11-15,France,French Guiana,,36,0,10844,70
+2020-11-15,France,French Polynesia,,0,0,11706,53
+2020-11-15,France,Guadeloupe,,0,0,8098,139
+2020-11-15,France,Martinique,,0,0,4732,37
+2020-11-15,France,Mayotte,,0,0,4921,46
+2020-11-15,France,New Caledonia,,0,0,30,0
+2020-11-15,France,Reunion,,0,0,6881,28
+2020-11-15,France,Saint Barthelemy,,0,0,109,0
+2020-11-15,France,Saint Pierre and Miquelon,,0,0,16,0
+2020-11-15,France,St Martin,,0,0,655,12
+2020-11-15,Germany,Baden-Wurttemberg,,2131,16,115670,2258
+2020-11-15,Germany,Bayern,,3265,25,156421,3133
+2020-11-15,Germany,Berlin,,831,10,47265,358
+2020-11-15,Germany,Brandenburg,,445,8,13348,247
+2020-11-15,Germany,Bremen,,182,0,8200,94
+2020-11-15,Germany,Hamburg,,528,0,19978,311
+2020-11-15,Germany,Hessen,,1931,10,64393,864
+2020-11-15,Germany,Mecklenburg-Vorpommern,,108,1,4397,38
+2020-11-15,Germany,Niedersachsen,,1442,6,55325,903
+2020-11-15,Germany,Nordrhein-Westfalen,,3700,7,200063,2623
+2020-11-15,Germany,Rheinland-Pfalz,,616,6,32013,362
+2020-11-15,Germany,Saarland,,226,1,10339,231
+2020-11-15,Germany,Sachsen,,917,9,33924,511
+2020-11-15,Germany,Sachsen-Anhalt,,99,0,8044,105
+2020-11-15,Germany,Schleswig-Holstein,,158,1,11361,219
+2020-11-15,Germany,Thuringen,,206,7,10755,254
+2020-11-15,Germany,Unknown,,-2145,0,8237,0
+2020-11-15,Greece,,,2835,38,72510,1035
+2020-11-15,Hungary,,,4836,107,136723,2990
+2020-11-15,Iceland,,,16,0,5186,25
+2020-11-15,Ireland,,,427,6,67526,1978
+2020-11-15,Israel,,,292,12,323463,2735
+2020-11-15,Italy,Abruzzo,,939,10,18713,671
+2020-11-15,Italy,Basilicata,,265,5,4821,78
+2020-11-15,Italy,Calabria,,333,5,9749,169
+2020-11-15,Italy,Campania,,3351,27,107416,994
+2020-11-15,Italy,Emilia-Romagna,,2631,43,85699,5008
+2020-11-15,Italy,Friuli Venezia Giulia,,558,10,18329,516
+2020-11-15,Italy,Lazio,,2997,39,81662,1625
+2020-11-15,Italy,Liguria,,1091,30,42555,2088
+2020-11-15,Italy,Lombardia,,8129,158,312720,19186
+2020-11-15,Italy,Marche,,779,8,22609,1102
+2020-11-15,Italy,Molise,,121,4,2910,66
+2020-11-15,Italy,P.A. Bolzano,,690,5,16674,379
+2020-11-15,Italy,P.A. Trento,,206,11,12300,516
+2020-11-15,Italy,Piemonte,,4471,37,121783,5001
+2020-11-15,Italy,Puglia,,1741,16,33533,973
+2020-11-15,Italy,Sardegna,,396,5,14813,318
+2020-11-15,Italy,Sicilia,,1729,23,40110,860
+2020-11-15,Italy,Toscana,,2420,42,76750,1835
+2020-11-15,Italy,Umbria,,579,8,18219,242
+2020-11-15,Italy,Valle d`Aosta,,245,6,5103,240
+2020-11-15,Italy,Veneto,,3578,52,98084,2816
+2020-11-15,Japan,Aichi,,152,0,7552,96
+2020-11-15,Japan,Akita,,1,0,71,0
+2020-11-15,Japan,Aomori,,3,0,278,6
+2020-11-15,Japan,Chiba,,88,0,5722,84
+2020-11-15,Japan,Ehime,,0,0,123,6
+2020-11-15,Japan,Fukui,,1,0,272,11
+2020-11-15,Japan,Fukuoka,,7,0,5361,103
+2020-11-15,Japan,Fukushima,,7,0,435,6
+2020-11-15,Japan,Gifu,,4,0,800,12
+2020-11-15,Japan,Gunma,,0,0,951,20
+2020-11-15,Japan,Hiroshima,,6,0,690,5
+2020-11-15,Japan,Hokkaido,,230,0,5274,123
+2020-11-15,Japan,Hyogo,,77,0,3895,70
+2020-11-15,Japan,Ibaraki,,40,0,946,19
+2020-11-15,Japan,Ishikawa,,1,0,828,49
+2020-11-15,Japan,Iwate,,12,0,69,0
+2020-11-15,Japan,Kagawa,,1,0,114,2
+2020-11-15,Japan,Kagoshima,,1,0,554,13
+2020-11-15,Japan,Kanagawa,,149,0,10059,183
+2020-11-15,Japan,Kochi,,0,0,144,4
+2020-11-15,Japan,Kumamoto,,17,0,902,9
+2020-11-15,Japan,Kyoto,,24,0,2274,32
+2020-11-15,Japan,Mie,,6,0,615,6
+2020-11-15,Japan,Miyagi,,10,0,984,7
+2020-11-15,Japan,Miyazaki,,0,0,373,1
+2020-11-15,Japan,Nagano,,19,0,447,6
+2020-11-15,Japan,Nagasaki,,0,0,250,3
+2020-11-15,Japan,Nara,,23,0,835,11
+2020-11-15,Japan,Niigata,,0,0,224,0
+2020-11-15,Japan,Oita,,1,0,164,3
+2020-11-15,Japan,Okayama,,12,0,379,10
+2020-11-15,Japan,Okinawa,,26,0,3699,66
+2020-11-15,Japan,Osaka,,285,1,15155,253
+2020-11-15,Japan,Port Quarantine,,16,0,1342,1
+2020-11-15,Japan,Saga,,2,0,276,1
+2020-11-15,Japan,Saitama,,103,0,6743,118
+2020-11-15,Japan,Shiga,,8,0,655,9
+2020-11-15,Japan,Shimane,,0,0,141,0
+2020-11-15,Japan,Shizuoka,,36,0,858,3
+2020-11-15,Japan,Tochigi,,4,0,513,2
+2020-11-15,Japan,Tokushima,,1,0,171,9
+2020-11-15,Japan,Tokyo,,352,0,34534,464
+2020-11-15,Japan,Tottori,,0,0,52,0
+2020-11-15,Japan,Toyama,,2,0,427,26
+2020-11-15,Japan,Unknown,,0,0,8,0
+2020-11-15,Japan,Wakayama,,10,0,318,4
+2020-11-15,Japan,Yamagata,,3,0,97,1
+2020-11-15,Japan,Yamaguchi,,10,0,258,2
+2020-11-15,Japan,Yamanashi,,3,0,281,6
+2020-11-15,Latvia,,,395,5,10231,121
+2020-11-15,Lithuania,,,1525,17,33351,281
+2020-11-15,Luxembourg,,,0,0,25931,219
+2020-11-15,Mexico,Aguascalientes,,23,19,11209,950
+2020-11-15,Mexico,Baja California,,78,27,24465,4081
+2020-11-15,Mexico,Baja California Sur,,93,5,13470,636
+2020-11-15,Mexico,Campeche,,6,0,6609,862
+2020-11-15,Mexico,Chiapas,,8,0,7616,1170
+2020-11-15,Mexico,Chihuahua,,281,83,24809,2742
+2020-11-15,Mexico,Ciudad de Mexico,,1738,122,179134,12500
+2020-11-15,Mexico,Coahuila,,142,18,37494,2813
+2020-11-15,Mexico,Colima,,7,1,6920,727
+2020-11-15,Mexico,Durango,,247,9,17434,983
+2020-11-15,Mexico,Guanajuato,,379,9,54017,3643
+2020-11-15,Mexico,Guerrero,,55,15,22911,2385
+2020-11-15,Mexico,Hidalgo,,93,19,17179,2491
+2020-11-15,Mexico,Jalisco,,166,32,37341,4466
+2020-11-15,Mexico,Mexico,,449,97,103240,14739
+2020-11-15,Mexico,Michoacan,,131,10,26677,2172
+2020-11-15,Mexico,Morelos,,17,10,7306,1260
+2020-11-15,Mexico,Nayarit,,19,5,6935,896
+2020-11-15,Mexico,Nuevo Leon,,386,16,59841,4239
+2020-11-15,Mexico,Oaxaca,,90,6,22882,1819
+2020-11-15,Mexico,Puebla,,151,8,37575,4964
+2020-11-15,Mexico,Queretaro,,203,14,17178,1266
+2020-11-15,Mexico,Quintana Roo,,50,21,13885,1887
+2020-11-15,Mexico,San Luis Potosi,,293,18,31577,2257
+2020-11-15,Mexico,Sinaloa,,67,7,22966,3790
+2020-11-15,Mexico,Sonora,,147,23,40329,3251
+2020-11-15,Mexico,Tabasco,,103,2,35602,3017
+2020-11-15,Mexico,Tamaulipas,,93,11,33653,2809
+2020-11-15,Mexico,Tlaxcala,,9,0,8768,1253
+2020-11-15,Mexico,Unknown,,0,0,0,0
+2020-11-15,Mexico,Veracruz,,103,11,38289,5172
+2020-11-15,Mexico,Yucatan,,122,10,22611,1901
+2020-11-15,Mexico,Zacatecas,,111,7,13331,1118
+2020-11-15,Netherlands,Aruba,,8,1,4658,44
+2020-11-15,Netherlands,Bonaire Sint Eustatius and Saba,,0,0,155,3
+2020-11-15,Netherlands,Curacao,,46,0,1307,2
+2020-11-15,Netherlands,Drenthe,,78,1,6425,95
+2020-11-15,Netherlands,Flevoland,,173,1,8538,120
+2020-11-15,Netherlands,Friesland,,90,2,7068,101
+2020-11-15,Netherlands,Gelderland,,592,13,43244,948
+2020-11-15,Netherlands,Groningen,,69,0,7043,44
+2020-11-15,Netherlands,Limburg,,382,11,20409,840
+2020-11-15,Netherlands,Noord-Brabant,,1209,16,69264,1916
+2020-11-15,Netherlands,Noord-Holland,,890,1,81642,1165
+2020-11-15,Netherlands,Overijssel,,357,6,25894,477
+2020-11-15,Netherlands,Sint Maarten,,0,0,923,24
+2020-11-15,Netherlands,Unknown,,42,0,2720,25
+2020-11-15,Netherlands,Utrecht,,427,7,37635,610
+2020-11-15,Netherlands,Zeeland,,80,0,4967,85
+2020-11-15,Netherlands,Zuid-Holland,,1525,27,127609,2017
+2020-11-15,New Zealand,,,3,0,2001,25
+2020-11-15,New Zealand,Cook Islands,,0,0,0,0
+2020-11-15,Norway,,,518,0,28434,294
+2020-11-15,Poland,,,25571,546,691118,10045
+2020-11-15,Portugal,,,6602,55,211266,3305
+2020-11-15,Slovakia,,,1771,19,85567,510
+2020-11-15,Slovenia,,,1737,41,54122,765
+2020-11-15,South Korea,,,208,1,28546,493
+2020-11-15,Spain,Andalusia,,0,0,189744,3155
+2020-11-15,Spain,Aragon,,0,0,67697,1966
+2020-11-15,Spain,Asturias,,0,0,17669,661
+2020-11-15,Spain,Baleares,,0,0,21449,389
+2020-11-15,Spain,C. Valenciana,,0,0,81854,2013
+2020-11-15,Spain,Canarias,,0,0,19019,311
+2020-11-15,Spain,Cantabria,,0,0,12708,274
+2020-11-15,Spain,Castilla - La Mancha,,0,0,76456,3545
+2020-11-15,Spain,Castilla y Leon,,0,0,104785,4070
+2020-11-15,Spain,Catalonia,,0,0,278161,7362
+2020-11-15,Spain,Ceuta,,0,0,2436,44
+2020-11-15,Spain,Extremadura,,0,0,25454,826
+2020-11-15,Spain,Galicia,,0,0,42132,1061
+2020-11-15,Spain,La Rioja,,0,0,14972,506
+2020-11-15,Spain,Madrid,,0,0,330483,11053
+2020-11-15,Spain,Melilla,,0,0,3591,32
+2020-11-15,Spain,Murcia,,0,0,48473,472
+2020-11-15,Spain,Navarra,,0,0,37333,787
+2020-11-15,Spain,Pais Vasco,,0,0,84175,2242
+2020-11-15,Spain,Unknown,,0,0,0,0
+2020-11-15,Sweden,Blekinge,,0,0,1345,19
+2020-11-15,Sweden,Dalarna,,0,0,4554,186
+2020-11-15,Sweden,Gavleborg,,0,0,4766,172
+2020-11-15,Sweden,Gotland,,0,0,777,7
+2020-11-15,Sweden,Halland,,0,0,4847,95
+2020-11-15,Sweden,Jamtland Harjedalen,,0,0,1993,67
+2020-11-15,Sweden,Jonkoping,,0,0,9066,192
+2020-11-15,Sweden,Kalmar,,0,0,1907,65
+2020-11-15,Sweden,Kronoberg,,0,0,3679,135
+2020-11-15,Sweden,Norrbotten,,0,0,3188,91
+2020-11-15,Sweden,Orebro,,0,0,7327,180
+2020-11-15,Sweden,Ostergotland,,0,0,7847,261
+2020-11-15,Sweden,Skane,,0,0,16639,322
+2020-11-15,Sweden,Sormland,,0,0,4282,259
+2020-11-15,Sweden,Stockholm,,0,0,51043,2508
+2020-11-15,Sweden,Uppsala,,0,0,8060,262
+2020-11-15,Sweden,Varmland,,0,0,2365,77
+2020-11-15,Sweden,Vasterbotten,,0,0,2568,32
+2020-11-15,Sweden,Vasternorrland,,0,0,2925,140
+2020-11-15,Sweden,Vastmanland,,0,0,5451,186
+2020-11-15,Sweden,Vastra Gotaland,,0,0,32726,908
+2020-11-15,Switzerland,,,0,36,257135,3351
+2020-11-15,Taiwan,,,3,0,600,7
+2020-11-15,Turkey,,,3116,92,411055,11418
+2020-11-15,United Kingdom,Anguilla,,0,0,3,0
+2020-11-15,United Kingdom,Bermuda,,0,0,222,9
+2020-11-15,United Kingdom,British Virgin Islands,,0,0,71,1
+2020-11-15,United Kingdom,Cayman Islands,,1,0,254,1
+2020-11-15,United Kingdom,Channel Islands,,0,0,1003,48
+2020-11-15,United Kingdom,England,,24298,396,1152981,45449
+2020-11-15,United Kingdom,Falkland Islands (Malvinas),,0,0,15,0
+2020-11-15,United Kingdom,Gibraltar,,11,0,887,1
+2020-11-15,United Kingdom,Isle of Man,,0,0,363,25
+2020-11-15,United Kingdom,Montserrat,,0,0,13,1
+2020-11-15,United Kingdom,Northern Ireland,,511,10,46359,846
+2020-11-15,United Kingdom,Saint Helena Ascension and Tristan da Cunha,,0,0,2,0
+2020-11-15,United Kingdom,Scotland,,1118,36,80135,3280
+2020-11-15,United Kingdom,Turks and Caicos Islands,,4,0,720,6
+2020-11-15,United Kingdom,Unknown,,0,0,0,0
+2020-11-15,United Kingdom,Wales,,933,20,64881,2191
+2020-11-15,United States,Alabama,Autauga,18,0,2435,36
+2020-11-15,United States,Alabama,Baldwin,73,0,7596,84
+2020-11-15,United States,Alabama,Barbour,6,0,1123,9
+2020-11-15,United States,Alabama,Bibb,5,0,978,17
+2020-11-15,United States,Alabama,Blount,30,0,2518,34
+2020-11-15,United States,Alabama,Bullock,2,0,675,19
+2020-11-15,United States,Alabama,Butler,7,0,1075,41
+2020-11-15,United States,Alabama,Calhoun,41,0,5470,77
+2020-11-15,United States,Alabama,Chambers,11,0,1556,48
+2020-11-15,United States,Alabama,Cherokee,6,0,898,15
+2020-11-15,United States,Alabama,Chilton,15,0,2068,36
+2020-11-15,United States,Alabama,Choctaw,1,0,410,12
+2020-11-15,United States,Alabama,Clarke,10,0,1495,18
+2020-11-15,United States,Alabama,Clay,12,0,845,13
+2020-11-15,United States,Alabama,Cleburne,4,0,659,11
+2020-11-15,United States,Alabama,Coffee,39,2,2155,14
+2020-11-15,United States,Alabama,Colbert,26,0,2707,38
+2020-11-15,United States,Alabama,Conecuh,2,0,639,14
+2020-11-15,United States,Alabama,Coosa,10,0,267,3
+2020-11-15,United States,Alabama,Covington,14,0,2022,32
+2020-11-15,United States,Alabama,Crenshaw,2,0,671,30
+2020-11-15,United States,Alabama,Cullman,55,0,3651,30
+2020-11-15,United States,Alabama,Dale,15,0,2157,54
+2020-11-15,United States,Alabama,Dallas,12,0,2055,28
+2020-11-15,United States,Alabama,DeKalb,57,0,4175,34
+2020-11-15,United States,Alabama,Elmore,37,0,3624,61
+2020-11-15,United States,Alabama,Escambia,7,0,1869,31
+2020-11-15,United States,Alabama,Etowah,103,1,5290,61
+2020-11-15,United States,Alabama,Fayette,13,0,727,15
+2020-11-15,United States,Alabama,Franklin,11,0,2320,33
+2020-11-15,United States,Alabama,Geneva,6,0,1084,8
+2020-11-15,United States,Alabama,Greene,5,0,374,17
+2020-11-15,United States,Alabama,Hale,17,0,868,30
+2020-11-15,United States,Alabama,Henry,3,0,810,6
+2020-11-15,United States,Alabama,Houston,25,0,4713,37
+2020-11-15,United States,Alabama,Jackson,44,0,2688,23
+2020-11-15,United States,Alabama,Jefferson,315,7,27579,461
+2020-11-15,United States,Alabama,Lamar,2,0,581,7
+2020-11-15,United States,Alabama,Lauderdale,38,0,3259,51
+2020-11-15,United States,Alabama,Lawrence,21,0,1071,35
+2020-11-15,United States,Alabama,Lee,59,0,7181,65
+2020-11-15,United States,Alabama,Limestone,38,0,3615,41
+2020-11-15,United States,Alabama,Lowndes,3,0,758,29
+2020-11-15,United States,Alabama,Macon,3,0,649,20
+2020-11-15,United States,Alabama,Madison,153,0,11155,118
+2020-11-15,United States,Alabama,Marengo,7,0,1130,24
+2020-11-15,United States,Alabama,Marion,5,0,1263,32
+2020-11-15,United States,Alabama,Marshall,84,0,5243,53
+2020-11-15,United States,Alabama,Mobile,126,1,18445,337
+2020-11-15,United States,Alabama,Monroe,3,0,722,10
+2020-11-15,United States,Alabama,Montgomery,79,3,11528,224
+2020-11-15,United States,Alabama,Morgan,63,0,5333,41
+2020-11-15,United States,Alabama,Out of AL,0,0,0,0
+2020-11-15,United States,Alabama,Perry,5,0,639,6
+2020-11-15,United States,Alabama,Pickens,14,0,1067,18
+2020-11-15,United States,Alabama,Pike,10,0,1492,14
+2020-11-15,United States,Alabama,Randolph,6,0,939,20
+2020-11-15,United States,Alabama,Russell,11,0,2058,3
+2020-11-15,United States,Alabama,Shelby,121,0,8913,73
+2020-11-15,United States,Alabama,St. Clair,41,1,3709,55
+2020-11-15,United States,Alabama,Sumter,6,0,527,21
+2020-11-15,United States,Alabama,Talladega,37,0,3120,41
+2020-11-15,United States,Alabama,Tallapoosa,28,0,1592,88
+2020-11-15,United States,Alabama,Tuscaloosa,160,0,11726,148
+2020-11-15,United States,Alabama,Unassigned,0,0,0,0
+2020-11-15,United States,Alabama,Walker,26,0,3278,96
+2020-11-15,United States,Alabama,Washington,4,0,869,12
+2020-11-15,United States,Alabama,Wilcox,3,0,605,12
+2020-11-15,United States,Alabama,Winston,11,0,1130,22
+2020-11-15,United States,Alaska,Aleutians East,0,0,20,0
+2020-11-15,United States,Alaska,Aleutians West,0,0,105,0
+2020-11-15,United States,Alaska,Anchorage,493,1,11979,60
+2020-11-15,United States,Alaska,Bethel,25,0,889,1
+2020-11-15,United States,Alaska,Bristol Bay,0,0,0,0
+2020-11-15,United States,Alaska,Bristol Bay plus Lake and Peninsula,1,0,129,0
+2020-11-15,United States,Alaska,Denali,1,0,38,0
+2020-11-15,United States,Alaska,Dillingham,0,0,80,0
+2020-11-15,United States,Alaska,Fairbanks North Star,80,0,2819,17
+2020-11-15,United States,Alaska,Haines,0,0,16,0
+2020-11-15,United States,Alaska,Juneau,15,0,731,4
+2020-11-15,United States,Alaska,Kenai Peninsula,44,0,1694,5
+2020-11-15,United States,Alaska,Ketchikan Gateway,12,0,165,0
+2020-11-15,United States,Alaska,Kodiak Island,1,0,158,0
+2020-11-15,United States,Alaska,Kusilvak,1,0,352,0
+2020-11-15,United States,Alaska,Matanuska-Susitna,36,0,2287,5
+2020-11-15,United States,Alaska,Nome,1,0,162,0
+2020-11-15,United States,Alaska,North Slope,5,0,375,0
+2020-11-15,United States,Alaska,Northwest Arctic,1,0,305,0
+2020-11-15,United States,Alaska,Petersburg,1,0,23,1
+2020-11-15,United States,Alaska,Prince of Wales-Hyder,1,0,44,1
+2020-11-15,United States,Alaska,Sitka,1,0,119,0
+2020-11-15,United States,Alaska,Skagway,0,0,7,0
+2020-11-15,United States,Alaska,Southeast Fairbanks,10,0,151,1
+2020-11-15,United States,Alaska,Unassigned,11,0,97,0
+2020-11-15,United States,Alaska,Valdez-Cordova,0,0,0,0
+2020-11-15,United States,Alaska,Wrangell,0,0,19,0
+2020-11-15,United States,Alaska,Yakutat,2,0,41,0
+2020-11-15,United States,Alaska,Yukon-Koyukuk,2,0,134,2
+2020-11-15,United States,Arizona,Apache,71,2,4364,189
+2020-11-15,United States,Arizona,Cochise,57,1,2679,77
+2020-11-15,United States,Arizona,Coconino,27,6,6248,159
+2020-11-15,United States,Arizona,Gila,45,1,2347,78
+2020-11-15,United States,Arizona,Graham,28,1,1648,32
+2020-11-15,United States,Arizona,Greenlee,1,0,128,2
+2020-11-15,United States,Arizona,La Paz,6,0,676,18
+2020-11-15,United States,Arizona,Maricopa,2093,23,174957,3797
+2020-11-15,United States,Arizona,Mohave,89,2,5062,244
+2020-11-15,United States,Arizona,Navajo,53,2,7104,261
+2020-11-15,United States,Arizona,Out of AZ,0,0,0,0
+2020-11-15,United States,Arizona,Pima,333,1,32207,670
+2020-11-15,United States,Arizona,Pinal,345,3,13565,239
+2020-11-15,United States,Arizona,Santa Cruz,27,0,3262,66
+2020-11-15,United States,Arizona,Unassigned,0,0,0,0
+2020-11-15,United States,Arizona,Yavapai,69,1,3570,103
+2020-11-15,United States,Arizona,Yuma,232,0,15236,365
+2020-11-15,United States,Arkansas,Arkansas,15,0,833,20
+2020-11-15,United States,Arkansas,Ashley,3,0,675,13
+2020-11-15,United States,Arkansas,Baxter,30,0,1079,17
+2020-11-15,United States,Arkansas,Benton,158,1,10285,134
+2020-11-15,United States,Arkansas,Boone,23,0,1350,40
+2020-11-15,United States,Arkansas,Bradley,2,0,393,8
+2020-11-15,United States,Arkansas,Calhoun,5,0,105,0
+2020-11-15,United States,Arkansas,Carroll,14,0,1170,21
+2020-11-15,United States,Arkansas,Chicot,6,0,1088,24
+2020-11-15,United States,Arkansas,Clark,11,0,678,6
+2020-11-15,United States,Arkansas,Clay,18,1,670,18
+2020-11-15,United States,Arkansas,Cleburne,12,0,593,18
+2020-11-15,United States,Arkansas,Cleveland,1,0,298,13
+2020-11-15,United States,Arkansas,Columbia,13,0,865,22
+2020-11-15,United States,Arkansas,Conway,20,1,486,6
+2020-11-15,United States,Arkansas,Craighead,68,1,5953,60
+2020-11-15,United States,Arkansas,Crawford,34,0,2613,33
+2020-11-15,United States,Arkansas,Crittenden,26,0,2876,53
+2020-11-15,United States,Arkansas,Cross,9,0,672,24
+2020-11-15,United States,Arkansas,Dallas,5,0,229,6
+2020-11-15,United States,Arkansas,Desha,4,0,476,8
+2020-11-15,United States,Arkansas,Drew,8,0,511,7
+2020-11-15,United States,Arkansas,Faulkner,63,0,4072,44
+2020-11-15,United States,Arkansas,Franklin,11,0,657,4
+2020-11-15,United States,Arkansas,Fulton,7,0,430,12
+2020-11-15,United States,Arkansas,Garland,36,1,3200,83
+2020-11-15,United States,Arkansas,Grant,14,0,453,4
+2020-11-15,United States,Arkansas,Greene,59,0,2189,24
+2020-11-15,United States,Arkansas,Hempstead,8,1,719,6
+2020-11-15,United States,Arkansas,Hot Spring,23,0,2574,39
+2020-11-15,United States,Arkansas,Howard,6,0,715,15
+2020-11-15,United States,Arkansas,Independence,19,0,1843,68
+2020-11-15,United States,Arkansas,Izard,15,0,884,4
+2020-11-15,United States,Arkansas,Jackson,39,0,1259,6
+2020-11-15,United States,Arkansas,Jefferson,34,0,4748,103
+2020-11-15,United States,Arkansas,Johnson,6,0,1135,11
+2020-11-15,United States,Arkansas,Lafayette,1,0,229,3
+2020-11-15,United States,Arkansas,Lawrence,17,0,1015,25
+2020-11-15,United States,Arkansas,Lee,6,0,1136,18
+2020-11-15,United States,Arkansas,Lincoln,0,0,2365,18
+2020-11-15,United States,Arkansas,Little River,9,0,556,39
+2020-11-15,United States,Arkansas,Logan,10,0,730,5
+2020-11-15,United States,Arkansas,Lonoke,33,0,2256,36
+2020-11-15,United States,Arkansas,Madison,11,0,523,6
+2020-11-15,United States,Arkansas,Marion,14,0,276,2
+2020-11-15,United States,Arkansas,Miller,9,0,1891,22
+2020-11-15,United States,Arkansas,Mississippi,33,2,2804,75
+2020-11-15,United States,Arkansas,Monroe,1,0,262,4
+2020-11-15,United States,Arkansas,Montgomery,2,0,215,9
+2020-11-15,United States,Arkansas,Nevada,5,0,386,14
+2020-11-15,United States,Arkansas,Newton,8,0,372,21
+2020-11-15,United States,Arkansas,Ouachita,9,0,490,9
+2020-11-15,United States,Arkansas,Perry,3,0,197,3
+2020-11-15,United States,Arkansas,Phillips,4,0,834,16
+2020-11-15,United States,Arkansas,Pike,4,0,316,1
+2020-11-15,United States,Arkansas,Poinsett,12,0,1451,32
+2020-11-15,United States,Arkansas,Polk,16,1,555,6
+2020-11-15,United States,Arkansas,Pope,54,0,3201,39
+2020-11-15,United States,Arkansas,Prairie,4,0,312,5
+2020-11-15,United States,Arkansas,Pulaski,205,1,14256,235
+2020-11-15,United States,Arkansas,Randolph,11,0,826,27
+2020-11-15,United States,Arkansas,Saline,93,0,3820,46
+2020-11-15,United States,Arkansas,Scott,4,0,297,2
+2020-11-15,United States,Arkansas,Searcy,5,0,256,1
+2020-11-15,United States,Arkansas,Sebastian,83,0,6067,110
+2020-11-15,United States,Arkansas,Sevier,6,0,1571,16
+2020-11-15,United States,Arkansas,Sharp,16,0,520,13
+2020-11-15,United States,Arkansas,St. Francis,10,0,1903,11
+2020-11-15,United States,Arkansas,Stone,3,0,428,22
+2020-11-15,United States,Arkansas,Unassigned,-32,0,2106,0
+2020-11-15,United States,Arkansas,Union,13,0,1333,54
+2020-11-15,United States,Arkansas,Van Buren,2,0,266,3
+2020-11-15,United States,Arkansas,Washington,236,1,13425,163
+2020-11-15,United States,Arkansas,White,81,0,2281,41
+2020-11-15,United States,Arkansas,Woodruff,5,0,167,0
+2020-11-15,United States,Arkansas,Yell,17,0,1496,33
+2020-11-15,United States,California,Alameda,161,1,25760,435
+2020-11-15,United States,California,Alpine,0,0,30,0
+2020-11-15,United States,California,Amador,5,0,397,16
+2020-11-15,United States,California,Butte,3,0,3402,56
+2020-11-15,United States,California,Calaveras,0,0,390,21
+2020-11-15,United States,California,Colusa,0,0,599,6
+2020-11-15,United States,California,Contra Costa,178,0,21046,253
+2020-11-15,United States,California,Del Norte,0,0,220,1
+2020-11-15,United States,California,El Dorado,0,0,1637,4
+2020-11-15,United States,California,Fresno,234,0,33693,460
+2020-11-15,United States,California,Glenn,0,0,770,6
+2020-11-15,United States,California,Humboldt,0,0,658,10
+2020-11-15,United States,California,Imperial,0,0,13846,348
+2020-11-15,United States,California,Inyo,1,0,262,16
+2020-11-15,United States,California,Kern,243,0,36470,432
+2020-11-15,United States,California,Kings,62,0,9434,87
+2020-11-15,United States,California,Lake,0,0,776,17
+2020-11-15,United States,California,Lassen,74,0,1135,1
+2020-11-15,United States,California,Los Angeles,3694,21,336671,7267
+2020-11-15,United States,California,Madera,0,0,5426,76
+2020-11-15,United States,California,Marin,14,0,7358,127
+2020-11-15,United States,California,Mariposa,2,0,91,2
+2020-11-15,United States,California,Mendocino,19,0,1288,22
+2020-11-15,United States,California,Merced,61,3,10374,169
+2020-11-15,United States,California,Modoc,1,0,93,0
+2020-11-15,United States,California,Mono,10,0,480,2
+2020-11-15,United States,California,Monterey,68,1,12769,108
+2020-11-15,United States,California,Napa,8,0,2440,17
+2020-11-15,United States,California,Nevada,0,0,822,9
+2020-11-15,United States,California,Orange,538,2,69598,1524
+2020-11-15,United States,California,Placer,0,0,5134,63
+2020-11-15,United States,California,Plumas,0,0,136,0
+2020-11-15,United States,California,Riverside,0,0,74180,1367
+2020-11-15,United States,California,Sacramento,0,0,29837,520
+2020-11-15,United States,California,San Benito,12,0,1593,15
+2020-11-15,United States,California,San Bernardino,914,1,73915,1184
+2020-11-15,United States,California,San Diego,736,5,63681,926
+2020-11-15,United States,California,San Francisco,112,2,13516,155
+2020-11-15,United States,California,San Joaquin,0,0,23517,501
+2020-11-15,United States,California,San Luis Obispo,0,0,5038,33
+2020-11-15,United States,California,San Mateo,133,0,12465,168
+2020-11-15,United States,California,Santa Barbara,0,0,10415,131
+2020-11-15,United States,California,Santa Clara,329,1,27977,416
+2020-11-15,United States,California,Santa Cruz,0,0,3356,26
+2020-11-15,United States,California,Shasta,3,0,2983,36
+2020-11-15,United States,California,Sierra,0,0,11,0
+2020-11-15,United States,California,Siskiyou,0,0,372,1
+2020-11-15,United States,California,Solano,0,0,8729,79
+2020-11-15,United States,California,Sonoma,166,0,10845,149
+2020-11-15,United States,California,Stanislaus,153,0,20134,411
+2020-11-15,United States,California,Sutter,51,0,2185,12
+2020-11-15,United States,California,Tehama,50,0,1167,19
+2020-11-15,United States,California,Trinity,0,0,68,0
+2020-11-15,United States,California,Tulare,0,0,18896,300
+2020-11-15,United States,California,Tuolumne,0,0,467,8
+2020-11-15,United States,California,Unassigned,0,0,0,0
+2020-11-15,United States,California,Ventura,143,0,16172,172
+2020-11-15,United States,California,Yolo,32,0,3761,66
+2020-11-15,United States,California,Yuba,20,0,1549,10
+2020-11-15,United States,Colorado,Adams,614,0,21789,283
+2020-11-15,United States,Colorado,Alamosa,9,1,449,10
+2020-11-15,United States,Colorado,Arapahoe,495,3,19430,400
+2020-11-15,United States,Colorado,Archuleta,4,0,94,0
+2020-11-15,United States,Colorado,Baca,0,0,42,0
+2020-11-15,United States,Colorado,Bent,3,0,33,0
+2020-11-15,United States,Colorado,Boulder,292,2,8266,101
+2020-11-15,United States,Colorado,Broomfield,37,0,1487,45
+2020-11-15,United States,Colorado,Chaffee,3,0,487,20
+2020-11-15,United States,Colorado,Cheyenne,1,0,27,0
+2020-11-15,United States,Colorado,Clear Creek,5,0,139,1
+2020-11-15,United States,Colorado,Conejos,5,0,122,1
+2020-11-15,United States,Colorado,Costilla,3,0,59,1
+2020-11-15,United States,Colorado,Crowley,87,0,614,1
+2020-11-15,United States,Colorado,Custer,3,0,50,0
+2020-11-15,United States,Colorado,Delta,24,0,340,3
+2020-11-15,United States,Colorado,Denver,592,5,26988,472
+2020-11-15,United States,Colorado,Dolores,0,0,3,0
+2020-11-15,United States,Colorado,Douglas,281,1,6892,79
+2020-11-15,United States,Colorado,Eagle,41,0,1853,11
+2020-11-15,United States,Colorado,El Paso,652,2,17779,223
+2020-11-15,United States,Colorado,Elbert,10,1,371,4
+2020-11-15,United States,Colorado,Fremont,53,0,1513,2
+2020-11-15,United States,Colorado,Garfield,49,0,1548,7
+2020-11-15,United States,Colorado,Gilpin,2,0,63,0
+2020-11-15,United States,Colorado,Grand,6,0,206,1
+2020-11-15,United States,Colorado,Gunnison,3,0,404,7
+2020-11-15,United States,Colorado,Hinsdale,0,0,5,0
+2020-11-15,United States,Colorado,Huerfano,8,0,84,4
+2020-11-15,United States,Colorado,Jackson,1,0,12,0
+2020-11-15,United States,Colorado,Jefferson,492,2,14159,374
+2020-11-15,United States,Colorado,Kiowa,1,0,14,0
+2020-11-15,United States,Colorado,Kit Carson,7,0,234,3
+2020-11-15,United States,Colorado,La Plata,30,0,604,3
+2020-11-15,United States,Colorado,Lake,3,0,184,0
+2020-11-15,United States,Colorado,Larimer,331,0,6707,63
+2020-11-15,United States,Colorado,Las Animas,7,0,114,0
+2020-11-15,United States,Colorado,Lincoln,7,0,84,0
+2020-11-15,United States,Colorado,Logan,27,0,1706,15
+2020-11-15,United States,Colorado,Mesa,127,1,3468,35
+2020-11-15,United States,Colorado,Mineral,0,0,21,0
+2020-11-15,United States,Colorado,Moffat,9,0,124,1
+2020-11-15,United States,Colorado,Montezuma,20,0,383,5
+2020-11-15,United States,Colorado,Montrose,12,0,616,14
+2020-11-15,United States,Colorado,Morgan,28,0,1210,50
+2020-11-15,United States,Colorado,Otero,23,0,288,6
+2020-11-15,United States,Colorado,Ouray,12,0,91,2
+2020-11-15,United States,Colorado,Out of CO,0,0,0,0
+2020-11-15,United States,Colorado,Park,6,1,160,2
+2020-11-15,United States,Colorado,Phillips,0,0,125,1
+2020-11-15,United States,Colorado,Pitkin,16,0,370,2
+2020-11-15,United States,Colorado,Prowers,6,0,341,11
+2020-11-15,United States,Colorado,Pueblo,318,0,4585,65
+2020-11-15,United States,Colorado,Rio Blanco,3,0,61,0
+2020-11-15,United States,Colorado,Rio Grande,5,0,167,4
+2020-11-15,United States,Colorado,Routt,21,0,379,9
+2020-11-15,United States,Colorado,Saguache,4,0,193,2
+2020-11-15,United States,Colorado,San Juan,2,0,15,0
+2020-11-15,United States,Colorado,San Miguel,11,0,155,0
+2020-11-15,United States,Colorado,Sedgwick,1,0,73,1
+2020-11-15,United States,Colorado,Summit,22,0,1116,4
+2020-11-15,United States,Colorado,Teller,14,0,391,4
+2020-11-15,United States,Colorado,Unassigned,0,0,23,0
+2020-11-15,United States,Colorado,Washington,4,1,150,2
+2020-11-15,United States,Colorado,Weld,343,1,9511,170
+2020-11-15,United States,Colorado,Yuma,1,0,263,1
+2020-11-15,United States,Connecticut,Fairfield,0,0,29842,1454
+2020-11-15,United States,Connecticut,Hartford,0,0,22083,1532
+2020-11-15,United States,Connecticut,Litchfield,0,0,3010,149
+2020-11-15,United States,Connecticut,Middlesex,0,0,2602,197
+2020-11-15,United States,Connecticut,New Haven,0,0,22015,1157
+2020-11-15,United States,Connecticut,New London,0,0,4668,155
+2020-11-15,United States,Connecticut,Tolland,0,0,2209,69
+2020-11-15,United States,Connecticut,Unassigned,0,0,379,0
+2020-11-15,United States,Connecticut,Windham,0,0,1837,24
+2020-11-15,United States,Delaware,Kent,71,0,4027,123
+2020-11-15,United States,Delaware,New Castle,228,0,15341,385
+2020-11-15,United States,Delaware,Sussex,78,1,8932,258
+2020-11-15,United States,Delaware,Unassigned,2,0,95,0
+2020-11-15,United States,District of Columbia,District of Columbia,148,1,18814,658
+2020-11-15,United States,Florida,Alachua,20,0,11651,85
+2020-11-15,United States,Florida,Baker,5,-1,1893,28
+2020-11-15,United States,Florida,Bay,64,0,7504,145
+2020-11-15,United States,Florida,Bradford,1,0,1296,15
+2020-11-15,United States,Florida,Brevard,140,2,13452,409
+2020-11-15,United States,Florida,Broward,354,4,93868,1585
+2020-11-15,United States,Florida,Calhoun,1,0,792,20
+2020-11-15,United States,Florida,Charlotte,40,0,4246,174
+2020-11-15,United States,Florida,Citrus,28,3,3856,146
+2020-11-15,United States,Florida,Clay,30,0,6833,136
+2020-11-15,United States,Florida,Collier,107,0,15836,267
+2020-11-15,United States,Florida,Columbia,20,0,4502,83
+2020-11-15,United States,Florida,DeSoto,6,0,1772,33
+2020-11-15,United States,Florida,Dixie,4,0,933,11
+2020-11-15,United States,Florida,Duval,134,0,37998,549
+2020-11-15,United States,Florida,Escambia,97,-1,14979,288
+2020-11-15,United States,Florida,Flagler,23,0,2379,40
+2020-11-15,United States,Florida,Franklin,2,0,808,4
+2020-11-15,United States,Florida,Gadsden,5,0,3124,56
+2020-11-15,United States,Florida,Gilchrist,1,0,651,19
+2020-11-15,United States,Florida,Glades,2,0,633,7
+2020-11-15,United States,Florida,Gulf,1,0,1013,17
+2020-11-15,United States,Florida,Hamilton,1,0,936,11
+2020-11-15,United States,Florida,Hardee,5,0,1685,18
+2020-11-15,United States,Florida,Hendry,9,0,2343,45
+2020-11-15,United States,Florida,Hernando,19,4,4215,186
+2020-11-15,United States,Florida,Highlands,60,1,3164,129
+2020-11-15,United States,Florida,Hillsborough,151,0,52481,857
+2020-11-15,United States,Florida,Holmes,3,0,1028,13
+2020-11-15,United States,Florida,Indian River,30,0,4399,126
+2020-11-15,United States,Florida,Jackson,19,2,3508,87
+2020-11-15,United States,Florida,Jefferson,0,0,717,11
+2020-11-15,United States,Florida,Lafayette,1,0,1288,19
+2020-11-15,United States,Florida,Lake,61,1,9527,243
+2020-11-15,United States,Florida,Lee,169,0,25885,542
+2020-11-15,United States,Florida,Leon,62,4,13457,124
+2020-11-15,United States,Florida,Levy,8,0,1243,12
+2020-11-15,United States,Florida,Liberty,0,0,553,13
+2020-11-15,United States,Florida,Madison,7,0,1172,25
+2020-11-15,United States,Florida,Manatee,31,6,14553,346
+2020-11-15,United States,Florida,Marion,90,2,11690,364
+2020-11-15,United States,Florida,Martin,21,0,5691,170
+2020-11-15,United States,Florida,Miami-Dade,1187,1,200259,3707
+2020-11-15,United States,Florida,Monroe,8,0,2752,25
+2020-11-15,United States,Florida,Nassau,23,0,2724,52
+2020-11-15,United States,Florida,Okaloosa,45,0,7509,139
+2020-11-15,United States,Florida,Okeechobee,5,0,1859,43
+2020-11-15,United States,Florida,Orange,384,2,50830,603
+2020-11-15,United States,Florida,Osceola,63,1,15742,228
+2020-11-15,United States,Florida,Palm Beach,300,2,57661,1622
+2020-11-15,United States,Florida,Pasco,84,0,12403,259
+2020-11-15,United States,Florida,Pinellas,119,3,28865,853
+2020-11-15,United States,Florida,Polk,79,1,25020,648
+2020-11-15,United States,Florida,Putnam,2,2,2525,56
+2020-11-15,United States,Florida,Santa Rosa,36,3,6521,93
+2020-11-15,United States,Florida,Sarasota,62,-2,11013,357
+2020-11-15,United States,Florida,Seminole,81,0,11400,255
+2020-11-15,United States,Florida,St. Johns,63,0,7416,88
+2020-11-15,United States,Florida,St. Lucie,44,3,9781,348
+2020-11-15,United States,Florida,Sumter,8,0,3148,89
+2020-11-15,United States,Florida,Suwannee,11,0,3117,82
+2020-11-15,United States,Florida,Taylor,11,0,1565,20
+2020-11-15,United States,Florida,Unassigned,20,0,2076,0
+2020-11-15,United States,Florida,Union,1,0,1191,53
+2020-11-15,United States,Florida,Volusia,41,1,14158,341
+2020-11-15,United States,Florida,Wakulla,2,0,1448,12
+2020-11-15,United States,Florida,Walton,19,0,3202,34
+2020-11-15,United States,Florida,Washington,14,0,1357,24
+2020-11-15,United States,Georgia,Appling,-5,1,1296,39
+2020-11-15,United States,Georgia,Atkinson,2,0,558,8
+2020-11-15,United States,Georgia,Bacon,2,0,732,21
+2020-11-15,United States,Georgia,Baker,0,0,119,6
+2020-11-15,United States,Georgia,Baldwin,8,0,2527,69
+2020-11-15,United States,Georgia,Banks,7,0,658,10
+2020-11-15,United States,Georgia,Barrow,28,0,3064,56
+2020-11-15,United States,Georgia,Bartow,34,1,4485,102
+2020-11-15,United States,Georgia,Ben Hill,3,0,965,38
+2020-11-15,United States,Georgia,Berrien,3,0,630,27
+2020-11-15,United States,Georgia,Bibb,25,1,7171,225
+2020-11-15,United States,Georgia,Bleckley,7,0,682,29
+2020-11-15,United States,Georgia,Brantley,6,1,720,15
+2020-11-15,United States,Georgia,Brooks,2,0,614,29
+2020-11-15,United States,Georgia,Bryan,2,1,1401,18
+2020-11-15,United States,Georgia,Bulloch,14,1,3617,51
+2020-11-15,United States,Georgia,Burke,7,0,1159,14
+2020-11-15,United States,Georgia,Butts,16,1,964,46
+2020-11-15,United States,Georgia,Calhoun,2,0,306,10
+2020-11-15,United States,Georgia,Camden,11,0,1628,20
+2020-11-15,United States,Georgia,Candler,2,1,601,29
+2020-11-15,United States,Georgia,Carroll,33,0,4859,90
+2020-11-15,United States,Georgia,Catoosa,27,1,1732,26
+2020-11-15,United States,Georgia,Charlton,1,0,754,16
+2020-11-15,United States,Georgia,Chatham,55,0,10167,201
+2020-11-15,United States,Georgia,Chattahoochee,17,0,1936,2
+2020-11-15,United States,Georgia,Chattooga,6,0,1146,32
+2020-11-15,United States,Georgia,Cherokee,119,0,9042,112
+2020-11-15,United States,Georgia,Clarke,36,0,7412,51
+2020-11-15,United States,Georgia,Clay,0,0,143,3
+2020-11-15,United States,Georgia,Clayton,63,1,9611,192
+2020-11-15,United States,Georgia,Clinch,0,0,526,13
+2020-11-15,United States,Georgia,Cobb,237,1,26606,495
+2020-11-15,United States,Georgia,Coffee,15,1,2694,71
+2020-11-15,United States,Georgia,Colquitt,11,0,2564,46
+2020-11-15,United States,Georgia,Columbia,65,0,5708,73
+2020-11-15,United States,Georgia,Cook,14,0,774,17
+2020-11-15,United States,Georgia,Coweta,32,0,4425,68
+2020-11-15,United States,Georgia,Crawford,4,0,232,6
+2020-11-15,United States,Georgia,Crisp,6,1,886,31
+2020-11-15,United States,Georgia,Dade,4,0,450,6
+2020-11-15,United States,Georgia,Dawson,7,0,1008,11
+2020-11-15,United States,Georgia,Decatur,5,1,1524,44
+2020-11-15,United States,Georgia,DeKalb,222,2,24743,441
+2020-11-15,United States,Georgia,Dodge,5,0,1020,43
+2020-11-15,United States,Georgia,Dooly,2,0,454,19
+2020-11-15,United States,Georgia,Dougherty,10,1,3589,201
+2020-11-15,United States,Georgia,Douglas,35,0,5020,84
+2020-11-15,United States,Georgia,Early,4,0,632,36
+2020-11-15,United States,Georgia,Echols,0,0,263,2
+2020-11-15,United States,Georgia,Effingham,7,0,2034,30
+2020-11-15,United States,Georgia,Elbert,8,0,1034,18
+2020-11-15,United States,Georgia,Emanuel,2,0,1393,45
+2020-11-15,United States,Georgia,Evans,1,0,533,12
+2020-11-15,United States,Georgia,Fannin,20,-1,931,36
+2020-11-15,United States,Georgia,Fayette,17,1,2726,62
+2020-11-15,United States,Georgia,Floyd,57,1,4886,69
+2020-11-15,United States,Georgia,Forsyth,57,0,5845,57
+2020-11-15,United States,Georgia,Franklin,2,0,1089,20
+2020-11-15,United States,Georgia,Fulton,272,3,36266,677
+2020-11-15,United States,Georgia,Gilmer,5,0,1170,29
+2020-11-15,United States,Georgia,Glascock,-2,0,72,2
+2020-11-15,United States,Georgia,Glynn,29,0,4074,116
+2020-11-15,United States,Georgia,Gordon,22,0,3016,58
+2020-11-15,United States,Georgia,Grady,0,0,964,29
+2020-11-15,United States,Georgia,Greene,3,0,677,28
+2020-11-15,United States,Georgia,Gwinnett,263,2,35812,494
+2020-11-15,United States,Georgia,Habersham,29,-1,2031,78
+2020-11-15,United States,Georgia,Hall,55,0,11671,194
+2020-11-15,United States,Georgia,Hancock,4,0,441,45
+2020-11-15,United States,Georgia,Haralson,13,0,1129,20
+2020-11-15,United States,Georgia,Harris,3,0,969,26
+2020-11-15,United States,Georgia,Hart,9,0,713,24
+2020-11-15,United States,Georgia,Heard,3,0,330,7
+2020-11-15,United States,Georgia,Henry,71,1,7707,131
+2020-11-15,United States,Georgia,Houston,22,1,4363,101
+2020-11-15,United States,Georgia,Irwin,5,0,403,11
+2020-11-15,United States,Georgia,Jackson,35,0,2962,50
+2020-11-15,United States,Georgia,Jasper,5,0,403,6
+2020-11-15,United States,Georgia,Jeff Davis,3,0,935,31
+2020-11-15,United States,Georgia,Jefferson,8,1,949,39
+2020-11-15,United States,Georgia,Jenkins,2,0,493,33
+2020-11-15,United States,Georgia,Johnson,1,1,503,29
+2020-11-15,United States,Georgia,Jones,3,0,729,17
+2020-11-15,United States,Georgia,Lamar,6,2,596,25
+2020-11-15,United States,Georgia,Lanier,3,0,381,10
+2020-11-15,United States,Georgia,Laurens,9,0,2490,109
+2020-11-15,United States,Georgia,Lee,6,0,869,33
+2020-11-15,United States,Georgia,Liberty,10,0,1436,28
+2020-11-15,United States,Georgia,Lincoln,4,0,287,10
+2020-11-15,United States,Georgia,Long,-1,0,310,5
+2020-11-15,United States,Georgia,Lowndes,52,2,5760,121
+2020-11-15,United States,Georgia,Lumpkin,20,0,1167,20
+2020-11-15,United States,Georgia,Macon,5,0,311,14
+2020-11-15,United States,Georgia,Madison,6,0,998,17
+2020-11-15,United States,Georgia,Marion,1,0,239,10
+2020-11-15,United States,Georgia,McDuffie,6,1,868,19
+2020-11-15,United States,Georgia,McIntosh,4,0,353,8
+2020-11-15,United States,Georgia,Meriwether,3,0,743,19
+2020-11-15,United States,Georgia,Miller,2,0,395,3
+2020-11-15,United States,Georgia,Mitchell,2,0,942,48
+2020-11-15,United States,Georgia,Monroe,4,0,941,60
+2020-11-15,United States,Georgia,Montgomery,1,0,410,10
+2020-11-15,United States,Georgia,Morgan,2,0,755,7
+2020-11-15,United States,Georgia,Murray,37,2,1376,15
+2020-11-15,United States,Georgia,Muscogee,19,2,6940,187
+2020-11-15,United States,Georgia,Newton,28,0,3478,103
+2020-11-15,United States,Georgia,Oconee,10,0,1253,34
+2020-11-15,United States,Georgia,Oglethorpe,4,0,503,14
+2020-11-15,United States,Georgia,Out of GA,16,0,16437,227
+2020-11-15,United States,Georgia,Paulding,38,0,4288,72
+2020-11-15,United States,Georgia,Peach,8,0,969,27
+2020-11-15,United States,Georgia,Pickens,16,1,981,15
+2020-11-15,United States,Georgia,Pierce,3,0,1168,28
+2020-11-15,United States,Georgia,Pike,11,0,704,16
+2020-11-15,United States,Georgia,Polk,12,0,2120,31
+2020-11-15,United States,Georgia,Pulaski,0,0,422,24
+2020-11-15,United States,Georgia,Putnam,1,0,944,28
+2020-11-15,United States,Georgia,Quitman,1,0,74,1
+2020-11-15,United States,Georgia,Rabun,9,0,495,11
+2020-11-15,United States,Georgia,Randolph,0,0,364,30
+2020-11-15,United States,Georgia,Richmond,68,0,9322,212
+2020-11-15,United States,Georgia,Rockdale,16,1,2484,47
+2020-11-15,United States,Georgia,Schley,0,0,154,2
+2020-11-15,United States,Georgia,Screven,1,0,490,12
+2020-11-15,United States,Georgia,Seminole,4,0,488,12
+2020-11-15,United States,Georgia,Spalding,11,2,2121,74
+2020-11-15,United States,Georgia,Stephens,9,1,1381,47
+2020-11-15,United States,Georgia,Stewart,0,0,620,17
+2020-11-15,United States,Georgia,Sumter,3,0,1177,71
+2020-11-15,United States,Georgia,Talbot,-1,0,221,8
+2020-11-15,United States,Georgia,Taliaferro,0,0,36,0
+2020-11-15,United States,Georgia,Tattnall,2,0,1043,23
+2020-11-15,United States,Georgia,Taylor,2,0,316,13
+2020-11-15,United States,Georgia,Telfair,4,0,636,28
+2020-11-15,United States,Georgia,Terrell,1,0,387,33
+2020-11-15,United States,Georgia,Thomas,5,0,1826,77
+2020-11-15,United States,Georgia,Tift,20,0,2253,74
+2020-11-15,United States,Georgia,Toombs,4,0,1619,62
+2020-11-15,United States,Georgia,Towns,2,1,522,22
+2020-11-15,United States,Georgia,Treutlen,1,0,373,14
+2020-11-15,United States,Georgia,Troup,17,0,3704,115
+2020-11-15,United States,Georgia,Turner,2,0,408,26
+2020-11-15,United States,Georgia,Twiggs,1,0,242,12
+2020-11-15,United States,Georgia,Unassigned,63,0,2444,6
+2020-11-15,United States,Georgia,Union,2,0,991,32
+2020-11-15,United States,Georgia,Upson,13,0,1392,77
+2020-11-15,United States,Georgia,Walker,28,2,2269,50
+2020-11-15,United States,Georgia,Walton,20,1,2913,78
+2020-11-15,United States,Georgia,Ware,10,3,2477,76
+2020-11-15,United States,Georgia,Warren,3,0,199,8
+2020-11-15,United States,Georgia,Washington,15,1,1014,22
+2020-11-15,United States,Georgia,Wayne,7,2,1511,43
+2020-11-15,United States,Georgia,Webster,0,0,59,2
+2020-11-15,United States,Georgia,Wheeler,0,0,419,18
+2020-11-15,United States,Georgia,White,11,0,1112,26
+2020-11-15,United States,Georgia,Whitfield,77,0,6615,71
+2020-11-15,United States,Georgia,Wilcox,0,1,335,28
+2020-11-15,United States,Georgia,Wilkes,4,0,393,7
+2020-11-15,United States,Georgia,Wilkinson,4,0,412,18
+2020-11-15,United States,Georgia,Worth,3,0,690,36
+2020-11-15,United States,Guam,,41,0,5965,93
+2020-11-15,United States,Hawaii,Hawaii,12,0,1481,31
+2020-11-15,United States,Hawaii,Honolulu,89,0,14353,173
+2020-11-15,United States,Hawaii,Kauai,3,0,81,0
+2020-11-15,United States,Hawaii,Maui,1,0,704,17
+2020-11-15,United States,Hawaii,Out of HI,2,0,140,1
+2020-11-15,United States,Hawaii,Unassigned,0,0,0,0
+2020-11-15,United States,Idaho,Ada,356,4,21278,208
+2020-11-15,United States,Idaho,Adams,-2,0,87,2
+2020-11-15,United States,Idaho,Bannock,70,2,3414,22
+2020-11-15,United States,Idaho,Bear Lake,6,0,132,1
+2020-11-15,United States,Idaho,Benewah,3,0,221,3
+2020-11-15,United States,Idaho,Bingham,68,0,2114,26
+2020-11-15,United States,Idaho,Blaine,5,0,1080,7
+2020-11-15,United States,Idaho,Boise,1,0,112,2
+2020-11-15,United States,Idaho,Bonner,42,0,738,2
+2020-11-15,United States,Idaho,Bonneville,94,0,5928,43
+2020-11-15,United States,Idaho,Boundary,4,0,290,1
+2020-11-15,United States,Idaho,Butte,1,0,113,0
+2020-11-15,United States,Idaho,Camas,0,0,51,0
+2020-11-15,United States,Idaho,Canyon,302,2,12439,130
+2020-11-15,United States,Idaho,Caribou,6,0,380,5
+2020-11-15,United States,Idaho,Cassia,33,0,1809,14
+2020-11-15,United States,Idaho,Clark,1,0,46,0
+2020-11-15,United States,Idaho,Clearwater,1,0,246,0
+2020-11-15,United States,Idaho,Custer,2,0,121,1
+2020-11-15,United States,Idaho,Elmore,6,0,731,4
+2020-11-15,United States,Idaho,Franklin,22,0,483,4
+2020-11-15,United States,Idaho,Fremont,5,0,611,7
+2020-11-15,United States,Idaho,Gem,40,0,598,6
+2020-11-15,United States,Idaho,Gooding,4,0,822,9
+2020-11-15,United States,Idaho,Idaho,0,0,521,4
+2020-11-15,United States,Idaho,Jefferson,12,0,1239,5
+2020-11-15,United States,Idaho,Jerome,23,0,1601,10
+2020-11-15,United States,Idaho,Kootenai,128,0,5798,61
+2020-11-15,United States,Idaho,Latah,17,0,1346,1
+2020-11-15,United States,Idaho,Lemhi,3,0,385,5
+2020-11-15,United States,Idaho,Lewis,0,0,145,3
+2020-11-15,United States,Idaho,Lincoln,2,0,300,7
+2020-11-15,United States,Idaho,Madison,57,0,3328,7
+2020-11-15,United States,Idaho,Minidoka,31,0,1504,12
+2020-11-15,United States,Idaho,Nez Perce,2,0,1620,27
+2020-11-15,United States,Idaho,Oneida,1,0,92,0
+2020-11-15,United States,Idaho,Owyhee,23,0,489,5
+2020-11-15,United States,Idaho,Payette,34,0,1354,13
+2020-11-15,United States,Idaho,Power,1,0,413,2
+2020-11-15,United States,Idaho,Shoshone,6,0,377,21
+2020-11-15,United States,Idaho,Teton,6,0,429,2
+2020-11-15,United States,Idaho,Twin Falls,84,-1,5748,67
+2020-11-15,United States,Idaho,Unassigned,0,0,1,0
+2020-11-15,United States,Idaho,Valley,4,0,191,1
+2020-11-15,United States,Idaho,Washington,15,0,592,9
+2020-11-15,United States,Illinois,Adams,49,2,3457,36
+2020-11-15,United States,Illinois,Alexander,7,0,209,2
+2020-11-15,United States,Illinois,Bond,29,1,803,10
+2020-11-15,United States,Illinois,Boone,55,0,2997,29
+2020-11-15,United States,Illinois,Brown,3,1,214,2
+2020-11-15,United States,Illinois,Bureau,41,1,1589,22
+2020-11-15,United States,Illinois,Calhoun,12,0,157,0
+2020-11-15,United States,Illinois,Carroll,33,0,871,22
+2020-11-15,United States,Illinois,Cass,26,0,707,12
+2020-11-15,United States,Illinois,Champaign,121,1,8849,40
+2020-11-15,United States,Illinois,Christian,29,0,1454,31
+2020-11-15,United States,Illinois,Clark,9,0,588,19
+2020-11-15,United States,Illinois,Clay,42,0,560,16
+2020-11-15,United States,Illinois,Clinton,59,3,2512,47
+2020-11-15,United States,Illinois,Coles,44,1,2779,54
+2020-11-15,United States,Illinois,Cook,3730,68,246392,5797
+2020-11-15,United States,Illinois,Crawford,23,0,835,8
+2020-11-15,United States,Illinois,Cumberland,10,0,477,6
+2020-11-15,United States,Illinois,De Witt,7,0,490,8
+2020-11-15,United States,Illinois,DeKalb,68,0,3927,44
+2020-11-15,United States,Illinois,Douglas,18,0,1096,10
+2020-11-15,United States,Illinois,DuPage,756,6,34607,657
+2020-11-15,United States,Illinois,Edgar,9,0,566,12
+2020-11-15,United States,Illinois,Edwards,3,0,156,2
+2020-11-15,United States,Illinois,Effingham,55,2,1975,8
+2020-11-15,United States,Illinois,Fayette,20,0,1155,26
+2020-11-15,United States,Illinois,Ford,16,0,502,19
+2020-11-15,United States,Illinois,Franklin,65,1,1577,16
+2020-11-15,United States,Illinois,Fulton,25,0,1002,7
+2020-11-15,United States,Illinois,Gallatin,4,0,161,2
+2020-11-15,United States,Illinois,Greene,18,0,601,19
+2020-11-15,United States,Illinois,Grundy,64,0,1950,10
+2020-11-15,United States,Illinois,Hamilton,26,0,282,3
+2020-11-15,United States,Illinois,Hancock,21,0,726,5
+2020-11-15,United States,Illinois,Hardin,6,0,89,0
+2020-11-15,United States,Illinois,Henderson,7,0,211,0
+2020-11-15,United States,Illinois,Henry,31,1,1725,12
+2020-11-15,United States,Illinois,Iroquois,48,1,1162,21
+2020-11-15,United States,Illinois,Jackson,30,0,2113,28
+2020-11-15,United States,Illinois,Jasper,10,0,482,10
+2020-11-15,United States,Illinois,Jefferson,35,0,1405,56
+2020-11-15,United States,Illinois,Jersey,26,0,900,22
+2020-11-15,United States,Illinois,Jo Daviess,1,0,858,12
+2020-11-15,United States,Illinois,Johnson,18,0,556,0
+2020-11-15,United States,Illinois,Kane,388,9,25278,383
+2020-11-15,United States,Illinois,Kankakee,309,1,6245,88
+2020-11-15,United States,Illinois,Kendall,93,2,4695,33
+2020-11-15,United States,Illinois,Knox,92,2,2080,38
+2020-11-15,United States,Illinois,Lake,534,7,30031,548
+2020-11-15,United States,Illinois,LaSalle,173,1,4559,84
+2020-11-15,United States,Illinois,Lawrence,14,0,577,8
+2020-11-15,United States,Illinois,Lee,18,0,1384,5
+2020-11-15,United States,Illinois,Livingston,68,1,1572,15
+2020-11-15,United States,Illinois,Logan,33,0,1131,5
+2020-11-15,United States,Illinois,Macon,117,5,5083,90
+2020-11-15,United States,Illinois,Macoupin,52,0,1458,14
+2020-11-15,United States,Illinois,Madison,273,3,10777,177
+2020-11-15,United States,Illinois,Marion,45,0,1762,32
+2020-11-15,United States,Illinois,Marshall,7,0,250,4
+2020-11-15,United States,Illinois,Mason,8,0,480,14
+2020-11-15,United States,Illinois,Massac,22,0,303,2
+2020-11-15,United States,Illinois,McDonough,22,0,1247,25
+2020-11-15,United States,Illinois,McHenry,235,0,11069,123
+2020-11-15,United States,Illinois,McLean,115,3,6468,46
+2020-11-15,United States,Illinois,Menard,9,0,307,1
+2020-11-15,United States,Illinois,Mercer,14,0,555,7
+2020-11-15,United States,Illinois,Monroe,77,3,1519,42
+2020-11-15,United States,Illinois,Montgomery,13,0,897,19
+2020-11-15,United States,Illinois,Morgan,48,0,1606,29
+2020-11-15,United States,Illinois,Moultrie,15,0,680,8
+2020-11-15,United States,Illinois,Ogle,22,2,2135,12
+2020-11-15,United States,Illinois,Out of IL,1,0,3,0
+2020-11-15,United States,Illinois,Peoria,190,7,6820,105
+2020-11-15,United States,Illinois,Perry,31,0,736,16
+2020-11-15,United States,Illinois,Piatt,15,0,576,5
+2020-11-15,United States,Illinois,Pike,21,0,781,13
+2020-11-15,United States,Illinois,Pope,2,0,61,1
+2020-11-15,United States,Illinois,Pulaski,2,0,311,2
+2020-11-15,United States,Illinois,Putnam,4,0,162,0
+2020-11-15,United States,Illinois,Randolph,54,2,1752,21
+2020-11-15,United States,Illinois,Richland,14,0,498,18
+2020-11-15,United States,Illinois,Rock Island,232,1,6647,106
+2020-11-15,United States,Illinois,Saline,32,0,872,17
+2020-11-15,United States,Illinois,Sangamon,155,3,7373,71
+2020-11-15,United States,Illinois,Schuyler,13,0,163,1
+2020-11-15,United States,Illinois,Scott,2,0,177,0
+2020-11-15,United States,Illinois,Shelby,21,1,1036,20
+2020-11-15,United States,Illinois,St. Clair,177,0,10312,234
+2020-11-15,United States,Illinois,Stark,2,0,154,3
+2020-11-15,United States,Illinois,Stephenson,23,1,1961,17
+2020-11-15,United States,Illinois,Tazewell,151,3,4611,70
+2020-11-15,United States,Illinois,Unassigned,14,31,238,418
+2020-11-15,United States,Illinois,Union,15,0,948,25
+2020-11-15,United States,Illinois,Vermilion,77,4,2828,27
+2020-11-15,United States,Illinois,Wabash,12,0,376,6
+2020-11-15,United States,Illinois,Warren,28,0,818,12
+2020-11-15,United States,Illinois,Washington,12,0,486,2
+2020-11-15,United States,Illinois,Wayne,8,1,716,24
+2020-11-15,United States,Illinois,White,18,0,410,7
+2020-11-15,United States,Illinois,Whiteside,43,1,2867,55
+2020-11-15,United States,Illinois,Will,788,10,29092,483
+2020-11-15,United States,Illinois,Williamson,65,1,2813,69
+2020-11-15,United States,Illinois,Winnebago,256,1,15320,206
+2020-11-15,United States,Illinois,Woodford,25,2,1195,20
+2020-11-15,United States,Indiana,Adams,77,0,1234,17
+2020-11-15,United States,Indiana,Allen,621,2,13778,271
+2020-11-15,United States,Indiana,Bartholomew,86,0,2263,71
+2020-11-15,United States,Indiana,Benton,24,0,217,1
+2020-11-15,United States,Indiana,Blackford,10,1,378,10
+2020-11-15,United States,Indiana,Boone,77,0,1915,58
+2020-11-15,United States,Indiana,Brown,8,0,242,3
+2020-11-15,United States,Indiana,Carroll,21,0,541,13
+2020-11-15,United States,Indiana,Cass,34,0,2701,43
+2020-11-15,United States,Indiana,Clark,110,0,4150,74
+2020-11-15,United States,Indiana,Clay,40,0,818,22
+2020-11-15,United States,Indiana,Clinton,57,1,1428,19
+2020-11-15,United States,Indiana,Crawford,7,0,226,1
+2020-11-15,United States,Indiana,Daviess,33,1,1226,42
+2020-11-15,United States,Indiana,Dearborn,65,0,1628,31
+2020-11-15,United States,Indiana,Decatur,23,0,997,40
+2020-11-15,United States,Indiana,DeKalb,79,1,1337,23
+2020-11-15,United States,Indiana,Delaware,76,1,4049,104
+2020-11-15,United States,Indiana,Dubois,44,0,2044,30
+2020-11-15,United States,Indiana,Elkhart,451,2,13978,192
+2020-11-15,United States,Indiana,Fayette,52,0,1222,29
+2020-11-15,United States,Indiana,Floyd,67,0,2600,84
+2020-11-15,United States,Indiana,Fountain,33,1,585,8
+2020-11-15,United States,Indiana,Franklin,19,0,524,25
+2020-11-15,United States,Indiana,Fulton,34,0,653,15
+2020-11-15,United States,Indiana,Gibson,34,0,1392,20
+2020-11-15,United States,Indiana,Grant,43,0,1959,49
+2020-11-15,United States,Indiana,Greene,23,0,823,50
+2020-11-15,United States,Indiana,Hamilton,301,0,9890,167
+2020-11-15,United States,Indiana,Hancock,64,0,1932,47
+2020-11-15,United States,Indiana,Harrison,22,0,1117,26
+2020-11-15,United States,Indiana,Hendricks,146,0,4642,152
+2020-11-15,United States,Indiana,Henry,64,0,1969,34
+2020-11-15,United States,Indiana,Howard,64,0,2380,76
+2020-11-15,United States,Indiana,Huntington,44,0,867,7
+2020-11-15,United States,Indiana,Jackson,39,0,1675,31
+2020-11-15,United States,Indiana,Jasper,36,0,1114,7
+2020-11-15,United States,Indiana,Jay,29,0,702,10
+2020-11-15,United States,Indiana,Jefferson,42,2,780,12
+2020-11-15,United States,Indiana,Jennings,13,0,629,13
+2020-11-15,United States,Indiana,Johnson,229,0,4830,173
+2020-11-15,United States,Indiana,Knox,66,1,1397,27
+2020-11-15,United States,Indiana,Kosciusko,149,0,3384,40
+2020-11-15,United States,Indiana,LaGrange,45,1,1192,25
+2020-11-15,United States,Indiana,Lake,735,5,22036,458
+2020-11-15,United States,Indiana,LaPorte,59,0,3628,86
+2020-11-15,United States,Indiana,Lawrence,60,0,1477,49
+2020-11-15,United States,Indiana,Madison,105,0,3781,124
+2020-11-15,United States,Indiana,Marion,1054,3,34633,873
+2020-11-15,United States,Indiana,Marshall,129,0,2392,37
+2020-11-15,United States,Indiana,Martin,14,0,282,2
+2020-11-15,United States,Indiana,Miami,67,0,1138,11
+2020-11-15,United States,Indiana,Monroe,112,0,4311,45
+2020-11-15,United States,Indiana,Montgomery,65,1,1061,25
+2020-11-15,United States,Indiana,Morgan,68,0,1581,42
+2020-11-15,United States,Indiana,Newton,23,0,443,14
+2020-11-15,United States,Indiana,Noble,99,0,1966,43
+2020-11-15,United States,Indiana,Ohio,8,0,186,9
+2020-11-15,United States,Indiana,Orange,29,0,570,27
+2020-11-15,United States,Indiana,Owen,17,0,437,5
+2020-11-15,United States,Indiana,Parke,16,0,413,7
+2020-11-15,United States,Indiana,Perry,22,1,712,21
+2020-11-15,United States,Indiana,Pike,1,0,444,21
+2020-11-15,United States,Indiana,Porter,197,0,6163,82
+2020-11-15,United States,Indiana,Posey,21,0,1026,14
+2020-11-15,United States,Indiana,Pulaski,19,0,320,11
+2020-11-15,United States,Indiana,Putnam,15,1,995,24
+2020-11-15,United States,Indiana,Randolph,44,0,910,16
+2020-11-15,United States,Indiana,Ripley,55,0,916,12
+2020-11-15,United States,Indiana,Rush,15,0,428,6
+2020-11-15,United States,Indiana,Scott,21,0,757,18
+2020-11-15,United States,Indiana,Shelby,39,0,1433,49
+2020-11-15,United States,Indiana,Spencer,20,0,658,7
+2020-11-15,United States,Indiana,St. Joseph,441,2,13858,224
+2020-11-15,United States,Indiana,Starke,19,0,738,18
+2020-11-15,United States,Indiana,Steuben,68,0,1106,11
+2020-11-15,United States,Indiana,Sullivan,26,0,655,17
+2020-11-15,United States,Indiana,Switzerland,13,0,201,2
+2020-11-15,United States,Indiana,Tippecanoe,286,0,6418,23
+2020-11-15,United States,Indiana,Tipton,16,0,428,26
+2020-11-15,United States,Indiana,Unassigned,0,18,0,123
+2020-11-15,United States,Indiana,Union,13,0,216,1
+2020-11-15,United States,Indiana,Vanderburgh,138,1,8068,124
+2020-11-15,United States,Indiana,Vermillion,18,0,439,3
+2020-11-15,United States,Indiana,Vigo,228,0,4586,85
+2020-11-15,United States,Indiana,Wabash,52,0,1049,19
+2020-11-15,United States,Indiana,Warren,8,0,174,2
+2020-11-15,United States,Indiana,Warrick,42,2,2705,76
+2020-11-15,United States,Indiana,Washington,10,0,552,5
+2020-11-15,United States,Indiana,Wayne,70,1,2357,44
+2020-11-15,United States,Indiana,Wells,55,1,900,25
+2020-11-15,United States,Indiana,White,32,0,954,20
+2020-11-15,United States,Indiana,Whitley,57,1,978,13
+2020-11-15,United States,Iowa,Adair,13,1,342,5
+2020-11-15,United States,Iowa,Adams,8,0,134,1
+2020-11-15,United States,Iowa,Allamakee,19,0,606,9
+2020-11-15,United States,Iowa,Appanoose,24,0,605,3
+2020-11-15,United States,Iowa,Audubon,4,0,252,1
+2020-11-15,United States,Iowa,Benton,59,1,1343,10
+2020-11-15,United States,Iowa,Black Hawk,194,2,8968,115
+2020-11-15,United States,Iowa,Boone,25,0,1064,10
+2020-11-15,United States,Iowa,Bremer,54,0,1455,12
+2020-11-15,United States,Iowa,Buchanan,28,0,881,6
+2020-11-15,United States,Iowa,Buena Vista,32,0,2709,13
+2020-11-15,United States,Iowa,Butler,35,0,755,3
+2020-11-15,United States,Iowa,Calhoun,81,0,864,6
+2020-11-15,United States,Iowa,Carroll,23,0,1684,14
+2020-11-15,United States,Iowa,Cass,24,0,647,14
+2020-11-15,United States,Iowa,Cedar,29,0,837,13
+2020-11-15,United States,Iowa,Cerro Gordo,110,1,2592,32
+2020-11-15,United States,Iowa,Cherokee,13,0,619,4
+2020-11-15,United States,Iowa,Chickasaw,31,0,618,1
+2020-11-15,United States,Iowa,Clarke,7,0,425,4
+2020-11-15,United States,Iowa,Clay,28,0,880,4
+2020-11-15,United States,Iowa,Clayton,23,0,829,4
+2020-11-15,United States,Iowa,Clinton,91,0,2581,35
+2020-11-15,United States,Iowa,Crawford,8,0,1594,15
+2020-11-15,United States,Iowa,Dallas,89,0,5211,53
+2020-11-15,United States,Iowa,Davis,12,0,315,4
+2020-11-15,United States,Iowa,Decatur,1,0,261,0
+2020-11-15,United States,Iowa,Delaware,8,0,1179,18
+2020-11-15,United States,Iowa,Des Moines,90,0,2321,13
+2020-11-15,United States,Iowa,Dickinson,41,0,1100,9
+2020-11-15,United States,Iowa,Dubuque,143,0,7744,78
+2020-11-15,United States,Iowa,Emmet,26,0,616,22
+2020-11-15,United States,Iowa,Fayette,17,0,783,8
+2020-11-15,United States,Iowa,Floyd,23,0,735,12
+2020-11-15,United States,Iowa,Franklin,25,0,579,19
+2020-11-15,United States,Iowa,Fremont,8,0,281,2
+2020-11-15,United States,Iowa,Greene,7,0,387,0
+2020-11-15,United States,Iowa,Grundy,27,0,633,7
+2020-11-15,United States,Iowa,Guthrie,14,0,612,15
+2020-11-15,United States,Iowa,Hamilton,17,0,755,6
+2020-11-15,United States,Iowa,Hancock,23,0,659,6
+2020-11-15,United States,Iowa,Hardin,46,0,885,9
+2020-11-15,United States,Iowa,Harrison,14,0,882,24
+2020-11-15,United States,Iowa,Henry,20,0,1512,7
+2020-11-15,United States,Iowa,Howard,9,0,398,9
+2020-11-15,United States,Iowa,Humboldt,9,0,567,3
+2020-11-15,United States,Iowa,Ida,5,0,383,6
+2020-11-15,United States,Iowa,Iowa,9,0,733,11
+2020-11-15,United States,Iowa,Jackson,27,0,1201,5
+2020-11-15,United States,Iowa,Jasper,25,0,1774,36
+2020-11-15,United States,Iowa,Jefferson,8,0,486,1
+2020-11-15,United States,Iowa,Johnson,143,0,8124,35
+2020-11-15,United States,Iowa,Jones,51,0,1817,8
+2020-11-15,United States,Iowa,Keokuk,4,0,424,2
+2020-11-15,United States,Iowa,Kossuth,27,0,765,2
+2020-11-15,United States,Iowa,Lee,64,0,1606,14
+2020-11-15,United States,Iowa,Linn,400,3,11495,148
+2020-11-15,United States,Iowa,Louisa,10,0,707,16
+2020-11-15,United States,Iowa,Lucas,2,0,279,6
+2020-11-15,United States,Iowa,Lyon,8,0,771,8
+2020-11-15,United States,Iowa,Madison,11,0,549,4
+2020-11-15,United States,Iowa,Mahaska,6,0,1044,26
+2020-11-15,United States,Iowa,Marion,35,1,1597,16
+2020-11-15,United States,Iowa,Marshall,31,0,2939,38
+2020-11-15,United States,Iowa,Mills,38,0,759,4
+2020-11-15,United States,Iowa,Mitchell,22,0,567,3
+2020-11-15,United States,Iowa,Monona,7,0,331,2
+2020-11-15,United States,Iowa,Monroe,10,0,367,12
+2020-11-15,United States,Iowa,Montgomery,20,1,343,9
+2020-11-15,United States,Iowa,Muscatine,56,0,2261,61
+2020-11-15,United States,Iowa,O`Brien,16,0,1085,24
+2020-11-15,United States,Iowa,Osceola,17,0,436,0
+2020-11-15,United States,Iowa,Page,36,0,955,2
+2020-11-15,United States,Iowa,Palo Alto,22,0,505,3
+2020-11-15,United States,Iowa,Plymouth,63,0,2348,34
+2020-11-15,United States,Iowa,Pocahontas,8,0,441,2
+2020-11-15,United States,Iowa,Polk,612,0,27413,304
+2020-11-15,United States,Iowa,Pottawattamie,151,0,4651,55
+2020-11-15,United States,Iowa,Poweshiek,15,0,805,11
+2020-11-15,United States,Iowa,Ringgold,2,0,137,2
+2020-11-15,United States,Iowa,Sac,13,0,653,6
+2020-11-15,United States,Iowa,Scott,384,0,8453,58
+2020-11-15,United States,Iowa,Shelby,18,0,624,3
+2020-11-15,United States,Iowa,Sioux,49,0,3193,22
+2020-11-15,United States,Iowa,Story,86,0,5489,18
+2020-11-15,United States,Iowa,Tama,22,1,1325,39
+2020-11-15,United States,Iowa,Taylor,19,0,374,2
+2020-11-15,United States,Iowa,Unassigned,69,0,514,0
+2020-11-15,United States,Iowa,Union,46,0,546,6
+2020-11-15,United States,Iowa,Van Buren,5,0,286,3
+2020-11-15,United States,Iowa,Wapello,26,0,2100,69
+2020-11-15,United States,Iowa,Warren,64,0,2120,9
+2020-11-15,United States,Iowa,Washington,15,0,1072,12
+2020-11-15,United States,Iowa,Wayne,5,0,259,6
+2020-11-15,United States,Iowa,Webster,69,1,2873,25
+2020-11-15,United States,Iowa,Winnebago,34,0,752,21
+2020-11-15,United States,Iowa,Winneshiek,20,0,733,9
+2020-11-15,United States,Iowa,Woodbury,95,1,9117,106
+2020-11-15,United States,Iowa,Worth,10,0,259,0
+2020-11-15,United States,Iowa,Wright,25,0,1016,3
+2020-11-15,United States,Kansas,Allen,0,0,240,1
+2020-11-15,United States,Kansas,Anderson,0,0,308,0
+2020-11-15,United States,Kansas,Atchison,0,0,708,9
+2020-11-15,United States,Kansas,Barber,0,0,147,0
+2020-11-15,United States,Kansas,Barton,0,0,1205,12
+2020-11-15,United States,Kansas,Bourbon,0,0,382,3
+2020-11-15,United States,Kansas,Brown,0,0,450,6
+2020-11-15,United States,Kansas,Butler,0,0,2325,4
+2020-11-15,United States,Kansas,Chase,0,0,124,3
+2020-11-15,United States,Kansas,Chautauqua,0,0,41,0
+2020-11-15,United States,Kansas,Cherokee,0,0,928,8
+2020-11-15,United States,Kansas,Cheyenne,0,0,176,7
+2020-11-15,United States,Kansas,Clark,0,0,88,4
+2020-11-15,United States,Kansas,Clay,0,0,282,8
+2020-11-15,United States,Kansas,Cloud,0,0,392,4
+2020-11-15,United States,Kansas,Coffey,0,0,243,9
+2020-11-15,United States,Kansas,Comanche,0,0,29,0
+2020-11-15,United States,Kansas,Cowley,0,0,989,10
+2020-11-15,United States,Kansas,Crawford,0,0,1882,14
+2020-11-15,United States,Kansas,Decatur,0,0,180,1
+2020-11-15,United States,Kansas,Dickinson,0,0,570,5
+2020-11-15,United States,Kansas,Doniphan,0,0,322,2
+2020-11-15,United States,Kansas,Douglas,0,0,3724,19
+2020-11-15,United States,Kansas,Edwards,0,0,115,0
+2020-11-15,United States,Kansas,Elk,0,0,29,0
+2020-11-15,United States,Kansas,Ellis,0,0,1820,18
+2020-11-15,United States,Kansas,Ellsworth,0,0,478,3
+2020-11-15,United States,Kansas,Finney,0,0,3874,23
+2020-11-15,United States,Kansas,Ford,0,0,4128,13
+2020-11-15,United States,Kansas,Franklin,0,0,824,8
+2020-11-15,United States,Kansas,Geary,0,0,703,4
+2020-11-15,United States,Kansas,Gove,0,0,247,19
+2020-11-15,United States,Kansas,Graham,0,0,99,2
+2020-11-15,United States,Kansas,Grant,15,0,603,10
+2020-11-15,United States,Kansas,Gray,0,0,301,4
+2020-11-15,United States,Kansas,Greeley,0,0,67,0
+2020-11-15,United States,Kansas,Greenwood,0,0,161,0
+2020-11-15,United States,Kansas,Hamilton,0,0,85,0
+2020-11-15,United States,Kansas,Harper,0,0,225,4
+2020-11-15,United States,Kansas,Harvey,0,0,1274,8
+2020-11-15,United States,Kansas,Haskell,0,0,210,1
+2020-11-15,United States,Kansas,Hodgeman,0,0,105,0
+2020-11-15,United States,Kansas,Jackson,0,0,487,4
+2020-11-15,United States,Kansas,Jefferson,0,0,476,6
+2020-11-15,United States,Kansas,Jewell,0,0,38,1
+2020-11-15,United States,Kansas,Johnson,0,1,20946,244
+2020-11-15,United States,Kansas,Kearny,0,0,220,8
+2020-11-15,United States,Kansas,Kingman,0,0,230,3
+2020-11-15,United States,Kansas,Kiowa,0,0,100,0
+2020-11-15,United States,Kansas,Labette,0,0,615,8
+2020-11-15,United States,Kansas,Lane,0,0,49,0
+2020-11-15,United States,Kansas,Leavenworth,0,0,3095,25
+2020-11-15,United States,Kansas,Lincoln,0,0,33,1
+2020-11-15,United States,Kansas,Linn,0,0,200,1
+2020-11-15,United States,Kansas,Logan,0,0,181,0
+2020-11-15,United States,Kansas,Lyon,0,0,1823,41
+2020-11-15,United States,Kansas,Marion,0,0,316,1
+2020-11-15,United States,Kansas,Marshall,0,0,258,0
+2020-11-15,United States,Kansas,McPherson,0,0,874,8
+2020-11-15,United States,Kansas,Meade,0,0,223,2
+2020-11-15,United States,Kansas,Miami,0,0,747,2
+2020-11-15,United States,Kansas,Mitchell,0,0,113,0
+2020-11-15,United States,Kansas,Montgomery,0,0,862,6
+2020-11-15,United States,Kansas,Morris,0,0,123,1
+2020-11-15,United States,Kansas,Morton,0,0,105,3
+2020-11-15,United States,Kansas,Nemaha,0,0,704,5
+2020-11-15,United States,Kansas,Neosho,0,0,484,0
+2020-11-15,United States,Kansas,Ness,0,0,189,10
+2020-11-15,United States,Kansas,Norton,0,0,944,21
+2020-11-15,United States,Kansas,Osage,0,0,306,5
+2020-11-15,United States,Kansas,Osborne,0,0,47,0
+2020-11-15,United States,Kansas,Ottawa,0,0,158,0
+2020-11-15,United States,Kansas,Pawnee,0,0,495,1
+2020-11-15,United States,Kansas,Phillips,0,0,309,9
+2020-11-15,United States,Kansas,Pottawatomie,0,0,534,0
+2020-11-15,United States,Kansas,Pratt,0,0,366,0
+2020-11-15,United States,Kansas,Rawlins,0,0,154,0
+2020-11-15,United States,Kansas,Reno,0,2,3410,30
+2020-11-15,United States,Kansas,Republic,0,0,159,1
+2020-11-15,United States,Kansas,Rice,0,0,246,1
+2020-11-15,United States,Kansas,Riley,0,0,2807,14
+2020-11-15,United States,Kansas,Rooks,0,0,221,7
+2020-11-15,United States,Kansas,Rush,0,0,140,0
+2020-11-15,United States,Kansas,Russell,0,0,337,7
+2020-11-15,United States,Kansas,Saline,0,0,1603,17
+2020-11-15,United States,Kansas,Scott,0,0,258,1
+2020-11-15,United States,Kansas,Sedgwick,0,3,19504,140
+2020-11-15,United States,Kansas,Seward,0,0,2467,13
+2020-11-15,United States,Kansas,Shawnee,0,0,5335,97
+2020-11-15,United States,Kansas,Sheridan,0,0,268,0
+2020-11-15,United States,Kansas,Sherman,0,0,345,7
+2020-11-15,United States,Kansas,Smith,0,0,72,0
+2020-11-15,United States,Kansas,Stafford,0,0,149,1
+2020-11-15,United States,Kansas,Stanton,0,0,119,2
+2020-11-15,United States,Kansas,Stevens,0,0,317,1
+2020-11-15,United States,Kansas,Sumner,0,0,536,4
+2020-11-15,United States,Kansas,Thomas,0,0,500,2
+2020-11-15,United States,Kansas,Trego,0,0,152,3
+2020-11-15,United States,Kansas,Unassigned,0,-6,0,72
+2020-11-15,United States,Kansas,Wabaunsee,0,0,205,1
+2020-11-15,United States,Kansas,Wallace,0,0,116,0
+2020-11-15,United States,Kansas,Washington,0,0,206,3
+2020-11-15,United States,Kansas,Wichita,0,0,90,1
+2020-11-15,United States,Kansas,Wilson,0,0,203,4
+2020-11-15,United States,Kansas,Woodson,0,0,47,0
+2020-11-15,United States,Kansas,Wyandotte,0,0,9690,167
+2020-11-15,United States,Kentucky,Adair,12,0,582,23
+2020-11-15,United States,Kentucky,Allen,3,0,622,12
+2020-11-15,United States,Kentucky,Anderson,10,0,371,1
+2020-11-15,United States,Kentucky,Ballard,2,0,111,1
+2020-11-15,United States,Kentucky,Barren,24,0,1633,22
+2020-11-15,United States,Kentucky,Bath,6,0,196,1
+2020-11-15,United States,Kentucky,Bell,16,0,1055,18
+2020-11-15,United States,Kentucky,Boone,99,0,3235,25
+2020-11-15,United States,Kentucky,Bourbon,12,0,430,1
+2020-11-15,United States,Kentucky,Boyd,35,0,1003,23
+2020-11-15,United States,Kentucky,Boyle,28,0,658,0
+2020-11-15,United States,Kentucky,Bracken,4,0,103,3
+2020-11-15,United States,Kentucky,Breathitt,9,0,224,2
+2020-11-15,United States,Kentucky,Breckinridge,10,0,336,3
+2020-11-15,United States,Kentucky,Bullitt,47,-1,2152,21
+2020-11-15,United States,Kentucky,Butler,3,0,477,16
+2020-11-15,United States,Kentucky,Caldwell,14,0,421,0
+2020-11-15,United States,Kentucky,Calloway,28,0,1330,10
+2020-11-15,United States,Kentucky,Campbell,55,0,2032,15
+2020-11-15,United States,Kentucky,Carlisle,6,0,147,1
+2020-11-15,United States,Kentucky,Carroll,3,0,264,6
+2020-11-15,United States,Kentucky,Carter,19,0,521,4
+2020-11-15,United States,Kentucky,Casey,14,0,388,16
+2020-11-15,United States,Kentucky,Christian,38,0,2424,34
+2020-11-15,United States,Kentucky,Clark,22,0,690,12
+2020-11-15,United States,Kentucky,Clay,15,0,795,7
+2020-11-15,United States,Kentucky,Clinton,13,0,308,4
+2020-11-15,United States,Kentucky,Crittenden,7,0,200,1
+2020-11-15,United States,Kentucky,Cumberland,4,0,180,0
+2020-11-15,United States,Kentucky,Daviess,64,0,2657,35
+2020-11-15,United States,Kentucky,Edmonson,17,0,246,12
+2020-11-15,United States,Kentucky,Elliott,47,0,496,0
+2020-11-15,United States,Kentucky,Estill,6,0,367,0
+2020-11-15,United States,Kentucky,Fayette,232,2,13680,98
+2020-11-15,United States,Kentucky,Fleming,4,0,241,0
+2020-11-15,United States,Kentucky,Floyd,58,0,846,4
+2020-11-15,United States,Kentucky,Franklin,12,0,1095,14
+2020-11-15,United States,Kentucky,Fulton,0,0,259,3
+2020-11-15,United States,Kentucky,Gallatin,2,0,159,8
+2020-11-15,United States,Kentucky,Garrard,7,0,422,4
+2020-11-15,United States,Kentucky,Grant,14,0,443,6
+2020-11-15,United States,Kentucky,Graves,35,0,1278,32
+2020-11-15,United States,Kentucky,Grayson,16,0,738,18
+2020-11-15,United States,Kentucky,Green,5,0,394,9
+2020-11-15,United States,Kentucky,Greenup,24,0,913,12
+2020-11-15,United States,Kentucky,Hancock,5,0,227,6
+2020-11-15,United States,Kentucky,Hardin,111,0,3120,24
+2020-11-15,United States,Kentucky,Harlan,9,0,742,15
+2020-11-15,United States,Kentucky,Harrison,9,0,339,1
+2020-11-15,United States,Kentucky,Hart,7,0,619,3
+2020-11-15,United States,Kentucky,Henderson,21,0,1699,31
+2020-11-15,United States,Kentucky,Henry,17,0,400,3
+2020-11-15,United States,Kentucky,Hickman,0,0,128,1
+2020-11-15,United States,Kentucky,Hopkins,26,0,1425,44
+2020-11-15,United States,Kentucky,Jackson,3,0,570,17
+2020-11-15,United States,Kentucky,Jefferson,657,1,29237,403
+2020-11-15,United States,Kentucky,Jessamine,33,2,1324,25
+2020-11-15,United States,Kentucky,Johnson,28,0,580,2
+2020-11-15,United States,Kentucky,Kenton,78,1,3970,52
+2020-11-15,United States,Kentucky,Knott,7,1,454,9
+2020-11-15,United States,Kentucky,Knox,18,0,1031,10
+2020-11-15,United States,Kentucky,Larue,7,0,422,1
+2020-11-15,United States,Kentucky,Laurel,39,0,1994,11
+2020-11-15,United States,Kentucky,Lawrence,16,0,264,1
+2020-11-15,United States,Kentucky,Lee,177,1,518,11
+2020-11-15,United States,Kentucky,Leslie,3,0,168,1
+2020-11-15,United States,Kentucky,Letcher,8,0,400,2
+2020-11-15,United States,Kentucky,Lewis,2,1,413,18
+2020-11-15,United States,Kentucky,Lincoln,5,0,457,20
+2020-11-15,United States,Kentucky,Livingston,10,0,202,2
+2020-11-15,United States,Kentucky,Logan,17,0,966,33
+2020-11-15,United States,Kentucky,Lyon,7,0,153,5
+2020-11-15,United States,Kentucky,Madison,62,0,2883,14
+2020-11-15,United States,Kentucky,Magoffin,6,0,305,1
+2020-11-15,United States,Kentucky,Marion,33,0,714,12
+2020-11-15,United States,Kentucky,Marshall,41,0,713,9
+2020-11-15,United States,Kentucky,Martin,9,0,318,5
+2020-11-15,United States,Kentucky,Mason,3,0,267,3
+2020-11-15,United States,Kentucky,McCracken,79,0,1863,12
+2020-11-15,United States,Kentucky,McCreary,4,0,305,1
+2020-11-15,United States,Kentucky,McLean,6,1,304,10
+2020-11-15,United States,Kentucky,Meade,10,0,536,4
+2020-11-15,United States,Kentucky,Menifee,1,0,106,1
+2020-11-15,United States,Kentucky,Mercer,8,0,494,6
+2020-11-15,United States,Kentucky,Metcalfe,11,0,310,2
+2020-11-15,United States,Kentucky,Monroe,16,0,584,5
+2020-11-15,United States,Kentucky,Montgomery,15,0,721,8
+2020-11-15,United States,Kentucky,Morgan,9,0,213,0
+2020-11-15,United States,Kentucky,Muhlenberg,16,0,1123,19
+2020-11-15,United States,Kentucky,Nelson,66,0,1614,4
+2020-11-15,United States,Kentucky,Nicholas,2,0,139,3
+2020-11-15,United States,Kentucky,Ohio,8,0,757,12
+2020-11-15,United States,Kentucky,Oldham,28,0,1753,27
+2020-11-15,United States,Kentucky,Owen,3,0,152,3
+2020-11-15,United States,Kentucky,Owsley,7,0,122,1
+2020-11-15,United States,Kentucky,Pendleton,2,0,217,1
+2020-11-15,United States,Kentucky,Perry,14,1,752,10
+2020-11-15,United States,Kentucky,Pike,14,0,1404,11
+2020-11-15,United States,Kentucky,Powell,14,0,255,0
+2020-11-15,United States,Kentucky,Pulaski,16,0,1193,13
+2020-11-15,United States,Kentucky,Robertson,1,0,54,1
+2020-11-15,United States,Kentucky,Rockcastle,4,0,436,4
+2020-11-15,United States,Kentucky,Rowan,29,0,565,2
+2020-11-15,United States,Kentucky,Russell,9,0,450,7
+2020-11-15,United States,Kentucky,Scott,18,0,1391,20
+2020-11-15,United States,Kentucky,Shelby,64,0,1866,25
+2020-11-15,United States,Kentucky,Simpson,9,0,477,8
+2020-11-15,United States,Kentucky,Spencer,41,0,485,1
+2020-11-15,United States,Kentucky,Taylor,31,0,685,7
+2020-11-15,United States,Kentucky,Todd,2,0,345,13
+2020-11-15,United States,Kentucky,Trigg,8,0,319,0
+2020-11-15,United States,Kentucky,Trimble,4,0,129,0
+2020-11-15,United States,Kentucky,Unassigned,0,0,0,0
+2020-11-15,United States,Kentucky,Union,6,0,610,6
+2020-11-15,United States,Kentucky,Warren,64,0,6190,61
+2020-11-15,United States,Kentucky,Washington,13,0,373,2
+2020-11-15,United States,Kentucky,Wayne,16,0,395,2
+2020-11-15,United States,Kentucky,Webster,12,0,454,5
+2020-11-15,United States,Kentucky,Whitley,15,0,1182,8
+2020-11-15,United States,Kentucky,Wolfe,10,1,132,1
+2020-11-15,United States,Kentucky,Woodford,13,0,538,0
+2020-11-15,United States,Louisiana,Acadia,0,0,3483,108
+2020-11-15,United States,Louisiana,Allen,0,0,1918,66
+2020-11-15,United States,Louisiana,Ascension,0,0,4697,100
+2020-11-15,United States,Louisiana,Assumption,0,0,865,24
+2020-11-15,United States,Louisiana,Avoyelles,0,0,1851,65
+2020-11-15,United States,Louisiana,Beauregard,0,0,1171,43
+2020-11-15,United States,Louisiana,Bienville,0,0,669,35
+2020-11-15,United States,Louisiana,Bossier,0,0,4914,134
+2020-11-15,United States,Louisiana,Caddo,0,0,11274,417
+2020-11-15,United States,Louisiana,Calcasieu,0,0,8893,233
+2020-11-15,United States,Louisiana,Caldwell,0,0,429,4
+2020-11-15,United States,Louisiana,Cameron,0,0,253,3
+2020-11-15,United States,Louisiana,Catahoula,0,0,483,15
+2020-11-15,United States,Louisiana,Claiborne,0,0,655,28
+2020-11-15,United States,Louisiana,Concordia,0,0,703,17
+2020-11-15,United States,Louisiana,De Soto,0,0,1113,35
+2020-11-15,United States,Louisiana,East Baton Rouge,0,0,17118,464
+2020-11-15,United States,Louisiana,East Carroll,0,0,623,6
+2020-11-15,United States,Louisiana,East Feliciana,0,0,1821,82
+2020-11-15,United States,Louisiana,Evangeline,0,0,1554,40
+2020-11-15,United States,Louisiana,Franklin,0,0,1467,53
+2020-11-15,United States,Louisiana,Grant,0,0,570,31
+2020-11-15,United States,Louisiana,Iberia,0,0,3218,99
+2020-11-15,United States,Louisiana,Iberville,0,0,1607,62
+2020-11-15,United States,Louisiana,Jackson,0,0,939,24
+2020-11-15,United States,Louisiana,Jefferson,0,0,19621,595
+2020-11-15,United States,Louisiana,Jefferson Davis,0,0,1453,45
+2020-11-15,United States,Louisiana,Lafayette,0,0,10118,141
+2020-11-15,United States,Louisiana,Lafourche,0,0,4040,131
+2020-11-15,United States,Louisiana,LaSalle,0,0,573,12
+2020-11-15,United States,Louisiana,Lincoln,0,0,1860,53
+2020-11-15,United States,Louisiana,Livingston,0,0,4597,84
+2020-11-15,United States,Louisiana,Madison,0,0,921,11
+2020-11-15,United States,Louisiana,Morehouse,0,0,994,29
+2020-11-15,United States,Louisiana,Natchitoches,0,0,1670,36
+2020-11-15,United States,Louisiana,Orleans,0,0,14249,605
+2020-11-15,United States,Louisiana,Ouachita,0,0,7998,174
+2020-11-15,United States,Louisiana,Out of LA,0,0,0,0
+2020-11-15,United States,Louisiana,Plaquemines,0,0,938,19
+2020-11-15,United States,Louisiana,Pointe Coupee,0,0,1182,45
+2020-11-15,United States,Louisiana,Rapides,0,0,5087,170
+2020-11-15,United States,Louisiana,Red River,0,0,522,25
+2020-11-15,United States,Louisiana,Richland,0,0,1005,21
+2020-11-15,United States,Louisiana,Sabine,0,0,1121,17
+2020-11-15,United States,Louisiana,St. Bernard,0,0,1626,32
+2020-11-15,United States,Louisiana,St. Charles,0,0,2032,65
+2020-11-15,United States,Louisiana,St. Helena,0,0,450,4
+2020-11-15,United States,Louisiana,St. James,0,0,877,40
+2020-11-15,United States,Louisiana,St. John the Baptist,0,0,1757,108
+2020-11-15,United States,Louisiana,St. Landry,0,0,4066,140
+2020-11-15,United States,Louisiana,St. Martin,0,0,2392,65
+2020-11-15,United States,Louisiana,St. Mary,0,0,2119,88
+2020-11-15,United States,Louisiana,St. Tammany,0,0,8217,279
+2020-11-15,United States,Louisiana,Tangipahoa,0,0,5283,130
+2020-11-15,United States,Louisiana,Tensas,0,0,191,3
+2020-11-15,United States,Louisiana,Terrebonne,0,0,4031,128
+2020-11-15,United States,Louisiana,Unassigned,0,0,7612,236
+2020-11-15,United States,Louisiana,Union,0,0,1202,54
+2020-11-15,United States,Louisiana,Vermilion,0,0,2262,70
+2020-11-15,United States,Louisiana,Vernon,0,0,1185,57
+2020-11-15,United States,Louisiana,Washington,0,0,1811,73
+2020-11-15,United States,Louisiana,Webster,0,0,1612,45
+2020-11-15,United States,Louisiana,West Baton Rouge,0,0,1079,42
+2020-11-15,United States,Louisiana,West Carroll,0,0,420,15
+2020-11-15,United States,Louisiana,West Feliciana,0,0,764,25
+2020-11-15,United States,Louisiana,Winn,0,0,756,21
+2020-11-15,United States,Maine,Androscoggin,18,0,1167,14
+2020-11-15,United States,Maine,Aroostook,4,0,86,1
+2020-11-15,United States,Maine,Cumberland,34,0,3172,70
+2020-11-15,United States,Maine,Franklin,6,0,145,2
+2020-11-15,United States,Maine,Hancock,14,0,165,1
+2020-11-15,United States,Maine,Kennebec,14,0,556,12
+2020-11-15,United States,Maine,Knox,2,0,160,2
+2020-11-15,United States,Maine,Lincoln,6,0,103,1
+2020-11-15,United States,Maine,Oxford,5,0,228,2
+2020-11-15,United States,Maine,Penobscot,22,0,475,7
+2020-11-15,United States,Maine,Piscataquis,0,0,23,0
+2020-11-15,United States,Maine,Sagadahoc,2,0,115,0
+2020-11-15,United States,Maine,Somerset,1,0,324,11
+2020-11-15,United States,Maine,Unassigned,-3,0,1,0
+2020-11-15,United States,Maine,Waldo,4,0,192,16
+2020-11-15,United States,Maine,Washington,2,0,141,0
+2020-11-15,United States,Maine,York,21,1,1738,24
+2020-11-15,United States,Maryland,Allegany,121,2,1520,31
+2020-11-15,United States,Maryland,Anne Arundel,197,1,13948,288
+2020-11-15,United States,Maryland,Baltimore,331,1,24013,692
+2020-11-15,United States,Maryland,Baltimore City,273,1,20470,523
+2020-11-15,United States,Maryland,Calvert,9,0,1350,30
+2020-11-15,United States,Maryland,Caroline,6,0,804,9
+2020-11-15,United States,Maryland,Carroll,67,1,2682,131
+2020-11-15,United States,Maryland,Cecil,31,0,1570,37
+2020-11-15,United States,Maryland,Charles,54,0,3670,104
+2020-11-15,United States,Maryland,Dorchester,7,0,905,13
+2020-11-15,United States,Maryland,Frederick,54,0,5495,140
+2020-11-15,United States,Maryland,Garrett,34,0,274,1
+2020-11-15,United States,Maryland,Harford,124,0,4532,85
+2020-11-15,United States,Maryland,Howard,75,0,6731,131
+2020-11-15,United States,Maryland,Kent,1,0,370,26
+2020-11-15,United States,Maryland,Montgomery,342,2,28727,905
+2020-11-15,United States,Maryland,Prince George`s,386,3,36052,883
+2020-11-15,United States,Maryland,Queen Anne`s,17,0,902,27
+2020-11-15,United States,Maryland,Somerset,3,0,532,8
+2020-11-15,United States,Maryland,St. Mary`s,32,0,1702,60
+2020-11-15,United States,Maryland,Talbot,8,0,697,7
+2020-11-15,United States,Maryland,Unassigned,0,6,0,25
+2020-11-15,United States,Maryland,Washington,80,2,2955,51
+2020-11-15,United States,Maryland,Wicomico,49,0,2849,54
+2020-11-15,United States,Maryland,Worcester,20,1,1340,32
+2020-11-15,United States,Massachusetts,Barnstable,23,1,2266,187
+2020-11-15,United States,Massachusetts,Berkshire,20,0,1021,52
+2020-11-15,United States,Massachusetts,Bristol,329,3,15723,792
+2020-11-15,United States,Massachusetts,Dukes and Nantucket,19,0,408,2
+2020-11-15,United States,Massachusetts,Essex,538,3,28583,1390
+2020-11-15,United States,Massachusetts,Franklin,9,0,545,75
+2020-11-15,United States,Massachusetts,Hampden,270,4,12732,849
+2020-11-15,United States,Massachusetts,Hampshire,35,1,1850,160
+2020-11-15,United States,Massachusetts,Middlesex,539,4,37652,2351
+2020-11-15,United States,Massachusetts,Norfolk,145,8,13668,1147
+2020-11-15,United States,Massachusetts,Plymouth,124,2,12827,865
+2020-11-15,United States,Massachusetts,Suffolk,373,1,32561,1205
+2020-11-15,United States,Massachusetts,Unassigned,238,0,6140,6
+2020-11-15,United States,Massachusetts,Worcester,385,1,20166,1212
+2020-11-15,United States,Michigan,Alcona,10,0,92,3
+2020-11-15,United States,Michigan,Alger,5,1,171,2
+2020-11-15,United States,Michigan,Allegan,100,0,2596,13
+2020-11-15,United States,Michigan,Alpena,23,0,297,16
+2020-11-15,United States,Michigan,Antrim,6,0,259,1
+2020-11-15,United States,Michigan,Arenac,16,1,215,6
+2020-11-15,United States,Michigan,Baraga,18,0,301,5
+2020-11-15,United States,Michigan,Barry,50,0,1347,10
+2020-11-15,United States,Michigan,Bay,149,1,2846,80
+2020-11-15,United States,Michigan,Benzie,7,0,224,3
+2020-11-15,United States,Michigan,Berrien,138,2,4382,102
+2020-11-15,United States,Michigan,Branch,44,1,1518,20
+2020-11-15,United States,Michigan,Calhoun,93,3,4742,99
+2020-11-15,United States,Michigan,Cass,43,1,1595,27
+2020-11-15,United States,Michigan,Charlevoix,7,0,347,5
+2020-11-15,United States,Michigan,Cheboygan,5,1,311,14
+2020-11-15,United States,Michigan,Chippewa,37,0,514,2
+2020-11-15,United States,Michigan,Clare,28,3,525,23
+2020-11-15,United States,Michigan,Clinton,100,0,2042,18
+2020-11-15,United States,Michigan,Crawford,-2,0,220,5
+2020-11-15,United States,Michigan,Delta,54,1,2036,55
+2020-11-15,United States,Michigan,Dickinson,38,0,1245,28
+2020-11-15,United States,Michigan,Eaton,129,0,2086,23
+2020-11-15,United States,Michigan,Emmet,24,0,711,18
+2020-11-15,United States,Michigan,Federal Correctional Institution (FCI),0,0,197,5
+2020-11-15,United States,Michigan,Genesee,324,4,10245,372
+2020-11-15,United States,Michigan,Gladwin,30,0,458,6
+2020-11-15,United States,Michigan,Gogebic,14,0,641,19
+2020-11-15,United States,Michigan,Grand Traverse,39,0,1266,15
+2020-11-15,United States,Michigan,Gratiot,-22,0,1058,21
+2020-11-15,United States,Michigan,Hillsdale,49,1,986,32
+2020-11-15,United States,Michigan,Houghton,35,0,1265,9
+2020-11-15,United States,Michigan,Huron,13,0,460,8
+2020-11-15,United States,Michigan,Ingham,225,4,6578,85
+2020-11-15,United States,Michigan,Ionia,67,0,1472,12
+2020-11-15,United States,Michigan,Iosco,19,0,477,19
+2020-11-15,United States,Michigan,Iron,12,2,605,31
+2020-11-15,United States,Michigan,Isabella,75,0,1741,18
+2020-11-15,United States,Michigan,Jackson,149,0,3253,84
+2020-11-15,United States,Michigan,Kalamazoo,116,4,7177,143
+2020-11-15,United States,Michigan,Kalkaska,3,0,237,4
+2020-11-15,United States,Michigan,Kent,691,4,23625,247
+2020-11-15,United States,Michigan,Keweenaw,4,0,38,1
+2020-11-15,United States,Michigan,Lake,10,0,126,1
+2020-11-15,United States,Michigan,Lapeer,56,1,1541,44
+2020-11-15,United States,Michigan,Leelanau,14,0,255,2
+2020-11-15,United States,Michigan,Lenawee,45,1,1685,22
+2020-11-15,United States,Michigan,Livingston,77,0,3549,35
+2020-11-15,United States,Michigan,Luce,-2,0,140,0
+2020-11-15,United States,Michigan,Mackinac,5,0,216,0
+2020-11-15,United States,Michigan,Macomb,878,10,27199,1166
+2020-11-15,United States,Michigan,Manistee,1,0,235,5
+2020-11-15,United States,Michigan,Marquette,33,1,2065,22
+2020-11-15,United States,Michigan,Mason,7,2,412,6
+2020-11-15,United States,Michigan,Mecosta,14,0,891,6
+2020-11-15,United States,Michigan,Menominee,8,0,1044,10
+2020-11-15,United States,Michigan,Michigan Department of Corrections (MDOC),303,0,9228,76
+2020-11-15,United States,Michigan,Midland,91,0,2086,16
+2020-11-15,United States,Michigan,Missaukee,3,0,182,1
+2020-11-15,United States,Michigan,Monroe,84,-1,3452,51
+2020-11-15,United States,Michigan,Montcalm,44,0,1257,16
+2020-11-15,United States,Michigan,Montmorency,4,0,81,0
+2020-11-15,United States,Michigan,Muskegon,194,0,4783,110
+2020-11-15,United States,Michigan,Newaygo,36,0,1091,8
+2020-11-15,United States,Michigan,Oakland,752,7,34658,1282
+2020-11-15,United States,Michigan,Oceana,11,0,892,8
+2020-11-15,United States,Michigan,Ogemaw,11,0,291,7
+2020-11-15,United States,Michigan,Ontonagon,2,1,237,6
+2020-11-15,United States,Michigan,Osceola,6,1,334,2
+2020-11-15,United States,Michigan,Oscoda,2,0,91,2
+2020-11-15,United States,Michigan,Otsego,18,0,530,14
+2020-11-15,United States,Michigan,Ottawa,360,3,9408,98
+2020-11-15,United States,Michigan,Out of MI,2,0,591,4
+2020-11-15,United States,Michigan,Presque Isle,7,0,149,2
+2020-11-15,United States,Michigan,Roscommon,10,0,359,8
+2020-11-15,United States,Michigan,Saginaw,192,2,6221,178
+2020-11-15,United States,Michigan,Sanilac,6,-1,408,9
+2020-11-15,United States,Michigan,Schoolcraft,4,0,153,1
+2020-11-15,United States,Michigan,Shiawassee,52,-1,1310,35
+2020-11-15,United States,Michigan,St. Clair,135,1,2822,71
+2020-11-15,United States,Michigan,St. Joseph,40,-1,1993,27
+2020-11-15,United States,Michigan,Tuscola,28,1,1149,41
+2020-11-15,United States,Michigan,Unassigned,1,0,13,0
+2020-11-15,United States,Michigan,Van Buren,67,0,1925,25
+2020-11-15,United States,Michigan,Washtenaw,144,2,7512,124
+2020-11-15,United States,Michigan,Wayne,701,5,50486,3119
+2020-11-15,United States,Michigan,Wexford,9,0,341,7
+2020-11-15,United States,Minnesota,Aitkin,40,2,458,12
+2020-11-15,United States,Minnesota,Anoka,724,1,15539,188
+2020-11-15,United States,Minnesota,Becker,95,0,1253,4
+2020-11-15,United States,Minnesota,Beltrami,46,0,1471,13
+2020-11-15,United States,Minnesota,Benton,80,0,1987,28
+2020-11-15,United States,Minnesota,Big Stone,8,0,233,1
+2020-11-15,United States,Minnesota,Blue Earth,109,2,2890,10
+2020-11-15,United States,Minnesota,Brown,59,0,752,5
+2020-11-15,United States,Minnesota,Carlton,40,0,1108,8
+2020-11-15,United States,Minnesota,Carver,177,0,2889,9
+2020-11-15,United States,Minnesota,Cass,55,0,888,8
+2020-11-15,United States,Minnesota,Chippewa,16,0,636,6
+2020-11-15,United States,Minnesota,Chisago,110,1,2208,4
+2020-11-15,United States,Minnesota,Clay,111,0,3693,50
+2020-11-15,United States,Minnesota,Clearwater,16,0,296,3
+2020-11-15,United States,Minnesota,Cook,1,0,40,0
+2020-11-15,United States,Minnesota,Cottonwood,46,0,494,0
+2020-11-15,United States,Minnesota,Crow Wing,121,1,2332,25
+2020-11-15,United States,Minnesota,Dakota,590,1,15081,158
+2020-11-15,United States,Minnesota,Dodge,16,0,541,0
+2020-11-15,United States,Minnesota,Douglas,92,1,1575,16
+2020-11-15,United States,Minnesota,Faribault,13,0,354,0
+2020-11-15,United States,Minnesota,Fillmore,19,0,423,0
+2020-11-15,United States,Minnesota,Freeborn,49,0,995,5
+2020-11-15,United States,Minnesota,Goodhue,46,0,1106,20
+2020-11-15,United States,Minnesota,Grant,11,0,167,5
+2020-11-15,United States,Minnesota,Hennepin,1728,4,49262,1039
+2020-11-15,United States,Minnesota,Houston,18,0,456,2
+2020-11-15,United States,Minnesota,Hubbard,36,1,754,14
+2020-11-15,United States,Minnesota,Isanti,80,0,1209,10
+2020-11-15,United States,Minnesota,Itasca,33,0,1291,19
+2020-11-15,United States,Minnesota,Jackson,7,0,314,1
+2020-11-15,United States,Minnesota,Kanabec,12,0,400,11
+2020-11-15,United States,Minnesota,Kandiyohi,133,1,2609,9
+2020-11-15,United States,Minnesota,Kittson,6,0,127,1
+2020-11-15,United States,Minnesota,Koochiching,13,0,256,5
+2020-11-15,United States,Minnesota,Lac qui Parle,11,0,228,3
+2020-11-15,United States,Minnesota,Lake,4,1,220,1
+2020-11-15,United States,Minnesota,Lake of the Woods,3,0,70,1
+2020-11-15,United States,Minnesota,Le Sueur,33,0,959,7
+2020-11-15,United States,Minnesota,Lincoln,8,0,256,1
+2020-11-15,United States,Minnesota,Lyon,73,0,1503,7
+2020-11-15,United States,Minnesota,Mahnomen,11,0,179,3
+2020-11-15,United States,Minnesota,Marshall,13,0,308,6
+2020-11-15,United States,Minnesota,Martin,15,0,775,19
+2020-11-15,United States,Minnesota,McLeod,68,0,1181,6
+2020-11-15,United States,Minnesota,Meeker,55,0,703,5
+2020-11-15,United States,Minnesota,Mille Lacs,51,2,1018,26
+2020-11-15,United States,Minnesota,Morrison,52,0,1348,16
+2020-11-15,United States,Minnesota,Mower,32,0,1752,21
+2020-11-15,United States,Minnesota,Murray,23,0,424,3
+2020-11-15,United States,Minnesota,Nicollet,46,0,1088,21
+2020-11-15,United States,Minnesota,Nobles,41,0,2755,25
+2020-11-15,United States,Minnesota,Norman,9,0,245,5
+2020-11-15,United States,Minnesota,Olmsted,205,0,4643,30
+2020-11-15,United States,Minnesota,Otter Tail,121,0,1795,11
+2020-11-15,United States,Minnesota,Pennington,17,1,375,3
+2020-11-15,United States,Minnesota,Pine,33,0,891,4
+2020-11-15,United States,Minnesota,Pipestone,38,0,533,17
+2020-11-15,United States,Minnesota,Polk,47,0,1638,17
+2020-11-15,United States,Minnesota,Pope,28,0,344,0
+2020-11-15,United States,Minnesota,Ramsey,689,5,20698,429
+2020-11-15,United States,Minnesota,Red Lake,4,0,136,3
+2020-11-15,United States,Minnesota,Redwood,52,1,520,15
+2020-11-15,United States,Minnesota,Renville,43,0,490,14
+2020-11-15,United States,Minnesota,Rice,134,2,2600,23
+2020-11-15,United States,Minnesota,Rock,18,0,489,9
+2020-11-15,United States,Minnesota,Roseau,36,0,681,1
+2020-11-15,United States,Minnesota,Scott,260,0,5596,49
+2020-11-15,United States,Minnesota,Sherburne,153,0,3810,30
+2020-11-15,United States,Minnesota,Sibley,31,0,440,3
+2020-11-15,United States,Minnesota,St. Louis,186,1,5402,83
+2020-11-15,United States,Minnesota,Stearns,359,2,9724,71
+2020-11-15,United States,Minnesota,Steele,64,0,1138,5
+2020-11-15,United States,Minnesota,Stevens,46,0,338,1
+2020-11-15,United States,Minnesota,Swift,12,0,369,3
+2020-11-15,United States,Minnesota,Todd,44,0,1389,12
+2020-11-15,United States,Minnesota,Traverse,6,0,95,0
+2020-11-15,United States,Minnesota,Unassigned,-73,0,323,56
+2020-11-15,United States,Minnesota,Wabasha,19,0,606,1
+2020-11-15,United States,Minnesota,Wadena,25,0,504,6
+2020-11-15,United States,Minnesota,Waseca,17,0,1048,10
+2020-11-15,United States,Minnesota,Washington,408,5,10119,94
+2020-11-15,United States,Minnesota,Watonwan,11,0,653,4
+2020-11-15,United States,Minnesota,Wilkin,14,0,244,4
+2020-11-15,United States,Minnesota,Winona,43,0,1986,22
+2020-11-15,United States,Minnesota,Wright,276,0,4863,27
+2020-11-15,United States,Minnesota,Yellow Medicine,19,0,449,8
+2020-11-15,United States,Mississippi,Adams,8,0,1222,47
+2020-11-15,United States,Mississippi,Alcorn,22,0,1307,21
+2020-11-15,United States,Mississippi,Amite,2,0,457,14
+2020-11-15,United States,Mississippi,Attala,13,0,948,27
+2020-11-15,United States,Mississippi,Benton,6,0,442,16
+2020-11-15,United States,Mississippi,Bolivar,13,0,2245,82
+2020-11-15,United States,Mississippi,Calhoun,3,0,680,13
+2020-11-15,United States,Mississippi,Carroll,19,0,643,13
+2020-11-15,United States,Mississippi,Chickasaw,11,0,964,31
+2020-11-15,United States,Mississippi,Choctaw,4,0,258,7
+2020-11-15,United States,Mississippi,Claiborne,3,0,562,16
+2020-11-15,United States,Mississippi,Clarke,2,0,840,53
+2020-11-15,United States,Mississippi,Clay,5,1,802,26
+2020-11-15,United States,Mississippi,Coahoma,11,2,1358,39
+2020-11-15,United States,Mississippi,Copiah,5,0,1499,38
+2020-11-15,United States,Mississippi,Covington,5,1,1101,32
+2020-11-15,United States,Mississippi,DeSoto,107,1,8763,87
+2020-11-15,United States,Mississippi,Forrest,36,0,3401,83
+2020-11-15,United States,Mississippi,Franklin,1,1,275,4
+2020-11-15,United States,Mississippi,George,7,1,1150,22
+2020-11-15,United States,Mississippi,Greene,11,0,554,19
+2020-11-15,United States,Mississippi,Grenada,4,0,1298,43
+2020-11-15,United States,Mississippi,Hancock,23,0,1060,34
+2020-11-15,United States,Mississippi,Harrison,73,1,6404,101
+2020-11-15,United States,Mississippi,Hinds,68,2,8914,186
+2020-11-15,United States,Mississippi,Holmes,3,0,1193,60
+2020-11-15,United States,Mississippi,Humphreys,4,0,499,18
+2020-11-15,United States,Mississippi,Issaquena,0,0,108,4
+2020-11-15,United States,Mississippi,Itawamba,11,1,1347,33
+2020-11-15,United States,Mississippi,Jackson,73,0,5713,105
+2020-11-15,United States,Mississippi,Jasper,7,0,770,20
+2020-11-15,United States,Mississippi,Jefferson,0,0,298,11
+2020-11-15,United States,Mississippi,Jefferson Davis,10,0,504,15
+2020-11-15,United States,Mississippi,Jones,27,1,3234,86
+2020-11-15,United States,Mississippi,Kemper,2,0,358,15
+2020-11-15,United States,Mississippi,Lafayette,30,0,2847,45
+2020-11-15,United States,Mississippi,Lamar,16,1,2583,47
+2020-11-15,United States,Mississippi,Lauderdale,39,0,3017,141
+2020-11-15,United States,Mississippi,Lawrence,16,0,633,14
+2020-11-15,United States,Mississippi,Leake,7,0,1256,43
+2020-11-15,United States,Mississippi,Lee,79,2,4369,89
+2020-11-15,United States,Mississippi,Leflore,15,0,1906,88
+2020-11-15,United States,Mississippi,Lincoln,19,0,1606,64
+2020-11-15,United States,Mississippi,Lowndes,29,0,2114,62
+2020-11-15,United States,Mississippi,Madison,38,0,4282,97
+2020-11-15,United States,Mississippi,Marion,8,0,1035,46
+2020-11-15,United States,Mississippi,Marshall,75,1,1882,39
+2020-11-15,United States,Mississippi,Monroe,16,0,1742,76
+2020-11-15,United States,Mississippi,Montgomery,11,1,663,24
+2020-11-15,United States,Mississippi,Neshoba,21,0,2040,111
+2020-11-15,United States,Mississippi,Newton,8,0,965,29
+2020-11-15,United States,Mississippi,Noxubee,6,0,646,17
+2020-11-15,United States,Mississippi,Oktibbeha,18,0,2239,58
+2020-11-15,United States,Mississippi,Panola,12,0,1940,43
+2020-11-15,United States,Mississippi,Pearl River,9,1,1310,65
+2020-11-15,United States,Mississippi,Perry,11,0,592,24
+2020-11-15,United States,Mississippi,Pike,24,0,1527,58
+2020-11-15,United States,Mississippi,Pontotoc,17,1,1779,25
+2020-11-15,United States,Mississippi,Prentiss,6,1,1279,24
+2020-11-15,United States,Mississippi,Quitman,1,-1,449,6
+2020-11-15,United States,Mississippi,Rankin,42,1,4744,90
+2020-11-15,United States,Mississippi,Scott,10,0,1380,29
+2020-11-15,United States,Mississippi,Sharkey,1,0,294,16
+2020-11-15,United States,Mississippi,Simpson,15,0,1351,52
+2020-11-15,United States,Mississippi,Smith,1,0,658,16
+2020-11-15,United States,Mississippi,Stone,13,0,621,14
+2020-11-15,United States,Mississippi,Sunflower,8,0,1784,54
+2020-11-15,United States,Mississippi,Tallahatchie,1,0,915,27
+2020-11-15,United States,Mississippi,Tate,23,1,1487,45
+2020-11-15,United States,Mississippi,Tippah,14,0,1102,28
+2020-11-15,United States,Mississippi,Tishomingo,17,0,971,41
+2020-11-15,United States,Mississippi,Tunica,6,0,572,18
+2020-11-15,United States,Mississippi,Unassigned,0,0,0,0
+2020-11-15,United States,Mississippi,Union,17,0,1452,25
+2020-11-15,United States,Mississippi,Walthall,8,0,705,27
+2020-11-15,United States,Mississippi,Warren,11,0,1649,56
+2020-11-15,United States,Mississippi,Washington,13,0,2873,105
+2020-11-15,United States,Mississippi,Wayne,15,0,1105,22
+2020-11-15,United States,Mississippi,Webster,2,0,398,14
+2020-11-15,United States,Mississippi,Wilkinson,1,0,360,22
+2020-11-15,United States,Mississippi,Winston,12,0,1005,22
+2020-11-15,United States,Mississippi,Yalobusha,3,0,629,25
+2020-11-15,United States,Mississippi,Yazoo,7,0,1413,36
+2020-11-15,United States,Missouri,Adair,50,0,867,0
+2020-11-15,United States,Missouri,Andrew,38,0,617,8
+2020-11-15,United States,Missouri,Atchison,14,0,146,1
+2020-11-15,United States,Missouri,Audrain,37,0,849,11
+2020-11-15,United States,Missouri,Barry,39,0,1190,19
+2020-11-15,United States,Missouri,Barton,19,0,555,4
+2020-11-15,United States,Missouri,Bates,30,0,383,8
+2020-11-15,United States,Missouri,Benton,21,0,674,7
+2020-11-15,United States,Missouri,Bollinger,27,0,691,6
+2020-11-15,United States,Missouri,Boone,423,0,8650,15
+2020-11-15,United States,Missouri,Buchanan,124,0,3807,47
+2020-11-15,United States,Missouri,Butler,92,0,1722,8
+2020-11-15,United States,Missouri,Caldwell,28,0,287,1
+2020-11-15,United States,Missouri,Callaway,134,0,2253,7
+2020-11-15,United States,Missouri,Camden,53,2,2077,43
+2020-11-15,United States,Missouri,Cape Girardeau,163,0,3961,58
+2020-11-15,United States,Missouri,Carroll,25,0,316,4
+2020-11-15,United States,Missouri,Carter,9,0,231,4
+2020-11-15,United States,Missouri,Cass,146,0,2911,35
+2020-11-15,United States,Missouri,Cedar,13,0,360,4
+2020-11-15,United States,Missouri,Chariton,22,0,177,0
+2020-11-15,United States,Missouri,Christian,72,0,3114,20
+2020-11-15,United States,Missouri,Clark,16,0,224,2
+2020-11-15,United States,Missouri,Clay,162,4,3652,58
+2020-11-15,United States,Missouri,Clinton,34,0,735,38
+2020-11-15,United States,Missouri,Cole,276,0,4923,36
+2020-11-15,United States,Missouri,Cooper,53,0,988,6
+2020-11-15,United States,Missouri,Crawford,54,0,961,10
+2020-11-15,United States,Missouri,Dade,14,0,236,5
+2020-11-15,United States,Missouri,Dallas,14,0,510,3
+2020-11-15,United States,Missouri,Daviess,9,0,287,5
+2020-11-15,United States,Missouri,DeKalb,20,0,452,9
+2020-11-15,United States,Missouri,Dent,26,0,376,4
+2020-11-15,United States,Missouri,Douglas,6,0,356,14
+2020-11-15,United States,Missouri,Dunklin,50,0,1463,13
+2020-11-15,United States,Missouri,Franklin,171,1,3836,58
+2020-11-15,United States,Missouri,Gasconade,10,0,371,24
+2020-11-15,United States,Missouri,Gentry,31,0,323,11
+2020-11-15,United States,Missouri,Greene,281,0,11654,158
+2020-11-15,United States,Missouri,Grundy,43,0,405,12
+2020-11-15,United States,Missouri,Harrison,34,0,303,1
+2020-11-15,United States,Missouri,Henry,51,0,791,8
+2020-11-15,United States,Missouri,Hickory,16,0,327,4
+2020-11-15,United States,Missouri,Holt,7,0,188,2
+2020-11-15,United States,Missouri,Howard,28,0,387,2
+2020-11-15,United States,Missouri,Howell,34,0,1438,22
+2020-11-15,United States,Missouri,Iron,7,0,166,0
+2020-11-15,United States,Missouri,Jackson,628,0,13748,153
+2020-11-15,United States,Missouri,Jasper,282,0,6995,98
+2020-11-15,United States,Missouri,Jefferson,375,0,8232,94
+2020-11-15,United States,Missouri,Johnson,62,0,2075,11
+2020-11-15,United States,Missouri,Kansas City,716,0,19083,244
+2020-11-15,United States,Missouri,Knox,6,0,102,1
+2020-11-15,United States,Missouri,Laclede,37,0,1530,28
+2020-11-15,United States,Missouri,Lafayette,40,0,1221,27
+2020-11-15,United States,Missouri,Lawrence,68,0,1585,32
+2020-11-15,United States,Missouri,Lewis,23,0,359,2
+2020-11-15,United States,Missouri,Lincoln,101,0,1817,7
+2020-11-15,United States,Missouri,Linn,18,0,249,10
+2020-11-15,United States,Missouri,Livingston,26,0,673,10
+2020-11-15,United States,Missouri,Macon,45,0,444,1
+2020-11-15,United States,Missouri,Madison,46,0,694,7
+2020-11-15,United States,Missouri,Maries,13,0,294,1
+2020-11-15,United States,Missouri,Marion,65,0,1391,15
+2020-11-15,United States,Missouri,McDonald,14,0,1318,15
+2020-11-15,United States,Missouri,Mercer,3,0,59,0
+2020-11-15,United States,Missouri,Miller,44,1,1257,21
+2020-11-15,United States,Missouri,Mississippi,25,0,580,6
+2020-11-15,United States,Missouri,Moniteau,63,0,1014,14
+2020-11-15,United States,Missouri,Monroe,15,0,292,3
+2020-11-15,United States,Missouri,Montgomery,12,0,260,5
+2020-11-15,United States,Missouri,Morgan,27,0,907,8
+2020-11-15,United States,Missouri,New Madrid,77,0,1112,23
+2020-11-15,United States,Missouri,Newton,80,0,2589,26
+2020-11-15,United States,Missouri,Nodaway,32,0,1635,11
+2020-11-15,United States,Missouri,Oregon,12,0,314,0
+2020-11-15,United States,Missouri,Osage,30,0,764,3
+2020-11-15,United States,Missouri,Ozark,9,0,257,1
+2020-11-15,United States,Missouri,Pemiscot,36,0,946,15
+2020-11-15,United States,Missouri,Perry,125,0,1257,8
+2020-11-15,United States,Missouri,Pettis,60,0,2452,28
+2020-11-15,United States,Missouri,Phelps,73,0,1287,34
+2020-11-15,United States,Missouri,Pike,60,0,654,8
+2020-11-15,United States,Missouri,Platte,57,0,1328,14
+2020-11-15,United States,Missouri,Polk,35,0,1234,11
+2020-11-15,United States,Missouri,Pulaski,46,1,1295,14
+2020-11-15,United States,Missouri,Putnam,8,0,96,1
+2020-11-15,United States,Missouri,Ralls,26,0,336,1
+2020-11-15,United States,Missouri,Randolph,94,0,989,4
+2020-11-15,United States,Missouri,Ray,38,0,540,2
+2020-11-15,United States,Missouri,Reynolds,6,0,133,2
+2020-11-15,United States,Missouri,Ripley,31,0,420,5
+2020-11-15,United States,Missouri,Saline,57,1,1337,12
+2020-11-15,United States,Missouri,Schuyler,9,0,110,0
+2020-11-15,United States,Missouri,Scotland,15,0,135,1
+2020-11-15,United States,Missouri,Scott,86,0,2045,33
+2020-11-15,United States,Missouri,Shannon,5,1,313,8
+2020-11-15,United States,Missouri,Shelby,7,0,158,1
+2020-11-15,United States,Missouri,St. Charles,692,2,15531,169
+2020-11-15,United States,Missouri,St. Clair,31,0,237,1
+2020-11-15,United States,Missouri,St. Francois,204,0,4088,36
+2020-11-15,United States,Missouri,St. Louis,805,2,40359,914
+2020-11-15,United States,Missouri,St. Louis City,113,0,11388,249
+2020-11-15,United States,Missouri,Ste. Genevieve,71,0,825,2
+2020-11-15,United States,Missouri,Stoddard,68,0,1226,17
+2020-11-15,United States,Missouri,Stone,37,0,964,13
+2020-11-15,United States,Missouri,Sullivan,18,0,483,5
+2020-11-15,United States,Missouri,Taney,58,0,2306,36
+2020-11-15,United States,Missouri,Texas,29,0,830,6
+2020-11-15,United States,Missouri,Unassigned,248,0,9851,0
+2020-11-15,United States,Missouri,Vernon,22,0,537,4
+2020-11-15,United States,Missouri,Warren,54,0,901,2
+2020-11-15,United States,Missouri,Washington,113,0,1135,21
+2020-11-15,United States,Missouri,Wayne,12,0,404,3
+2020-11-15,United States,Missouri,Webster,50,0,1506,23
+2020-11-15,United States,Missouri,Worth,4,0,48,0
+2020-11-15,United States,Missouri,Wright,11,0,687,11
+2020-11-15,United States,Montana,Beaverhead,4,0,416,2
+2020-11-15,United States,Montana,Big Horn,19,4,1597,45
+2020-11-15,United States,Montana,Blaine,6,5,461,13
+2020-11-15,United States,Montana,Broadwater,6,0,135,0
+2020-11-15,United States,Montana,Carbon,27,1,466,3
+2020-11-15,United States,Montana,Carter,9,1,95,3
+2020-11-15,United States,Montana,Cascade,509,6,3512,49
+2020-11-15,United States,Montana,Chouteau,23,1,200,1
+2020-11-15,United States,Montana,Custer,19,0,518,6
+2020-11-15,United States,Montana,Daniels,2,1,68,4
+2020-11-15,United States,Montana,Dawson,14,0,429,8
+2020-11-15,United States,Montana,Deer Lodge,21,0,601,9
+2020-11-15,United States,Montana,Fallon,8,0,156,0
+2020-11-15,United States,Montana,Fergus,19,0,396,2
+2020-11-15,United States,Montana,Flathead,135,0,4915,27
+2020-11-15,United States,Montana,Gallatin,168,1,5395,13
+2020-11-15,United States,Montana,Garfield,1,0,44,0
+2020-11-15,United States,Montana,Glacier,13,1,1108,18
+2020-11-15,United States,Montana,Golden Valley,1,0,20,0
+2020-11-15,United States,Montana,Granite,3,1,95,1
+2020-11-15,United States,Montana,Hill,35,1,1129,22
+2020-11-15,United States,Montana,Jefferson,16,0,296,0
+2020-11-15,United States,Montana,Judith Basin,4,0,34,0
+2020-11-15,United States,Montana,Lake,13,1,783,8
+2020-11-15,United States,Montana,Lewis and Clark,86,2,1735,9
+2020-11-15,United States,Montana,Liberty,4,0,43,1
+2020-11-15,United States,Montana,Lincoln,22,0,539,6
+2020-11-15,United States,Montana,Madison,12,1,309,2
+2020-11-15,United States,Montana,McCone,3,0,77,0
+2020-11-15,United States,Montana,Meagher,3,1,101,7
+2020-11-15,United States,Montana,Mineral,8,1,26,1
+2020-11-15,United States,Montana,Missoula,-30,0,3316,31
+2020-11-15,United States,Montana,Musselshell,11,0,176,2
+2020-11-15,United States,Montana,Park,18,0,417,0
+2020-11-15,United States,Montana,Petroleum,-1,0,4,0
+2020-11-15,United States,Montana,Phillips,6,0,222,4
+2020-11-15,United States,Montana,Pondera,12,0,229,1
+2020-11-15,United States,Montana,Powder River,-2,0,72,5
+2020-11-15,United States,Montana,Powell,55,0,373,1
+2020-11-15,United States,Montana,Prairie,1,0,45,0
+2020-11-15,United States,Montana,Ravalli,30,1,774,5
+2020-11-15,United States,Montana,Richland,34,1,465,7
+2020-11-15,United States,Montana,Roosevelt,20,1,1120,36
+2020-11-15,United States,Montana,Rosebud,-101,1,816,22
+2020-11-15,United States,Montana,Sanders,3,0,157,2
+2020-11-15,United States,Montana,Sheridan,10,0,200,0
+2020-11-15,United States,Montana,Silver Bow,103,1,1124,13
+2020-11-15,United States,Montana,Stillwater,17,0,331,4
+2020-11-15,United States,Montana,Sweet Grass,14,0,177,2
+2020-11-15,United States,Montana,Teton,11,1,131,2
+2020-11-15,United States,Montana,Toole,4,0,566,8
+2020-11-15,United States,Montana,Treasure,3,0,28,1
+2020-11-15,United States,Montana,Unassigned,0,0,0,0
+2020-11-15,United States,Montana,Valley,23,0,488,5
+2020-11-15,United States,Montana,Wheatland,1,0,81,3
+2020-11-15,United States,Montana,Wibaux,6,0,57,0
+2020-11-15,United States,Montana,Yellowstone,181,2,8818,100
+2020-11-15,United States,Nebraska,Adams,25,0,1223,18
+2020-11-15,United States,Nebraska,Antelope,6,0,250,1
+2020-11-15,United States,Nebraska,Arthur,0,0,14,0
+2020-11-15,United States,Nebraska,Banner,1,0,7,0
+2020-11-15,United States,Nebraska,Blaine,0,0,10,0
+2020-11-15,United States,Nebraska,Boone,5,0,238,0
+2020-11-15,United States,Nebraska,Box Butte,5,0,394,2
+2020-11-15,United States,Nebraska,Boyd,1,0,93,2
+2020-11-15,United States,Nebraska,Brown,8,0,125,0
+2020-11-15,United States,Nebraska,Buffalo,88,0,2797,24
+2020-11-15,United States,Nebraska,Burt,7,0,293,1
+2020-11-15,United States,Nebraska,Butler,7,0,405,3
+2020-11-15,United States,Nebraska,Cass,18,0,828,5
+2020-11-15,United States,Nebraska,Cedar,10,0,238,1
+2020-11-15,United States,Nebraska,Chase,2,0,228,1
+2020-11-15,United States,Nebraska,Cherry,12,0,134,4
+2020-11-15,United States,Nebraska,Cheyenne,25,0,333,0
+2020-11-15,United States,Nebraska,Clay,8,0,277,2
+2020-11-15,United States,Nebraska,Colfax,12,0,1139,7
+2020-11-15,United States,Nebraska,Cuming,14,0,454,3
+2020-11-15,United States,Nebraska,Custer,5,0,334,7
+2020-11-15,United States,Nebraska,Dakota,19,0,2842,49
+2020-11-15,United States,Nebraska,Dawes,1,0,377,7
+2020-11-15,United States,Nebraska,Dawson,27,0,1674,15
+2020-11-15,United States,Nebraska,Deuel,-1,0,27,0
+2020-11-15,United States,Nebraska,Dixon,2,0,264,3
+2020-11-15,United States,Nebraska,Dodge,48,0,2311,26
+2020-11-15,United States,Nebraska,Douglas,454,3,30538,257
+2020-11-15,United States,Nebraska,Dundy,1,0,47,2
+2020-11-15,United States,Nebraska,Fillmore,12,0,255,3
+2020-11-15,United States,Nebraska,Franklin,2,0,140,2
+2020-11-15,United States,Nebraska,Frontier,3,0,72,1
+2020-11-15,United States,Nebraska,Furnas,3,0,186,3
+2020-11-15,United States,Nebraska,Gage,13,0,977,6
+2020-11-15,United States,Nebraska,Garden,-1,0,64,0
+2020-11-15,United States,Nebraska,Garfield,1,0,64,0
+2020-11-15,United States,Nebraska,Gosper,1,0,89,0
+2020-11-15,United States,Nebraska,Grant,0,0,10,1
+2020-11-15,United States,Nebraska,Greeley,6,0,84,0
+2020-11-15,United States,Nebraska,Hall,37,0,3524,61
+2020-11-15,United States,Nebraska,Hamilton,11,0,375,13
+2020-11-15,United States,Nebraska,Harlan,6,0,102,0
+2020-11-15,United States,Nebraska,Hayes,3,0,32,0
+2020-11-15,United States,Nebraska,Hitchcock,1,0,77,1
+2020-11-15,United States,Nebraska,Holt,9,0,454,8
+2020-11-15,United States,Nebraska,Hooker,1,0,39,1
+2020-11-15,United States,Nebraska,Howard,4,0,243,6
+2020-11-15,United States,Nebraska,Jefferson,2,0,232,0
+2020-11-15,United States,Nebraska,Johnson,1,0,239,1
+2020-11-15,United States,Nebraska,Kearney,11,0,371,0
+2020-11-15,United States,Nebraska,Keith,5,0,215,0
+2020-11-15,United States,Nebraska,Keya Paha,2,0,17,0
+2020-11-15,United States,Nebraska,Kimball,1,0,109,0
+2020-11-15,United States,Nebraska,Knox,5,0,355,2
+2020-11-15,United States,Nebraska,Lancaster,287,1,12499,57
+2020-11-15,United States,Nebraska,Lincoln,69,0,1725,8
+2020-11-15,United States,Nebraska,Logan,1,0,21,0
+2020-11-15,United States,Nebraska,Loup,0,0,15,0
+2020-11-15,United States,Nebraska,Madison,43,0,2262,14
+2020-11-15,United States,Nebraska,McPherson,-1,0,12,0
+2020-11-15,United States,Nebraska,Merrick,10,0,311,2
+2020-11-15,United States,Nebraska,Morrill,3,0,209,0
+2020-11-15,United States,Nebraska,Nance,5,0,187,1
+2020-11-15,United States,Nebraska,Nemaha,0,0,245,0
+2020-11-15,United States,Nebraska,Nuckolls,10,0,155,0
+2020-11-15,United States,Nebraska,Otoe,35,0,557,1
+2020-11-15,United States,Nebraska,Pawnee,2,0,53,0
+2020-11-15,United States,Nebraska,Perkins,2,0,103,10
+2020-11-15,United States,Nebraska,Phelps,10,0,424,3
+2020-11-15,United States,Nebraska,Pierce,0,0,333,12
+2020-11-15,United States,Nebraska,Platte,88,0,2475,13
+2020-11-15,United States,Nebraska,Polk,8,0,265,7
+2020-11-15,United States,Nebraska,Red Willow,11,0,413,2
+2020-11-15,United States,Nebraska,Richardson,2,0,225,2
+2020-11-15,United States,Nebraska,Rock,1,0,70,1
+2020-11-15,United States,Nebraska,Saline,25,0,1216,2
+2020-11-15,United States,Nebraska,Sarpy,162,0,8562,46
+2020-11-15,United States,Nebraska,Saunders,19,0,973,6
+2020-11-15,United States,Nebraska,Scotts Bluff,35,0,2248,13
+2020-11-15,United States,Nebraska,Seward,16,0,643,3
+2020-11-15,United States,Nebraska,Sheridan,9,0,209,0
+2020-11-15,United States,Nebraska,Sherman,2,0,94,3
+2020-11-15,United States,Nebraska,Sioux,0,0,14,0
+2020-11-15,United States,Nebraska,Stanton,8,0,138,0
+2020-11-15,United States,Nebraska,Thayer,15,0,155,1
+2020-11-15,United States,Nebraska,Thomas,1,0,27,0
+2020-11-15,United States,Nebraska,Thurston,1,0,452,4
+2020-11-15,United States,Nebraska,Unassigned,15,0,784,1
+2020-11-15,United States,Nebraska,Valley,2,0,128,1
+2020-11-15,United States,Nebraska,Washington,23,0,856,9
+2020-11-15,United States,Nebraska,Wayne,20,0,591,3
+2020-11-15,United States,Nebraska,Webster,4,0,152,2
+2020-11-15,United States,Nebraska,Wheeler,0,0,7,0
+2020-11-15,United States,Nebraska,York,20,0,807,3
+2020-11-15,United States,Nevada,Carson City,12,0,1036,11
+2020-11-15,United States,Nevada,Churchill,18,0,517,4
+2020-11-15,United States,Nevada,Clark,1567,12,94640,1617
+2020-11-15,United States,Nevada,Douglas,7,0,473,2
+2020-11-15,United States,Nevada,Elko,23,0,1993,15
+2020-11-15,United States,Nevada,Esmeralda,0,0,1,0
+2020-11-15,United States,Nevada,Eureka,0,0,21,0
+2020-11-15,United States,Nevada,Humboldt,0,0,214,4
+2020-11-15,United States,Nevada,Lander,3,0,135,4
+2020-11-15,United States,Nevada,Lincoln,42,0,113,1
+2020-11-15,United States,Nevada,Lyon,6,0,710,14
+2020-11-15,United States,Nevada,Mineral,0,0,30,1
+2020-11-15,United States,Nevada,Nye,50,0,1014,19
+2020-11-15,United States,Nevada,Pershing,4,0,37,0
+2020-11-15,United States,Nevada,Storey,0,0,25,0
+2020-11-15,United States,Nevada,Unassigned,0,0,0,0
+2020-11-15,United States,Nevada,Washoe,529,3,17843,215
+2020-11-15,United States,Nevada,White Pine,8,0,204,1
+2020-11-15,United States,New Hampshire,Belknap,21,0,375,6
+2020-11-15,United States,New Hampshire,Carroll,1,0,226,2
+2020-11-15,United States,New Hampshire,Cheshire,15,0,319,3
+2020-11-15,United States,New Hampshire,Coos,6,0,224,3
+2020-11-15,United States,New Hampshire,Grafton,15,0,385,2
+2020-11-15,United States,New Hampshire,Hillsborough,58,0,6569,328
+2020-11-15,United States,New Hampshire,Merrimack,20,0,1210,32
+2020-11-15,United States,New Hampshire,Rockingham,76,0,3436,105
+2020-11-15,United States,New Hampshire,Strafford,50,0,1148,14
+2020-11-15,United States,New Hampshire,Sullivan,8,1,163,4
+2020-11-15,United States,New Hampshire,Unassigned,89,0,157,0
+2020-11-15,United States,New Jersey,Atlantic,171,2,7514,273
+2020-11-15,United States,New Jersey,Bergen,426,1,30566,2083
+2020-11-15,United States,New Jersey,Burlington,176,0,10926,525
+2020-11-15,United States,New Jersey,Camden,324,2,15572,647
+2020-11-15,United States,New Jersey,Cape May,38,0,2219,102
+2020-11-15,United States,New Jersey,Cumberland,39,4,4884,170
+2020-11-15,United States,New Jersey,Essex,695,4,31508,2172
+2020-11-15,United States,New Jersey,Gloucester,173,2,7778,255
+2020-11-15,United States,New Jersey,Hudson,346,1,28005,1542
+2020-11-15,United States,New Jersey,Hunterdon,36,0,2103,127
+2020-11-15,United States,New Jersey,Mercer,218,2,11326,647
+2020-11-15,United States,New Jersey,Middlesex,366,-1,26637,1462
+2020-11-15,United States,New Jersey,Monmouth,265,1,17473,879
+2020-11-15,United States,New Jersey,Morris,267,2,12277,849
+2020-11-15,United States,New Jersey,Ocean,203,1,19734,1087
+2020-11-15,United States,New Jersey,Passaic,439,0,25705,1277
+2020-11-15,United States,New Jersey,Salem,25,0,1470,90
+2020-11-15,United States,New Jersey,Somerset,158,0,8589,601
+2020-11-15,United States,New Jersey,Sussex,42,0,2184,198
+2020-11-15,United States,New Jersey,Unassigned,13,0,652,0
+2020-11-15,United States,New Jersey,Union,395,5,25989,1391
+2020-11-15,United States,New Jersey,Warren,38,0,2119,171
+2020-11-15,United States,New Mexico,Bernalillo,330,1,16194,256
+2020-11-15,United States,New Mexico,Catron,0,0,14,1
+2020-11-15,United States,New Mexico,Chaves,61,0,3016,22
+2020-11-15,United States,New Mexico,Cibola,30,0,950,31
+2020-11-15,United States,New Mexico,Colfax,3,0,82,1
+2020-11-15,United States,New Mexico,Curry,46,0,2283,14
+2020-11-15,United States,New Mexico,De Baca,1,0,23,0
+2020-11-15,United States,New Mexico,Dona Ana,157,6,9647,135
+2020-11-15,United States,New Mexico,Eddy,23,0,2100,32
+2020-11-15,United States,New Mexico,Grant,7,1,286,6
+2020-11-15,United States,New Mexico,Guadalupe,0,0,66,1
+2020-11-15,United States,New Mexico,Harding,0,0,4,0
+2020-11-15,United States,New Mexico,Hidalgo,1,0,143,3
+2020-11-15,United States,New Mexico,Lea,57,0,2936,34
+2020-11-15,United States,New Mexico,Lincoln,8,0,510,7
+2020-11-15,United States,New Mexico,Los Alamos,1,0,85,0
+2020-11-15,United States,New Mexico,Luna,22,0,1517,17
+2020-11-15,United States,New Mexico,McKinley,53,0,5232,265
+2020-11-15,United States,New Mexico,Mora,0,0,19,0
+2020-11-15,United States,New Mexico,Otero,6,0,815,22
+2020-11-15,United States,New Mexico,Quay,8,0,148,2
+2020-11-15,United States,New Mexico,Rio Arriba,22,0,756,18
+2020-11-15,United States,New Mexico,Roosevelt,13,1,706,11
+2020-11-15,United States,New Mexico,San Juan,39,0,4369,208
+2020-11-15,United States,New Mexico,San Miguel,6,0,281,0
+2020-11-15,United States,New Mexico,Sandoval,62,1,2934,60
+2020-11-15,United States,New Mexico,Santa Fe,55,0,3021,21
+2020-11-15,United States,New Mexico,Sierra,6,0,184,2
+2020-11-15,United States,New Mexico,Socorro,13,0,383,19
+2020-11-15,United States,New Mexico,Taos,27,0,446,6
+2020-11-15,United States,New Mexico,Torrance,6,0,164,1
+2020-11-15,United States,New Mexico,Unassigned,41,0,2238,0
+2020-11-15,United States,New Mexico,Union,2,0,51,2
+2020-11-15,United States,New Mexico,Valencia,59,0,1568,11
+2020-11-15,United States,New York,Albany,89,0,4514,140
+2020-11-15,United States,New York,Allegany,39,1,628,35
+2020-11-15,United States,New York,Bronx,314,2,60705,5019
+2020-11-15,United States,New York,Broome,59,0,4362,122
+2020-11-15,United States,New York,Cattaraugus,14,0,675,21
+2020-11-15,United States,New York,Cayuga,18,0,627,5
+2020-11-15,United States,New York,Chautauqua,24,0,1234,15
+2020-11-15,United States,New York,Chemung,51,2,2331,26
+2020-11-15,United States,New York,Chenango,6,0,495,9
+2020-11-15,United States,New York,Clinton,16,0,372,5
+2020-11-15,United States,New York,Columbia,7,0,877,54
+2020-11-15,United States,New York,Cortland,11,0,723,1
+2020-11-15,United States,New York,Delaware,5,0,276,7
+2020-11-15,United States,New York,Dutchess,70,0,6144,173
+2020-11-15,United States,New York,Erie,448,0,17469,728
+2020-11-15,United States,New York,Essex,5,0,229,14
+2020-11-15,United States,New York,Franklin,10,0,184,3
+2020-11-15,United States,New York,Fulton,7,0,389,28
+2020-11-15,United States,New York,Genesee,13,0,597,6
+2020-11-15,United States,New York,Greene,5,0,583,18
+2020-11-15,United States,New York,Hamilton,3,0,25,1
+2020-11-15,United States,New York,Herkimer,5,0,485,10
+2020-11-15,United States,New York,Jefferson,9,0,316,1
+2020-11-15,United States,New York,Kings,508,5,82751,7450
+2020-11-15,United States,New York,Lewis,15,0,234,5
+2020-11-15,United States,New York,Livingston,15,0,481,8
+2020-11-15,United States,New York,Madison,13,0,709,17
+2020-11-15,United States,New York,Monroe,255,0,10329,307
+2020-11-15,United States,New York,Montgomery,12,1,319,11
+2020-11-15,United States,New York,Nassau,417,0,53688,2229
+2020-11-15,United States,New York,New York,386,3,38762,3204
+2020-11-15,United States,New York,Niagara,62,0,2678,102
+2020-11-15,United States,New York,Oneida,116,0,3530,136
+2020-11-15,United States,New York,Onondaga,229,0,7650,212
+2020-11-15,United States,New York,Ontario,27,0,939,36
+2020-11-15,United States,New York,Orange,121,0,15031,508
+2020-11-15,United States,New York,Orleans,10,0,508,56
+2020-11-15,United States,New York,Oswego,57,0,954,5
+2020-11-15,United States,New York,Otsego,1,0,460,5
+2020-11-15,United States,New York,Out of NY,0,0,0,113
+2020-11-15,United States,New York,Putnam,43,0,2134,64
+2020-11-15,United States,New York,Queens,559,2,83898,7321
+2020-11-15,United States,New York,Rensselaer,26,0,1304,45
+2020-11-15,United States,New York,Richmond,219,1,19853,1105
+2020-11-15,United States,New York,Rockland,156,0,19723,518
+2020-11-15,United States,New York,Saratoga,24,0,1666,19
+2020-11-15,United States,New York,Schenectady,32,0,1860,52
+2020-11-15,United States,New York,Schoharie,0,0,141,2
+2020-11-15,United States,New York,Schuyler,8,0,218,3
+2020-11-15,United States,New York,Seneca,3,0,205,5
+2020-11-15,United States,New York,St. Lawrence,8,0,554,5
+2020-11-15,United States,New York,Steuben,33,0,1394,72
+2020-11-15,United States,New York,Suffolk,449,0,52942,2023
+2020-11-15,United States,New York,Sullivan,13,0,1969,48
+2020-11-15,United States,New York,Tioga,10,0,940,43
+2020-11-15,United States,New York,Tompkins,13,0,799,0
+2020-11-15,United States,New York,Ulster,30,0,2768,98
+2020-11-15,United States,New York,Unassigned,0,-3,0,19
+2020-11-15,United States,New York,Warren,4,0,507,35
+2020-11-15,United States,New York,Washington,5,0,400,14
+2020-11-15,United States,New York,Wayne,14,0,749,10
+2020-11-15,United States,New York,Westchester,437,3,44093,1486
+2020-11-15,United States,New York,Wyoming,8,0,340,5
+2020-11-15,United States,New York,Yates,11,0,201,7
+2020-11-15,United States,North Carolina,Alamance,75,0,6006,96
+2020-11-15,United States,North Carolina,Alexander,31,0,1262,12
+2020-11-15,United States,North Carolina,Alleghany,3,0,359,1
+2020-11-15,United States,North Carolina,Anson,15,0,811,13
+2020-11-15,United States,North Carolina,Ashe,33,0,622,3
+2020-11-15,United States,North Carolina,Avery,3,0,717,2
+2020-11-15,United States,North Carolina,Beaufort,9,2,1544,50
+2020-11-15,United States,North Carolina,Bertie,12,0,789,21
+2020-11-15,United States,North Carolina,Bladen,6,0,1180,19
+2020-11-15,United States,North Carolina,Brunswick,43,1,2521,55
+2020-11-15,United States,North Carolina,Buncombe,46,0,4736,110
+2020-11-15,United States,North Carolina,Burke,53,0,3184,60
+2020-11-15,United States,North Carolina,Cabarrus,85,1,5778,100
+2020-11-15,United States,North Carolina,Caldwell,32,0,2999,21
+2020-11-15,United States,North Carolina,Camden,2,0,157,3
+2020-11-15,United States,North Carolina,Carteret,12,7,1424,14
+2020-11-15,United States,North Carolina,Caswell,10,0,719,6
+2020-11-15,United States,North Carolina,Catawba,102,0,5548,67
+2020-11-15,United States,North Carolina,Chatham,16,0,2148,63
+2020-11-15,United States,North Carolina,Cherokee,10,0,848,15
+2020-11-15,United States,North Carolina,Chowan,4,0,564,18
+2020-11-15,United States,North Carolina,Clay,4,2,262,5
+2020-11-15,United States,North Carolina,Cleveland,48,0,3728,95
+2020-11-15,United States,North Carolina,Columbus,33,0,2163,67
+2020-11-15,United States,North Carolina,Craven,45,0,2665,65
+2020-11-15,United States,North Carolina,Cumberland,81,0,8129,108
+2020-11-15,United States,North Carolina,Currituck,2,0,270,4
+2020-11-15,United States,North Carolina,Dare,14,0,510,3
+2020-11-15,United States,North Carolina,Davidson,65,0,4390,48
+2020-11-15,United States,North Carolina,Davie,17,0,960,10
+2020-11-15,United States,North Carolina,Duplin,25,0,3037,55
+2020-11-15,United States,North Carolina,Durham,106,0,10159,103
+2020-11-15,United States,North Carolina,Edgecombe,43,0,2280,66
+2020-11-15,United States,North Carolina,Forsyth,178,4,10740,141
+2020-11-15,United States,North Carolina,Franklin,22,0,1704,32
+2020-11-15,United States,North Carolina,Gaston,110,0,8760,157
+2020-11-15,United States,North Carolina,Gates,1,2,184,5
+2020-11-15,United States,North Carolina,Graham,-1,0,265,10
+2020-11-15,United States,North Carolina,Granville,15,0,2266,53
+2020-11-15,United States,North Carolina,Greene,22,1,1090,20
+2020-11-15,United States,North Carolina,Guilford,187,0,13827,216
+2020-11-15,United States,North Carolina,Halifax,42,0,1697,32
+2020-11-15,United States,North Carolina,Harnett,29,1,3387,77
+2020-11-15,United States,North Carolina,Haywood,5,1,855,37
+2020-11-15,United States,North Carolina,Henderson,26,2,2767,70
+2020-11-15,United States,North Carolina,Hertford,8,0,909,38
+2020-11-15,United States,North Carolina,Hoke,20,0,1750,28
+2020-11-15,United States,North Carolina,Hyde,0,0,179,5
+2020-11-15,United States,North Carolina,Iredell,70,0,4501,35
+2020-11-15,United States,North Carolina,Jackson,8,0,1256,8
+2020-11-15,United States,North Carolina,Johnston,88,0,6535,69
+2020-11-15,United States,North Carolina,Jones,0,0,217,15
+2020-11-15,United States,North Carolina,Lee,11,1,2268,25
+2020-11-15,United States,North Carolina,Lenoir,33,0,1751,45
+2020-11-15,United States,North Carolina,Lincoln,27,0,2880,16
+2020-11-15,United States,North Carolina,Macon,6,0,839,8
+2020-11-15,United States,North Carolina,Madison,12,0,376,7
+2020-11-15,United States,North Carolina,Martin,6,0,726,20
+2020-11-15,United States,North Carolina,McDowell,29,0,1562,34
+2020-11-15,United States,North Carolina,Mecklenburg,357,1,37984,413
+2020-11-15,United States,North Carolina,Mitchell,37,0,390,4
+2020-11-15,United States,North Carolina,Montgomery,12,0,1280,39
+2020-11-15,United States,North Carolina,Moore,33,0,2532,58
+2020-11-15,United States,North Carolina,Nash,60,1,3940,88
+2020-11-15,United States,North Carolina,New Hanover,122,0,6092,47
+2020-11-15,United States,North Carolina,Northampton,9,0,669,22
+2020-11-15,United States,North Carolina,Onslow,60,0,4139,35
+2020-11-15,United States,North Carolina,Orange,34,0,3459,60
+2020-11-15,United States,North Carolina,Pamlico,13,0,354,3
+2020-11-15,United States,North Carolina,Pasquotank,9,0,975,35
+2020-11-15,United States,North Carolina,Pender,17,0,1601,17
+2020-11-15,United States,North Carolina,Perquimans,4,0,282,4
+2020-11-15,United States,North Carolina,Person,20,0,819,10
+2020-11-15,United States,North Carolina,Pitt,91,0,6958,44
+2020-11-15,United States,North Carolina,Polk,2,0,428,13
+2020-11-15,United States,North Carolina,Randolph,69,1,4560,73
+2020-11-15,United States,North Carolina,Richmond,20,1,1623,36
+2020-11-15,United States,North Carolina,Robeson,55,0,6686,102
+2020-11-15,United States,North Carolina,Rockingham,23,0,2515,19
+2020-11-15,United States,North Carolina,Rowan,68,1,4814,123
+2020-11-15,United States,North Carolina,Rutherford,21,0,1952,71
+2020-11-15,United States,North Carolina,Sampson,18,0,3188,31
+2020-11-15,United States,North Carolina,Scotland,4,1,1752,35
+2020-11-15,United States,North Carolina,Stanly,31,4,2662,78
+2020-11-15,United States,North Carolina,Stokes,18,0,885,13
+2020-11-15,United States,North Carolina,Surry,26,0,2334,39
+2020-11-15,United States,North Carolina,Swain,8,0,335,5
+2020-11-15,United States,North Carolina,Transylvania,8,0,481,9
+2020-11-15,United States,North Carolina,Tyrrell,0,0,135,3
+2020-11-15,United States,North Carolina,Unassigned,1,0,2,0
+2020-11-15,United States,North Carolina,Union,68,0,6739,67
+2020-11-15,United States,North Carolina,Vance,32,0,1423,47
+2020-11-15,United States,North Carolina,Wake,361,1,24437,280
+2020-11-15,United States,North Carolina,Warren,4,0,543,7
+2020-11-15,United States,North Carolina,Washington,1,0,283,8
+2020-11-15,United States,North Carolina,Watauga,22,0,1571,6
+2020-11-15,United States,North Carolina,Wayne,27,0,5131,102
+2020-11-15,United States,North Carolina,Wilkes,37,0,2235,43
+2020-11-15,United States,North Carolina,Wilson,27,0,3519,72
+2020-11-15,United States,North Carolina,Yadkin,11,0,1234,12
+2020-11-15,United States,North Carolina,Yancey,6,0,417,2
+2020-11-15,United States,North Dakota,Adams,5,0,129,0
+2020-11-15,United States,North Dakota,Barnes,66,1,715,4
+2020-11-15,United States,North Dakota,Benson,20,0,655,13
+2020-11-15,United States,North Dakota,Billings,1,0,36,0
+2020-11-15,United States,North Dakota,Bottineau,8,0,432,18
+2020-11-15,United States,North Dakota,Bowman,6,0,168,3
+2020-11-15,United States,North Dakota,Burke,11,0,145,1
+2020-11-15,United States,North Dakota,Burleigh,264,2,9766,101
+2020-11-15,United States,North Dakota,Cass,285,0,13235,105
+2020-11-15,United States,North Dakota,Cavalier,6,0,261,2
+2020-11-15,United States,North Dakota,Dickey,20,0,485,21
+2020-11-15,United States,North Dakota,Divide,3,0,104,1
+2020-11-15,United States,North Dakota,Dunn,4,0,246,6
+2020-11-15,United States,North Dakota,Eddy,4,0,307,3
+2020-11-15,United States,North Dakota,Emmons,2,0,319,9
+2020-11-15,United States,North Dakota,Foster,32,0,336,2
+2020-11-15,United States,North Dakota,Golden Valley,7,0,137,0
+2020-11-15,United States,North Dakota,Grand Forks,294,0,6621,29
+2020-11-15,United States,North Dakota,Grant,3,0,116,4
+2020-11-15,United States,North Dakota,Griggs,12,0,176,1
+2020-11-15,United States,North Dakota,Hettinger,10,0,177,3
+2020-11-15,United States,North Dakota,Kidder,2,0,149,4
+2020-11-15,United States,North Dakota,LaMoure,8,0,289,14
+2020-11-15,United States,North Dakota,Logan,0,0,144,4
+2020-11-15,United States,North Dakota,McHenry,17,0,357,16
+2020-11-15,United States,North Dakota,McIntosh,13,0,210,5
+2020-11-15,United States,North Dakota,McKenzie,19,0,753,5
+2020-11-15,United States,North Dakota,McLean,20,1,829,13
+2020-11-15,United States,North Dakota,Mercer,23,0,694,5
+2020-11-15,United States,North Dakota,Morton,88,0,3297,62
+2020-11-15,United States,North Dakota,Mountrail,47,0,833,11
+2020-11-15,United States,North Dakota,Nelson,21,1,286,8
+2020-11-15,United States,North Dakota,Oliver,0,0,107,2
+2020-11-15,United States,North Dakota,Pembina,26,0,474,2
+2020-11-15,United States,North Dakota,Pierce,20,0,288,4
+2020-11-15,United States,North Dakota,Ramsey,26,0,863,6
+2020-11-15,United States,North Dakota,Ransom,26,0,343,5
+2020-11-15,United States,North Dakota,Renville,6,0,157,2
+2020-11-15,United States,North Dakota,Richland,24,1,837,5
+2020-11-15,United States,North Dakota,Rolette,46,1,1018,12
+2020-11-15,United States,North Dakota,Sargent,17,0,214,3
+2020-11-15,United States,North Dakota,Sheridan,3,0,69,1
+2020-11-15,United States,North Dakota,Sioux,19,0,378,5
+2020-11-15,United States,North Dakota,Slope,1,0,18,0
+2020-11-15,United States,North Dakota,Stark,156,1,2970,36
+2020-11-15,United States,North Dakota,Steele,4,0,89,1
+2020-11-15,United States,North Dakota,Stutsman,113,3,1928,25
+2020-11-15,United States,North Dakota,Towner,2,0,167,8
+2020-11-15,United States,North Dakota,Traill,25,1,556,10
+2020-11-15,United States,North Dakota,Unassigned,0,0,0,0
+2020-11-15,United States,North Dakota,Walsh,55,0,1147,6
+2020-11-15,United States,North Dakota,Ward,285,6,6026,95
+2020-11-15,United States,North Dakota,Wells,8,1,272,3
+2020-11-15,United States,North Dakota,Williams,87,0,2544,22
+2020-11-15,United States,Northern Mariana Islands,,0,0,100,2
+2020-11-15,United States,Ohio,Adams,22,1,501,10
+2020-11-15,United States,Ohio,Allen,105,0,3687,83
+2020-11-15,United States,Ohio,Ashland,18,0,754,17
+2020-11-15,United States,Ohio,Ashtabula,51,1,1497,45
+2020-11-15,United States,Ohio,Athens,12,0,1608,7
+2020-11-15,United States,Ohio,Auglaize,92,3,1836,35
+2020-11-15,United States,Ohio,Belmont,5,0,1225,28
+2020-11-15,United States,Ohio,Brown,34,0,709,7
+2020-11-15,United States,Ohio,Butler,393,3,12104,181
+2020-11-15,United States,Ohio,Carroll,8,0,332,10
+2020-11-15,United States,Ohio,Champaign,18,0,684,5
+2020-11-15,United States,Ohio,Clark,96,1,4011,103
+2020-11-15,United States,Ohio,Clermont,166,0,4254,50
+2020-11-15,United States,Ohio,Clinton,18,0,819,12
+2020-11-15,United States,Ohio,Columbiana,43,1,2738,98
+2020-11-15,United States,Ohio,Coshocton,7,0,622,13
+2020-11-15,United States,Ohio,Crawford,28,2,892,31
+2020-11-15,United States,Ohio,Cuyahoga,661,2,28252,719
+2020-11-15,United States,Ohio,Darke,43,2,1678,52
+2020-11-15,United States,Ohio,Defiance,41,1,995,19
+2020-11-15,United States,Ohio,Delaware,127,0,4151,28
+2020-11-15,United States,Ohio,Erie,28,0,1661,44
+2020-11-15,United States,Ohio,Fairfield,148,1,4170,68
+2020-11-15,United States,Ohio,Fayette,17,1,706,14
+2020-11-15,United States,Ohio,Franklin,828,4,42123,628
+2020-11-15,United States,Ohio,Fulton,30,1,949,24
+2020-11-15,United States,Ohio,Gallia,23,0,513,11
+2020-11-15,United States,Ohio,Geauga,43,0,1454,53
+2020-11-15,United States,Ohio,Greene,123,0,4055,65
+2020-11-15,United States,Ohio,Guernsey,7,0,626,13
+2020-11-15,United States,Ohio,Hamilton,1081,4,24364,408
+2020-11-15,United States,Ohio,Hancock,70,0,1791,38
+2020-11-15,United States,Ohio,Hardin,26,1,636,21
+2020-11-15,United States,Ohio,Harrison,3,0,142,4
+2020-11-15,United States,Ohio,Henry,8,0,774,25
+2020-11-15,United States,Ohio,Highland,15,0,787,22
+2020-11-15,United States,Ohio,Hocking,16,0,460,19
+2020-11-15,United States,Ohio,Holmes,13,0,1227,39
+2020-11-15,United States,Ohio,Huron,24,2,1067,21
+2020-11-15,United States,Ohio,Jackson,17,0,734,10
+2020-11-15,United States,Ohio,Jefferson,24,0,791,8
+2020-11-15,United States,Ohio,Knox,47,0,835,22
+2020-11-15,United States,Ohio,Lake,205,0,4469,78
+2020-11-15,United States,Ohio,Lawrence,15,0,1493,28
+2020-11-15,United States,Ohio,Licking,99,0,4086,84
+2020-11-15,United States,Ohio,Logan,41,2,878,21
+2020-11-15,United States,Ohio,Lorain,142,1,4505,119
+2020-11-15,United States,Ohio,Lucas,189,0,11454,391
+2020-11-15,United States,Ohio,Madison,22,0,1296,19
+2020-11-15,United States,Ohio,Mahoning,99,4,5333,294
+2020-11-15,United States,Ohio,Marion,39,1,4047,45
+2020-11-15,United States,Ohio,Medina,94,2,3295,70
+2020-11-15,United States,Ohio,Meigs,6,0,297,13
+2020-11-15,United States,Ohio,Mercer,76,0,2455,37
+2020-11-15,United States,Ohio,Miami,68,1,3266,69
+2020-11-15,United States,Ohio,Monroe,6,0,244,19
+2020-11-15,United States,Ohio,Montgomery,424,2,16108,293
+2020-11-15,United States,Ohio,Morgan,5,0,152,1
+2020-11-15,United States,Ohio,Morrow,12,0,650,4
+2020-11-15,United States,Ohio,Muskingum,96,0,1704,15
+2020-11-15,United States,Ohio,Noble,22,0,431,17
+2020-11-15,United States,Ohio,Ottawa,8,0,905,33
+2020-11-15,United States,Ohio,Paulding,14,0,456,8
+2020-11-15,United States,Ohio,Perry,29,0,577,14
+2020-11-15,United States,Ohio,Pickaway,15,0,3614,50
+2020-11-15,United States,Ohio,Pike,10,0,546,3
+2020-11-15,United States,Ohio,Portage,46,2,2599,66
+2020-11-15,United States,Ohio,Preble,40,0,1128,28
+2020-11-15,United States,Ohio,Putnam,24,1,1914,53
+2020-11-15,United States,Ohio,Richland,78,0,2276,35
+2020-11-15,United States,Ohio,Ross,30,0,2027,64
+2020-11-15,United States,Ohio,Sandusky,33,0,1196,27
+2020-11-15,United States,Ohio,Scioto,25,0,1468,18
+2020-11-15,United States,Ohio,Seneca,45,1,1237,22
+2020-11-15,United States,Ohio,Shelby,59,0,1482,17
+2020-11-15,United States,Ohio,Stark,176,8,6326,240
+2020-11-15,United States,Ohio,Summit,221,6,10245,276
+2020-11-15,United States,Ohio,Trumbull,130,0,3720,126
+2020-11-15,United States,Ohio,Tuscarawas,59,0,2310,49
+2020-11-15,United States,Ohio,Unassigned,0,0,0,0
+2020-11-15,United States,Ohio,Union,34,0,1384,9
+2020-11-15,United States,Ohio,Van Wert,37,1,641,11
+2020-11-15,United States,Ohio,Vinton,2,0,173,5
+2020-11-15,United States,Ohio,Warren,162,0,6387,85
+2020-11-15,United States,Ohio,Washington,42,0,782,29
+2020-11-15,United States,Ohio,Wayne,42,0,2587,87
+2020-11-15,United States,Ohio,Williams,18,0,771,10
+2020-11-15,United States,Ohio,Wood,73,0,3597,83
+2020-11-15,United States,Ohio,Wyandot,24,0,518,11
+2020-11-15,United States,Oklahoma,Adair,14,0,1038,13
+2020-11-15,United States,Oklahoma,Alfalfa,2,0,164,0
+2020-11-15,United States,Oklahoma,Atoka,23,0,602,1
+2020-11-15,United States,Oklahoma,Beaver,0,0,132,1
+2020-11-15,United States,Oklahoma,Beckham,16,0,1059,16
+2020-11-15,United States,Oklahoma,Blaine,3,0,275,2
+2020-11-15,United States,Oklahoma,Bryan,71,0,2262,17
+2020-11-15,United States,Oklahoma,Caddo,31,0,1400,27
+2020-11-15,United States,Oklahoma,Canadian,135,0,5230,24
+2020-11-15,United States,Oklahoma,Carter,31,0,1177,13
+2020-11-15,United States,Oklahoma,Cherokee,62,1,1771,10
+2020-11-15,United States,Oklahoma,Choctaw,5,0,574,2
+2020-11-15,United States,Oklahoma,Cimarron,7,0,55,0
+2020-11-15,United States,Oklahoma,Cleveland,177,2,10291,116
+2020-11-15,United States,Oklahoma,Coal,4,0,211,0
+2020-11-15,United States,Oklahoma,Comanche,155,2,3419,26
+2020-11-15,United States,Oklahoma,Cotton,5,0,140,3
+2020-11-15,United States,Oklahoma,Craig,21,0,772,2
+2020-11-15,United States,Oklahoma,Creek,32,0,1999,41
+2020-11-15,United States,Oklahoma,Custer,13,2,1387,11
+2020-11-15,United States,Oklahoma,Delaware,30,0,1595,31
+2020-11-15,United States,Oklahoma,Dewey,5,0,127,1
+2020-11-15,United States,Oklahoma,Ellis,8,0,69,0
+2020-11-15,United States,Oklahoma,Garfield,45,2,2960,33
+2020-11-15,United States,Oklahoma,Garvin,42,0,1154,8
+2020-11-15,United States,Oklahoma,Grady,55,1,2053,19
+2020-11-15,United States,Oklahoma,Grant,2,0,157,3
+2020-11-15,United States,Oklahoma,Greer,9,0,195,8
+2020-11-15,United States,Oklahoma,Harmon,0,0,91,0
+2020-11-15,United States,Oklahoma,Harper,0,0,107,2
+2020-11-15,United States,Oklahoma,Haskell,13,0,535,5
+2020-11-15,United States,Oklahoma,Hughes,12,0,494,7
+2020-11-15,United States,Oklahoma,Jackson,73,0,1475,20
+2020-11-15,United States,Oklahoma,Jefferson,4,0,120,1
+2020-11-15,United States,Oklahoma,Johnston,8,0,414,4
+2020-11-15,United States,Oklahoma,Kay,30,1,1214,20
+2020-11-15,United States,Oklahoma,Kingfisher,11,0,692,6
+2020-11-15,United States,Oklahoma,Kiowa,7,1,248,5
+2020-11-15,United States,Oklahoma,Latimer,7,0,270,3
+2020-11-15,United States,Oklahoma,Le Flore,38,0,2022,25
+2020-11-15,United States,Oklahoma,Lincoln,17,0,1029,23
+2020-11-15,United States,Oklahoma,Logan,17,0,1061,3
+2020-11-15,United States,Oklahoma,Love,15,0,384,1
+2020-11-15,United States,Oklahoma,Major,5,0,304,2
+2020-11-15,United States,Oklahoma,Marshall,28,0,485,2
+2020-11-15,United States,Oklahoma,Mayes,27,0,1212,17
+2020-11-15,United States,Oklahoma,McClain,43,0,1849,16
+2020-11-15,United States,Oklahoma,McCurtain,12,1,1938,42
+2020-11-15,United States,Oklahoma,McIntosh,5,0,649,12
+2020-11-15,United States,Oklahoma,Murray,17,0,446,3
+2020-11-15,United States,Oklahoma,Muskogee,38,0,3180,29
+2020-11-15,United States,Oklahoma,Noble,4,0,306,3
+2020-11-15,United States,Oklahoma,Nowata,7,0,333,4
+2020-11-15,United States,Oklahoma,Okfuskee,12,0,734,11
+2020-11-15,United States,Oklahoma,Oklahoma,491,3,30228,260
+2020-11-15,United States,Oklahoma,Okmulgee,17,1,1520,15
+2020-11-15,United States,Oklahoma,Osage,23,0,1647,17
+2020-11-15,United States,Oklahoma,Ottawa,18,1,1459,22
+2020-11-15,United States,Oklahoma,Out of OK,0,0,0,0
+2020-11-15,United States,Oklahoma,Pawnee,3,0,425,5
+2020-11-15,United States,Oklahoma,Payne,22,0,3413,16
+2020-11-15,United States,Oklahoma,Pittsburg,24,0,1558,21
+2020-11-15,United States,Oklahoma,Pontotoc,57,0,1372,8
+2020-11-15,United States,Oklahoma,Pottawatomie,59,0,2709,21
+2020-11-15,United States,Oklahoma,Pushmataha,7,0,355,6
+2020-11-15,United States,Oklahoma,Roger Mills,5,0,111,5
+2020-11-15,United States,Oklahoma,Rogers,76,0,3141,57
+2020-11-15,United States,Oklahoma,Seminole,36,1,1058,8
+2020-11-15,United States,Oklahoma,Sequoyah,12,0,1552,14
+2020-11-15,United States,Oklahoma,Stephens,25,1,1116,11
+2020-11-15,United States,Oklahoma,Texas,15,0,2072,11
+2020-11-15,United States,Oklahoma,Tillman,8,0,231,4
+2020-11-15,United States,Oklahoma,Tulsa,366,2,26430,235
+2020-11-15,United States,Oklahoma,Unassigned,7,0,39,0
+2020-11-15,United States,Oklahoma,Wagoner,25,1,2248,34
+2020-11-15,United States,Oklahoma,Washington,23,0,1605,43
+2020-11-15,United States,Oklahoma,Washita,14,0,252,2
+2020-11-15,United States,Oklahoma,Woods,5,0,291,1
+2020-11-15,United States,Oklahoma,Woodward,56,0,1513,6
+2020-11-15,United States,Oregon,Baker,11,0,215,3
+2020-11-15,United States,Oregon,Benton,16,0,601,7
+2020-11-15,United States,Oregon,Clackamas,142,1,4501,73
+2020-11-15,United States,Oregon,Clatsop,5,0,300,0
+2020-11-15,United States,Oregon,Columbia,12,0,346,2
+2020-11-15,United States,Oregon,Coos,14,0,334,1
+2020-11-15,United States,Oregon,Crook,8,0,167,5
+2020-11-15,United States,Oregon,Curry,0,0,81,2
+2020-11-15,United States,Oregon,Deschutes,46,0,1633,14
+2020-11-15,United States,Oregon,Douglas,22,0,603,10
+2020-11-15,United States,Oregon,Gilliam,0,0,18,0
+2020-11-15,United States,Oregon,Grant,1,0,66,0
+2020-11-15,United States,Oregon,Harney,2,0,60,0
+2020-11-15,United States,Oregon,Hood River,3,0,314,1
+2020-11-15,United States,Oregon,Jackson,111,0,2805,10
+2020-11-15,United States,Oregon,Jefferson,11,0,685,11
+2020-11-15,United States,Oregon,Josephine,9,0,342,4
+2020-11-15,United States,Oregon,Klamath,20,0,523,3
+2020-11-15,United States,Oregon,Lake,2,0,60,0
+2020-11-15,United States,Oregon,Lane,74,1,3206,34
+2020-11-15,United States,Oregon,Lincoln,10,0,542,13
+2020-11-15,United States,Oregon,Linn,34,0,1088,17
+2020-11-15,United States,Oregon,Malheur,18,0,2165,38
+2020-11-15,United States,Oregon,Marion,58,0,7324,124
+2020-11-15,United States,Oregon,Morrow,6,0,594,7
+2020-11-15,United States,Oregon,Multnomah,139,4,12521,195
+2020-11-15,United States,Oregon,Polk,16,0,873,15
+2020-11-15,United States,Oregon,Sherman,0,0,23,0
+2020-11-15,United States,Oregon,Tillamook,5,0,100,0
+2020-11-15,United States,Oregon,Umatilla,39,0,3827,45
+2020-11-15,United States,Oregon,Unassigned,0,0,0,0
+2020-11-15,United States,Oregon,Union,5,0,579,2
+2020-11-15,United States,Oregon,Wallowa,0,0,69,2
+2020-11-15,United States,Oregon,Wasco,17,0,410,17
+2020-11-15,United States,Oregon,Washington,191,0,7714,89
+2020-11-15,United States,Oregon,Wheeler,0,0,1,0
+2020-11-15,United States,Oregon,Yamhill,34,0,1328,15
+2020-11-15,United States,Pennsylvania,Adams,13,2,1481,39
+2020-11-15,United States,Pennsylvania,Allegheny,370,0,19499,440
+2020-11-15,United States,Pennsylvania,Armstrong,51,1,1185,31
+2020-11-15,United States,Pennsylvania,Beaver,28,0,2782,144
+2020-11-15,United States,Pennsylvania,Bedford,90,0,898,11
+2020-11-15,United States,Pennsylvania,Berks,155,1,11191,441
+2020-11-15,United States,Pennsylvania,Blair,134,0,2424,41
+2020-11-15,United States,Pennsylvania,Bradford,27,1,1314,25
+2020-11-15,United States,Pennsylvania,Bucks,229,0,12748,636
+2020-11-15,United States,Pennsylvania,Butler,101,2,2829,43
+2020-11-15,United States,Pennsylvania,Cambria,83,6,2057,21
+2020-11-15,United States,Pennsylvania,Cameron,0,0,16,0
+2020-11-15,United States,Pennsylvania,Carbon,17,0,862,36
+2020-11-15,United States,Pennsylvania,Centre,56,0,5044,23
+2020-11-15,United States,Pennsylvania,Chester,165,1,9841,387
+2020-11-15,United States,Pennsylvania,Clarion,19,0,454,4
+2020-11-15,United States,Pennsylvania,Clearfield,52,0,811,8
+2020-11-15,United States,Pennsylvania,Clinton,14,1,391,9
+2020-11-15,United States,Pennsylvania,Columbia,21,0,1214,45
+2020-11-15,United States,Pennsylvania,Crawford,45,0,998,5
+2020-11-15,United States,Pennsylvania,Cumberland,85,1,3384,87
+2020-11-15,United States,Pennsylvania,Dauphin,76,0,6000,200
+2020-11-15,United States,Pennsylvania,Delaware,284,0,16340,777
+2020-11-15,United States,Pennsylvania,Elk,14,1,335,3
+2020-11-15,United States,Pennsylvania,Erie,149,1,3227,44
+2020-11-15,United States,Pennsylvania,Fayette,29,0,1321,15
+2020-11-15,United States,Pennsylvania,Forest,2,0,26,1
+2020-11-15,United States,Pennsylvania,Franklin,64,0,3060,72
+2020-11-15,United States,Pennsylvania,Fulton,9,0,151,4
+2020-11-15,United States,Pennsylvania,Greene,14,0,421,1
+2020-11-15,United States,Pennsylvania,Huntingdon,34,3,1352,37
+2020-11-15,United States,Pennsylvania,Indiana,45,1,1727,24
+2020-11-15,United States,Pennsylvania,Jefferson,11,0,379,4
+2020-11-15,United States,Pennsylvania,Juniata,19,0,404,9
+2020-11-15,United States,Pennsylvania,Lackawanna,42,0,4321,225
+2020-11-15,United States,Pennsylvania,Lancaster,276,1,11988,496
+2020-11-15,United States,Pennsylvania,Lawrence,45,0,1525,48
+2020-11-15,United States,Pennsylvania,Lebanon,42,0,3999,83
+2020-11-15,United States,Pennsylvania,Lehigh,134,2,8466,374
+2020-11-15,United States,Pennsylvania,Luzerne,173,3,6933,225
+2020-11-15,United States,Pennsylvania,Lycoming,37,0,1300,32
+2020-11-15,United States,Pennsylvania,McKean,16,0,261,2
+2020-11-15,United States,Pennsylvania,Mercer,73,0,1788,30
+2020-11-15,United States,Pennsylvania,Mifflin,54,0,884,6
+2020-11-15,United States,Pennsylvania,Monroe,46,0,2525,135
+2020-11-15,United States,Pennsylvania,Montgomery,278,1,17051,904
+2020-11-15,United States,Pennsylvania,Montour,6,0,366,13
+2020-11-15,United States,Pennsylvania,Northampton,107,0,6700,322
+2020-11-15,United States,Pennsylvania,Northumberland,32,1,1925,117
+2020-11-15,United States,Pennsylvania,Perry,4,0,477,8
+2020-11-15,United States,Pennsylvania,Philadelphia,0,0,52723,1909
+2020-11-15,United States,Pennsylvania,Pike,7,0,719,23
+2020-11-15,United States,Pennsylvania,Potter,3,0,97,1
+2020-11-15,United States,Pennsylvania,Schuylkill,65,3,2827,132
+2020-11-15,United States,Pennsylvania,Snyder,27,0,678,18
+2020-11-15,United States,Pennsylvania,Somerset,14,0,855,5
+2020-11-15,United States,Pennsylvania,Sullivan,1,0,32,1
+2020-11-15,United States,Pennsylvania,Susquehanna,9,1,487,30
+2020-11-15,United States,Pennsylvania,Tioga,19,0,485,5
+2020-11-15,United States,Pennsylvania,Unassigned,0,0,0,0
+2020-11-15,United States,Pennsylvania,Union,44,0,966,12
+2020-11-15,United States,Pennsylvania,Venango,12,0,535,1
+2020-11-15,United States,Pennsylvania,Warren,9,0,108,1
+2020-11-15,United States,Pennsylvania,Washington,51,5,2928,49
+2020-11-15,United States,Pennsylvania,Wayne,-1,0,340,12
+2020-11-15,United States,Pennsylvania,Westmoreland,155,2,5912,133
+2020-11-15,United States,Pennsylvania,Wyoming,17,0,303,13
+2020-11-15,United States,Pennsylvania,York,97,2,7966,223
+2020-11-15,United States,Puerto Rico,Adjuntas,2,0,136,0
+2020-11-15,United States,Puerto Rico,Aguada,13,0,301,0
+2020-11-15,United States,Puerto Rico,Aguadilla,13,0,380,0
+2020-11-15,United States,Puerto Rico,Aguas Buenas,1,0,265,0
+2020-11-15,United States,Puerto Rico,Aibonito,1,0,107,0
+2020-11-15,United States,Puerto Rico,Anasco,16,0,208,0
+2020-11-15,United States,Puerto Rico,Arecibo,14,0,726,0
+2020-11-15,United States,Puerto Rico,Arroyo,0,0,64,0
+2020-11-15,United States,Puerto Rico,Barceloneta,4,0,218,0
+2020-11-15,United States,Puerto Rico,Barranquitas,8,0,334,0
+2020-11-15,United States,Puerto Rico,Bayamon,48,0,3409,0
+2020-11-15,United States,Puerto Rico,Cabo Rojo,5,0,225,0
+2020-11-15,United States,Puerto Rico,Caguas,34,0,1656,0
+2020-11-15,United States,Puerto Rico,Camuy,4,0,269,0
+2020-11-15,United States,Puerto Rico,Canovanas,3,0,607,0
+2020-11-15,United States,Puerto Rico,Carolina,30,0,3026,0
+2020-11-15,United States,Puerto Rico,Catano,4,0,405,0
+2020-11-15,United States,Puerto Rico,Cayey,9,0,255,0
+2020-11-15,United States,Puerto Rico,Ceiba,1,0,88,0
+2020-11-15,United States,Puerto Rico,Ciales,0,0,259,0
+2020-11-15,United States,Puerto Rico,Cidra,5,0,297,0
+2020-11-15,United States,Puerto Rico,Coamo,6,0,203,0
+2020-11-15,United States,Puerto Rico,Comerio,3,0,163,0
+2020-11-15,United States,Puerto Rico,Corozal,9,0,507,0
+2020-11-15,United States,Puerto Rico,Culebra,0,0,19,0
+2020-11-15,United States,Puerto Rico,Dorado,6,0,647,0
+2020-11-15,United States,Puerto Rico,Fajardo,11,0,357,0
+2020-11-15,United States,Puerto Rico,Florida,6,0,137,0
+2020-11-15,United States,Puerto Rico,Guanica,1,0,74,0
+2020-11-15,United States,Puerto Rico,Guayama,6,0,191,0
+2020-11-15,United States,Puerto Rico,Guayanilla,0,0,97,0
+2020-11-15,United States,Puerto Rico,Guaynabo,17,0,1610,0
+2020-11-15,United States,Puerto Rico,Gurabo,14,0,568,0
+2020-11-15,United States,Puerto Rico,Hatillo,4,0,277,0
+2020-11-15,United States,Puerto Rico,Hormigueros,1,0,137,0
+2020-11-15,United States,Puerto Rico,Humacao,11,0,456,0
+2020-11-15,United States,Puerto Rico,Isabela,6,0,278,0
+2020-11-15,United States,Puerto Rico,Jayuya,3,0,104,0
+2020-11-15,United States,Puerto Rico,Juana Diaz,9,0,269,0
+2020-11-15,United States,Puerto Rico,Juncos,14,0,426,0
+2020-11-15,United States,Puerto Rico,Lajas,1,0,74,0
+2020-11-15,United States,Puerto Rico,Lares,3,0,199,0
+2020-11-15,United States,Puerto Rico,Las Marias,0,0,63,0
+2020-11-15,United States,Puerto Rico,Las Piedras,11,0,435,0
+2020-11-15,United States,Puerto Rico,Loiza,2,0,272,0
+2020-11-15,United States,Puerto Rico,Luquillo,0,0,180,0
+2020-11-15,United States,Puerto Rico,Manati,6,0,373,0
+2020-11-15,United States,Puerto Rico,Maricao,0,0,50,0
+2020-11-15,United States,Puerto Rico,Maunabo,1,0,71,0
+2020-11-15,United States,Puerto Rico,Mayaguez,17,0,561,0
+2020-11-15,United States,Puerto Rico,Moca,15,0,320,0
+2020-11-15,United States,Puerto Rico,Morovis,6,0,418,0
+2020-11-15,United States,Puerto Rico,Naguabo,11,0,282,0
+2020-11-15,United States,Puerto Rico,Naranjito,7,0,446,0
+2020-11-15,United States,Puerto Rico,Orocovis,2,0,272,0
+2020-11-15,United States,Puerto Rico,Out of PR,0,0,169,0
+2020-11-15,United States,Puerto Rico,Patillas,2,0,79,0
+2020-11-15,United States,Puerto Rico,Penuelas,6,0,87,0
+2020-11-15,United States,Puerto Rico,Ponce,4,0,733,0
+2020-11-15,United States,Puerto Rico,Quebradillas,7,0,228,0
+2020-11-15,United States,Puerto Rico,Rincon,1,0,130,0
+2020-11-15,United States,Puerto Rico,Rio Grande,8,0,565,0
+2020-11-15,United States,Puerto Rico,Sabana Grande,1,0,99,0
+2020-11-15,United States,Puerto Rico,Salinas,1,0,169,0
+2020-11-15,United States,Puerto Rico,San German,2,0,157,0
+2020-11-15,United States,Puerto Rico,San Juan,68,0,7483,0
+2020-11-15,United States,Puerto Rico,San Lorenzo,9,0,538,0
+2020-11-15,United States,Puerto Rico,San Sebastian,7,0,331,0
+2020-11-15,United States,Puerto Rico,Santa Isabel,5,0,88,0
+2020-11-15,United States,Puerto Rico,Toa Alta,23,0,1243,0
+2020-11-15,United States,Puerto Rico,Toa Baja,18,0,1307,0
+2020-11-15,United States,Puerto Rico,Trujillo Alto,13,0,1162,0
+2020-11-15,United States,Puerto Rico,Unassigned,15,7,1008,921
+2020-11-15,United States,Puerto Rico,Utuado,5,0,169,0
+2020-11-15,United States,Puerto Rico,Vega Alta,11,0,591,0
+2020-11-15,United States,Puerto Rico,Vega Baja,11,0,901,0
+2020-11-15,United States,Puerto Rico,Vieques,0,0,24,0
+2020-11-15,United States,Puerto Rico,Villalba,5,0,244,0
+2020-11-15,United States,Puerto Rico,Yabucoa,2,0,245,0
+2020-11-15,United States,Puerto Rico,Yauco,5,0,251,0
+2020-11-15,United States,Recovered,,0,0,0,0
+2020-11-15,United States,Rhode Island,Bristol,0,0,852,23
+2020-11-15,United States,Rhode Island,Kent,0,0,3368,128
+2020-11-15,United States,Rhode Island,Newport,0,0,906,10
+2020-11-15,United States,Rhode Island,Providence,0,0,27808,988
+2020-11-15,United States,Rhode Island,Unassigned,0,10,6993,54
+2020-11-15,United States,Rhode Island,Washington,0,0,1602,80
+2020-11-15,United States,South Carolina,Abbeville,-1,0,864,19
+2020-11-15,United States,South Carolina,Aiken,68,0,5650,91
+2020-11-15,United States,South Carolina,Allendale,0,0,440,8
+2020-11-15,United States,South Carolina,Anderson,88,0,6923,210
+2020-11-15,United States,South Carolina,Bamberg,1,1,709,36
+2020-11-15,United States,South Carolina,Barnwell,7,0,922,25
+2020-11-15,United States,South Carolina,Beaufort,45,0,6547,93
+2020-11-15,United States,South Carolina,Berkeley,43,0,6661,98
+2020-11-15,United States,South Carolina,Calhoun,2,0,526,18
+2020-11-15,United States,South Carolina,Charleston,105,1,18457,288
+2020-11-15,United States,South Carolina,Cherokee,24,0,1780,57
+2020-11-15,United States,South Carolina,Chester,7,0,1380,30
+2020-11-15,United States,South Carolina,Chesterfield,9,0,1625,51
+2020-11-15,United States,South Carolina,Clarendon,4,0,1289,69
+2020-11-15,United States,South Carolina,Colleton,7,0,1398,49
+2020-11-15,United States,South Carolina,Darlington,20,0,2772,68
+2020-11-15,United States,South Carolina,Dillon,10,1,1434,50
+2020-11-15,United States,South Carolina,Dorchester,46,0,5278,107
+2020-11-15,United States,South Carolina,Edgefield,10,0,1052,22
+2020-11-15,United States,South Carolina,Fairfield,13,0,962,40
+2020-11-15,United States,South Carolina,Florence,65,0,6110,207
+2020-11-15,United States,South Carolina,Georgetown,16,0,2593,61
+2020-11-15,United States,South Carolina,Greenville,288,1,20524,376
+2020-11-15,United States,South Carolina,Greenwood,19,0,2778,78
+2020-11-15,United States,South Carolina,Hampton,1,0,811,32
+2020-11-15,United States,South Carolina,Horry,112,2,13524,246
+2020-11-15,United States,South Carolina,Jasper,7,0,994,23
+2020-11-15,United States,South Carolina,Kershaw,17,0,2728,57
+2020-11-15,United States,South Carolina,Lancaster,57,0,3009,63
+2020-11-15,United States,South Carolina,Laurens,29,0,2192,67
+2020-11-15,United States,South Carolina,Lee,0,0,832,36
+2020-11-15,United States,South Carolina,Lexington,124,1,10309,217
+2020-11-15,United States,South Carolina,Marion,4,0,1251,46
+2020-11-15,United States,South Carolina,Marlboro,5,0,1256,15
+2020-11-15,United States,South Carolina,McCormick,0,0,305,7
+2020-11-15,United States,South Carolina,Newberry,11,0,1906,61
+2020-11-15,United States,South Carolina,Oconee,24,0,2780,36
+2020-11-15,United States,South Carolina,Orangeburg,14,0,3549,132
+2020-11-15,United States,South Carolina,Pickens,74,0,5305,73
+2020-11-15,United States,South Carolina,Richland,154,0,18831,284
+2020-11-15,United States,South Carolina,Saluda,3,0,763,25
+2020-11-15,United States,South Carolina,Spartanburg,188,0,10632,251
+2020-11-15,United States,South Carolina,Sumter,32,0,3848,94
+2020-11-15,United States,South Carolina,Unassigned,0,0,0,0
+2020-11-15,United States,South Carolina,Union,8,0,899,24
+2020-11-15,United States,South Carolina,Williamsburg,15,0,1552,50
+2020-11-15,United States,South Carolina,York,138,2,8064,120
+2020-11-15,United States,South Dakota,Aurora,13,0,284,2
+2020-11-15,United States,South Dakota,Beadle,51,2,1893,21
+2020-11-15,United States,South Dakota,Bennett,2,0,265,5
+2020-11-15,United States,South Dakota,Bon Homme,9,2,1203,6
+2020-11-15,United States,South Dakota,Brookings,61,1,2025,13
+2020-11-15,United States,South Dakota,Brown,81,1,2847,9
+2020-11-15,United States,South Dakota,Brule,17,2,458,5
+2020-11-15,United States,South Dakota,Buffalo,6,0,331,5
+2020-11-15,United States,South Dakota,Butte,18,0,594,8
+2020-11-15,United States,South Dakota,Campbell,2,0,93,1
+2020-11-15,United States,South Dakota,Charles Mix,8,0,611,1
+2020-11-15,United States,South Dakota,Clark,3,0,183,1
+2020-11-15,United States,South Dakota,Clay,23,0,1100,8
+2020-11-15,United States,South Dakota,Codington,24,4,2174,26
+2020-11-15,United States,South Dakota,Corson,10,1,318,3
+2020-11-15,United States,South Dakota,Custer,8,0,431,4
+2020-11-15,United States,South Dakota,Davison,86,1,1803,14
+2020-11-15,United States,South Dakota,Day,13,0,260,3
+2020-11-15,United States,South Dakota,Deuel,2,0,249,2
+2020-11-15,United States,South Dakota,Dewey,14,0,690,2
+2020-11-15,United States,South Dakota,Douglas,6,0,246,5
+2020-11-15,United States,South Dakota,Edmunds,5,0,203,1
+2020-11-15,United States,South Dakota,Fall River,7,0,309,7
+2020-11-15,United States,South Dakota,Faulk,2,1,258,6
+2020-11-15,United States,South Dakota,Grant,20,1,462,5
+2020-11-15,United States,South Dakota,Gregory,5,2,356,12
+2020-11-15,United States,South Dakota,Haakon,3,0,118,3
+2020-11-15,United States,South Dakota,Hamlin,11,0,320,0
+2020-11-15,United States,South Dakota,Hand,10,0,231,1
+2020-11-15,United States,South Dakota,Hanson,13,0,181,1
+2020-11-15,United States,South Dakota,Harding,1,0,65,0
+2020-11-15,United States,South Dakota,Hughes,47,0,1276,8
+2020-11-15,United States,South Dakota,Hutchinson,39,0,408,2
+2020-11-15,United States,South Dakota,Hyde,9,0,94,0
+2020-11-15,United States,South Dakota,Jackson,5,1,178,5
+2020-11-15,United States,South Dakota,Jerauld,6,0,207,13
+2020-11-15,United States,South Dakota,Jones,1,0,46,0
+2020-11-15,United States,South Dakota,Kingsbury,14,0,333,5
+2020-11-15,United States,South Dakota,Lake,28,0,673,9
+2020-11-15,United States,South Dakota,Lawrence,50,0,1607,8
+2020-11-15,United States,South Dakota,Lincoln,123,3,4393,37
+2020-11-15,United States,South Dakota,Lyman,12,0,366,7
+2020-11-15,United States,South Dakota,Marshall,7,0,109,3
+2020-11-15,United States,South Dakota,McCook,22,6,475,9
+2020-11-15,United States,South Dakota,McPherson,6,0,92,1
+2020-11-15,United States,South Dakota,Meade,33,1,1379,11
+2020-11-15,United States,South Dakota,Mellette,5,0,126,1
+2020-11-15,United States,South Dakota,Miner,3,0,172,3
+2020-11-15,United States,South Dakota,Minnehaha,465,10,16770,137
+2020-11-15,United States,South Dakota,Moody,1,2,329,6
+2020-11-15,United States,South Dakota,Oglala Lakota,29,1,1378,12
+2020-11-15,United States,South Dakota,Pennington,200,4,6847,60
+2020-11-15,United States,South Dakota,Perkins,8,0,108,0
+2020-11-15,United States,South Dakota,Potter,9,0,208,0
+2020-11-15,United States,South Dakota,Roberts,12,3,557,13
+2020-11-15,United States,South Dakota,Sanborn,14,0,193,1
+2020-11-15,United States,South Dakota,Spink,9,0,456,6
+2020-11-15,United States,South Dakota,Stanley,8,0,158,0
+2020-11-15,United States,South Dakota,Sully,7,0,74,0
+2020-11-15,United States,South Dakota,Todd,23,0,694,10
+2020-11-15,United States,South Dakota,Tripp,11,0,397,2
+2020-11-15,United States,South Dakota,Turner,11,2,693,33
+2020-11-15,United States,South Dakota,Unassigned,0,0,0,0
+2020-11-15,United States,South Dakota,Union,28,1,1014,18
+2020-11-15,United States,South Dakota,Walworth,10,0,371,10
+2020-11-15,United States,South Dakota,Yankton,65,0,1291,8
+2020-11-15,United States,South Dakota,Ziebach,1,1,149,3
+2020-11-15,United States,Tennessee,Anderson,39,1,2311,22
+2020-11-15,United States,Tennessee,Bedford,48,0,2201,24
+2020-11-15,United States,Tennessee,Benton,12,0,632,13
+2020-11-15,United States,Tennessee,Bledsoe,6,0,1098,4
+2020-11-15,United States,Tennessee,Blount,56,0,4239,47
+2020-11-15,United States,Tennessee,Bradley,80,0,4304,27
+2020-11-15,United States,Tennessee,Campbell,17,1,1319,19
+2020-11-15,United States,Tennessee,Cannon,13,0,588,2
+2020-11-15,United States,Tennessee,Carroll,20,0,1408,30
+2020-11-15,United States,Tennessee,Carter,36,0,2202,43
+2020-11-15,United States,Tennessee,Cheatham,11,0,1319,13
+2020-11-15,United States,Tennessee,Chester,16,0,857,19
+2020-11-15,United States,Tennessee,Claiborne,11,0,634,9
+2020-11-15,United States,Tennessee,Clay,1,0,470,16
+2020-11-15,United States,Tennessee,Cocke,31,0,1405,26
+2020-11-15,United States,Tennessee,Coffee,22,0,2346,36
+2020-11-15,United States,Tennessee,Crockett,8,0,1045,25
+2020-11-15,United States,Tennessee,Cumberland,51,0,2130,31
+2020-11-15,United States,Tennessee,Davidson,349,1,37364,380
+2020-11-15,United States,Tennessee,Decatur,20,0,804,11
+2020-11-15,United States,Tennessee,DeKalb,51,0,953,19
+2020-11-15,United States,Tennessee,Dickson,37,0,2275,23
+2020-11-15,United States,Tennessee,Dyer,23,2,2803,47
+2020-11-15,United States,Tennessee,Fayette,14,0,1973,36
+2020-11-15,United States,Tennessee,Fentress,9,0,1063,16
+2020-11-15,United States,Tennessee,Franklin,39,0,1647,29
+2020-11-15,United States,Tennessee,Gibson,34,3,2611,59
+2020-11-15,United States,Tennessee,Giles,33,0,1241,39
+2020-11-15,United States,Tennessee,Grainger,5,0,790,9
+2020-11-15,United States,Tennessee,Greene,57,0,2451,63
+2020-11-15,United States,Tennessee,Grundy,10,0,682,14
+2020-11-15,United States,Tennessee,Hamblen,44,0,2961,56
+2020-11-15,United States,Tennessee,Hamilton,239,0,14202,123
+2020-11-15,United States,Tennessee,Hancock,2,0,129,3
+2020-11-15,United States,Tennessee,Hardeman,6,0,2100,35
+2020-11-15,United States,Tennessee,Hardin,14,0,1588,25
+2020-11-15,United States,Tennessee,Hawkins,31,0,1575,31
+2020-11-15,United States,Tennessee,Haywood,14,0,1474,28
+2020-11-15,United States,Tennessee,Henderson,9,0,1603,30
+2020-11-15,United States,Tennessee,Henry,25,2,1159,15
+2020-11-15,United States,Tennessee,Hickman,10,0,969,16
+2020-11-15,United States,Tennessee,Houston,3,0,530,19
+2020-11-15,United States,Tennessee,Humphreys,9,0,578,6
+2020-11-15,United States,Tennessee,Jackson,2,0,598,7
+2020-11-15,United States,Tennessee,Jefferson,37,0,1892,27
+2020-11-15,United States,Tennessee,Johnson,5,0,1311,17
+2020-11-15,United States,Tennessee,Knox,254,0,15654,113
+2020-11-15,United States,Tennessee,Lake,5,0,1093,5
+2020-11-15,United States,Tennessee,Lauderdale,21,0,1836,20
+2020-11-15,United States,Tennessee,Lawrence,48,0,2217,25
+2020-11-15,United States,Tennessee,Lewis,13,0,640,9
+2020-11-15,United States,Tennessee,Lincoln,42,0,1257,8
+2020-11-15,United States,Tennessee,Loudon,27,0,1969,15
+2020-11-15,United States,Tennessee,Macon,21,0,1612,26
+2020-11-15,United States,Tennessee,Madison,44,0,4530,94
+2020-11-15,United States,Tennessee,Marion,15,0,959,15
+2020-11-15,United States,Tennessee,Marshall,22,0,1457,15
+2020-11-15,United States,Tennessee,Maury,117,0,4741,46
+2020-11-15,United States,Tennessee,McMinn,45,0,2075,48
+2020-11-15,United States,Tennessee,McNairy,17,0,1302,31
+2020-11-15,United States,Tennessee,Meigs,5,0,404,10
+2020-11-15,United States,Tennessee,Monroe,17,1,1753,40
+2020-11-15,United States,Tennessee,Montgomery,95,1,5374,75
+2020-11-15,United States,Tennessee,Moore,3,0,329,2
+2020-11-15,United States,Tennessee,Morgan,17,0,557,6
+2020-11-15,United States,Tennessee,Obion,40,0,2217,35
+2020-11-15,United States,Tennessee,Out of TN,110,0,5523,43
+2020-11-15,United States,Tennessee,Overton,8,0,1398,33
+2020-11-15,United States,Tennessee,Perry,6,1,424,18
+2020-11-15,United States,Tennessee,Pickett,5,0,334,11
+2020-11-15,United States,Tennessee,Polk,12,0,596,13
+2020-11-15,United States,Tennessee,Putnam,72,0,5271,70
+2020-11-15,United States,Tennessee,Rhea,15,0,1370,27
+2020-11-15,United States,Tennessee,Roane,36,1,1900,14
+2020-11-15,United States,Tennessee,Robertson,33,0,3078,46
+2020-11-15,United States,Tennessee,Rutherford,224,0,14883,129
+2020-11-15,United States,Tennessee,Scott,17,0,692,6
+2020-11-15,United States,Tennessee,Sequatchie,4,0,445,5
+2020-11-15,United States,Tennessee,Sevier,53,0,4082,27
+2020-11-15,United States,Tennessee,Shelby,434,2,42005,611
+2020-11-15,United States,Tennessee,Smith,15,0,1225,17
+2020-11-15,United States,Tennessee,Stewart,6,0,474,13
+2020-11-15,United States,Tennessee,Sullivan,77,2,5059,77
+2020-11-15,United States,Tennessee,Sumner,138,1,7776,122
+2020-11-15,United States,Tennessee,Tipton,78,0,2994,32
+2020-11-15,United States,Tennessee,Trousdale,12,0,1857,10
+2020-11-15,United States,Tennessee,Unassigned,238,1,3277,11
+2020-11-15,United States,Tennessee,Unicoi,24,1,644,17
+2020-11-15,United States,Tennessee,Union,17,0,628,5
+2020-11-15,United States,Tennessee,Van Buren,13,0,274,2
+2020-11-15,United States,Tennessee,Warren,59,0,1978,14
+2020-11-15,United States,Tennessee,Washington,91,0,4811,85
+2020-11-15,United States,Tennessee,Wayne,3,1,1687,8
+2020-11-15,United States,Tennessee,Weakley,33,2,1851,33
+2020-11-15,United States,Tennessee,White,17,0,1499,17
+2020-11-15,United States,Tennessee,Williamson,184,1,9218,66
+2020-11-15,United States,Tennessee,Wilson,151,0,6057,68
+2020-11-15,United States,Texas,Anderson,4,1,3478,44
+2020-11-15,United States,Texas,Andrews,33,0,859,11
+2020-11-15,United States,Texas,Angelina,0,0,3170,94
+2020-11-15,United States,Texas,Aransas,5,0,452,18
+2020-11-15,United States,Texas,Archer,6,0,229,1
+2020-11-15,United States,Texas,Armstrong,0,0,41,1
+2020-11-15,United States,Texas,Atascosa,28,0,1693,37
+2020-11-15,United States,Texas,Austin,0,0,588,11
+2020-11-15,United States,Texas,Bailey,5,0,502,5
+2020-11-15,United States,Texas,Bandera,4,1,254,11
+2020-11-15,United States,Texas,Bastrop,12,0,2523,33
+2020-11-15,United States,Texas,Baylor,1,0,114,4
+2020-11-15,United States,Texas,Bee,-2,0,2025,40
+2020-11-15,United States,Texas,Bell,83,1,7318,108
+2020-11-15,United States,Texas,Bexar,0,2,69404,1449
+2020-11-15,United States,Texas,Blanco,0,0,188,6
+2020-11-15,United States,Texas,Borden,0,0,7,0
+2020-11-15,United States,Texas,Bosque,0,0,525,14
+2020-11-15,United States,Texas,Bowie,0,2,2862,90
+2020-11-15,United States,Texas,Brazoria,58,0,13243,190
+2020-11-15,United States,Texas,Brazos,122,3,9840,93
+2020-11-15,United States,Texas,Brewster,7,0,320,5
+2020-11-15,United States,Texas,Briscoe,1,0,55,1
+2020-11-15,United States,Texas,Brooks,1,0,437,25
+2020-11-15,United States,Texas,Brown,17,0,1335,29
+2020-11-15,United States,Texas,Burleson,17,0,600,7
+2020-11-15,United States,Texas,Burnet,16,0,1251,16
+2020-11-15,United States,Texas,Caldwell,11,0,1855,39
+2020-11-15,United States,Texas,Calhoun,8,0,973,9
+2020-11-15,United States,Texas,Callahan,6,0,300,7
+2020-11-15,United States,Texas,Cameron,97,0,24992,1099
+2020-11-15,United States,Texas,Camp,0,0,505,14
+2020-11-15,United States,Texas,Carson,1,0,94,2
+2020-11-15,United States,Texas,Cass,0,0,946,32
+2020-11-15,United States,Texas,Castro,3,0,481,7
+2020-11-15,United States,Texas,Chambers,0,0,1708,10
+2020-11-15,United States,Texas,Cherokee,0,1,2330,46
+2020-11-15,United States,Texas,Childress,1,0,803,0
+2020-11-15,United States,Texas,Clay,15,0,201,3
+2020-11-15,United States,Texas,Cochran,1,0,152,4
+2020-11-15,United States,Texas,Coke,9,0,216,8
+2020-11-15,United States,Texas,Coleman,8,0,205,5
+2020-11-15,United States,Texas,Collin,182,4,22286,213
+2020-11-15,United States,Texas,Collingsworth,0,0,24,0
+2020-11-15,United States,Texas,Colorado,4,0,588,4
+2020-11-15,United States,Texas,Comal,0,0,4090,108
+2020-11-15,United States,Texas,Comanche,2,0,434,5
+2020-11-15,United States,Texas,Concho,5,0,189,2
+2020-11-15,United States,Texas,Cooke,9,2,751,11
+2020-11-15,United States,Texas,Coryell,7,0,2217,14
+2020-11-15,United States,Texas,Cottle,2,0,81,4
+2020-11-15,United States,Texas,Crane,11,0,279,6
+2020-11-15,United States,Texas,Crockett,9,0,284,7
+2020-11-15,United States,Texas,Crosby,2,0,234,13
+2020-11-15,United States,Texas,Culberson,3,0,152,3
+2020-11-15,United States,Texas,Dallam,1,0,435,10
+2020-11-15,United States,Texas,Dallas,1543,13,117426,1511
+2020-11-15,United States,Texas,Dawson,0,0,1035,30
+2020-11-15,United States,Texas,Deaf Smith,15,2,1484,35
+2020-11-15,United States,Texas,Delta,0,0,70,0
+2020-11-15,United States,Texas,Denton,251,0,19585,195
+2020-11-15,United States,Texas,DeWitt,-1,0,1128,44
+2020-11-15,United States,Texas,Dickens,0,0,84,2
+2020-11-15,United States,Texas,Dimmit,19,0,349,8
+2020-11-15,United States,Texas,Donley,1,0,150,1
+2020-11-15,United States,Texas,Duval,-1,0,570,22
+2020-11-15,United States,Texas,Eastland,5,0,433,9
+2020-11-15,United States,Texas,Ector,0,0,8206,130
+2020-11-15,United States,Texas,Edwards,1,0,85,2
+2020-11-15,United States,Texas,El Paso,1663,14,72238,792
+2020-11-15,United States,Texas,Ellis,92,0,6421,100
+2020-11-15,United States,Texas,Erath,28,0,1668,18
+2020-11-15,United States,Texas,Falls,6,1,752,12
+2020-11-15,United States,Texas,Fannin,10,0,998,23
+2020-11-15,United States,Texas,Fayette,0,0,775,23
+2020-11-15,United States,Texas,Fisher,0,0,138,4
+2020-11-15,United States,Texas,Floyd,12,0,322,10
+2020-11-15,United States,Texas,Foard,0,0,45,1
+2020-11-15,United States,Texas,Fort Bend,290,3,19600,322
+2020-11-15,United States,Texas,Franklin,0,0,299,10
+2020-11-15,United States,Texas,Freestone,9,1,618,8
+2020-11-15,United States,Texas,Frio,30,0,1121,9
+2020-11-15,United States,Texas,Gaines,0,1,752,14
+2020-11-15,United States,Texas,Galveston,95,0,14044,172
+2020-11-15,United States,Texas,Garza,1,0,194,10
+2020-11-15,United States,Texas,Gillespie,30,0,528,10
+2020-11-15,United States,Texas,Glasscock,-1,0,48,0
+2020-11-15,United States,Texas,Goliad,0,0,225,6
+2020-11-15,United States,Texas,Gonzales,8,0,1212,21
+2020-11-15,United States,Texas,Gray,1,1,1146,14
+2020-11-15,United States,Texas,Grayson,139,4,3450,92
+2020-11-15,United States,Texas,Gregg,0,1,4115,98
+2020-11-15,United States,Texas,Grimes,3,0,1323,37
+2020-11-15,United States,Texas,Guadalupe,73,0,4584,83
+2020-11-15,United States,Texas,Hale,0,0,3341,74
+2020-11-15,United States,Texas,Hall,0,0,71,2
+2020-11-15,United States,Texas,Hamilton,6,0,270,7
+2020-11-15,United States,Texas,Hansford,0,0,318,8
+2020-11-15,United States,Texas,Hardeman,0,0,113,4
+2020-11-15,United States,Texas,Hardin,28,1,2112,41
+2020-11-15,United States,Texas,Harris,673,13,173436,2908
+2020-11-15,United States,Texas,Harrison,0,0,1613,41
+2020-11-15,United States,Texas,Hartley,1,0,207,0
+2020-11-15,United States,Texas,Haskell,0,0,136,3
+2020-11-15,United States,Texas,Hays,0,0,7425,91
+2020-11-15,United States,Texas,Hemphill,3,0,220,1
+2020-11-15,United States,Texas,Henderson,0,1,2059,44
+2020-11-15,United States,Texas,Hidalgo,0,0,37413,1998
+2020-11-15,United States,Texas,Hill,12,0,1142,16
+2020-11-15,United States,Texas,Hockley,24,0,1259,37
+2020-11-15,United States,Texas,Hood,21,0,1639,42
+2020-11-15,United States,Texas,Hopkins,0,0,1387,48
+2020-11-15,United States,Texas,Houston,0,0,697,14
+2020-11-15,United States,Texas,Howard,29,0,2294,27
+2020-11-15,United States,Texas,Hudspeth,5,0,147,3
+2020-11-15,United States,Texas,Hunt,0,2,2359,52
+2020-11-15,United States,Texas,Hutchinson,16,0,677,13
+2020-11-15,United States,Texas,Irion,2,0,33,0
+2020-11-15,United States,Texas,Jack,9,0,218,3
+2020-11-15,United States,Texas,Jackson,6,0,734,16
+2020-11-15,United States,Texas,Jasper,0,0,904,34
+2020-11-15,United States,Texas,Jeff Davis,0,0,30,0
+2020-11-15,United States,Texas,Jefferson,71,1,9237,167
+2020-11-15,United States,Texas,Jim Hogg,0,0,200,7
+2020-11-15,United States,Texas,Jim Wells,12,0,1905,53
+2020-11-15,United States,Texas,Johnson,132,1,4868,76
+2020-11-15,United States,Texas,Jones,3,0,1740,4
+2020-11-15,United States,Texas,Karnes,2,0,1005,18
+2020-11-15,United States,Texas,Kaufman,58,0,4557,70
+2020-11-15,United States,Texas,Kendall,36,0,717,11
+2020-11-15,United States,Texas,Kenedy,0,0,15,2
+2020-11-15,United States,Texas,Kent,0,0,25,0
+2020-11-15,United States,Texas,Kerr,31,0,951,17
+2020-11-15,United States,Texas,Kimble,2,0,60,2
+2020-11-15,United States,Texas,King,0,0,1,0
+2020-11-15,United States,Texas,Kinney,0,0,84,2
+2020-11-15,United States,Texas,Kleberg,0,0,1170,54
+2020-11-15,United States,Texas,Knox,1,0,128,9
+2020-11-15,United States,Texas,La Salle,4,0,386,14
+2020-11-15,United States,Texas,Lamar,0,1,2305,57
+2020-11-15,United States,Texas,Lamb,31,3,992,34
+2020-11-15,United States,Texas,Lampasas,5,0,386,9
+2020-11-15,United States,Texas,Lavaca,37,0,1354,39
+2020-11-15,United States,Texas,Lee,1,0,482,15
+2020-11-15,United States,Texas,Leon,1,0,499,13
+2020-11-15,United States,Texas,Liberty,16,1,2969,61
+2020-11-15,United States,Texas,Limestone,10,0,838,16
+2020-11-15,United States,Texas,Lipscomb,8,0,100,1
+2020-11-15,United States,Texas,Live Oak,0,0,475,10
+2020-11-15,United States,Texas,Llano,13,0,271,3
+2020-11-15,United States,Texas,Loving,0,0,1,0
+2020-11-15,United States,Texas,Lubbock,509,8,24846,263
+2020-11-15,United States,Texas,Lynn,0,0,275,9
+2020-11-15,United States,Texas,Madison,0,0,865,8
+2020-11-15,United States,Texas,Marion,0,0,201,15
+2020-11-15,United States,Texas,Martin,3,0,231,7
+2020-11-15,United States,Texas,Mason,3,0,108,2
+2020-11-15,United States,Texas,Matagorda,3,0,1209,56
+2020-11-15,United States,Texas,Maverick,25,0,4609,167
+2020-11-15,United States,Texas,McCulloch,1,1,279,6
+2020-11-15,United States,Texas,McLennan,178,1,11956,162
+2020-11-15,United States,Texas,McMullen,0,0,27,1
+2020-11-15,United States,Texas,Medina,32,0,1742,49
+2020-11-15,United States,Texas,Menard,3,0,101,3
+2020-11-15,United States,Texas,Midland,0,0,6405,110
+2020-11-15,United States,Texas,Milam,16,0,753,9
+2020-11-15,United States,Texas,Mills,2,0,121,3
+2020-11-15,United States,Texas,Mitchell,3,0,252,3
+2020-11-15,United States,Texas,Montague,16,0,471,13
+2020-11-15,United States,Texas,Montgomery,0,2,14912,193
+2020-11-15,United States,Texas,Moore,8,0,1664,25
+2020-11-15,United States,Texas,Morris,0,0,322,6
+2020-11-15,United States,Texas,Motley,0,0,20,0
+2020-11-15,United States,Texas,Nacogdoches,0,0,2202,75
+2020-11-15,United States,Texas,Navarro,57,0,2250,35
+2020-11-15,United States,Texas,Newton,0,0,291,15
+2020-11-15,United States,Texas,Nolan,12,0,555,7
+2020-11-15,United States,Texas,Nueces,0,0,22133,456
+2020-11-15,United States,Texas,Ochiltree,80,0,493,6
+2020-11-15,United States,Texas,Oldham,0,0,39,2
+2020-11-15,United States,Texas,Orange,82,1,3147,50
+2020-11-15,United States,Texas,Palo Pinto,14,1,919,27
+2020-11-15,United States,Texas,Panola,0,0,646,32
+2020-11-15,United States,Texas,Parker,104,0,3636,57
+2020-11-15,United States,Texas,Parmer,3,1,765,21
+2020-11-15,United States,Texas,Pecos,10,0,692,15
+2020-11-15,United States,Texas,Polk,0,1,1416,42
+2020-11-15,United States,Texas,Potter,0,0,10410,134
+2020-11-15,United States,Texas,Presidio,1,0,238,7
+2020-11-15,United States,Texas,Rains,0,0,227,5
+2020-11-15,United States,Texas,Randall,201,4,8083,72
+2020-11-15,United States,Texas,Reagan,13,0,210,6
+2020-11-15,United States,Texas,Real,0,0,130,8
+2020-11-15,United States,Texas,Red River,0,0,258,18
+2020-11-15,United States,Texas,Reeves,13,0,758,11
+2020-11-15,United States,Texas,Refugio,3,0,331,16
+2020-11-15,United States,Texas,Roberts,1,0,22,0
+2020-11-15,United States,Texas,Robertson,11,0,524,6
+2020-11-15,United States,Texas,Rockwall,74,0,2879,35
+2020-11-15,United States,Texas,Runnels,6,0,432,10
+2020-11-15,United States,Texas,Rusk,0,0,1507,29
+2020-11-15,United States,Texas,Sabine,0,0,213,10
+2020-11-15,United States,Texas,San Augustine,0,0,314,16
+2020-11-15,United States,Texas,San Jacinto,0,0,309,14
+2020-11-15,United States,Texas,San Patricio,0,0,1630,83
+2020-11-15,United States,Texas,San Saba,6,0,288,5
+2020-11-15,United States,Texas,Schleicher,-1,0,119,2
+2020-11-15,United States,Texas,Scurry,0,1,1322,19
+2020-11-15,United States,Texas,Shackelford,1,0,90,0
+2020-11-15,United States,Texas,Shelby,0,0,792,34
+2020-11-15,United States,Texas,Sherman,1,0,90,1
+2020-11-15,United States,Texas,Smith,0,2,7901,174
+2020-11-15,United States,Texas,Somervell,9,0,294,5
+2020-11-15,United States,Texas,Starr,25,0,4000,187
+2020-11-15,United States,Texas,Stephens,7,0,320,7
+2020-11-15,United States,Texas,Sterling,1,0,35,1
+2020-11-15,United States,Texas,Stonewall,1,0,34,1
+2020-11-15,United States,Texas,Sutton,12,0,202,3
+2020-11-15,United States,Texas,Swisher,5,0,309,5
+2020-11-15,United States,Texas,Tarrant,1523,6,82015,1158
+2020-11-15,United States,Texas,Taylor,341,1,6032,85
+2020-11-15,United States,Texas,Terrell,2,0,13,0
+2020-11-15,United States,Texas,Terry,0,0,752,12
+2020-11-15,United States,Texas,Throckmorton,0,0,32,2
+2020-11-15,United States,Texas,Titus,0,0,1843,37
+2020-11-15,United States,Texas,Tom Green,121,3,7004,93
+2020-11-15,United States,Texas,Travis,300,1,34504,466
+2020-11-15,United States,Texas,Trinity,0,0,244,8
+2020-11-15,United States,Texas,Tyler,0,0,445,4
+2020-11-15,United States,Texas,Unassigned,0,0,0,0
+2020-11-15,United States,Texas,Upshur,0,1,922,17
+2020-11-15,United States,Texas,Upton,4,0,108,4
+2020-11-15,United States,Texas,Uvalde,0,0,973,37
+2020-11-15,United States,Texas,Val Verde,0,1,2780,131
+2020-11-15,United States,Texas,Van Zandt,0,1,1255,32
+2020-11-15,United States,Texas,Victoria,36,1,4593,99
+2020-11-15,United States,Texas,Walker,-9,1,4180,66
+2020-11-15,United States,Texas,Waller,2,0,1134,17
+2020-11-15,United States,Texas,Ward,9,0,401,4
+2020-11-15,United States,Texas,Washington,19,0,916,52
+2020-11-15,United States,Texas,Webb,273,0,16965,359
+2020-11-15,United States,Texas,Wharton,7,0,1623,61
+2020-11-15,United States,Texas,Wheeler,10,0,185,1
+2020-11-15,United States,Texas,Wichita,109,3,5350,79
+2020-11-15,United States,Texas,Wilbarger,18,1,597,8
+2020-11-15,United States,Texas,Willacy,3,0,1310,59
+2020-11-15,United States,Texas,Williamson,91,1,11903,160
+2020-11-15,United States,Texas,Wilson,19,0,1163,28
+2020-11-15,United States,Texas,Winkler,15,0,291,5
+2020-11-15,United States,Texas,Wise,40,3,1407,26
+2020-11-15,United States,Texas,Wood,0,1,1126,46
+2020-11-15,United States,Texas,Yoakum,0,0,488,10
+2020-11-15,United States,Texas,Young,19,0,797,16
+2020-11-15,United States,Texas,Zapata,0,0,409,9
+2020-11-15,United States,Texas,Zavala,35,0,558,21
+2020-11-15,United States,Utah,Bear River,379,0,7431,22
+2020-11-15,United States,Utah,Central Utah,126,0,2089,14
+2020-11-15,United States,Utah,Davis,407,2,12267,54
+2020-11-15,United States,Utah,Salt Lake,2095,2,63768,349
+2020-11-15,United States,Utah,San Juan,17,0,906,30
+2020-11-15,United States,Utah,Southeast Utah,35,0,887,6
+2020-11-15,United States,Utah,Southwest Utah,362,2,8669,66
+2020-11-15,United States,Utah,Summit,28,1,1830,2
+2020-11-15,United States,Utah,Tooele,78,1,2164,9
+2020-11-15,United States,Utah,TriCounty,71,0,945,4
+2020-11-15,United States,Utah,Unassigned,0,0,0,0
+2020-11-15,United States,Utah,Utah,1335,1,38708,103
+2020-11-15,United States,Utah,Wasatch,59,0,1570,10
+2020-11-15,United States,Utah,Weber-Morgan,360,0,9907,41
+2020-11-15,United States,Vermont,Addison,1,0,148,2
+2020-11-15,United States,Vermont,Bennington,4,0,163,1
+2020-11-15,United States,Vermont,Caledonia,2,0,66,0
+2020-11-15,United States,Vermont,Chittenden,17,0,1176,39
+2020-11-15,United States,Vermont,Essex,1,0,23,0
+2020-11-15,United States,Vermont,Franklin,2,0,161,7
+2020-11-15,United States,Vermont,Grand Isle,0,0,33,0
+2020-11-15,United States,Vermont,Lamoille,6,0,94,1
+2020-11-15,United States,Vermont,Orange,6,0,89,0
+2020-11-15,United States,Vermont,Orleans,2,0,66,1
+2020-11-15,United States,Vermont,Rutland,16,0,176,1
+2020-11-15,United States,Vermont,Unassigned,0,0,9,0
+2020-11-15,United States,Vermont,Washington,40,0,318,2
+2020-11-15,United States,Vermont,Windham,2,0,171,3
+2020-11-15,United States,Vermont,Windsor,1,0,150,2
+2020-11-15,United States,Virgin Islands,,8,0,1434,23
+2020-11-15,United States,Virginia,Accomack,5,0,1253,21
+2020-11-15,United States,Virginia,Albemarle,8,1,1696,26
+2020-11-15,United States,Virginia,Alexandria,17,0,4619,76
+2020-11-15,United States,Virginia,Alleghany,6,0,234,6
+2020-11-15,United States,Virginia,Amelia,4,0,158,6
+2020-11-15,United States,Virginia,Amherst,0,0,665,6
+2020-11-15,United States,Virginia,Appomattox,1,0,342,6
+2020-11-15,United States,Virginia,Arlington,50,2,5241,157
+2020-11-15,United States,Virginia,Augusta,12,0,859,10
+2020-11-15,United States,Virginia,Bath,2,0,36,0
+2020-11-15,United States,Virginia,Bedford,10,0,1510,18
+2020-11-15,United States,Virginia,Bland,1,0,103,5
+2020-11-15,United States,Virginia,Botetourt,38,0,608,13
+2020-11-15,United States,Virginia,Bristol,13,0,427,7
+2020-11-15,United States,Virginia,Brunswick,1,0,447,6
+2020-11-15,United States,Virginia,Buchanan,4,0,313,4
+2020-11-15,United States,Virginia,Buckingham,0,0,815,9
+2020-11-15,United States,Virginia,Buena Vista,6,0,158,1
+2020-11-15,United States,Virginia,Campbell,5,0,914,11
+2020-11-15,United States,Virginia,Caroline,7,0,491,6
+2020-11-15,United States,Virginia,Carroll,16,0,747,29
+2020-11-15,United States,Virginia,Charles City,2,0,116,5
+2020-11-15,United States,Virginia,Charlotte,1,0,252,2
+2020-11-15,United States,Virginia,Charlottesville,7,0,1721,31
+2020-11-15,United States,Virginia,Chesapeake,46,0,5499,80
+2020-11-15,United States,Virginia,Chesterfield,60,0,8011,121
+2020-11-15,United States,Virginia,Clarke,2,0,151,2
+2020-11-15,United States,Virginia,Colonial Heights,-1,0,352,26
+2020-11-15,United States,Virginia,Covington,1,0,89,0
+2020-11-15,United States,Virginia,Craig,6,0,72,0
+2020-11-15,United States,Virginia,Culpeper,7,0,1705,18
+2020-11-15,United States,Virginia,Cumberland,1,0,137,4
+2020-11-15,United States,Virginia,Danville,8,0,1409,47
+2020-11-15,United States,Virginia,Dickenson,6,0,205,1
+2020-11-15,United States,Virginia,Dinwiddie,1,0,592,12
+2020-11-15,United States,Virginia,Emporia,1,0,307,28
+2020-11-15,United States,Virginia,Essex,1,0,213,2
+2020-11-15,United States,Virginia,Fairfax,118,0,26258,610
+2020-11-15,United States,Virginia,Fairfax City,0,0,178,8
+2020-11-15,United States,Virginia,Falls Church,-1,0,82,7
+2020-11-15,United States,Virginia,Fauquier,7,0,1222,28
+2020-11-15,United States,Virginia,Floyd,1,0,279,15
+2020-11-15,United States,Virginia,Fluvanna,1,0,458,9
+2020-11-15,United States,Virginia,Franklin,14,2,1233,9
+2020-11-15,United States,Virginia,Franklin City,1,0,525,15
+2020-11-15,United States,Virginia,Frederick,35,0,1462,16
+2020-11-15,United States,Virginia,Fredericksburg,1,1,630,7
+2020-11-15,United States,Virginia,Galax,8,0,500,30
+2020-11-15,United States,Virginia,Giles,4,0,196,0
+2020-11-15,United States,Virginia,Gloucester,3,0,377,3
+2020-11-15,United States,Virginia,Goochland,2,0,368,7
+2020-11-15,United States,Virginia,Grayson,5,0,449,20
+2020-11-15,United States,Virginia,Greene,3,0,325,4
+2020-11-15,United States,Virginia,Greensville,0,0,919,15
+2020-11-15,United States,Virginia,Halifax,43,0,700,10
+2020-11-15,United States,Virginia,Hampton,12,0,2356,34
+2020-11-15,United States,Virginia,Hanover,17,1,1961,48
+2020-11-15,United States,Virginia,Harrisonburg,12,1,3247,36
+2020-11-15,United States,Virginia,Henrico,33,0,7166,243
+2020-11-15,United States,Virginia,Henry,25,0,1584,37
+2020-11-15,United States,Virginia,Highland,1,0,14,0
+2020-11-15,United States,Virginia,Hopewell,2,0,559,8
+2020-11-15,United States,Virginia,Isle of Wight,3,0,920,27
+2020-11-15,United States,Virginia,James City,7,0,1039,22
+2020-11-15,United States,Virginia,King and Queen,1,0,98,2
+2020-11-15,United States,Virginia,King George,4,0,327,5
+2020-11-15,United States,Virginia,King William,4,0,251,5
+2020-11-15,United States,Virginia,Lancaster,2,0,214,1
+2020-11-15,United States,Virginia,Lee,17,0,723,11
+2020-11-15,United States,Virginia,Lexington,5,0,287,2
+2020-11-15,United States,Virginia,Loudoun,64,0,8706,135
+2020-11-15,United States,Virginia,Louisa,3,0,439,8
+2020-11-15,United States,Virginia,Lunenburg,0,0,159,5
+2020-11-15,United States,Virginia,Lynchburg,6,-1,2283,26
+2020-11-15,United States,Virginia,Madison,-1,0,162,3
+2020-11-15,United States,Virginia,Manassas,11,0,2132,28
+2020-11-15,United States,Virginia,Manassas Park,0,0,677,8
+2020-11-15,United States,Virginia,Martinsville,7,0,556,24
+2020-11-15,United States,Virginia,Mathews,1,0,146,0
+2020-11-15,United States,Virginia,Mecklenburg,2,0,949,35
+2020-11-15,United States,Virginia,Middlesex,0,0,149,11
+2020-11-15,United States,Virginia,Montgomery,11,0,3368,7
+2020-11-15,United States,Virginia,Nelson,1,0,149,2
+2020-11-15,United States,Virginia,New Kent,2,1,330,4
+2020-11-15,United States,Virginia,Newport News,27,1,3501,53
+2020-11-15,United States,Virginia,Norfolk,34,1,5863,87
+2020-11-15,United States,Virginia,Northampton,1,0,329,31
+2020-11-15,United States,Virginia,Northumberland,3,0,235,8
+2020-11-15,United States,Virginia,Norton,1,0,63,0
+2020-11-15,United States,Virginia,Nottoway,0,0,440,21
+2020-11-15,United States,Virginia,Orange,0,0,483,6
+2020-11-15,United States,Virginia,Page,0,0,524,31
+2020-11-15,United States,Virginia,Patrick,3,0,385,27
+2020-11-15,United States,Virginia,Petersburg,5,0,1022,30
+2020-11-15,United States,Virginia,Pittsylvania,14,0,1495,18
+2020-11-15,United States,Virginia,Poquoson,2,0,115,2
+2020-11-15,United States,Virginia,Portsmouth,10,0,2977,70
+2020-11-15,United States,Virginia,Powhatan,2,0,354,6
+2020-11-15,United States,Virginia,Prince Edward,2,0,818,14
+2020-11-15,United States,Virginia,Prince George,1,0,1275,7
+2020-11-15,United States,Virginia,Prince William,72,1,15720,229
+2020-11-15,United States,Virginia,Pulaski,5,0,414,8
+2020-11-15,United States,Virginia,Radford,5,0,1030,2
+2020-11-15,United States,Virginia,Rappahannock,0,0,70,2
+2020-11-15,United States,Virginia,Richmond,1,0,375,4
+2020-11-15,United States,Virginia,Richmond City,39,0,5947,78
+2020-11-15,United States,Virginia,Roanoke,27,2,2077,26
+2020-11-15,United States,Virginia,Roanoke City,21,-1,3421,53
+2020-11-15,United States,Virginia,Rockbridge,2,0,194,3
+2020-11-15,United States,Virginia,Rockingham,15,0,1961,29
+2020-11-15,United States,Virginia,Russell,13,0,685,8
+2020-11-15,United States,Virginia,Salem,9,0,714,14
+2020-11-15,United States,Virginia,Scott,18,0,607,10
+2020-11-15,United States,Virginia,Shenandoah,17,0,1161,61
+2020-11-15,United States,Virginia,Smyth,21,0,818,27
+2020-11-15,United States,Virginia,Southampton,2,0,947,39
+2020-11-15,United States,Virginia,Spotsylvania,29,0,2721,55
+2020-11-15,United States,Virginia,Stafford,40,0,2725,22
+2020-11-15,United States,Virginia,Staunton,1,0,497,9
+2020-11-15,United States,Virginia,Suffolk,15,0,2495,79
+2020-11-15,United States,Virginia,Surry,1,0,150,5
+2020-11-15,United States,Virginia,Sussex,2,0,654,13
+2020-11-15,United States,Virginia,Tazewell,17,0,738,4
+2020-11-15,United States,Virginia,Unassigned,0,0,0,0
+2020-11-15,United States,Virginia,Virginia Beach,92,1,9094,112
+2020-11-15,United States,Virginia,Warren,7,0,692,25
+2020-11-15,United States,Virginia,Washington,42,0,1416,28
+2020-11-15,United States,Virginia,Waynesboro,5,0,451,4
+2020-11-15,United States,Virginia,Westmoreland,3,0,379,5
+2020-11-15,United States,Virginia,Williamsburg,3,0,248,8
+2020-11-15,United States,Virginia,Winchester,19,0,764,4
+2020-11-15,United States,Virginia,Wise,13,1,992,14
+2020-11-15,United States,Virginia,Wythe,13,0,449,7
+2020-11-15,United States,Virginia,York,11,0,735,9
+2020-11-15,United States,Washington,Adams,26,0,1120,12
+2020-11-15,United States,Washington,Asotin,17,0,504,9
+2020-11-15,United States,Washington,Benton,178,0,6580,135
+2020-11-15,United States,Washington,Chelan,9,0,2814,23
+2020-11-15,United States,Washington,Clallam,10,0,315,3
+2020-11-15,United States,Washington,Clark,92,2,6437,104
+2020-11-15,United States,Washington,Columbia,0,0,25,2
+2020-11-15,United States,Washington,Cowlitz,14,0,1035,7
+2020-11-15,United States,Washington,Douglas,1,0,1613,11
+2020-11-15,United States,Washington,Ferry,0,0,42,1
+2020-11-15,United States,Washington,Franklin,116,1,5503,69
+2020-11-15,United States,Washington,Garfield,2,0,57,1
+2020-11-15,United States,Washington,Grant,28,0,3732,29
+2020-11-15,United States,Washington,Grays Harbor,16,0,915,17
+2020-11-15,United States,Washington,Island,6,0,512,11
+2020-11-15,United States,Washington,Jefferson,4,0,117,0
+2020-11-15,United States,Washington,King,627,2,34833,823
+2020-11-15,United States,Washington,Kitsap,29,0,1955,26
+2020-11-15,United States,Washington,Kittitas,10,0,842,22
+2020-11-15,United States,Washington,Klickitat,2,0,250,2
+2020-11-15,United States,Washington,Lewis,15,0,987,14
+2020-11-15,United States,Washington,Lincoln,2,0,107,2
+2020-11-15,United States,Washington,Mason,4,1,627,11
+2020-11-15,United States,Washington,Okanogan,1,0,1202,12
+2020-11-15,United States,Washington,Pacific,1,0,169,2
+2020-11-15,United States,Washington,Pend Oreille,2,0,196,1
+2020-11-15,United States,Washington,Pierce,334,2,13201,247
+2020-11-15,United States,Washington,San Juan,4,0,51,0
+2020-11-15,United States,Washington,Skagit,48,0,1691,24
+2020-11-15,United States,Washington,Skamania,0,0,86,1
+2020-11-15,United States,Washington,Snohomish,147,1,11521,247
+2020-11-15,United States,Washington,Spokane,259,2,12477,220
+2020-11-15,United States,Washington,Stevens,12,0,449,4
+2020-11-15,United States,Washington,Thurston,41,1,2423,38
+2020-11-15,United States,Washington,Unassigned,2,0,394,3
+2020-11-15,United States,Washington,Wahkiakum,0,0,12,0
+2020-11-15,United States,Washington,Walla Walla,40,1,1740,16
+2020-11-15,United States,Washington,Whatcom,45,0,1892,44
+2020-11-15,United States,Washington,Whitman,37,0,2015,19
+2020-11-15,United States,Washington,Yakima,69,3,12950,281
+2020-11-15,United States,West Virginia,Barbour,9,0,258,3
+2020-11-15,United States,West Virginia,Berkeley,64,1,2162,20
+2020-11-15,United States,West Virginia,Boone,9,0,501,10
+2020-11-15,United States,West Virginia,Braxton,1,0,92,0
+2020-11-15,United States,West Virginia,Brooke,13,0,359,7
+2020-11-15,United States,West Virginia,Cabell,71,1,2087,44
+2020-11-15,United States,West Virginia,Calhoun,-1,0,43,0
+2020-11-15,United States,West Virginia,Clay,0,0,94,3
+2020-11-15,United States,West Virginia,Doddridge,1,0,86,1
+2020-11-15,United States,West Virginia,Fayette,19,0,942,30
+2020-11-15,United States,West Virginia,Gilmer,5,0,174,0
+2020-11-15,United States,West Virginia,Grant,7,0,229,9
+2020-11-15,United States,West Virginia,Greenbrier,16,1,298,6
+2020-11-15,United States,West Virginia,Hampshire,8,0,202,1
+2020-11-15,United States,West Virginia,Hancock,24,0,356,3
+2020-11-15,United States,West Virginia,Hardy,4,0,144,1
+2020-11-15,United States,West Virginia,Harrison,25,0,853,14
+2020-11-15,United States,West Virginia,Jackson,22,0,505,24
+2020-11-15,United States,West Virginia,Jefferson,53,0,907,11
+2020-11-15,United States,West Virginia,Kanawha,148,2,4604,124
+2020-11-15,United States,West Virginia,Lewis,3,0,192,2
+2020-11-15,United States,West Virginia,Lincoln,4,0,337,2
+2020-11-15,United States,West Virginia,Logan,12,0,901,48
+2020-11-15,United States,West Virginia,Marion,21,0,566,5
+2020-11-15,United States,West Virginia,Marshall,54,1,747,8
+2020-11-15,United States,West Virginia,Mason,8,0,234,6
+2020-11-15,United States,West Virginia,McDowell,39,0,276,1
+2020-11-15,United States,West Virginia,Mercer,34,0,1024,36
+2020-11-15,United States,West Virginia,Mineral,43,0,539,4
+2020-11-15,United States,West Virginia,Mingo,10,1,815,13
+2020-11-15,United States,West Virginia,Monongalia,51,0,2706,7
+2020-11-15,United States,West Virginia,Monroe,1,0,289,8
+2020-11-15,United States,West Virginia,Morgan,11,0,204,0
+2020-11-15,United States,West Virginia,Nicholas,8,0,248,3
+2020-11-15,United States,West Virginia,Ohio,41,1,965,11
+2020-11-15,United States,West Virginia,Pendleton,3,0,83,1
+2020-11-15,United States,West Virginia,Pleasants,1,0,55,3
+2020-11-15,United States,West Virginia,Pocahontas,1,0,80,0
+2020-11-15,United States,West Virginia,Preston,20,0,321,6
+2020-11-15,United States,West Virginia,Putnam,47,0,1332,22
+2020-11-15,United States,West Virginia,Raleigh,18,0,1092,15
+2020-11-15,United States,West Virginia,Randolph,9,0,535,2
+2020-11-15,United States,West Virginia,Ritchie,0,0,88,1
+2020-11-15,United States,West Virginia,Roane,3,0,130,2
+2020-11-15,United States,West Virginia,Summers,4,1,201,5
+2020-11-15,United States,West Virginia,Taylor,16,0,216,8
+2020-11-15,United States,West Virginia,Tucker,2,0,74,0
+2020-11-15,United States,West Virginia,Tyler,7,0,105,0
+2020-11-15,United States,West Virginia,Upshur,5,0,350,4
+2020-11-15,United States,West Virginia,Wayne,35,0,778,13
+2020-11-15,United States,West Virginia,Webster,0,0,44,0
+2020-11-15,United States,West Virginia,Wetzel,8,0,314,11
+2020-11-15,United States,West Virginia,Wirt,2,0,65,1
+2020-11-15,United States,West Virginia,Wood,120,0,1495,9
+2020-11-15,United States,West Virginia,Wyoming,14,0,495,6
+2020-11-15,United States,Wisconsin,Adams,8,0,888,7
+2020-11-15,United States,Wisconsin,Ashland,12,0,506,5
+2020-11-15,United States,Wisconsin,Barron,214,1,2441,30
+2020-11-15,United States,Wisconsin,Bayfield,18,0,519,3
+2020-11-15,United States,Wisconsin,Brown,301,2,20227,123
+2020-11-15,United States,Wisconsin,Buffalo,13,0,562,3
+2020-11-15,United States,Wisconsin,Burnett,26,0,546,7
+2020-11-15,United States,Wisconsin,Calumet,54,1,3624,22
+2020-11-15,United States,Wisconsin,Chippewa,80,0,3478,38
+2020-11-15,United States,Wisconsin,Clark,55,0,1746,27
+2020-11-15,United States,Wisconsin,Columbia,35,1,2790,11
+2020-11-15,United States,Wisconsin,Crawford,28,0,651,4
+2020-11-15,United States,Wisconsin,Dane,295,0,21965,63
+2020-11-15,United States,Wisconsin,Dodge,141,1,6843,57
+2020-11-15,United States,Wisconsin,Door,22,0,1450,10
+2020-11-15,United States,Wisconsin,Douglas,37,0,1304,1
+2020-11-15,United States,Wisconsin,Dunn,44,1,1952,2
+2020-11-15,United States,Wisconsin,Eau Claire,99,5,5721,44
+2020-11-15,United States,Wisconsin,Florence,3,1,285,11
+2020-11-15,United States,Wisconsin,Fond du Lac,43,2,7251,36
+2020-11-15,United States,Wisconsin,Forest,7,0,679,12
+2020-11-15,United States,Wisconsin,Grant,78,2,2958,53
+2020-11-15,United States,Wisconsin,Green,4,0,1357,5
+2020-11-15,United States,Wisconsin,Green Lake,15,0,1203,4
+2020-11-15,United States,Wisconsin,Iowa,23,0,978,4
+2020-11-15,United States,Wisconsin,Iron,7,0,346,7
+2020-11-15,United States,Wisconsin,Jackson,61,0,1190,2
+2020-11-15,United States,Wisconsin,Jefferson,88,1,4324,31
+2020-11-15,United States,Wisconsin,Juneau,81,0,1547,6
+2020-11-15,United States,Wisconsin,Kenosha,119,1,8042,109
+2020-11-15,United States,Wisconsin,Kewaunee,17,0,1444,13
+2020-11-15,United States,Wisconsin,La Crosse,55,2,6454,30
+2020-11-15,United States,Wisconsin,Lafayette,36,0,882,2
+2020-11-15,United States,Wisconsin,Langlade,11,1,1395,25
+2020-11-15,United States,Wisconsin,Lincoln,43,3,1555,19
+2020-11-15,United States,Wisconsin,Manitowoc,50,0,4467,33
+2020-11-15,United States,Wisconsin,Marathon,75,0,8371,106
+2020-11-15,United States,Wisconsin,Marinette,49,2,2645,22
+2020-11-15,United States,Wisconsin,Marquette,7,0,1000,7
+2020-11-15,United States,Wisconsin,Menominee,32,0,486,2
+2020-11-15,United States,Wisconsin,Milwaukee,706,2,58485,652
+2020-11-15,United States,Wisconsin,Monroe,37,2,1862,11
+2020-11-15,United States,Wisconsin,Oconto,40,1,2922,24
+2020-11-15,United States,Wisconsin,Oneida,89,2,1874,21
+2020-11-15,United States,Wisconsin,Outagamie,156,4,12508,100
+2020-11-15,United States,Wisconsin,Ozaukee,77,0,4173,32
+2020-11-15,United States,Wisconsin,Pepin,9,0,330,1
+2020-11-15,United States,Wisconsin,Pierce,64,0,1718,11
+2020-11-15,United States,Wisconsin,Polk,29,0,1421,4
+2020-11-15,United States,Wisconsin,Portage,16,0,4019,32
+2020-11-15,United States,Wisconsin,Price,4,0,572,3
+2020-11-15,United States,Wisconsin,Racine,147,5,12325,143
+2020-11-15,United States,Wisconsin,Richland,19,0,712,10
+2020-11-15,United States,Wisconsin,Rock,152,1,7698,61
+2020-11-15,United States,Wisconsin,Rusk,9,0,558,5
+2020-11-15,United States,Wisconsin,Sauk,38,0,2936,10
+2020-11-15,United States,Wisconsin,Sawyer,19,0,622,5
+2020-11-15,United States,Wisconsin,Shawano,58,0,3321,42
+2020-11-15,United States,Wisconsin,Sheboygan,39,2,7410,45
+2020-11-15,United States,Wisconsin,St. Croix,62,0,3368,18
+2020-11-15,United States,Wisconsin,Taylor,35,0,870,10
+2020-11-15,United States,Wisconsin,Trempealeau,42,0,1714,7
+2020-11-15,United States,Wisconsin,Unassigned,0,0,0,0
+2020-11-15,United States,Wisconsin,Vernon,11,0,802,5
+2020-11-15,United States,Wisconsin,Vilas,17,0,958,9
+2020-11-15,United States,Wisconsin,Walworth,90,1,5279,45
+2020-11-15,United States,Wisconsin,Washburn,23,0,443,2
+2020-11-15,United States,Wisconsin,Washington,136,4,7601,62
+2020-11-15,United States,Wisconsin,Waukesha,655,2,20164,167
+2020-11-15,United States,Wisconsin,Waupaca,7,2,3561,87
+2020-11-15,United States,Wisconsin,Waushara,18,0,1610,6
+2020-11-15,United States,Wisconsin,Winnebago,260,0,12434,94
+2020-11-15,United States,Wisconsin,Wood,131,1,3262,19
+2020-11-15,United States,Wyoming,Albany,79,2,2414,8
+2020-11-15,United States,Wyoming,Big Horn,8,0,351,9
+2020-11-15,United States,Wyoming,Campbell,56,0,2049,6
+2020-11-15,United States,Wyoming,Carbon,8,0,428,4
+2020-11-15,United States,Wyoming,Converse,7,0,453,5
+2020-11-15,United States,Wyoming,Crook,7,2,219,3
+2020-11-15,United States,Wyoming,Fremont,66,1,2350,22
+2020-11-15,United States,Wyoming,Goshen,16,0,353,6
+2020-11-15,United States,Wyoming,Hot Springs,0,0,72,0
+2020-11-15,United States,Wyoming,Johnson,4,0,178,2
+2020-11-15,United States,Wyoming,Laramie,55,1,3159,15
+2020-11-15,United States,Wyoming,Lincoln,5,2,479,6
+2020-11-15,United States,Wyoming,Natrona,45,7,3058,23
+2020-11-15,United States,Wyoming,Niobrara,6,0,56,0
+2020-11-15,United States,Wyoming,Park,22,1,1086,4
+2020-11-15,United States,Wyoming,Platte,9,1,248,5
+2020-11-15,United States,Wyoming,Sheridan,17,0,1225,8
+2020-11-15,United States,Wyoming,Sublette,8,0,260,1
+2020-11-15,United States,Wyoming,Sweetwater,33,0,1024,4
+2020-11-15,United States,Wyoming,Teton,48,0,1156,2
+2020-11-15,United States,Wyoming,Uinta,33,0,719,4
+2020-11-15,United States,Wyoming,Unassigned,0,0,0,0
+2020-11-15,United States,Wyoming,Washakie,2,0,208,7
+2020-11-15,United States,Wyoming,Weston,6,0,336,0
