@@ -1,0 +1,3603 @@
+tDate,Country,Province1,Province2,Confirmed,Deaths,AccConfirmed,AccDeaths
+2020-08-25,Australia,Australian Capital Territory,,0,0,113,3
+2020-08-25,Australia,New South Wales,,3,0,3991,52
+2020-08-25,Australia,Northern Territory,,0,0,33,0
+2020-08-25,Australia,Queensland,,0,0,1106,6
+2020-08-25,Australia,South Australia,,0,0,463,4
+2020-08-25,Australia,Tasmania,,0,0,230,13
+2020-08-25,Australia,Victoria,,134,8,18464,438
+2020-08-25,Australia,Western Australia,,1,0,653,9
+2020-08-25,Austria,,,242,1,25495,733
+2020-08-25,Belgium,,,156,4,82092,9996
+2020-08-25,Canada,Alberta,,258,4,13006,234
+2020-08-25,Canada,British Columbia,,269,1,5184,203
+2020-08-25,Canada,Diamond Princess,,0,0,0,1
+2020-08-25,Canada,Grand Princess,,0,0,13,0
+2020-08-25,Canada,Manitoba,,49,0,993,12
+2020-08-25,Canada,New Brunswick,,0,0,189,2
+2020-08-25,Canada,Newfoundland and Labrador,,0,0,268,3
+2020-08-25,Canada,Northwest Territories,,0,0,5,0
+2020-08-25,Canada,Nova Scotia,,0,0,1080,65
+2020-08-25,Canada,Nunavut,,0,0,0,0
+2020-08-25,Canada,Ontario,,131,1,43454,2843
+2020-08-25,Canada,Prince Edward Island,,0,0,44,0
+2020-08-25,Canada,Quebec,,44,2,61580,5769
+2020-08-25,Canada,Saskatchewan,,2,0,1602,22
+2020-08-25,Canada,Yukon,,0,0,15,0
+2020-08-25,Chile,Antofagasta,,134,3,17539,422
+2020-08-25,Chile,Araucania,,16,2,4922,92
+2020-08-25,Chile,Arica y Parinacota,,80,2,6290,100
+2020-08-25,Chile,Atacama,,103,0,5259,40
+2020-08-25,Chile,Aysen,,1,0,102,1
+2020-08-25,Chile,Biobio,,260,8,15753,188
+2020-08-25,Chile,Coquimbo,,132,3,9229,119
+2020-08-25,Chile,Los Lagos,,56,3,6118,66
+2020-08-25,Chile,Los Rios,,5,0,1061,15
+2020-08-25,Chile,Magallanes,,120,2,2847,34
+2020-08-25,Chile,Maule,,75,8,11100,254
+2020-08-25,Chile,Metropolitana,,508,21,270199,8339
+2020-08-25,Chile,Nuble,,60,0,4305,75
+2020-08-25,Chile,OHiggins,,127,3,12805,323
+2020-08-25,Chile,Tarapaca,,54,3,10385,196
+2020-08-25,Chile,Unknown,,1,0,65,1
+2020-08-25,Chile,Valparaiso,,171,6,21589,651
+2020-08-25,China,Anhui,,0,0,991,6
+2020-08-25,China,Beijing,,0,0,935,9
+2020-08-25,China,Chongqing,,0,0,583,6
+2020-08-25,China,Fujian,,0,0,375,1
+2020-08-25,China,Gansu,,0,0,169,2
+2020-08-25,China,Guangdong,,3,0,1730,8
+2020-08-25,China,Guangxi,,0,0,255,2
+2020-08-25,China,Guizhou,,0,0,147,2
+2020-08-25,China,Hainan,,0,0,171,6
+2020-08-25,China,Hebei,,1,0,360,6
+2020-08-25,China,Heilongjiang,,0,0,948,13
+2020-08-25,China,Henan,,0,0,1276,22
+2020-08-25,China,Hong Kong,,9,0,4691,77
+2020-08-25,China,Hubei,,0,0,68139,4512
+2020-08-25,China,Hunan,,0,0,1019,4
+2020-08-25,China,Inner Mongolia,,0,0,260,1
+2020-08-25,China,Jiangsu,,0,0,665,0
+2020-08-25,China,Jiangxi,,0,0,935,1
+2020-08-25,China,Jilin,,0,0,157,2
+2020-08-25,China,Liaoning,,1,0,262,2
+2020-08-25,China,Macau,,0,0,46,0
+2020-08-25,China,Ningxia,,0,0,75,0
+2020-08-25,China,Qinghai,,0,0,18,0
+2020-08-25,China,Shaanxi,,2,0,364,3
+2020-08-25,China,Shandong,,0,0,831,7
+2020-08-25,China,Shanghai,,2,0,882,7
+2020-08-25,China,Shanxi,,0,0,202,0
+2020-08-25,China,Sichuan,,4,0,635,3
+2020-08-25,China,Tianjin,,1,0,219,3
+2020-08-25,China,Tibet,,0,0,1,0
+2020-08-25,China,Unknown,,0,0,0,0
+2020-08-25,China,Xinjiang,,0,0,902,3
+2020-08-25,China,Yunnan,,0,0,198,2
+2020-08-25,China,Zhejiang,,0,0,1277,1
+2020-08-25,Colombia,Amazonas,,3,0,2690,107
+2020-08-25,Colombia,Antioquia,,825,48,71983,1465
+2020-08-25,Colombia,Arauca,,4,0,768,13
+2020-08-25,Colombia,Atlantico,,265,9,63069,2841
+2020-08-25,Colombia,Bolivar,,223,3,23694,682
+2020-08-25,Colombia,Boyaca,,121,1,3212,61
+2020-08-25,Colombia,Caldas,,85,2,2386,40
+2020-08-25,Colombia,Capital District,,4434,57,192654,5008
+2020-08-25,Colombia,Caqueta,,233,6,5069,166
+2020-08-25,Colombia,Casanare,,32,0,888,18
+2020-08-25,Colombia,Cauca,,139,8,4329,140
+2020-08-25,Colombia,Cesar,,178,12,8067,212
+2020-08-25,Colombia,Choco,,34,2,3664,132
+2020-08-25,Colombia,Cordoba,,342,14,17498,1103
+2020-08-25,Colombia,Cundinamarca,,661,20,19829,559
+2020-08-25,Colombia,Guainia,,7,0,49,2
+2020-08-25,Colombia,Guaviare,,0,0,236,0
+2020-08-25,Colombia,Huila,,160,4,3690,94
+2020-08-25,Colombia,La Guajira,,122,4,4471,207
+2020-08-25,Colombia,Magdalena,,219,7,11444,603
+2020-08-25,Colombia,Meta,,328,9,7062,148
+2020-08-25,Colombia,Narino,,100,9,12846,458
+2020-08-25,Colombia,Norte de Santander,,146,17,9134,531
+2020-08-25,Colombia,Putumayo,,71,1,2476,117
+2020-08-25,Colombia,Quindio,,70,4,977,29
+2020-08-25,Colombia,Risaralda,,217,6,5024,83
+2020-08-25,Colombia,San Andres y Providencia,,3,0,126,0
+2020-08-25,Colombia,Santander,,548,24,14235,587
+2020-08-25,Colombia,Sucre,,148,8,10505,457
+2020-08-25,Colombia,Tolima,,223,2,5778,150
+2020-08-25,Colombia,Valle del Cauca,,600,19,43598,1597
+2020-08-25,Colombia,Vaupes,,8,0,216,1
+2020-08-25,Colombia,Vichada,,0,0,21,1
+2020-08-25,Costa Rica,,,643,7,34463,362
+2020-08-25,Czechia,,,258,3,22181,415
+2020-08-25,Denmark,,,80,1,16397,623
+2020-08-25,Denmark,Faroe Islands,,26,0,410,0
+2020-08-25,Denmark,Greenland,,0,0,14,0
+2020-08-25,Estonia,,,3,1,2275,64
+2020-08-25,Finland,,,18,1,7938,335
+2020-08-25,France,,,1863,15,269452,30397
+2020-08-25,France,French Guiana,,78,1,8875,56
+2020-08-25,France,French Polynesia,,0,0,211,0
+2020-08-25,France,Guadeloupe,,0,0,771,15
+2020-08-25,France,Martinique,,0,0,464,16
+2020-08-25,France,Mayotte,,0,0,3237,39
+2020-08-25,France,New Caledonia,,0,0,23,0
+2020-08-25,France,Reunion,,35,0,1244,6
+2020-08-25,France,Saint Barthelemy,,0,0,16,0
+2020-08-25,France,Saint Pierre and Miquelon,,0,0,5,0
+2020-08-25,France,St Martin,,0,0,176,5
+2020-08-25,Germany,Baden-Wurttemberg,,326,0,40360,1863
+2020-08-25,Germany,Bayern,,298,1,55156,2634
+2020-08-25,Germany,Berlin,,58,0,10785,226
+2020-08-25,Germany,Brandenburg,,1,0,3827,173
+2020-08-25,Germany,Bremen,,15,0,1915,56
+2020-08-25,Germany,Hamburg,,29,0,6082,265
+2020-08-25,Germany,Hessen,,70,0,14657,528
+2020-08-25,Germany,Mecklenburg-Vorpommern,,3,0,997,20
+2020-08-25,Germany,Niedersachsen,,17,0,16096,660
+2020-08-25,Germany,Nordrhein-Westfalen,,132,0,56916,1798
+2020-08-25,Germany,Rheinland-Pfalz,,14,0,8675,243
+2020-08-25,Germany,Saarland,,5,0,3076,174
+2020-08-25,Germany,Sachsen,,5,0,5825,225
+2020-08-25,Germany,Sachsen-Anhalt,,4,0,2186,65
+2020-08-25,Germany,Schleswig-Holstein,,23,0,3927,160
+2020-08-25,Germany,Thuringen,,6,0,3553,186
+2020-08-25,Germany,Unknown,,622,0,2089,0
+2020-08-25,Greece,,,155,0,8819,242
+2020-08-25,Hungary,,,36,0,5191,613
+2020-08-25,Iceland,,,9,0,2073,10
+2020-08-25,Ireland,,,147,0,28116,1777
+2020-08-25,Israel,,,1900,16,104905,858
+2020-08-25,Italy,Abruzzo,,4,0,3652,472
+2020-08-25,Italy,Basilicata,,0,0,502,28
+2020-08-25,Italy,Calabria,,2,0,1400,97
+2020-08-25,Italy,Campania,,116,0,5838,441
+2020-08-25,Italy,Emilia-Romagna,,116,2,31031,4458
+2020-08-25,Italy,Friuli Venezia Giulia,,2,0,3642,348
+2020-08-25,Italy,Lazio,,146,1,10093,875
+2020-08-25,Italy,Liguria,,26,0,10671,1571
+2020-08-25,Italy,Lombardia,,110,1,98426,16857
+2020-08-25,Italy,Marche,,3,0,7113,987
+2020-08-25,Italy,Molise,,0,0,511,23
+2020-08-25,Italy,P.A. Bolzano,,15,0,2884,292
+2020-08-25,Italy,P.A. Trento,,1,0,5029,405
+2020-08-25,Italy,Piemonte,,40,0,32383,4143
+2020-08-25,Italy,Puglia,,45,0,5070,555
+2020-08-25,Italy,Sardegna,,91,0,1825,134
+2020-08-25,Italy,Sicilia,,65,0,4067,286
+2020-08-25,Italy,Toscana,,44,0,11219,1139
+2020-08-25,Italy,Umbria,,11,0,1650,80
+2020-08-25,Italy,Valle d`Aosta,,0,0,1221,146
+2020-08-25,Italy,Veneto,,116,0,22071,2104
+2020-08-25,Japan,Aichi,,43,0,4234,55
+2020-08-25,Japan,Akita,,0,0,45,0
+2020-08-25,Japan,Aomori,,0,0,36,1
+2020-08-25,Japan,Chiba,,27,0,2800,59
+2020-08-25,Japan,Ehime,,0,0,114,6
+2020-08-25,Japan,Fukui,,8,0,171,8
+2020-08-25,Japan,Fukuoka,,51,1,4171,50
+2020-08-25,Japan,Fukushima,,3,0,128,0
+2020-08-25,Japan,Gifu,,4,0,543,9
+2020-08-25,Japan,Gunma,,4,0,384,19
+2020-08-25,Japan,Hiroshima,,1,0,449,3
+2020-08-25,Japan,Hokkaido,,8,0,1709,103
+2020-08-25,Japan,Hyogo,,8,0,2139,49
+2020-08-25,Japan,Ibaraki,,4,0,507,11
+2020-08-25,Japan,Ishikawa,,7,0,573,31
+2020-08-25,Japan,Iwate,,0,0,12,0
+2020-08-25,Japan,Kagawa,,3,0,74,1
+2020-08-25,Japan,Kagoshima,,4,0,346,9
+2020-08-25,Japan,Kanagawa,,39,4,4461,112
+2020-08-25,Japan,Kochi,,0,0,109,3
+2020-08-25,Japan,Kumamoto,,4,0,474,7
+2020-08-25,Japan,Kyoto,,7,0,1326,21
+2020-08-25,Japan,Mie,,11,0,352,2
+2020-08-25,Japan,Miyagi,,0,0,192,2
+2020-08-25,Japan,Miyazaki,,4,0,346,1
+2020-08-25,Japan,Nagano,,11,0,182,0
+2020-08-25,Japan,Nagasaki,,1,0,205,3
+2020-08-25,Japan,Nara,,2,0,492,3
+2020-08-25,Japan,Niigata,,0,0,139,0
+2020-08-25,Japan,Oita,,2,0,140,1
+2020-08-25,Japan,Okayama,,3,0,141,0
+2020-08-25,Japan,Okinawa,,22,4,1915,23
+2020-08-25,Japan,Osaka,,60,2,7901,131
+2020-08-25,Japan,Port Quarantine,,4,0,749,1
+2020-08-25,Japan,Saga,,2,0,222,0
+2020-08-25,Japan,Saitama,,30,0,3595,86
+2020-08-25,Japan,Shiga,,10,0,401,4
+2020-08-25,Japan,Shimane,,1,0,136,0
+2020-08-25,Japan,Shizuoka,,7,0,451,1
+2020-08-25,Japan,Tochigi,,0,0,289,1
+2020-08-25,Japan,Tokushima,,3,0,109,3
+2020-08-25,Japan,Tokyo,,95,2,19438,352
+2020-08-25,Japan,Tottori,,0,0,22,0
+2020-08-25,Japan,Toyama,,1,0,342,23
+2020-08-25,Japan,Unknown,,0,0,8,0
+2020-08-25,Japan,Wakayama,,2,0,227,5
+2020-08-25,Japan,Yamagata,,0,0,77,1
+2020-08-25,Japan,Yamaguchi,,3,0,114,0
+2020-08-25,Japan,Yamanashi,,1,0,168,1
+2020-08-25,Latvia,,,0,0,1337,33
+2020-08-25,Lithuania,,,38,1,2667,68
+2020-08-25,Luxembourg,,,19,0,7794,124
+2020-08-25,Mexico,Aguascalientes,,71,0,5250,366
+2020-08-25,Mexico,Baja California,,89,18,16086,3035
+2020-08-25,Mexico,Baja California Sur,,92,0,7023,313
+2020-08-25,Mexico,Campeche,,38,4,5389,731
+2020-08-25,Mexico,Chiapas,,19,4,6188,992
+2020-08-25,Mexico,Chihuahua,,-1,0,7268,1074
+2020-08-25,Mexico,Ciudad de Mexico,,247,41,92343,10200
+2020-08-25,Mexico,Coahuila,,200,9,20074,1245
+2020-08-25,Mexico,Colima,,55,10,3320,375
+2020-08-25,Mexico,Durango,,45,0,5912,391
+2020-08-25,Mexico,Guanajuato,,280,10,28900,1592
+2020-08-25,Mexico,Guerrero,,82,1,14198,1597
+2020-08-25,Mexico,Hidalgo,,135,21,9589,1491
+2020-08-25,Mexico,Jalisco,,192,23,18547,2249
+2020-08-25,Mexico,Mexico,,207,19,64802,7673
+2020-08-25,Mexico,Michoacan,,203,10,13895,1069
+2020-08-25,Mexico,Morelos,,5,0,4977,944
+2020-08-25,Mexico,Nayarit,,25,1,4705,538
+2020-08-25,Mexico,Nuevo Leon,,211,4,26698,2004
+2020-08-25,Mexico,Oaxaca,,89,1,13083,1194
+2020-08-25,Mexico,Puebla,,119,16,25705,3337
+2020-08-25,Mexico,Queretaro,,59,13,5650,668
+2020-08-25,Mexico,Quintana Roo,,10,9,9816,1321
+2020-08-25,Mexico,San Luis Potosi,,261,10,16326,994
+2020-08-25,Mexico,Sinaloa,,27,5,15386,2671
+2020-08-25,Mexico,Sonora,,29,0,20734,2518
+2020-08-25,Mexico,Tabasco,,141,19,27196,2482
+2020-08-25,Mexico,Tamaulipas,,100,6,22906,1697
+2020-08-25,Mexico,Tlaxcala,,11,1,5992,867
+2020-08-25,Mexico,Veracruz,,330,52,27301,3518
+2020-08-25,Mexico,Yucatan,,110,6,13706,1235
+2020-08-25,Mexico,Zacatecas,,60,7,4740,419
+2020-08-25,Netherlands,Aruba,,60,0,1628,7
+2020-08-25,Netherlands,Bonaire Sint Eustatius and Saba,,0,0,13,0
+2020-08-25,Netherlands,Curacao,,8,0,47,1
+2020-08-25,Netherlands,Drenthe,,0,0,599,41
+2020-08-25,Netherlands,Flevoland,,6,0,1250,93
+2020-08-25,Netherlands,Friesland,,5,0,789,69
+2020-08-25,Netherlands,Gelderland,,52,0,7208,687
+2020-08-25,Netherlands,Groningen,,3,0,558,17
+2020-08-25,Netherlands,Limburg,,19,0,5268,755
+2020-08-25,Netherlands,Noord-Brabant,,85,0,11676,1547
+2020-08-25,Netherlands,Noord-Holland,,168,2,11497,825
+2020-08-25,Netherlands,Overijssel,,12,0,3433,312
+2020-08-25,Netherlands,Sint Maarten,,12,0,408,17
+2020-08-25,Netherlands,Unknown,,-1,0,603,18
+2020-08-25,Netherlands,Utrecht,,35,0,5205,432
+2020-08-25,Netherlands,Zeeland,,5,0,1022,69
+2020-08-25,Netherlands,Zuid-Holland,,185,0,18020,1337
+2020-08-25,New Zealand,,,7,0,1690,22
+2020-08-25,New Zealand,Cook Islands,,0,0,0,0
+2020-08-25,Norway,,,72,0,10395,264
+2020-08-25,Poland,,,548,5,62310,1960
+2020-08-25,Portugal,,,123,5,55720,1801
+2020-08-25,Slovakia,,,68,0,3424,33
+2020-08-25,Slovenia,,,14,2,2665,133
+2020-08-25,South Korea,,,280,1,17945,310
+2020-08-25,Spain,Andalusia,,1825,6,24650,1466
+2020-08-25,Spain,Aragon,,984,0,24591,1096
+2020-08-25,Spain,Asturias,,75,1,3048,335
+2020-08-25,Spain,Baleares,,352,0,5694,228
+2020-08-25,Spain,C. Valenciana,,875,3,19978,1452
+2020-08-25,Spain,Canarias,,702,0,4990,167
+2020-08-25,Spain,Cantabria,,278,0,3518,221
+2020-08-25,Spain,Castilla - La Mancha,,603,1,21657,3039
+2020-08-25,Spain,Castilla y Leon,,635,2,25451,2812
+2020-08-25,Spain,Catalonia,,3570,1,102032,5725
+2020-08-25,Spain,Ceuta,,12,0,220,4
+2020-08-25,Spain,Extremadura,,215,2,4409,526
+2020-08-25,Spain,Galicia,,638,6,12590,632
+2020-08-25,Spain,La Rioja,,191,1,5049,368
+2020-08-25,Spain,Madrid,,5992,9,108374,8546
+2020-08-25,Spain,Melilla,,44,0,261,2
+2020-08-25,Spain,Murcia,,401,1,4468,153
+2020-08-25,Spain,Navarra,,364,1,8911,533
+2020-08-25,Spain,Pais Vasco,,1626,0,25545,1567
+2020-08-25,Spain,Unknown,,0,0,0,0
+2020-08-25,Sweden,Blekinge,,6,0,596,16
+2020-08-25,Sweden,Dalarna,,19,0,2098,174
+2020-08-25,Sweden,Gavleborg,,14,0,3260,162
+2020-08-25,Sweden,Gotland,,3,0,314,6
+2020-08-25,Sweden,Halland,,41,0,2061,81
+2020-08-25,Sweden,Jamtland Harjedalen,,0,0,1173,62
+2020-08-25,Sweden,Jonkoping,,17,0,4918,181
+2020-08-25,Sweden,Kalmar,,17,0,861,63
+2020-08-25,Sweden,Kronoberg,,23,0,1362,107
+2020-08-25,Sweden,Norrbotten,,1,0,1654,88
+2020-08-25,Sweden,Orebro,,5,0,2647,171
+2020-08-25,Sweden,Ostergotland,,33,0,3761,263
+2020-08-25,Sweden,Skane,,67,2,4448,284
+2020-08-25,Sweden,Sormland,,1,1,2430,254
+2020-08-25,Sweden,Stockholm,,141,0,24528,2392
+2020-08-25,Sweden,Uppsala,,34,0,3741,241
+2020-08-25,Sweden,Varmland,,13,0,1167,73
+2020-08-25,Sweden,Vasterbotten,,6,0,980,31
+2020-08-25,Sweden,Vasternorrland,,9,0,1871,132
+2020-08-25,Sweden,Vastmanland,,9,0,2759,183
+2020-08-25,Sweden,Vastra Gotaland,,194,0,20092,849
+2020-08-25,Switzerland,,,157,0,40060,2001
+2020-08-25,Taiwan,,,0,0,487,7
+2020-08-25,Turkey,,,1443,18,259692,6139
+2020-08-25,United Kingdom,Anguilla,,0,0,3,0
+2020-08-25,United Kingdom,Bermuda,,1,0,168,9
+2020-08-25,United Kingdom,British Virgin Islands,,0,0,21,1
+2020-08-25,United Kingdom,Cayman Islands,,0,0,205,1
+2020-08-25,United Kingdom,Channel Islands,,2,0,616,48
+2020-08-25,United Kingdom,England,,758,3,282215,36789
+2020-08-25,United Kingdom,Falkland Islands (Malvinas),,0,0,13,0
+2020-08-25,United Kingdom,Gibraltar,,2,0,248,0
+2020-08-25,United Kingdom,Isle of Man,,0,0,336,24
+2020-08-25,United Kingdom,Montserrat,,0,0,13,1
+2020-08-25,United Kingdom,Northern Ireland,,129,0,6776,559
+2020-08-25,United Kingdom,Saint Helena Ascension and Tristan da Cunha,,0,0,0,0
+2020-08-25,United Kingdom,Scotland,,66,0,19877,2492
+2020-08-25,United Kingdom,Turks and Caicos Islands,,0,0,383,2
+2020-08-25,United Kingdom,Unknown,,0,0,0,0
+2020-08-25,United Kingdom,Wales,,19,1,17746,1593
+2020-08-25,United States,Alabama,Autauga,6,0,1343,22
+2020-08-25,United States,Alabama,Baldwin,23,0,4171,32
+2020-08-25,United States,Alabama,Barbour,5,0,720,7
+2020-08-25,United States,Alabama,Bibb,1,0,522,6
+2020-08-25,United States,Alabama,Blount,17,0,1177,6
+2020-08-25,United States,Alabama,Bullock,0,0,540,13
+2020-08-25,United States,Alabama,Butler,1,0,817,36
+2020-08-25,United States,Alabama,Calhoun,17,0,2302,23
+2020-08-25,United States,Alabama,Chambers,3,0,973,38
+2020-08-25,United States,Alabama,Cherokee,2,0,376,9
+2020-08-25,United States,Alabama,Chilton,9,0,1023,10
+2020-08-25,United States,Alabama,Choctaw,2,0,320,12
+2020-08-25,United States,Alabama,Clarke,8,0,934,10
+2020-08-25,United States,Alabama,Clay,0,0,321,6
+2020-08-25,United States,Alabama,Cleburne,6,0,209,4
+2020-08-25,United States,Alabama,Coffee,7,0,1001,5
+2020-08-25,United States,Alabama,Colbert,7,0,1372,19
+2020-08-25,United States,Alabama,Conecuh,6,0,468,11
+2020-08-25,United States,Alabama,Coosa,0,0,131,3
+2020-08-25,United States,Alabama,Covington,2,0,1018,22
+2020-08-25,United States,Alabama,Crenshaw,1,3,431,17
+2020-08-25,United States,Alabama,Cullman,3,0,1517,12
+2020-08-25,United States,Alabama,Dale,4,0,1016,36
+2020-08-25,United States,Alabama,Dallas,8,0,1534,25
+2020-08-25,United States,Alabama,DeKalb,5,0,2079,14
+2020-08-25,United States,Alabama,Elmore,7,0,2034,42
+2020-08-25,United States,Alabama,Escambia,1,0,1339,20
+2020-08-25,United States,Alabama,Etowah,8,0,2643,37
+2020-08-25,United States,Alabama,Fayette,0,0,313,6
+2020-08-25,United States,Alabama,Franklin,4,0,1461,22
+2020-08-25,United States,Alabama,Geneva,2,0,403,2
+2020-08-25,United States,Alabama,Greene,0,0,282,14
+2020-08-25,United States,Alabama,Hale,2,0,548,26
+2020-08-25,United States,Alabama,Henry,1,0,352,3
+2020-08-25,United States,Alabama,Houston,8,0,1930,14
+2020-08-25,United States,Alabama,Jackson,4,0,1227,5
+2020-08-25,United States,Alabama,Jefferson,55,0,14966,285
+2020-08-25,United States,Alabama,Lamar,2,0,273,2
+2020-08-25,United States,Alabama,Lauderdale,13,0,1366,22
+2020-08-25,United States,Alabama,Lawrence,8,0,446,5
+2020-08-25,United States,Alabama,Lee,68,0,3375,47
+2020-08-25,United States,Alabama,Limestone,6,0,1628,14
+2020-08-25,United States,Alabama,Lowndes,2,0,603,24
+2020-08-25,United States,Alabama,Macon,0,0,399,16
+2020-08-25,United States,Alabama,Madison,18,0,5869,39
+2020-08-25,United States,Alabama,Marengo,3,0,615,17
+2020-08-25,United States,Alabama,Marion,12,0,724,27
+2020-08-25,United States,Alabama,Marshall,5,0,3477,39
+2020-08-25,United States,Alabama,Mobile,35,3,11627,244
+2020-08-25,United States,Alabama,Monroe,4,0,525,6
+2020-08-25,United States,Alabama,Montgomery,24,0,7549,155
+2020-08-25,United States,Alabama,Morgan,12,0,2726,22
+2020-08-25,United States,Alabama,Out of AL,0,0,0,0
+2020-08-25,United States,Alabama,Perry,0,0,506,4
+2020-08-25,United States,Alabama,Pickens,2,0,524,10
+2020-08-25,United States,Alabama,Pike,2,0,880,7
+2020-08-25,United States,Alabama,Randolph,8,0,472,11
+2020-08-25,United States,Alabama,Russell,2,0,1527,2
+2020-08-25,United States,Alabama,Shelby,39,0,3979,38
+2020-08-25,United States,Alabama,St. Clair,3,0,1684,24
+2020-08-25,United States,Alabama,Sumter,1,0,403,19
+2020-08-25,United States,Alabama,Talladega,10,0,1578,16
+2020-08-25,United States,Alabama,Tallapoosa,3,0,999,79
+2020-08-25,United States,Alabama,Tuscaloosa,30,0,5131,86
+2020-08-25,United States,Alabama,Unassigned,0,5,0,74
+2020-08-25,United States,Alabama,Walker,4,0,1830,67
+2020-08-25,United States,Alabama,Washington,2,0,501,13
+2020-08-25,United States,Alabama,Wilcox,2,0,495,10
+2020-08-25,United States,Alabama,Winston,5,0,521,11
+2020-08-25,United States,Alaska,Aleutians East,0,0,2,0
+2020-08-25,United States,Alaska,Aleutians West,0,0,5,0
+2020-08-25,United States,Alaska,Anchorage,42,0,2737,16
+2020-08-25,United States,Alaska,Bethel,15,0,55,1
+2020-08-25,United States,Alaska,Bristol Bay,0,0,11,0
+2020-08-25,United States,Alaska,Denali,0,0,1,0
+2020-08-25,United States,Alaska,Dillingham,0,0,5,0
+2020-08-25,United States,Alaska,Fairbanks North Star,1,0,561,8
+2020-08-25,United States,Alaska,Haines,0,0,5,0
+2020-08-25,United States,Alaska,Juneau,0,0,163,1
+2020-08-25,United States,Alaska,Kenai Peninsula,2,0,401,2
+2020-08-25,United States,Alaska,Ketchikan Gateway,0,0,42,0
+2020-08-25,United States,Alaska,Kodiak Island,0,0,14,0
+2020-08-25,United States,Alaska,Kusilvak,0,0,8,0
+2020-08-25,United States,Alaska,Matanuska-Susitna,7,0,442,2
+2020-08-25,United States,Alaska,Nome,0,0,31,0
+2020-08-25,United States,Alaska,North Slope,0,0,30,0
+2020-08-25,United States,Alaska,Northwest Arctic,0,0,62,0
+2020-08-25,United States,Alaska,Petersburg,0,0,7,1
+2020-08-25,United States,Alaska,Prince of Wales-Hyder,0,0,20,0
+2020-08-25,United States,Alaska,Sitka,0,0,34,0
+2020-08-25,United States,Alaska,Southeast Fairbanks,0,0,18,0
+2020-08-25,United States,Alaska,Unassigned,1,0,2,0
+2020-08-25,United States,Alaska,Valdez-Cordova,0,0,0,0
+2020-08-25,United States,Alaska,Wrangell,0,0,9,0
+2020-08-25,United States,Alaska,Yakutat,0,0,9,0
+2020-08-25,United States,Alaska,Yukon-Koyukuk,0,0,66,1
+2020-08-25,United States,Arizona,Apache,-1,0,3301,148
+2020-08-25,United States,Arizona,Cochise,0,0,1795,56
+2020-08-25,United States,Arizona,Coconino,5,0,3249,122
+2020-08-25,United States,Arizona,Gila,3,0,1076,43
+2020-08-25,United States,Arizona,Graham,0,0,669,22
+2020-08-25,United States,Arizona,Greenlee,1,0,58,1
+2020-08-25,United States,Arizona,La Paz,1,0,495,14
+2020-08-25,United States,Arizona,Maricopa,175,0,131962,2790
+2020-08-25,United States,Arizona,Mohave,11,0,3500,194
+2020-08-25,United States,Arizona,Navajo,-2,0,5496,216
+2020-08-25,United States,Arizona,Pima,60,0,20535,551
+2020-08-25,United States,Arizona,Pinal,24,0,9211,177
+2020-08-25,United States,Arizona,Santa Cruz,3,0,2745,55
+2020-08-25,United States,Arizona,Unassigned,0,0,1,1
+2020-08-25,United States,Arizona,Yavapai,7,0,2249,77
+2020-08-25,United States,Arizona,Yuma,24,0,12072,304
+2020-08-25,United States,Arkansas,Arkansas,0,0,265,2
+2020-08-25,United States,Arkansas,Ashley,1,0,380,7
+2020-08-25,United States,Arkansas,Baxter,0,0,116,0
+2020-08-25,United States,Arkansas,Benton,5,0,5097,45
+2020-08-25,United States,Arkansas,Boone,4,0,270,1
+2020-08-25,United States,Arkansas,Bradley,7,1,267,5
+2020-08-25,United States,Arkansas,Calhoun,0,0,23,0
+2020-08-25,United States,Arkansas,Carroll,4,0,436,7
+2020-08-25,United States,Arkansas,Chicot,1,0,939,10
+2020-08-25,United States,Arkansas,Clark,2,0,210,3
+2020-08-25,United States,Arkansas,Clay,0,0,164,5
+2020-08-25,United States,Arkansas,Cleburne,1,0,245,6
+2020-08-25,United States,Arkansas,Cleveland,1,0,130,2
+2020-08-25,United States,Arkansas,Columbia,7,0,281,12
+2020-08-25,United States,Arkansas,Conway,0,0,189,3
+2020-08-25,United States,Arkansas,Craighead,14,0,1696,14
+2020-08-25,United States,Arkansas,Crawford,4,0,839,6
+2020-08-25,United States,Arkansas,Crittenden,9,0,1582,28
+2020-08-25,United States,Arkansas,Cross,1,0,241,4
+2020-08-25,United States,Arkansas,Dallas,0,0,90,2
+2020-08-25,United States,Arkansas,Desha,0,0,223,4
+2020-08-25,United States,Arkansas,Drew,0,0,296,4
+2020-08-25,United States,Arkansas,Faulkner,35,0,1535,7
+2020-08-25,United States,Arkansas,Franklin,1,0,153,2
+2020-08-25,United States,Arkansas,Fulton,1,0,60,0
+2020-08-25,United States,Arkansas,Garland,12,0,1308,25
+2020-08-25,United States,Arkansas,Grant,1,0,169,0
+2020-08-25,United States,Arkansas,Greene,0,0,584,3
+2020-08-25,United States,Arkansas,Hempstead,1,0,307,3
+2020-08-25,United States,Arkansas,Hot Spring,3,0,1681,17
+2020-08-25,United States,Arkansas,Howard,2,0,393,5
+2020-08-25,United States,Arkansas,Independence,8,0,692,3
+2020-08-25,United States,Arkansas,Izard,0,0,81,0
+2020-08-25,United States,Arkansas,Jackson,0,0,176,1
+2020-08-25,United States,Arkansas,Jefferson,5,1,1904,44
+2020-08-25,United States,Arkansas,Johnson,4,0,739,3
+2020-08-25,United States,Arkansas,Lafayette,0,0,65,2
+2020-08-25,United States,Arkansas,Lawrence,5,0,245,10
+2020-08-25,United States,Arkansas,Lee,1,2,993,10
+2020-08-25,United States,Arkansas,Lincoln,0,0,1375,13
+2020-08-25,United States,Arkansas,Little River,2,0,258,13
+2020-08-25,United States,Arkansas,Logan,4,0,351,1
+2020-08-25,United States,Arkansas,Lonoke,1,0,652,2
+2020-08-25,United States,Arkansas,Madison,0,0,286,2
+2020-08-25,United States,Arkansas,Marion,0,0,41,0
+2020-08-25,United States,Arkansas,Miller,1,0,572,5
+2020-08-25,United States,Arkansas,Mississippi,7,1,1268,17
+2020-08-25,United States,Arkansas,Monroe,0,0,89,0
+2020-08-25,United States,Arkansas,Montgomery,2,0,60,2
+2020-08-25,United States,Arkansas,Nevada,0,0,156,11
+2020-08-25,United States,Arkansas,Newton,1,0,109,15
+2020-08-25,United States,Arkansas,Ouachita,2,0,132,4
+2020-08-25,United States,Arkansas,Perry,0,0,59,0
+2020-08-25,United States,Arkansas,Phillips,0,0,375,9
+2020-08-25,United States,Arkansas,Pike,1,0,157,1
+2020-08-25,United States,Arkansas,Poinsett,23,0,429,4
+2020-08-25,United States,Arkansas,Polk,3,0,207,2
+2020-08-25,United States,Arkansas,Pope,2,0,1593,14
+2020-08-25,United States,Arkansas,Prairie,0,0,114,0
+2020-08-25,United States,Arkansas,Pulaski,57,3,6590,98
+2020-08-25,United States,Arkansas,Randolph,0,1,290,12
+2020-08-25,United States,Arkansas,Saline,9,0,1384,10
+2020-08-25,United States,Arkansas,Scott,0,0,84,0
+2020-08-25,United States,Arkansas,Searcy,4,0,62,0
+2020-08-25,United States,Arkansas,Sebastian,7,0,2686,29
+2020-08-25,United States,Arkansas,Sevier,1,0,1121,12
+2020-08-25,United States,Arkansas,Sharp,0,0,136,5
+2020-08-25,United States,Arkansas,St. Francis,10,0,1280,3
+2020-08-25,United States,Arkansas,Stone,2,0,155,1
+2020-08-25,United States,Arkansas,Unassigned,16,0,826,0
+2020-08-25,United States,Arkansas,Union,7,0,634,21
+2020-08-25,United States,Arkansas,Van Buren,4,0,84,2
+2020-08-25,United States,Arkansas,Washington,5,0,6615,54
+2020-08-25,United States,Arkansas,White,7,0,462,8
+2020-08-25,United States,Arkansas,Woodruff,0,0,27,0
+2020-08-25,United States,Arkansas,Yell,2,0,1111,21
+2020-08-25,United States,California,Alameda,63,0,16786,231
+2020-08-25,United States,California,Alpine,0,0,2,0
+2020-08-25,United States,California,Amador,0,0,265,14
+2020-08-25,United States,California,Butte,19,0,1637,17
+2020-08-25,United States,California,Calaveras,0,0,197,2
+2020-08-25,United States,California,Colusa,5,0,424,5
+2020-08-25,United States,California,Contra Costa,136,1,12663,169
+2020-08-25,United States,California,Del Norte,0,0,116,1
+2020-08-25,United States,California,El Dorado,1,0,901,2
+2020-08-25,United States,California,Fresno,217,0,23414,226
+2020-08-25,United States,California,Glenn,0,0,425,3
+2020-08-25,United States,California,Humboldt,14,0,359,4
+2020-08-25,United States,California,Imperial,3,0,10396,272
+2020-08-25,United States,California,Inyo,0,0,164,11
+2020-08-25,United States,California,Kern,94,0,28234,240
+2020-08-25,United States,California,Kings,29,0,5921,69
+2020-08-25,United States,California,Lake,8,0,299,3
+2020-08-25,United States,California,Lassen,0,0,704,0
+2020-08-25,United States,California,Los Angeles,1198,13,232893,5558
+2020-08-25,United States,California,Madera,145,1,3484,50
+2020-08-25,United States,California,Marin,51,0,5930,86
+2020-08-25,United States,California,Mariposa,0,0,69,2
+2020-08-25,United States,California,Mendocino,5,0,629,16
+2020-08-25,United States,California,Merced,81,0,7574,99
+2020-08-25,United States,California,Modoc,0,0,5,0
+2020-08-25,United States,California,Mono,0,0,162,2
+2020-08-25,United States,California,Monterey,145,0,7226,52
+2020-08-25,United States,California,Napa,20,0,1348,13
+2020-08-25,United States,California,Nevada,10,0,421,3
+2020-08-25,United States,California,Orange,233,0,49290,897
+2020-08-25,United States,California,Placer,18,0,2795,31
+2020-08-25,United States,California,Plumas,0,0,40,0
+2020-08-25,United States,California,Riverside,800,45,50744,972
+2020-08-25,United States,California,Sacramento,815,12,16331,246
+2020-08-25,United States,California,San Benito,8,0,978,7
+2020-08-25,United States,California,San Bernardino,211,0,45246,719
+2020-08-25,United States,California,San Diego,187,0,36727,660
+2020-08-25,United States,California,San Francisco,65,0,8936,77
+2020-08-25,United States,California,San Joaquin,63,2,16131,297
+2020-08-25,United States,California,San Luis Obispo,14,0,2679,21
+2020-08-25,United States,California,San Mateo,135,0,7670,128
+2020-08-25,United States,California,Santa Barbara,40,0,7725,87
+2020-08-25,United States,California,Santa Clara,463,1,16151,192
+2020-08-25,United States,California,Santa Cruz,8,0,1636,7
+2020-08-25,United States,California,Shasta,0,0,531,11
+2020-08-25,United States,California,Sierra,0,0,6,0
+2020-08-25,United States,California,Siskiyou,0,0,123,0
+2020-08-25,United States,California,Solano,158,2,5206,46
+2020-08-25,United States,California,Sonoma,92,1,5212,73
+2020-08-25,United States,California,Stanislaus,103,3,13483,232
+2020-08-25,United States,California,Sutter,37,1,1260,8
+2020-08-25,United States,California,Tehama,13,0,381,1
+2020-08-25,United States,California,Trinity,0,0,10,0
+2020-08-25,United States,California,Tulare,107,0,13303,210
+2020-08-25,United States,California,Tuolumne,0,0,172,2
+2020-08-25,United States,California,Unassigned,0,0,0,0
+2020-08-25,United States,California,Ventura,167,0,10126,102
+2020-08-25,United States,California,Yolo,34,0,2239,47
+2020-08-25,United States,California,Yuba,15,0,859,4
+2020-08-25,United States,Colorado,Adams,22,0,7188,194
+2020-08-25,United States,Colorado,Alamosa,0,0,236,9
+2020-08-25,United States,Colorado,Arapahoe,21,0,7853,364
+2020-08-25,United States,Colorado,Archuleta,1,0,45,0
+2020-08-25,United States,Colorado,Baca,0,0,15,0
+2020-08-25,United States,Colorado,Bent,0,0,11,0
+2020-08-25,United States,Colorado,Boulder,9,0,2231,79
+2020-08-25,United States,Colorado,Broomfield,3,0,515,32
+2020-08-25,United States,Colorado,Chaffee,1,0,311,19
+2020-08-25,United States,Colorado,Cheyenne,0,0,9,0
+2020-08-25,United States,Colorado,Clear Creek,0,0,34,1
+2020-08-25,United States,Colorado,Conejos,1,0,31,0
+2020-08-25,United States,Colorado,Costilla,1,0,27,0
+2020-08-25,United States,Colorado,Crowley,0,0,73,1
+2020-08-25,United States,Colorado,Custer,0,0,13,0
+2020-08-25,United States,Colorado,Delta,0,0,140,1
+2020-08-25,United States,Colorado,Denver,30,0,10931,422
+2020-08-25,United States,Colorado,Dolores,0,0,2,0
+2020-08-25,United States,Colorado,Douglas,10,0,1911,59
+2020-08-25,United States,Colorado,Eagle,2,1,1166,10
+2020-08-25,United States,Colorado,El Paso,24,0,5747,150
+2020-08-25,United States,Colorado,Elbert,0,0,117,2
+2020-08-25,United States,Colorado,Fremont,0,0,146,0
+2020-08-25,United States,Colorado,Garfield,2,0,818,4
+2020-08-25,United States,Colorado,Gilpin,0,0,17,0
+2020-08-25,United States,Colorado,Grand,0,0,56,1
+2020-08-25,United States,Colorado,Gunnison,0,0,286,7
+2020-08-25,United States,Colorado,Hinsdale,0,0,3,0
+2020-08-25,United States,Colorado,Huerfano,0,0,8,1
+2020-08-25,United States,Colorado,Jackson,0,0,9,0
+2020-08-25,United States,Colorado,Jefferson,18,0,4605,235
+2020-08-25,United States,Colorado,Kiowa,0,0,0,0
+2020-08-25,United States,Colorado,Kit Carson,1,0,69,3
+2020-08-25,United States,Colorado,La Plata,1,0,232,2
+2020-08-25,United States,Colorado,Lake,0,0,80,0
+2020-08-25,United States,Colorado,Larimer,13,0,1817,37
+2020-08-25,United States,Colorado,Las Animas,0,0,19,0
+2020-08-25,United States,Colorado,Lincoln,0,0,8,0
+2020-08-25,United States,Colorado,Logan,1,0,665,5
+2020-08-25,United States,Colorado,Mesa,5,0,388,5
+2020-08-25,United States,Colorado,Mineral,0,0,19,0
+2020-08-25,United States,Colorado,Moffat,0,0,33,1
+2020-08-25,United States,Colorado,Montezuma,0,0,121,5
+2020-08-25,United States,Colorado,Montrose,1,0,336,13
+2020-08-25,United States,Colorado,Morgan,1,0,706,47
+2020-08-25,United States,Colorado,Otero,1,0,81,6
+2020-08-25,United States,Colorado,Ouray,2,0,20,1
+2020-08-25,United States,Colorado,Out of CO,0,0,0,0
+2020-08-25,United States,Colorado,Park,0,0,43,1
+2020-08-25,United States,Colorado,Phillips,0,0,19,0
+2020-08-25,United States,Colorado,Pitkin,0,0,193,2
+2020-08-25,United States,Colorado,Prowers,1,0,78,0
+2020-08-25,United States,Colorado,Pueblo,4,0,802,34
+2020-08-25,United States,Colorado,Rio Blanco,0,0,21,0
+2020-08-25,United States,Colorado,Rio Grande,0,0,94,2
+2020-08-25,United States,Colorado,Routt,0,0,130,8
+2020-08-25,United States,Colorado,Saguache,0,0,108,2
+2020-08-25,United States,Colorado,San Juan,0,0,2,0
+2020-08-25,United States,Colorado,San Miguel,0,0,93,0
+2020-08-25,United States,Colorado,Sedgwick,0,0,12,1
+2020-08-25,United States,Colorado,Summit,3,0,352,4
+2020-08-25,United States,Colorado,Teller,1,0,155,3
+2020-08-25,United States,Colorado,Unassigned,0,0,20,0
+2020-08-25,United States,Colorado,Washington,0,0,52,0
+2020-08-25,United States,Colorado,Weld,18,0,3956,146
+2020-08-25,United States,Colorado,Yuma,0,0,63,0
+2020-08-25,United States,Connecticut,Fairfield,171,0,18605,1411
+2020-08-25,United States,Connecticut,Hartford,178,0,13180,1422
+2020-08-25,United States,Connecticut,Litchfield,13,0,1658,139
+2020-08-25,United States,Connecticut,Middlesex,8,0,1434,192
+2020-08-25,United States,Connecticut,New Haven,76,0,13518,1111
+2020-08-25,United States,Connecticut,New London,12,0,1517,105
+2020-08-25,United States,Connecticut,Tolland,2,0,1085,65
+2020-08-25,United States,Connecticut,Unassigned,20,0,234,0
+2020-08-25,United States,Connecticut,Windham,12,0,780,15
+2020-08-25,United States,Delaware,Kent,2,0,2553,112
+2020-08-25,United States,Delaware,New Castle,39,0,7865,303
+2020-08-25,United States,Delaware,Sussex,4,0,6249,199
+2020-08-25,United States,Delaware,Unassigned,2,0,275,0
+2020-08-25,United States,District of Columbia,District of Columbia,105,0,13639,604
+2020-08-25,United States,Florida,Alachua,31,0,4981,31
+2020-08-25,United States,Florida,Baker,1,0,1118,4
+2020-08-25,United States,Florida,Bay,37,0,5181,71
+2020-08-25,United States,Florida,Bradford,11,0,660,4
+2020-08-25,United States,Florida,Brevard,34,0,6946,195
+2020-08-25,United States,Florida,Broward,247,19,69383,1132
+2020-08-25,United States,Florida,Calhoun,1,0,538,8
+2020-08-25,United States,Florida,Charlotte,19,0,2538,107
+2020-08-25,United States,Florida,Citrus,1,2,1970,48
+2020-08-25,United States,Florida,Clay,18,1,3690,71
+2020-08-25,United States,Florida,Collier,23,0,11268,163
+2020-08-25,United States,Florida,Columbia,12,0,3226,31
+2020-08-25,United States,Florida,DeSoto,-1,0,1450,21
+2020-08-25,United States,Florida,Dixie,1,0,660,4
+2020-08-25,United States,Florida,Duval,100,0,25658,235
+2020-08-25,United States,Florida,Escambia,42,0,10832,171
+2020-08-25,United States,Florida,Flagler,9,0,1257,15
+2020-08-25,United States,Florida,Franklin,8,0,519,3
+2020-08-25,United States,Florida,Gadsden,12,0,2194,29
+2020-08-25,United States,Florida,Gilchrist,2,0,441,9
+2020-08-25,United States,Florida,Glades,0,0,444,3
+2020-08-25,United States,Florida,Gulf,4,0,800,8
+2020-08-25,United States,Florida,Hamilton,1,0,673,4
+2020-08-25,United States,Florida,Hardee,5,0,1064,8
+2020-08-25,United States,Florida,Hendry,4,0,1938,39
+2020-08-25,United States,Florida,Hernando,8,1,2449,70
+2020-08-25,United States,Florida,Highlands,5,0,1740,53
+2020-08-25,United States,Florida,Hillsborough,93,10,35814,530
+2020-08-25,United States,Florida,Holmes,2,0,589,4
+2020-08-25,United States,Florida,Indian River,9,1,2756,80
+2020-08-25,United States,Florida,Jackson,7,0,2236,65
+2020-08-25,United States,Florida,Jefferson,0,0,491,5
+2020-08-25,United States,Florida,Lafayette,1,0,1165,4
+2020-08-25,United States,Florida,Lake,43,0,6089,93
+2020-08-25,United States,Florida,Lee,55,0,18064,402
+2020-08-25,United States,Florida,Leon,57,0,5908,29
+2020-08-25,United States,Florida,Levy,3,0,858,5
+2020-08-25,United States,Florida,Liberty,4,0,424,7
+2020-08-25,United States,Florida,Madison,2,0,832,12
+2020-08-25,United States,Florida,Manatee,39,0,10209,248
+2020-08-25,United States,Florida,Marion,39,2,8046,143
+2020-08-25,United States,Florida,Martin,8,0,4091,112
+2020-08-25,United States,Florida,Miami-Dade,626,10,152612,2253
+2020-08-25,United States,Florida,Monroe,1,0,1694,14
+2020-08-25,United States,Florida,Nassau,14,0,1512,15
+2020-08-25,United States,Florida,Okaloosa,10,0,3965,71
+2020-08-25,United States,Florida,Okeechobee,0,0,1202,13
+2020-08-25,United States,Florida,Orange,119,0,34781,361
+2020-08-25,United States,Florida,Osceola,40,0,10772,127
+2020-08-25,United States,Florida,Palm Beach,176,2,40746,1061
+2020-08-25,United States,Florida,Pasco,19,0,7777,157
+2020-08-25,United States,Florida,Pinellas,47,13,19478,612
+2020-08-25,United States,Florida,Polk,71,3,16322,407
+2020-08-25,United States,Florida,Putnam,2,0,1725,35
+2020-08-25,United States,Florida,Santa Rosa,19,0,4462,54
+2020-08-25,United States,Florida,Sarasota,-5,1,7016,181
+2020-08-25,United States,Florida,Seminole,22,1,7778,163
+2020-08-25,United States,Florida,St. Johns,7,1,4160,53
+2020-08-25,United States,Florida,St. Lucie,23,4,6651,218
+2020-08-25,United States,Florida,Sumter,1,0,1718,46
+2020-08-25,United States,Florida,Suwannee,1,0,2357,53
+2020-08-25,United States,Florida,Taylor,4,0,1158,5
+2020-08-25,United States,Florida,Unassigned,13,0,851,0
+2020-08-25,United States,Florida,Union,3,0,533,5
+2020-08-25,United States,Florida,Volusia,38,0,8952,177
+2020-08-25,United States,Florida,Wakulla,5,1,859,6
+2020-08-25,United States,Florida,Walton,2,0,1580,20
+2020-08-25,United States,Florida,Washington,3,0,978,14
+2020-08-25,United States,Georgia,Appling,-4,1,853,22
+2020-08-25,United States,Georgia,Atkinson,3,0,382,3
+2020-08-25,United States,Georgia,Bacon,4,0,492,8
+2020-08-25,United States,Georgia,Baker,1,0,73,3
+2020-08-25,United States,Georgia,Baldwin,80,0,1415,46
+2020-08-25,United States,Georgia,Banks,3,0,337,8
+2020-08-25,United States,Georgia,Barrow,2,0,1587,36
+2020-08-25,United States,Georgia,Bartow,16,1,2256,67
+2020-08-25,United States,Georgia,Ben Hill,6,0,603,8
+2020-08-25,United States,Georgia,Berrien,2,0,365,3
+2020-08-25,United States,Georgia,Bibb,778,0,5302,98
+2020-08-25,United States,Georgia,Bleckley,3,0,316,12
+2020-08-25,United States,Georgia,Brantley,3,0,292,8
+2020-08-25,United States,Georgia,Brooks,1,0,453,20
+2020-08-25,United States,Georgia,Bryan,7,0,793,9
+2020-08-25,United States,Georgia,Bulloch,39,0,1511,19
+2020-08-25,United States,Georgia,Burke,4,0,621,7
+2020-08-25,United States,Georgia,Butts,3,0,535,40
+2020-08-25,United States,Georgia,Calhoun,0,0,225,7
+2020-08-25,United States,Georgia,Camden,4,0,946,7
+2020-08-25,United States,Georgia,Candler,0,0,304,11
+2020-08-25,United States,Georgia,Carroll,24,0,2232,56
+2020-08-25,United States,Georgia,Catoosa,9,0,803,17
+2020-08-25,United States,Georgia,Charlton,6,0,544,5
+2020-08-25,United States,Georgia,Chatham,65,0,6730,115
+2020-08-25,United States,Georgia,Chattahoochee,11,0,942,2
+2020-08-25,United States,Georgia,Chattooga,0,0,422,5
+2020-08-25,United States,Georgia,Cherokee,43,0,4412,72
+2020-08-25,United States,Georgia,Clarke,20,0,2511,25
+2020-08-25,United States,Georgia,Clay,1,0,110,2
+2020-08-25,United States,Georgia,Clayton,45,1,6087,122
+2020-08-25,United States,Georgia,Clinch,2,0,269,4
+2020-08-25,United States,Georgia,Cobb,124,1,16055,370
+2020-08-25,United States,Georgia,Coffee,14,0,1715,34
+2020-08-25,United States,Georgia,Colquitt,17,0,1693,25
+2020-08-25,United States,Georgia,Columbia,23,0,2978,40
+2020-08-25,United States,Georgia,Cook,3,0,497,10
+2020-08-25,United States,Georgia,Coweta,11,0,2025,26
+2020-08-25,United States,Georgia,Crawford,10,1,146,1
+2020-08-25,United States,Georgia,Crisp,8,0,436,15
+2020-08-25,United States,Georgia,Dade,0,0,180,3
+2020-08-25,United States,Georgia,Dawson,0,0,590,6
+2020-08-25,United States,Georgia,Decatur,5,1,923,20
+2020-08-25,United States,Georgia,DeKalb,45,2,16004,280
+2020-08-25,United States,Georgia,Dodge,2,0,289,5
+2020-08-25,United States,Georgia,Dooly,5,0,282,14
+2020-08-25,United States,Georgia,Dougherty,18,0,2922,174
+2020-08-25,United States,Georgia,Douglas,19,0,3048,62
+2020-08-25,United States,Georgia,Early,2,0,400,32
+2020-08-25,United States,Georgia,Echols,0,0,230,2
+2020-08-25,United States,Georgia,Effingham,16,0,962,14
+2020-08-25,United States,Georgia,Elbert,1,0,422,1
+2020-08-25,United States,Georgia,Emanuel,3,1,662,20
+2020-08-25,United States,Georgia,Evans,2,0,334,4
+2020-08-25,United States,Georgia,Fannin,2,0,416,6
+2020-08-25,United States,Georgia,Fayette,7,0,1419,36
+2020-08-25,United States,Georgia,Floyd,13,1,2028,28
+2020-08-25,United States,Georgia,Forsyth,6,0,2814,31
+2020-08-25,United States,Georgia,Franklin,4,0,503,9
+2020-08-25,United States,Georgia,Fulton,74,0,23825,490
+2020-08-25,United States,Georgia,Gilmer,2,0,718,5
+2020-08-25,United States,Georgia,Glascock,1,0,34,2
+2020-08-25,United States,Georgia,Glynn,16,0,2891,64
+2020-08-25,United States,Georgia,Gordon,5,0,1444,25
+2020-08-25,United States,Georgia,Grady,1,0,627,8
+2020-08-25,United States,Georgia,Greene,4,0,400,14
+2020-08-25,United States,Georgia,Gwinnett,82,0,23178,306
+2020-08-25,United States,Georgia,Habersham,0,0,1268,57
+2020-08-25,United States,Georgia,Hall,16,0,7020,116
+2020-08-25,United States,Georgia,Hancock,2,0,348,39
+2020-08-25,United States,Georgia,Haralson,4,0,293,7
+2020-08-25,United States,Georgia,Harris,0,0,711,19
+2020-08-25,United States,Georgia,Hart,2,0,385,10
+2020-08-25,United States,Georgia,Heard,0,0,161,5
+2020-08-25,United States,Georgia,Henry,28,1,4145,67
+2020-08-25,United States,Georgia,Houston,77,0,2508,63
+2020-08-25,United States,Georgia,Irwin,0,0,200,2
+2020-08-25,United States,Georgia,Jackson,0,1,1311,22
+2020-08-25,United States,Georgia,Jasper,2,0,189,2
+2020-08-25,United States,Georgia,Jeff Davis,2,0,600,9
+2020-08-25,United States,Georgia,Jefferson,2,0,620,13
+2020-08-25,United States,Georgia,Jenkins,0,0,283,24
+2020-08-25,United States,Georgia,Johnson,1,0,287,13
+2020-08-25,United States,Georgia,Jones,41,0,422,5
+2020-08-25,United States,Georgia,Lamar,2,0,313,15
+2020-08-25,United States,Georgia,Lanier,0,0,244,5
+2020-08-25,United States,Georgia,Laurens,4,2,1227,36
+2020-08-25,United States,Georgia,Lee,2,0,637,23
+2020-08-25,United States,Georgia,Liberty,12,0,878,13
+2020-08-25,United States,Georgia,Lincoln,3,0,188,6
+2020-08-25,United States,Georgia,Long,2,0,172,2
+2020-08-25,United States,Georgia,Lowndes,8,1,3368,57
+2020-08-25,United States,Georgia,Lumpkin,0,2,559,12
+2020-08-25,United States,Georgia,Macon,0,0,195,10
+2020-08-25,United States,Georgia,Madison,3,0,496,7
+2020-08-25,United States,Georgia,Marion,0,0,163,5
+2020-08-25,United States,Georgia,McDuffie,6,0,480,12
+2020-08-25,United States,Georgia,McIntosh,1,0,232,4
+2020-08-25,United States,Georgia,Meriwether,4,0,459,8
+2020-08-25,United States,Georgia,Miller,0,0,199,0
+2020-08-25,United States,Georgia,Mitchell,0,0,688,42
+2020-08-25,United States,Georgia,Monroe,38,0,576,33
+2020-08-25,United States,Georgia,Montgomery,0,-1,201,2
+2020-08-25,United States,Georgia,Morgan,0,0,381,2
+2020-08-25,United States,Georgia,Murray,0,0,683,3
+2020-08-25,United States,Georgia,Muscogee,18,2,5304,122
+2020-08-25,United States,Georgia,Newton,9,0,2168,58
+2020-08-25,United States,Georgia,Oconee,5,0,516,20
+2020-08-25,United States,Georgia,Oglethorpe,1,0,265,8
+2020-08-25,United States,Georgia,Out of GA,94,0,16641,111
+2020-08-25,United States,Georgia,Paulding,19,0,2082,30
+2020-08-25,United States,Georgia,Peach,38,-1,540,16
+2020-08-25,United States,Georgia,Pickens,1,0,477,6
+2020-08-25,United States,Georgia,Pierce,3,0,495,10
+2020-08-25,United States,Georgia,Pike,3,0,266,8
+2020-08-25,United States,Georgia,Polk,2,0,1074,12
+2020-08-25,United States,Georgia,Pulaski,3,0,165,4
+2020-08-25,United States,Georgia,Putnam,6,1,573,19
+2020-08-25,United States,Georgia,Quitman,0,0,32,1
+2020-08-25,United States,Georgia,Rabun,1,0,255,4
+2020-08-25,United States,Georgia,Randolph,2,0,305,27
+2020-08-25,United States,Georgia,Richmond,50,0,5691,114
+2020-08-25,United States,Georgia,Rockdale,7,0,1597,28
+2020-08-25,United States,Georgia,Schley,0,0,90,2
+2020-08-25,United States,Georgia,Screven,17,0,268,9
+2020-08-25,United States,Georgia,Seminole,5,0,264,8
+2020-08-25,United States,Georgia,Spalding,4,0,1115,45
+2020-08-25,United States,Georgia,Stephens,2,0,756,19
+2020-08-25,United States,Georgia,Stewart,1,0,316,10
+2020-08-25,United States,Georgia,Sumter,4,0,824,57
+2020-08-25,United States,Georgia,Talbot,0,0,152,5
+2020-08-25,United States,Georgia,Taliaferro,0,0,18,0
+2020-08-25,United States,Georgia,Tattnall,5,0,648,5
+2020-08-25,United States,Georgia,Taylor,2,0,118,4
+2020-08-25,United States,Georgia,Telfair,2,1,331,13
+2020-08-25,United States,Georgia,Terrell,2,1,311,31
+2020-08-25,United States,Georgia,Thomas,2,0,1332,46
+2020-08-25,United States,Georgia,Tift,3,0,1448,47
+2020-08-25,United States,Georgia,Toombs,7,2,982,12
+2020-08-25,United States,Georgia,Towns,0,0,184,5
+2020-08-25,United States,Georgia,Treutlen,1,0,179,3
+2020-08-25,United States,Georgia,Troup,9,0,2512,79
+2020-08-25,United States,Georgia,Turner,1,0,274,19
+2020-08-25,United States,Georgia,Twiggs,11,0,168,6
+2020-08-25,United States,Georgia,Unassigned,-101,0,2668,4
+2020-08-25,United States,Georgia,Union,10,0,413,7
+2020-08-25,United States,Georgia,Upson,5,0,663,53
+2020-08-25,United States,Georgia,Walker,4,1,912,20
+2020-08-25,United States,Georgia,Walton,5,0,1371,43
+2020-08-25,United States,Georgia,Ware,6,0,1302,41
+2020-08-25,United States,Georgia,Warren,0,0,110,3
+2020-08-25,United States,Georgia,Washington,1,0,587,3
+2020-08-25,United States,Georgia,Wayne,8,0,927,19
+2020-08-25,United States,Georgia,Webster,0,0,38,2
+2020-08-25,United States,Georgia,Wheeler,1,0,137,3
+2020-08-25,United States,Georgia,White,1,0,442,9
+2020-08-25,United States,Georgia,Whitfield,10,1,3851,47
+2020-08-25,United States,Georgia,Wilcox,2,0,212,20
+2020-08-25,United States,Georgia,Wilkes,1,0,214,3
+2020-08-25,United States,Georgia,Wilkinson,19,0,280,13
+2020-08-25,United States,Georgia,Worth,4,0,487,24
+2020-08-25,United States,Guam,,87,0,907,7
+2020-08-25,United States,Hawaii,Hawaii,9,0,209,0
+2020-08-25,United States,Hawaii,Honolulu,150,2,6181,41
+2020-08-25,United States,Hawaii,Kauai,0,0,56,0
+2020-08-25,United States,Hawaii,Maui,10,0,300,7
+2020-08-25,United States,Hawaii,Out of HI,0,0,23,1
+2020-08-25,United States,Hawaii,Unassigned,0,0,0,0
+2020-08-25,United States,Idaho,Ada,72,2,10664,111
+2020-08-25,United States,Idaho,Adams,0,0,25,0
+2020-08-25,United States,Idaho,Bannock,3,0,560,2
+2020-08-25,United States,Idaho,Bear Lake,2,0,27,0
+2020-08-25,United States,Idaho,Benewah,0,0,95,1
+2020-08-25,United States,Idaho,Bingham,2,0,398,4
+2020-08-25,United States,Idaho,Blaine,0,0,595,6
+2020-08-25,United States,Idaho,Boise,0,0,57,1
+2020-08-25,United States,Idaho,Bonner,1,0,197,0
+2020-08-25,United States,Idaho,Bonneville,13,0,1553,6
+2020-08-25,United States,Idaho,Boundary,0,0,42,0
+2020-08-25,United States,Idaho,Butte,0,0,4,0
+2020-08-25,United States,Idaho,Camas,0,0,2,0
+2020-08-25,United States,Idaho,Canyon,27,0,6825,65
+2020-08-25,United States,Idaho,Caribou,0,0,35,0
+2020-08-25,United States,Idaho,Cassia,0,0,570,1
+2020-08-25,United States,Idaho,Clark,1,0,16,0
+2020-08-25,United States,Idaho,Clearwater,1,0,21,0
+2020-08-25,United States,Idaho,Custer,0,0,18,0
+2020-08-25,United States,Idaho,Elmore,6,0,265,3
+2020-08-25,United States,Idaho,Franklin,0,0,54,0
+2020-08-25,United States,Idaho,Fremont,2,0,102,1
+2020-08-25,United States,Idaho,Gem,0,0,205,2
+2020-08-25,United States,Idaho,Gooding,2,0,200,1
+2020-08-25,United States,Idaho,Idaho,0,0,39,0
+2020-08-25,United States,Idaho,Jefferson,6,0,318,1
+2020-08-25,United States,Idaho,Jerome,3,0,571,6
+2020-08-25,United States,Idaho,Kootenai,12,3,2074,26
+2020-08-25,United States,Idaho,Latah,15,0,191,0
+2020-08-25,United States,Idaho,Lemhi,0,0,63,0
+2020-08-25,United States,Idaho,Lewis,0,0,0,0
+2020-08-25,United States,Idaho,Lincoln,0,0,63,0
+2020-08-25,United States,Idaho,Madison,2,0,219,0
+2020-08-25,United States,Idaho,Minidoka,2,0,528,2
+2020-08-25,United States,Idaho,Nez Perce,16,0,243,19
+2020-08-25,United States,Idaho,Oneida,0,0,18,0
+2020-08-25,United States,Idaho,Owyhee,0,0,290,4
+2020-08-25,United States,Idaho,Payette,12,0,570,4
+2020-08-25,United States,Idaho,Power,4,0,94,0
+2020-08-25,United States,Idaho,Shoshone,1,2,184,11
+2020-08-25,United States,Idaho,Teton,2,0,120,0
+2020-08-25,United States,Idaho,Twin Falls,4,0,1604,33
+2020-08-25,United States,Idaho,Unassigned,0,0,3,0
+2020-08-25,United States,Idaho,Valley,0,0,78,1
+2020-08-25,United States,Idaho,Washington,1,0,257,3
+2020-08-25,United States,Illinois,Adams,14,0,727,7
+2020-08-25,United States,Illinois,Alexander,0,0,40,0
+2020-08-25,United States,Illinois,Bond,3,0,107,3
+2020-08-25,United States,Illinois,Boone,4,0,827,23
+2020-08-25,United States,Illinois,Brown,0,0,16,0
+2020-08-25,United States,Illinois,Bureau,5,0,322,4
+2020-08-25,United States,Illinois,Calhoun,1,0,22,0
+2020-08-25,United States,Illinois,Carroll,1,0,115,4
+2020-08-25,United States,Illinois,Cass,0,0,287,11
+2020-08-25,United States,Illinois,Champaign,51,0,2078,20
+2020-08-25,United States,Illinois,Christian,1,0,185,4
+2020-08-25,United States,Illinois,Clark,0,0,112,2
+2020-08-25,United States,Illinois,Clay,1,0,60,0
+2020-08-25,United States,Illinois,Clinton,24,0,606,17
+2020-08-25,United States,Illinois,Coles,1,0,786,21
+2020-08-25,United States,Illinois,Cook,569,2,121877,5015
+2020-08-25,United States,Illinois,Crawford,5,0,57,0
+2020-08-25,United States,Illinois,Cumberland,2,0,109,3
+2020-08-25,United States,Illinois,De Witt,1,0,38,1
+2020-08-25,United States,Illinois,DeKalb,4,0,1048,33
+2020-08-25,United States,Illinois,Douglas,0,0,189,4
+2020-08-25,United States,Illinois,DuPage,131,1,13909,530
+2020-08-25,United States,Illinois,Edgar,4,0,61,0
+2020-08-25,United States,Illinois,Edwards,0,0,31,0
+2020-08-25,United States,Illinois,Effingham,7,0,398,1
+2020-08-25,United States,Illinois,Fayette,5,0,120,3
+2020-08-25,United States,Illinois,Ford,0,0,70,2
+2020-08-25,United States,Illinois,Franklin,6,0,293,1
+2020-08-25,United States,Illinois,Fulton,2,0,73,0
+2020-08-25,United States,Illinois,Gallatin,0,0,60,2
+2020-08-25,United States,Illinois,Greene,3,0,98,0
+2020-08-25,United States,Illinois,Grundy,4,0,436,5
+2020-08-25,United States,Illinois,Hamilton,1,0,42,0
+2020-08-25,United States,Illinois,Hancock,3,0,116,1
+2020-08-25,United States,Illinois,Hardin,0,0,18,0
+2020-08-25,United States,Illinois,Henderson,1,0,36,0
+2020-08-25,United States,Illinois,Henry,18,0,396,1
+2020-08-25,United States,Illinois,Iroquois,1,1,284,18
+2020-08-25,United States,Illinois,Jackson,16,0,851,20
+2020-08-25,United States,Illinois,Jasper,0,0,89,7
+2020-08-25,United States,Illinois,Jefferson,10,0,402,31
+2020-08-25,United States,Illinois,Jersey,6,0,229,2
+2020-08-25,United States,Illinois,Jo Daviess,1,0,166,2
+2020-08-25,United States,Illinois,Johnson,3,0,95,0
+2020-08-25,United States,Illinois,Kane,37,1,10796,308
+2020-08-25,United States,Illinois,Kankakee,17,0,2050,71
+2020-08-25,United States,Illinois,Kendall,9,0,1588,23
+2020-08-25,United States,Illinois,Knox,3,0,425,3
+2020-08-25,United States,Illinois,Lake,80,0,13937,455
+2020-08-25,United States,Illinois,LaSalle,22,0,1115,39
+2020-08-25,United States,Illinois,Lawrence,6,0,87,0
+2020-08-25,United States,Illinois,Lee,3,0,218,1
+2020-08-25,United States,Illinois,Livingston,4,0,170,3
+2020-08-25,United States,Illinois,Logan,0,0,228,1
+2020-08-25,United States,Illinois,Macon,17,0,852,24
+2020-08-25,United States,Illinois,Macoupin,5,0,301,3
+2020-08-25,United States,Illinois,Madison,44,0,3606,91
+2020-08-25,United States,Illinois,Marion,3,0,234,0
+2020-08-25,United States,Illinois,Marshall,0,0,39,0
+2020-08-25,United States,Illinois,Mason,0,0,72,1
+2020-08-25,United States,Illinois,Massac,4,0,56,0
+2020-08-25,United States,Illinois,McDonough,0,0,161,15
+2020-08-25,United States,Illinois,McHenry,31,0,3620,115
+2020-08-25,United States,Illinois,McLean,56,0,1138,16
+2020-08-25,United States,Illinois,Menard,0,0,63,0
+2020-08-25,United States,Illinois,Mercer,0,0,90,4
+2020-08-25,United States,Illinois,Monroe,4,1,402,14
+2020-08-25,United States,Illinois,Montgomery,5,0,223,8
+2020-08-25,United States,Illinois,Morgan,1,0,448,17
+2020-08-25,United States,Illinois,Moultrie,0,0,133,0
+2020-08-25,United States,Illinois,Ogle,6,0,459,5
+2020-08-25,United States,Illinois,Out of IL,1,0,1,0
+2020-08-25,United States,Illinois,Peoria,25,0,2190,38
+2020-08-25,United States,Illinois,Perry,5,0,271,6
+2020-08-25,United States,Illinois,Piatt,-1,0,70,0
+2020-08-25,United States,Illinois,Pike,5,0,57,0
+2020-08-25,United States,Illinois,Pope,0,0,11,0
+2020-08-25,United States,Illinois,Pulaski,1,0,106,1
+2020-08-25,United States,Illinois,Putnam,0,0,13,0
+2020-08-25,United States,Illinois,Randolph,5,0,647,7
+2020-08-25,United States,Illinois,Richland,1,0,54,1
+2020-08-25,United States,Illinois,Rock Island,26,0,2026,46
+2020-08-25,United States,Illinois,Saline,0,0,155,2
+2020-08-25,United States,Illinois,Sangamon,25,0,1637,37
+2020-08-25,United States,Illinois,Schuyler,0,0,19,0
+2020-08-25,United States,Illinois,Scott,1,0,41,0
+2020-08-25,United States,Illinois,Shelby,3,0,153,2
+2020-08-25,United States,Illinois,St. Clair,76,0,4958,166
+2020-08-25,United States,Illinois,Stark,1,0,10,0
+2020-08-25,United States,Illinois,Stephenson,4,0,368,6
+2020-08-25,United States,Illinois,Tazewell,22,0,951,9
+2020-08-25,United States,Illinois,Unassigned,2,0,1463,209
+2020-08-25,United States,Illinois,Union,7,0,400,23
+2020-08-25,United States,Illinois,Vermilion,5,0,298,2
+2020-08-25,United States,Illinois,Wabash,4,0,93,1
+2020-08-25,United States,Illinois,Warren,2,0,230,0
+2020-08-25,United States,Illinois,Washington,4,0,92,1
+2020-08-25,United States,Illinois,Wayne,0,0,86,2
+2020-08-25,United States,Illinois,White,1,0,113,0
+2020-08-25,United States,Illinois,Whiteside,4,0,444,18
+2020-08-25,United States,Illinois,Will,70,0,10830,354
+2020-08-25,United States,Illinois,Williamson,21,0,716,9
+2020-08-25,United States,Illinois,Winnebago,21,2,4069,139
+2020-08-25,United States,Illinois,Woodford,5,0,242,3
+2020-08-25,United States,Indiana,Adams,3,0,160,2
+2020-08-25,United States,Indiana,Allen,98,0,4650,173
+2020-08-25,United States,Indiana,Bartholomew,23,0,1013,57
+2020-08-25,United States,Indiana,Benton,0,0,76,0
+2020-08-25,United States,Indiana,Blackford,0,0,70,2
+2020-08-25,United States,Indiana,Boone,6,0,785,50
+2020-08-25,United States,Indiana,Brown,1,0,83,2
+2020-08-25,United States,Indiana,Carroll,3,0,249,11
+2020-08-25,United States,Indiana,Cass,2,0,1842,10
+2020-08-25,United States,Indiana,Clark,34,0,1601,52
+2020-08-25,United States,Indiana,Clay,2,0,207,5
+2020-08-25,United States,Indiana,Clinton,18,0,521,6
+2020-08-25,United States,Indiana,Crawford,0,0,55,0
+2020-08-25,United States,Indiana,Daviess,8,1,407,23
+2020-08-25,United States,Indiana,Dearborn,3,0,556,29
+2020-08-25,United States,Indiana,Decatur,5,0,374,33
+2020-08-25,United States,Indiana,DeKalb,9,0,286,5
+2020-08-25,United States,Indiana,Delaware,31,0,897,53
+2020-08-25,United States,Indiana,Dubois,3,1,796,17
+2020-08-25,United States,Indiana,Elkhart,44,0,5384,96
+2020-08-25,United States,Indiana,Fayette,5,0,282,8
+2020-08-25,United States,Indiana,Floyd,18,1,997,61
+2020-08-25,United States,Indiana,Fountain,1,0,82,2
+2020-08-25,United States,Indiana,Franklin,0,0,261,22
+2020-08-25,United States,Indiana,Fulton,4,0,196,2
+2020-08-25,United States,Indiana,Gibson,3,0,288,4
+2020-08-25,United States,Indiana,Grant,22,0,601,31
+2020-08-25,United States,Indiana,Greene,9,0,335,35
+2020-08-25,United States,Indiana,Hamilton,106,0,3529,110
+2020-08-25,United States,Indiana,Hancock,27,0,777,41
+2020-08-25,United States,Indiana,Harrison,2,0,437,26
+2020-08-25,United States,Indiana,Hendricks,19,0,2171,113
+2020-08-25,United States,Indiana,Henry,21,0,555,21
+2020-08-25,United States,Indiana,Howard,4,0,1026,64
+2020-08-25,United States,Indiana,Huntington,2,0,154,3
+2020-08-25,United States,Indiana,Jackson,19,0,672,7
+2020-08-25,United States,Indiana,Jasper,3,0,301,2
+2020-08-25,United States,Indiana,Jay,3,0,114,0
+2020-08-25,United States,Indiana,Jefferson,5,0,198,3
+2020-08-25,United States,Indiana,Jennings,10,0,254,12
+2020-08-25,United States,Indiana,Johnson,25,0,1942,129
+2020-08-25,United States,Indiana,Knox,7,0,279,3
+2020-08-25,United States,Indiana,Kosciusko,84,0,986,12
+2020-08-25,United States,Indiana,LaGrange,0,0,581,11
+2020-08-25,United States,Indiana,Lake,107,0,8700,314
+2020-08-25,United States,Indiana,LaPorte,17,0,1114,33
+2020-08-25,United States,Indiana,Lawrence,33,0,418,29
+2020-08-25,United States,Indiana,Madison,18,0,1201,71
+2020-08-25,United States,Indiana,Marion,169,0,17593,780
+2020-08-25,United States,Indiana,Marshall,5,0,858,24
+2020-08-25,United States,Indiana,Martin,4,0,75,0
+2020-08-25,United States,Indiana,Miami,6,0,306,2
+2020-08-25,United States,Indiana,Monroe,94,1,952,36
+2020-08-25,United States,Indiana,Montgomery,2,0,388,22
+2020-08-25,United States,Indiana,Morgan,12,0,553,35
+2020-08-25,United States,Indiana,Newton,5,0,133,11
+2020-08-25,United States,Indiana,Noble,7,0,773,31
+2020-08-25,United States,Indiana,Ohio,0,0,70,8
+2020-08-25,United States,Indiana,Orange,5,0,214,24
+2020-08-25,United States,Indiana,Owen,0,0,132,1
+2020-08-25,United States,Indiana,Parke,0,0,75,2
+2020-08-25,United States,Indiana,Perry,1,0,195,13
+2020-08-25,United States,Indiana,Pike,0,0,80,1
+2020-08-25,United States,Indiana,Porter,17,0,1582,43
+2020-08-25,United States,Indiana,Posey,3,0,202,0
+2020-08-25,United States,Indiana,Pulaski,1,0,92,1
+2020-08-25,United States,Indiana,Putnam,4,0,401,8
+2020-08-25,United States,Indiana,Randolph,7,0,150,7
+2020-08-25,United States,Indiana,Ripley,0,0,234,8
+2020-08-25,United States,Indiana,Rush,1,0,127,4
+2020-08-25,United States,Indiana,Scott,4,0,303,10
+2020-08-25,United States,Indiana,Shelby,2,0,607,28
+2020-08-25,United States,Indiana,Spencer,2,0,150,3
+2020-08-25,United States,Indiana,St. Joseph,311,0,4540,99
+2020-08-25,United States,Indiana,Starke,3,0,189,8
+2020-08-25,United States,Indiana,Steuben,5,0,246,3
+2020-08-25,United States,Indiana,Sullivan,1,1,258,5
+2020-08-25,United States,Indiana,Switzerland,0,0,63,0
+2020-08-25,United States,Indiana,Tippecanoe,22,0,1464,13
+2020-08-25,United States,Indiana,Tipton,0,0,170,21
+2020-08-25,United States,Indiana,Unassigned,0,8,0,40
+2020-08-25,United States,Indiana,Union,3,0,57,0
+2020-08-25,United States,Indiana,Vanderburgh,30,0,2361,20
+2020-08-25,United States,Indiana,Vermillion,3,0,81,0
+2020-08-25,United States,Indiana,Vigo,12,1,1046,18
+2020-08-25,United States,Indiana,Wabash,1,0,195,5
+2020-08-25,United States,Indiana,Warren,0,0,34,1
+2020-08-25,United States,Indiana,Warrick,15,0,699,30
+2020-08-25,United States,Indiana,Washington,6,0,190,1
+2020-08-25,United States,Indiana,Wayne,18,0,490,10
+2020-08-25,United States,Indiana,Wells,5,0,195,2
+2020-08-25,United States,Indiana,White,0,0,414,11
+2020-08-25,United States,Indiana,Whitley,7,0,192,6
+2020-08-25,United States,Iowa,Adair,0,0,43,1
+2020-08-25,United States,Iowa,Adams,0,0,20,0
+2020-08-25,United States,Iowa,Allamakee,1,0,168,4
+2020-08-25,United States,Iowa,Appanoose,0,0,66,3
+2020-08-25,United States,Iowa,Audubon,1,0,36,1
+2020-08-25,United States,Iowa,Benton,0,0,182,1
+2020-08-25,United States,Iowa,Black Hawk,9,1,3522,71
+2020-08-25,United States,Iowa,Boone,7,0,322,3
+2020-08-25,United States,Iowa,Bremer,0,0,265,7
+2020-08-25,United States,Iowa,Buchanan,0,0,164,1
+2020-08-25,United States,Iowa,Buena Vista,2,0,1817,12
+2020-08-25,United States,Iowa,Butler,0,0,163,2
+2020-08-25,United States,Iowa,Calhoun,1,0,102,2
+2020-08-25,United States,Iowa,Carroll,9,0,306,2
+2020-08-25,United States,Iowa,Cass,-1,0,104,2
+2020-08-25,United States,Iowa,Cedar,0,0,146,1
+2020-08-25,United States,Iowa,Cerro Gordo,5,0,720,20
+2020-08-25,United States,Iowa,Cherokee,0,0,126,1
+2020-08-25,United States,Iowa,Chickasaw,0,0,86,0
+2020-08-25,United States,Iowa,Clarke,0,0,216,3
+2020-08-25,United States,Iowa,Clay,2,0,231,2
+2020-08-25,United States,Iowa,Clayton,8,0,160,3
+2020-08-25,United States,Iowa,Clinton,20,1,679,7
+2020-08-25,United States,Iowa,Crawford,6,0,794,3
+2020-08-25,United States,Iowa,Dallas,12,0,2127,36
+2020-08-25,United States,Iowa,Davis,0,0,77,2
+2020-08-25,United States,Iowa,Decatur,3,0,36,0
+2020-08-25,United States,Iowa,Delaware,7,0,169,2
+2020-08-25,United States,Iowa,Des Moines,0,0,427,3
+2020-08-25,United States,Iowa,Dickinson,0,0,402,5
+2020-08-25,United States,Iowa,Dubuque,4,0,1907,35
+2020-08-25,United States,Iowa,Emmet,2,0,214,7
+2020-08-25,United States,Iowa,Fayette,2,1,125,1
+2020-08-25,United States,Iowa,Floyd,0,0,184,3
+2020-08-25,United States,Iowa,Franklin,0,0,275,16
+2020-08-25,United States,Iowa,Fremont,-1,0,54,0
+2020-08-25,United States,Iowa,Greene,2,0,47,0
+2020-08-25,United States,Iowa,Grundy,1,0,113,1
+2020-08-25,United States,Iowa,Guthrie,0,0,157,5
+2020-08-25,United States,Iowa,Hamilton,2,0,248,2
+2020-08-25,United States,Iowa,Hancock,3,0,136,2
+2020-08-25,United States,Iowa,Hardin,1,0,214,1
+2020-08-25,United States,Iowa,Harrison,2,0,137,1
+2020-08-25,United States,Iowa,Henry,3,0,205,4
+2020-08-25,United States,Iowa,Howard,2,0,89,0
+2020-08-25,United States,Iowa,Humboldt,0,0,100,2
+2020-08-25,United States,Iowa,Ida,0,0,36,0
+2020-08-25,United States,Iowa,Iowa,1,0,107,1
+2020-08-25,United States,Iowa,Jackson,0,0,180,1
+2020-08-25,United States,Iowa,Jasper,1,1,523,30
+2020-08-25,United States,Iowa,Jefferson,2,0,105,0
+2020-08-25,United States,Iowa,Johnson,54,0,2592,24
+2020-08-25,United States,Iowa,Jones,1,0,155,2
+2020-08-25,United States,Iowa,Keokuk,2,0,48,1
+2020-08-25,United States,Iowa,Kossuth,2,0,113,0
+2020-08-25,United States,Iowa,Lee,15,0,272,5
+2020-08-25,United States,Iowa,Linn,13,0,2758,91
+2020-08-25,United States,Iowa,Louisa,0,0,382,14
+2020-08-25,United States,Iowa,Lucas,3,0,83,4
+2020-08-25,United States,Iowa,Lyon,0,0,136,2
+2020-08-25,United States,Iowa,Madison,-1,0,150,2
+2020-08-25,United States,Iowa,Mahaska,8,0,166,18
+2020-08-25,United States,Iowa,Marion,18,0,324,0
+2020-08-25,United States,Iowa,Marshall,3,0,1570,28
+2020-08-25,United States,Iowa,Mills,1,0,118,1
+2020-08-25,United States,Iowa,Mitchell,1,0,93,0
+2020-08-25,United States,Iowa,Monona,1,0,105,1
+2020-08-25,United States,Iowa,Monroe,1,0,93,8
+2020-08-25,United States,Iowa,Montgomery,-1,0,68,4
+2020-08-25,United States,Iowa,Muscatine,4,0,928,48
+2020-08-25,United States,Iowa,O`Brien,2,0,166,7
+2020-08-25,United States,Iowa,Osceola,0,0,91,0
+2020-08-25,United States,Iowa,Page,-3,0,104,0
+2020-08-25,United States,Iowa,Palo Alto,0,0,105,0
+2020-08-25,United States,Iowa,Plymouth,8,0,622,15
+2020-08-25,United States,Iowa,Pocahontas,0,0,122,2
+2020-08-25,United States,Iowa,Polk,85,3,11836,217
+2020-08-25,United States,Iowa,Pottawattamie,1,0,1518,31
+2020-08-25,United States,Iowa,Poweshiek,1,0,178,8
+2020-08-25,United States,Iowa,Ringgold,1,0,30,1
+2020-08-25,United States,Iowa,Sac,1,0,102,0
+2020-08-25,United States,Iowa,Scott,12,0,2014,19
+2020-08-25,United States,Iowa,Shelby,0,0,208,1
+2020-08-25,United States,Iowa,Sioux,17,0,792,3
+2020-08-25,United States,Iowa,Story,37,0,1606,16
+2020-08-25,United States,Iowa,Tama,2,0,586,29
+2020-08-25,United States,Iowa,Taylor,0,0,107,0
+2020-08-25,United States,Iowa,Unassigned,9,0,16,0
+2020-08-25,United States,Iowa,Union,0,0,90,3
+2020-08-25,United States,Iowa,Van Buren,1,0,47,1
+2020-08-25,United States,Iowa,Wapello,14,2,1021,45
+2020-08-25,United States,Iowa,Warren,5,0,660,5
+2020-08-25,United States,Iowa,Washington,-1,0,315,10
+2020-08-25,United States,Iowa,Wayne,4,0,37,2
+2020-08-25,United States,Iowa,Webster,1,0,696,8
+2020-08-25,United States,Iowa,Winnebago,0,1,144,3
+2020-08-25,United States,Iowa,Winneshiek,4,0,173,1
+2020-08-25,United States,Iowa,Woodbury,17,0,3967,54
+2020-08-25,United States,Iowa,Worth,0,0,75,0
+2020-08-25,United States,Iowa,Wright,1,0,495,1
+2020-08-25,United States,Kansas,Allen,0,0,20,0
+2020-08-25,United States,Kansas,Anderson,0,0,32,0
+2020-08-25,United States,Kansas,Atchison,0,0,157,0
+2020-08-25,United States,Kansas,Barber,0,0,5,0
+2020-08-25,United States,Kansas,Barton,13,0,229,4
+2020-08-25,United States,Kansas,Bourbon,0,0,82,2
+2020-08-25,United States,Kansas,Brown,3,0,62,0
+2020-08-25,United States,Kansas,Butler,9,0,387,2
+2020-08-25,United States,Kansas,Chase,7,0,65,0
+2020-08-25,United States,Kansas,Chautauqua,1,0,8,0
+2020-08-25,United States,Kansas,Cherokee,11,1,215,1
+2020-08-25,United States,Kansas,Cheyenne,1,0,6,0
+2020-08-25,United States,Kansas,Clark,0,0,45,1
+2020-08-25,United States,Kansas,Clay,6,0,29,2
+2020-08-25,United States,Kansas,Cloud,2,0,45,0
+2020-08-25,United States,Kansas,Coffey,0,0,75,8
+2020-08-25,United States,Kansas,Comanche,0,0,9,0
+2020-08-25,United States,Kansas,Cowley,4,1,226,3
+2020-08-25,United States,Kansas,Crawford,8,0,421,1
+2020-08-25,United States,Kansas,Decatur,0,0,6,0
+2020-08-25,United States,Kansas,Dickinson,2,0,66,1
+2020-08-25,United States,Kansas,Doniphan,0,0,58,0
+2020-08-25,United States,Kansas,Douglas,128,0,1020,8
+2020-08-25,United States,Kansas,Edwards,3,0,15,0
+2020-08-25,United States,Kansas,Elk,0,0,1,0
+2020-08-25,United States,Kansas,Ellis,76,0,256,1
+2020-08-25,United States,Kansas,Ellsworth,0,0,24,0
+2020-08-25,United States,Kansas,Finney,7,0,1851,12
+2020-08-25,United States,Kansas,Ford,17,0,2219,10
+2020-08-25,United States,Kansas,Franklin,5,0,248,2
+2020-08-25,United States,Kansas,Geary,9,0,194,2
+2020-08-25,United States,Kansas,Gove,0,0,7,0
+2020-08-25,United States,Kansas,Graham,1,0,24,0
+2020-08-25,United States,Kansas,Grant,1,0,139,3
+2020-08-25,United States,Kansas,Gray,8,0,106,0
+2020-08-25,United States,Kansas,Greeley,0,0,4,0
+2020-08-25,United States,Kansas,Greenwood,0,0,23,0
+2020-08-25,United States,Kansas,Hamilton,0,0,42,0
+2020-08-25,United States,Kansas,Harper,53,0,88,0
+2020-08-25,United States,Kansas,Harvey,8,0,279,4
+2020-08-25,United States,Kansas,Haskell,0,0,44,0
+2020-08-25,United States,Kansas,Hodgeman,1,0,13,0
+2020-08-25,United States,Kansas,Jackson,0,0,181,1
+2020-08-25,United States,Kansas,Jefferson,1,0,105,0
+2020-08-25,United States,Kansas,Jewell,0,0,14,1
+2020-08-25,United States,Kansas,Johnson,83,1,7393,111
+2020-08-25,United States,Kansas,Kearny,1,0,69,1
+2020-08-25,United States,Kansas,Kingman,4,0,38,0
+2020-08-25,United States,Kansas,Kiowa,0,0,8,0
+2020-08-25,United States,Kansas,Labette,-1,0,165,1
+2020-08-25,United States,Kansas,Lane,0,0,7,0
+2020-08-25,United States,Kansas,Leavenworth,34,0,1606,9
+2020-08-25,United States,Kansas,Lincoln,0,0,6,0
+2020-08-25,United States,Kansas,Linn,0,0,50,0
+2020-08-25,United States,Kansas,Logan,0,0,2,0
+2020-08-25,United States,Kansas,Lyon,24,0,881,14
+2020-08-25,United States,Kansas,Marion,0,0,60,1
+2020-08-25,United States,Kansas,Marshall,1,0,14,0
+2020-08-25,United States,Kansas,McPherson,0,0,195,1
+2020-08-25,United States,Kansas,Meade,0,0,58,0
+2020-08-25,United States,Kansas,Miami,10,0,177,0
+2020-08-25,United States,Kansas,Mitchell,0,0,28,0
+2020-08-25,United States,Kansas,Montgomery,3,0,211,5
+2020-08-25,United States,Kansas,Morris,2,0,17,0
+2020-08-25,United States,Kansas,Morton,0,0,10,2
+2020-08-25,United States,Kansas,Nemaha,0,0,53,1
+2020-08-25,United States,Kansas,Neosho,0,0,72,0
+2020-08-25,United States,Kansas,Ness,4,0,15,0
+2020-08-25,United States,Kansas,Norton,0,0,23,0
+2020-08-25,United States,Kansas,Osage,2,0,55,0
+2020-08-25,United States,Kansas,Osborne,0,0,4,0
+2020-08-25,United States,Kansas,Ottawa,0,0,39,0
+2020-08-25,United States,Kansas,Pawnee,72,0,148,0
+2020-08-25,United States,Kansas,Phillips,0,0,51,8
+2020-08-25,United States,Kansas,Pottawatomie,10,0,149,0
+2020-08-25,United States,Kansas,Pratt,3,0,40,0
+2020-08-25,United States,Kansas,Rawlins,1,0,1,0
+2020-08-25,United States,Kansas,Reno,40,0,661,1
+2020-08-25,United States,Kansas,Republic,1,0,35,0
+2020-08-25,United States,Kansas,Rice,1,0,43,1
+2020-08-25,United States,Kansas,Riley,41,0,618,5
+2020-08-25,United States,Kansas,Rooks,3,0,23,0
+2020-08-25,United States,Kansas,Rush,1,0,13,0
+2020-08-25,United States,Kansas,Russell,0,0,17,0
+2020-08-25,United States,Kansas,Saline,12,0,444,9
+2020-08-25,United States,Kansas,Scott,4,0,79,0
+2020-08-25,United States,Kansas,Sedgwick,86,0,6375,48
+2020-08-25,United States,Kansas,Seward,0,0,1332,4
+2020-08-25,United States,Kansas,Shawnee,23,0,1998,21
+2020-08-25,United States,Kansas,Sheridan,0,0,9,0
+2020-08-25,United States,Kansas,Sherman,0,0,17,0
+2020-08-25,United States,Kansas,Smith,0,0,3,0
+2020-08-25,United States,Kansas,Stafford,2,0,17,1
+2020-08-25,United States,Kansas,Stanton,0,0,21,1
+2020-08-25,United States,Kansas,Stevens,3,0,49,0
+2020-08-25,United States,Kansas,Sumner,1,0,111,3
+2020-08-25,United States,Kansas,Thomas,1,0,50,0
+2020-08-25,United States,Kansas,Trego,2,0,9,1
+2020-08-25,United States,Kansas,Unassigned,0,0,0,0
+2020-08-25,United States,Kansas,Wabaunsee,1,0,51,0
+2020-08-25,United States,Kansas,Wallace,0,0,1,0
+2020-08-25,United States,Kansas,Washington,0,0,2,0
+2020-08-25,United States,Kansas,Wichita,0,0,4,0
+2020-08-25,United States,Kansas,Wilson,0,0,16,0
+2020-08-25,United States,Kansas,Woodson,0,0,12,0
+2020-08-25,United States,Kansas,Wyandotte,22,0,5723,111
+2020-08-25,United States,Kentucky,Adair,3,0,247,19
+2020-08-25,United States,Kentucky,Allen,4,0,245,8
+2020-08-25,United States,Kentucky,Anderson,1,0,104,1
+2020-08-25,United States,Kentucky,Ballard,0,0,39,0
+2020-08-25,United States,Kentucky,Barren,1,0,472,6
+2020-08-25,United States,Kentucky,Bath,1,0,53,1
+2020-08-25,United States,Kentucky,Bell,1,0,368,6
+2020-08-25,United States,Kentucky,Boone,13,0,1231,24
+2020-08-25,United States,Kentucky,Bourbon,0,0,104,1
+2020-08-25,United States,Kentucky,Boyd,4,0,218,4
+2020-08-25,United States,Kentucky,Boyle,3,0,189,0
+2020-08-25,United States,Kentucky,Bracken,0,0,37,0
+2020-08-25,United States,Kentucky,Breathitt,10,0,49,0
+2020-08-25,United States,Kentucky,Breckinridge,0,0,91,2
+2020-08-25,United States,Kentucky,Bullitt,11,0,548,5
+2020-08-25,United States,Kentucky,Butler,1,0,311,16
+2020-08-25,United States,Kentucky,Caldwell,2,0,64,0
+2020-08-25,United States,Kentucky,Calloway,24,0,369,5
+2020-08-25,United States,Kentucky,Campbell,4,0,654,13
+2020-08-25,United States,Kentucky,Carlisle,1,0,56,1
+2020-08-25,United States,Kentucky,Carroll,3,0,187,2
+2020-08-25,United States,Kentucky,Carter,1,0,111,3
+2020-08-25,United States,Kentucky,Casey,5,0,228,11
+2020-08-25,United States,Kentucky,Christian,7,0,697,10
+2020-08-25,United States,Kentucky,Clark,7,0,227,8
+2020-08-25,United States,Kentucky,Clay,1,0,197,6
+2020-08-25,United States,Kentucky,Clinton,1,0,60,1
+2020-08-25,United States,Kentucky,Crittenden,0,0,38,1
+2020-08-25,United States,Kentucky,Cumberland,4,0,79,0
+2020-08-25,United States,Kentucky,Daviess,19,0,895,10
+2020-08-25,United States,Kentucky,Edmonson,0,0,116,12
+2020-08-25,United States,Kentucky,Elliott,0,0,19,0
+2020-08-25,United States,Kentucky,Estill,1,0,29,0
+2020-08-25,United States,Kentucky,Fayette,171,0,3833,52
+2020-08-25,United States,Kentucky,Fleming,0,0,65,0
+2020-08-25,United States,Kentucky,Floyd,4,0,136,2
+2020-08-25,United States,Kentucky,Franklin,5,0,433,11
+2020-08-25,United States,Kentucky,Fulton,0,0,109,2
+2020-08-25,United States,Kentucky,Gallatin,1,0,88,8
+2020-08-25,United States,Kentucky,Garrard,3,0,102,2
+2020-08-25,United States,Kentucky,Grant,0,0,132,6
+2020-08-25,United States,Kentucky,Graves,3,0,617,28
+2020-08-25,United States,Kentucky,Grayson,2,0,239,11
+2020-08-25,United States,Kentucky,Green,6,2,101,5
+2020-08-25,United States,Kentucky,Greenup,3,0,169,1
+2020-08-25,United States,Kentucky,Hancock,1,0,56,0
+2020-08-25,United States,Kentucky,Hardin,14,0,847,8
+2020-08-25,United States,Kentucky,Harlan,3,1,267,6
+2020-08-25,United States,Kentucky,Harrison,0,0,139,0
+2020-08-25,United States,Kentucky,Hart,0,0,118,1
+2020-08-25,United States,Kentucky,Henderson,4,0,410,3
+2020-08-25,United States,Kentucky,Henry,1,-1,156,1
+2020-08-25,United States,Kentucky,Hickman,0,0,63,0
+2020-08-25,United States,Kentucky,Hopkins,7,0,479,36
+2020-08-25,United States,Kentucky,Jackson,6,0,178,15
+2020-08-25,United States,Kentucky,Jefferson,213,3,10703,261
+2020-08-25,United States,Kentucky,Jessamine,5,0,416,0
+2020-08-25,United States,Kentucky,Johnson,0,1,101,1
+2020-08-25,United States,Kentucky,Kenton,28,0,1644,41
+2020-08-25,United States,Kentucky,Knott,1,0,88,1
+2020-08-25,United States,Kentucky,Knox,6,1,312,9
+2020-08-25,United States,Kentucky,Larue,1,0,77,1
+2020-08-25,United States,Kentucky,Laurel,2,0,513,5
+2020-08-25,United States,Kentucky,Lawrence,0,0,40,0
+2020-08-25,United States,Kentucky,Lee,0,0,11,0
+2020-08-25,United States,Kentucky,Leslie,0,0,38,0
+2020-08-25,United States,Kentucky,Letcher,1,0,67,2
+2020-08-25,United States,Kentucky,Lewis,-1,2,115,6
+2020-08-25,United States,Kentucky,Lincoln,2,0,132,2
+2020-08-25,United States,Kentucky,Livingston,3,0,42,1
+2020-08-25,United States,Kentucky,Logan,1,0,378,25
+2020-08-25,United States,Kentucky,Lyon,0,0,34,4
+2020-08-25,United States,Kentucky,Madison,48,0,805,2
+2020-08-25,United States,Kentucky,Magoffin,0,0,60,0
+2020-08-25,United States,Kentucky,Marion,10,0,165,1
+2020-08-25,United States,Kentucky,Marshall,3,0,177,2
+2020-08-25,United States,Kentucky,Martin,0,0,49,0
+2020-08-25,United States,Kentucky,Mason,0,0,71,2
+2020-08-25,United States,Kentucky,McCracken,7,0,460,5
+2020-08-25,United States,Kentucky,McCreary,2,0,61,0
+2020-08-25,United States,Kentucky,McLean,1,0,51,1
+2020-08-25,United States,Kentucky,Meade,5,0,122,3
+2020-08-25,United States,Kentucky,Menifee,1,0,29,0
+2020-08-25,United States,Kentucky,Mercer,-1,0,104,1
+2020-08-25,United States,Kentucky,Metcalfe,0,0,77,2
+2020-08-25,United States,Kentucky,Monroe,3,0,114,2
+2020-08-25,United States,Kentucky,Montgomery,0,0,170,1
+2020-08-25,United States,Kentucky,Morgan,0,0,40,0
+2020-08-25,United States,Kentucky,Muhlenberg,1,0,648,11
+2020-08-25,United States,Kentucky,Nelson,3,0,315,2
+2020-08-25,United States,Kentucky,Nicholas,0,0,22,1
+2020-08-25,United States,Kentucky,Ohio,4,0,376,9
+2020-08-25,United States,Kentucky,Oldham,14,1,757,22
+2020-08-25,United States,Kentucky,Owen,1,0,75,0
+2020-08-25,United States,Kentucky,Owsley,0,0,25,0
+2020-08-25,United States,Kentucky,Pendleton,1,0,59,0
+2020-08-25,United States,Kentucky,Perry,1,0,269,7
+2020-08-25,United States,Kentucky,Pike,0,0,298,3
+2020-08-25,United States,Kentucky,Powell,0,0,70,0
+2020-08-25,United States,Kentucky,Pulaski,11,0,448,6
+2020-08-25,United States,Kentucky,Robertson,0,0,3,0
+2020-08-25,United States,Kentucky,Rockcastle,1,0,108,0
+2020-08-25,United States,Kentucky,Rowan,0,0,89,0
+2020-08-25,United States,Kentucky,Russell,1,0,151,5
+2020-08-25,United States,Kentucky,Scott,6,1,504,2
+2020-08-25,United States,Kentucky,Shelby,6,1,872,23
+2020-08-25,United States,Kentucky,Simpson,5,0,193,7
+2020-08-25,United States,Kentucky,Spencer,8,0,160,0
+2020-08-25,United States,Kentucky,Taylor,5,0,181,4
+2020-08-25,United States,Kentucky,Todd,1,0,46,0
+2020-08-25,United States,Kentucky,Trigg,5,0,68,0
+2020-08-25,United States,Kentucky,Trimble,2,0,41,0
+2020-08-25,United States,Kentucky,Unassigned,0,0,0,0
+2020-08-25,United States,Kentucky,Union,2,0,81,0
+2020-08-25,United States,Kentucky,Warren,29,0,2998,24
+2020-08-25,United States,Kentucky,Washington,1,0,116,1
+2020-08-25,United States,Kentucky,Wayne,3,0,86,0
+2020-08-25,United States,Kentucky,Webster,1,0,97,1
+2020-08-25,United States,Kentucky,Whitley,5,0,178,1
+2020-08-25,United States,Kentucky,Wolfe,1,0,27,0
+2020-08-25,United States,Kentucky,Woodford,6,0,202,0
+2020-08-25,United States,Louisiana,Acadia,5,1,2748,93
+2020-08-25,United States,Louisiana,Allen,0,0,1409,37
+2020-08-25,United States,Louisiana,Ascension,8,0,3226,87
+2020-08-25,United States,Louisiana,Assumption,0,0,631,21
+2020-08-25,United States,Louisiana,Avoyelles,7,1,1218,43
+2020-08-25,United States,Louisiana,Beauregard,3,0,941,29
+2020-08-25,United States,Louisiana,Bienville,0,0,403,30
+2020-08-25,United States,Louisiana,Bossier,8,1,2557,91
+2020-08-25,United States,Louisiana,Caddo,24,0,7180,310
+2020-08-25,United States,Louisiana,Calcasieu,7,0,7284,178
+2020-08-25,United States,Louisiana,Caldwell,7,0,271,3
+2020-08-25,United States,Louisiana,Cameron,1,0,175,1
+2020-08-25,United States,Louisiana,Catahoula,5,0,351,6
+2020-08-25,United States,Louisiana,Claiborne,4,0,331,12
+2020-08-25,United States,Louisiana,Concordia,9,0,411,9
+2020-08-25,United States,Louisiana,De Soto,1,0,803,30
+2020-08-25,United States,Louisiana,East Baton Rouge,62,2,13412,403
+2020-08-25,United States,Louisiana,East Carroll,0,0,529,2
+2020-08-25,United States,Louisiana,East Feliciana,141,0,862,43
+2020-08-25,United States,Louisiana,Evangeline,2,1,1006,23
+2020-08-25,United States,Louisiana,Franklin,0,1,1042,26
+2020-08-25,United States,Louisiana,Grant,5,0,382,25
+2020-08-25,United States,Louisiana,Iberia,9,0,2670,81
+2020-08-25,United States,Louisiana,Iberville,5,0,1330,52
+2020-08-25,United States,Louisiana,Jackson,5,1,421,20
+2020-08-25,United States,Louisiana,Jefferson,40,1,16171,538
+2020-08-25,United States,Louisiana,Jefferson Davis,4,1,1120,34
+2020-08-25,United States,Louisiana,Lafayette,20,0,8168,106
+2020-08-25,United States,Louisiana,Lafourche,10,0,3111,107
+2020-08-25,United States,Louisiana,LaSalle,1,0,379,5
+2020-08-25,United States,Louisiana,Lincoln,4,0,885,39
+2020-08-25,United States,Louisiana,Livingston,13,0,3279,62
+2020-08-25,United States,Louisiana,Madison,0,0,655,6
+2020-08-25,United States,Louisiana,Morehouse,0,0,570,15
+2020-08-25,United States,Louisiana,Natchitoches,5,1,894,22
+2020-08-25,United States,Louisiana,Orleans,23,0,11214,570
+2020-08-25,United States,Louisiana,Ouachita,17,1,5389,124
+2020-08-25,United States,Louisiana,Out of LA,0,0,0,0
+2020-08-25,United States,Louisiana,Plaquemines,0,0,489,19
+2020-08-25,United States,Louisiana,Pointe Coupee,6,0,894,36
+2020-08-25,United States,Louisiana,Rapides,21,0,3703,131
+2020-08-25,United States,Louisiana,Red River,0,0,300,19
+2020-08-25,United States,Louisiana,Richland,3,1,667,9
+2020-08-25,United States,Louisiana,Sabine,1,0,712,13
+2020-08-25,United States,Louisiana,St. Bernard,5,0,1196,25
+2020-08-25,United States,Louisiana,St. Charles,7,0,1587,54
+2020-08-25,United States,Louisiana,St. Helena,2,0,307,2
+2020-08-25,United States,Louisiana,St. James,2,0,749,34
+2020-08-25,United States,Louisiana,St. John the Baptist,3,0,1490,94
+2020-08-25,United States,Louisiana,St. Landry,1,1,3001,108
+2020-08-25,United States,Louisiana,St. Martin,3,0,1839,51
+2020-08-25,United States,Louisiana,St. Mary,6,0,1726,65
+2020-08-25,United States,Louisiana,St. Tammany,26,0,5841,226
+2020-08-25,United States,Louisiana,Tangipahoa,25,0,3959,88
+2020-08-25,United States,Louisiana,Tensas,0,0,127,1
+2020-08-25,United States,Louisiana,Terrebonne,18,0,3333,94
+2020-08-25,United States,Louisiana,Unassigned,-3,0,247,141
+2020-08-25,United States,Louisiana,Union,5,0,788,39
+2020-08-25,United States,Louisiana,Vermilion,5,3,1789,38
+2020-08-25,United States,Louisiana,Vernon,9,0,898,36
+2020-08-25,United States,Louisiana,Washington,13,0,1415,59
+2020-08-25,United States,Louisiana,Webster,2,0,988,19
+2020-08-25,United States,Louisiana,West Baton Rouge,0,0,787,38
+2020-08-25,United States,Louisiana,West Carroll,1,0,321,8
+2020-08-25,United States,Louisiana,West Feliciana,1,1,468,19
+2020-08-25,United States,Louisiana,Winn,6,0,517,15
+2020-08-25,United States,Maine,Androscoggin,3,0,594,10
+2020-08-25,United States,Maine,Aroostook,0,0,37,1
+2020-08-25,United States,Maine,Cumberland,1,0,2161,70
+2020-08-25,United States,Maine,Franklin,0,0,48,1
+2020-08-25,United States,Maine,Hancock,0,0,46,1
+2020-08-25,United States,Maine,Kennebec,2,0,181,11
+2020-08-25,United States,Maine,Knox,1,0,29,1
+2020-08-25,United States,Maine,Lincoln,0,0,35,1
+2020-08-25,United States,Maine,Oxford,0,0,59,0
+2020-08-25,United States,Maine,Penobscot,5,0,220,6
+2020-08-25,United States,Maine,Piscataquis,0,0,7,0
+2020-08-25,United States,Maine,Sagadahoc,0,0,59,0
+2020-08-25,United States,Maine,Somerset,0,0,46,1
+2020-08-25,United States,Maine,Unassigned,0,0,1,0
+2020-08-25,United States,Maine,Waldo,0,0,69,14
+2020-08-25,United States,Maine,Washington,0,0,15,0
+2020-08-25,United States,Maine,York,9,0,750,14
+2020-08-25,United States,Maryland,Allegany,4,0,381,20
+2020-08-25,United States,Maryland,Anne Arundel,45,0,8011,231
+2020-08-25,United States,Maryland,Baltimore,95,0,14788,588
+2020-08-25,United States,Maryland,Baltimore City,91,2,14072,451
+2020-08-25,United States,Maryland,Calvert,3,0,764,28
+2020-08-25,United States,Maryland,Caroline,1,0,479,3
+2020-08-25,United States,Maryland,Carroll,4,0,1651,120
+2020-08-25,United States,Maryland,Cecil,4,0,765,31
+2020-08-25,United States,Maryland,Charles,18,0,2278,93
+2020-08-25,United States,Maryland,Dorchester,1,0,430,5
+2020-08-25,United States,Maryland,Frederick,27,0,3371,123
+2020-08-25,United States,Maryland,Garrett,0,0,61,0
+2020-08-25,United States,Maryland,Harford,26,0,2337,69
+2020-08-25,United States,Maryland,Howard,35,0,4249,117
+2020-08-25,United States,Maryland,Kent,0,0,254,23
+2020-08-25,United States,Maryland,Montgomery,72,0,19540,815
+2020-08-25,United States,Maryland,Prince George`s,111,2,25537,780
+2020-08-25,United States,Maryland,Queen Anne`s,3,0,517,26
+2020-08-25,United States,Maryland,Somerset,0,0,176,3
+2020-08-25,United States,Maryland,St. Mary`s,4,0,1084,53
+2020-08-25,United States,Maryland,Talbot,6,0,452,4
+2020-08-25,United States,Maryland,Unassigned,0,-2,0,10
+2020-08-25,United States,Maryland,Washington,3,0,1237,32
+2020-08-25,United States,Maryland,Wicomico,12,1,1473,47
+2020-08-25,United States,Maryland,Worcester,2,0,762,22
+2020-08-25,United States,Massachusetts,Barnstable,2,0,1585,164
+2020-08-25,United States,Massachusetts,Berkshire,8,0,641,46
+2020-08-25,United States,Massachusetts,Bristol,35,0,8954,650
+2020-08-25,United States,Massachusetts,Dukes and Nantucket,1,0,87,1
+2020-08-25,United States,Massachusetts,Essex,80,5,17654,1220
+2020-08-25,United States,Massachusetts,Franklin,1,0,381,61
+2020-08-25,United States,Massachusetts,Hampden,17,3,7538,737
+2020-08-25,United States,Massachusetts,Hampshire,14,1,1130,134
+2020-08-25,United States,Massachusetts,Middlesex,102,10,24800,2053
+2020-08-25,United States,Massachusetts,Norfolk,40,1,9382,1005
+2020-08-25,United States,Massachusetts,Plymouth,40,1,8955,737
+2020-08-25,United States,Massachusetts,Suffolk,198,2,21786,1095
+2020-08-25,United States,Massachusetts,Unassigned,90,0,9899,5
+2020-08-25,United States,Massachusetts,Worcester,34,5,13230,1041
+2020-08-25,United States,Michigan,Alcona,0,0,30,2
+2020-08-25,United States,Michigan,Alger,-1,0,17,0
+2020-08-25,United States,Michigan,Allegan,3,0,600,6
+2020-08-25,United States,Michigan,Alpena,0,0,131,14
+2020-08-25,United States,Michigan,Antrim,-1,0,52,0
+2020-08-25,United States,Michigan,Arenac,2,0,51,3
+2020-08-25,United States,Michigan,Baraga,0,0,8,0
+2020-08-25,United States,Michigan,Barry,1,0,204,2
+2020-08-25,United States,Michigan,Bay,10,0,780,39
+2020-08-25,United States,Michigan,Benzie,2,0,42,1
+2020-08-25,United States,Michigan,Berrien,31,0,1549,69
+2020-08-25,United States,Michigan,Branch,5,0,406,3
+2020-08-25,United States,Michigan,Calhoun,8,0,886,43
+2020-08-25,United States,Michigan,Cass,3,0,387,15
+2020-08-25,United States,Michigan,Charlevoix,3,0,66,2
+2020-08-25,United States,Michigan,Cheboygan,3,0,65,2
+2020-08-25,United States,Michigan,Chippewa,0,0,48,0
+2020-08-25,United States,Michigan,Clare,1,0,94,3
+2020-08-25,United States,Michigan,Clinton,4,0,456,13
+2020-08-25,United States,Michigan,Crawford,1,0,113,5
+2020-08-25,United States,Michigan,Delta,-2,0,133,3
+2020-08-25,United States,Michigan,Dickinson,0,0,61,2
+2020-08-25,United States,Michigan,Eaton,2,0,492,8
+2020-08-25,United States,Michigan,Emmet,2,0,105,2
+2020-08-25,United States,Michigan,Federal Correctional Institution (FCI),0,0,195,5
+2020-08-25,United States,Michigan,Genesee,15,1,3869,303
+2020-08-25,United States,Michigan,Gladwin,0,0,74,2
+2020-08-25,United States,Michigan,Gogebic,0,0,143,1
+2020-08-25,United States,Michigan,Grand Traverse,3,0,283,5
+2020-08-25,United States,Michigan,Gratiot,4,0,177,15
+2020-08-25,United States,Michigan,Hillsdale,4,0,294,25
+2020-08-25,United States,Michigan,Houghton,1,0,59,0
+2020-08-25,United States,Michigan,Huron,1,0,194,4
+2020-08-25,United States,Michigan,Ingham,14,0,1705,36
+2020-08-25,United States,Michigan,Ionia,4,0,287,7
+2020-08-25,United States,Michigan,Iosco,0,0,140,12
+2020-08-25,United States,Michigan,Iron,0,0,25,1
+2020-08-25,United States,Michigan,Isabella,13,0,337,9
+2020-08-25,United States,Michigan,Jackson,2,0,773,37
+2020-08-25,United States,Michigan,Kalamazoo,16,0,1844,86
+2020-08-25,United States,Michigan,Kalkaska,0,0,61,4
+2020-08-25,United States,Michigan,Kent,64,0,8113,160
+2020-08-25,United States,Michigan,Keweenaw,1,0,3,0
+2020-08-25,United States,Michigan,Lake,0,0,29,0
+2020-08-25,United States,Michigan,Lapeer,6,0,521,35
+2020-08-25,United States,Michigan,Leelanau,1,0,84,0
+2020-08-25,United States,Michigan,Lenawee,11,0,506,13
+2020-08-25,United States,Michigan,Livingston,16,0,1021,29
+2020-08-25,United States,Michigan,Luce,0,0,4,0
+2020-08-25,United States,Michigan,Mackinac,2,0,33,0
+2020-08-25,United States,Michigan,Macomb,138,0,12154,958
+2020-08-25,United States,Michigan,Manistee,0,0,46,1
+2020-08-25,United States,Michigan,Marquette,3,0,233,11
+2020-08-25,United States,Michigan,Mason,1,0,113,0
+2020-08-25,United States,Michigan,Mecosta,2,0,80,2
+2020-08-25,United States,Michigan,Menominee,6,0,229,0
+2020-08-25,United States,Michigan,Michigan Department of Corrections (MDOC),56,0,4963,70
+2020-08-25,United States,Michigan,Midland,5,0,385,10
+2020-08-25,United States,Michigan,Missaukee,0,0,43,1
+2020-08-25,United States,Michigan,Monroe,14,0,1198,26
+2020-08-25,United States,Michigan,Montcalm,0,0,211,3
+2020-08-25,United States,Michigan,Montmorency,0,0,12,0
+2020-08-25,United States,Michigan,Muskegon,14,0,1289,63
+2020-08-25,United States,Michigan,Newaygo,1,0,284,0
+2020-08-25,United States,Michigan,Oakland,133,0,17358,1152
+2020-08-25,United States,Michigan,Oceana,1,0,496,6
+2020-08-25,United States,Michigan,Ogemaw,1,0,55,3
+2020-08-25,United States,Michigan,Ontonagon,1,0,33,0
+2020-08-25,United States,Michigan,Osceola,0,0,74,0
+2020-08-25,United States,Michigan,Oscoda,0,0,29,1
+2020-08-25,United States,Michigan,Otsego,1,0,138,11
+2020-08-25,United States,Michigan,Ottawa,8,0,2002,63
+2020-08-25,United States,Michigan,Out of MI,10,0,106,0
+2020-08-25,United States,Michigan,Presque Isle,0,0,21,1
+2020-08-25,United States,Michigan,Roscommon,1,0,71,4
+2020-08-25,United States,Michigan,Saginaw,29,0,2387,130
+2020-08-25,United States,Michigan,Sanilac,1,0,117,6
+2020-08-25,United States,Michigan,Schoolcraft,0,0,15,0
+2020-08-25,United States,Michigan,Shiawassee,8,0,387,29
+2020-08-25,United States,Michigan,St. Clair,6,0,883,53
+2020-08-25,United States,Michigan,St. Joseph,6,0,667,11
+2020-08-25,United States,Michigan,Tuscola,5,0,422,29
+2020-08-25,United States,Michigan,Unassigned,-9,0,15,0
+2020-08-25,United States,Michigan,Van Buren,3,0,579,14
+2020-08-25,United States,Michigan,Washtenaw,21,0,2787,115
+2020-08-25,United States,Michigan,Wayne,153,3,30166,2860
+2020-08-25,United States,Michigan,Wexford,4,0,88,4
+2020-08-25,United States,Minnesota,Aitkin,0,0,45,1
+2020-08-25,United States,Minnesota,Anoka,57,0,4386,117
+2020-08-25,United States,Minnesota,Becker,2,0,178,1
+2020-08-25,United States,Minnesota,Beltrami,4,0,296,1
+2020-08-25,United States,Minnesota,Benton,2,0,354,3
+2020-08-25,United States,Minnesota,Big Stone,0,0,31,0
+2020-08-25,United States,Minnesota,Blue Earth,5,0,1057,5
+2020-08-25,United States,Minnesota,Brown,1,0,110,2
+2020-08-25,United States,Minnesota,Carlton,2,0,171,1
+2020-08-25,United States,Minnesota,Carver,12,0,1040,4
+2020-08-25,United States,Minnesota,Cass,3,0,92,3
+2020-08-25,United States,Minnesota,Chippewa,0,0,129,1
+2020-08-25,United States,Minnesota,Chisago,8,0,277,1
+2020-08-25,United States,Minnesota,Clay,2,0,830,40
+2020-08-25,United States,Minnesota,Clearwater,0,0,17,0
+2020-08-25,United States,Minnesota,Cook,0,0,6,0
+2020-08-25,United States,Minnesota,Cottonwood,0,0,194,0
+2020-08-25,United States,Minnesota,Crow Wing,3,0,290,16
+2020-08-25,United States,Minnesota,Dakota,77,0,5337,110
+2020-08-25,United States,Minnesota,Dodge,2,0,148,0
+2020-08-25,United States,Minnesota,Douglas,-1,0,147,1
+2020-08-25,United States,Minnesota,Faribault,1,0,108,0
+2020-08-25,United States,Minnesota,Fillmore,0,0,80,0
+2020-08-25,United States,Minnesota,Freeborn,2,0,389,1
+2020-08-25,United States,Minnesota,Goodhue,3,0,241,9
+2020-08-25,United States,Minnesota,Grant,0,0,55,4
+2020-08-25,United States,Minnesota,Hennepin,176,1,21846,867
+2020-08-25,United States,Minnesota,Houston,0,0,65,0
+2020-08-25,United States,Minnesota,Hubbard,1,0,42,0
+2020-08-25,United States,Minnesota,Isanti,3,0,166,0
+2020-08-25,United States,Minnesota,Itasca,3,0,166,12
+2020-08-25,United States,Minnesota,Jackson,1,0,91,0
+2020-08-25,United States,Minnesota,Kanabec,10,0,62,4
+2020-08-25,United States,Minnesota,Kandiyohi,8,0,779,1
+2020-08-25,United States,Minnesota,Kittson,0,0,3,0
+2020-08-25,United States,Minnesota,Koochiching,0,0,85,3
+2020-08-25,United States,Minnesota,Lac qui Parle,1,0,13,0
+2020-08-25,United States,Minnesota,Lake,0,0,27,0
+2020-08-25,United States,Minnesota,Lake of the Woods,0,0,7,0
+2020-08-25,United States,Minnesota,Le Sueur,10,0,326,2
+2020-08-25,United States,Minnesota,Lincoln,0,0,63,0
+2020-08-25,United States,Minnesota,Lyon,2,0,445,3
+2020-08-25,United States,Minnesota,Mahnomen,0,0,32,1
+2020-08-25,United States,Minnesota,Marshall,0,0,31,0
+2020-08-25,United States,Minnesota,Martin,0,0,219,6
+2020-08-25,United States,Minnesota,McLeod,7,0,307,1
+2020-08-25,United States,Minnesota,Meeker,1,0,94,2
+2020-08-25,United States,Minnesota,Mille Lacs,2,0,87,3
+2020-08-25,United States,Minnesota,Morrison,0,0,108,1
+2020-08-25,United States,Minnesota,Mower,4,0,1162,3
+2020-08-25,United States,Minnesota,Murray,1,0,137,1
+2020-08-25,United States,Minnesota,Nicollet,4,0,412,14
+2020-08-25,United States,Minnesota,Nobles,4,0,1827,11
+2020-08-25,United States,Minnesota,Norman,0,0,45,0
+2020-08-25,United States,Minnesota,Olmsted,4,0,1919,24
+2020-08-25,United States,Minnesota,Otter Tail,3,0,245,4
+2020-08-25,United States,Minnesota,Pennington,0,0,76,1
+2020-08-25,United States,Minnesota,Pine,1,0,139,0
+2020-08-25,United States,Minnesota,Pipestone,1,0,174,9
+2020-08-25,United States,Minnesota,Polk,0,0,179,4
+2020-08-25,United States,Minnesota,Pope,1,0,58,0
+2020-08-25,United States,Minnesota,Ramsey,84,1,8678,286
+2020-08-25,United States,Minnesota,Red Lake,0,0,28,0
+2020-08-25,United States,Minnesota,Redwood,1,0,47,0
+2020-08-25,United States,Minnesota,Renville,0,0,72,6
+2020-08-25,United States,Minnesota,Rice,27,0,1147,8
+2020-08-25,United States,Minnesota,Rock,1,0,99,0
+2020-08-25,United States,Minnesota,Roseau,1,0,64,0
+2020-08-25,United States,Minnesota,Scott,15,1,1859,28
+2020-08-25,United States,Minnesota,Sherburne,9,0,835,12
+2020-08-25,United States,Minnesota,Sibley,4,0,116,2
+2020-08-25,United States,Minnesota,St. Louis,20,0,768,22
+2020-08-25,United States,Minnesota,Stearns,21,0,3106,21
+2020-08-25,United States,Minnesota,Steele,5,0,399,2
+2020-08-25,United States,Minnesota,Stevens,3,0,28,0
+2020-08-25,United States,Minnesota,Swift,1,0,60,1
+2020-08-25,United States,Minnesota,Todd,1,0,443,2
+2020-08-25,United States,Minnesota,Traverse,0,0,21,0
+2020-08-25,United States,Minnesota,Unassigned,4,0,127,46
+2020-08-25,United States,Minnesota,Wabasha,2,0,111,0
+2020-08-25,United States,Minnesota,Wadena,3,0,44,0
+2020-08-25,United States,Minnesota,Waseca,7,1,219,2
+2020-08-25,United States,Minnesota,Washington,45,0,2663,51
+2020-08-25,United States,Minnesota,Watonwan,1,0,404,3
+2020-08-25,United States,Minnesota,Wilkin,0,0,45,3
+2020-08-25,United States,Minnesota,Winona,4,0,302,17
+2020-08-25,United States,Minnesota,Wright,17,0,1102,6
+2020-08-25,United States,Minnesota,Yellow Medicine,5,0,66,1
+2020-08-25,United States,Mississippi,Adams,8,0,739,28
+2020-08-25,United States,Mississippi,Alcorn,14,0,526,6
+2020-08-25,United States,Mississippi,Amite,0,0,262,6
+2020-08-25,United States,Mississippi,Attala,0,0,571,25
+2020-08-25,United States,Mississippi,Benton,-1,0,195,1
+2020-08-25,United States,Mississippi,Bolivar,9,0,1351,42
+2020-08-25,United States,Mississippi,Calhoun,1,0,451,9
+2020-08-25,United States,Mississippi,Carroll,-1,0,284,11
+2020-08-25,United States,Mississippi,Chickasaw,9,0,562,20
+2020-08-25,United States,Mississippi,Choctaw,1,0,151,4
+2020-08-25,United States,Mississippi,Claiborne,6,0,426,15
+2020-08-25,United States,Mississippi,Clarke,2,0,416,28
+2020-08-25,United States,Mississippi,Clay,3,0,449,14
+2020-08-25,United States,Mississippi,Coahoma,7,0,910,14
+2020-08-25,United States,Mississippi,Copiah,7,0,1038,30
+2020-08-25,United States,Mississippi,Covington,5,0,702,17
+2020-08-25,United States,Mississippi,DeSoto,41,0,4320,38
+2020-08-25,United States,Mississippi,Forrest,12,1,2047,61
+2020-08-25,United States,Mississippi,Franklin,2,0,170,3
+2020-08-25,United States,Mississippi,George,3,0,672,12
+2020-08-25,United States,Mississippi,Greene,0,0,282,14
+2020-08-25,United States,Mississippi,Grenada,1,0,902,28
+2020-08-25,United States,Mississippi,Hancock,3,0,457,18
+2020-08-25,United States,Mississippi,Harrison,21,0,3061,46
+2020-08-25,United States,Mississippi,Hinds,19,0,6292,132
+2020-08-25,United States,Mississippi,Holmes,4,0,1013,50
+2020-08-25,United States,Mississippi,Humphreys,0,0,328,12
+2020-08-25,United States,Mississippi,Issaquena,0,0,94,2
+2020-08-25,United States,Mississippi,Itawamba,3,0,483,14
+2020-08-25,United States,Mississippi,Jackson,22,0,2775,54
+2020-08-25,United States,Mississippi,Jasper,1,0,462,12
+2020-08-25,United States,Mississippi,Jefferson,0,0,211,8
+2020-08-25,United States,Mississippi,Jefferson Davis,3,0,271,7
+2020-08-25,United States,Mississippi,Jones,7,0,2080,69
+2020-08-25,United States,Mississippi,Kemper,2,0,260,14
+2020-08-25,United States,Mississippi,Lafayette,16,2,1178,32
+2020-08-25,United States,Mississippi,Lamar,6,0,1360,24
+2020-08-25,United States,Mississippi,Lauderdale,4,0,1634,102
+2020-08-25,United States,Mississippi,Lawrence,0,0,377,9
+2020-08-25,United States,Mississippi,Leake,1,0,862,27
+2020-08-25,United States,Mississippi,Lee,54,1,2036,48
+2020-08-25,United States,Mississippi,Leflore,8,0,1206,70
+2020-08-25,United States,Mississippi,Lincoln,2,0,926,46
+2020-08-25,United States,Mississippi,Lowndes,12,0,1227,47
+2020-08-25,United States,Mississippi,Madison,6,0,2792,79
+2020-08-25,United States,Mississippi,Marion,4,0,760,25
+2020-08-25,United States,Mississippi,Marshall,13,0,879,11
+2020-08-25,United States,Mississippi,Monroe,7,0,974,56
+2020-08-25,United States,Mississippi,Montgomery,-1,0,390,12
+2020-08-25,United States,Mississippi,Neshoba,19,0,1403,97
+2020-08-25,United States,Mississippi,Newton,2,0,627,13
+2020-08-25,United States,Mississippi,Noxubee,1,0,510,13
+2020-08-25,United States,Mississippi,Oktibbeha,17,0,1304,46
+2020-08-25,United States,Mississippi,Panola,2,1,1248,21
+2020-08-25,United States,Mississippi,Pearl River,15,0,697,45
+2020-08-25,United States,Mississippi,Perry,3,0,284,9
+2020-08-25,United States,Mississippi,Pike,3,1,1073,40
+2020-08-25,United States,Mississippi,Pontotoc,6,0,983,9
+2020-08-25,United States,Mississippi,Prentiss,-1,0,557,12
+2020-08-25,United States,Mississippi,Quitman,2,0,303,2
+2020-08-25,United States,Mississippi,Rankin,23,0,2688,47
+2020-08-25,United States,Mississippi,Scott,0,0,1069,21
+2020-08-25,United States,Mississippi,Sharkey,1,0,240,7
+2020-08-25,United States,Mississippi,Simpson,3,0,897,38
+2020-08-25,United States,Mississippi,Smith,0,0,454,13
+2020-08-25,United States,Mississippi,Stone,6,0,290,9
+2020-08-25,United States,Mississippi,Sunflower,14,0,1204,33
+2020-08-25,United States,Mississippi,Tallahatchie,2,0,602,11
+2020-08-25,United States,Mississippi,Tate,1,0,833,31
+2020-08-25,United States,Mississippi,Tippah,4,0,500,15
+2020-08-25,United States,Mississippi,Tishomingo,7,0,511,18
+2020-08-25,United States,Mississippi,Tunica,4,0,429,10
+2020-08-25,United States,Mississippi,Unassigned,0,0,0,0
+2020-08-25,United States,Mississippi,Union,3,0,826,20
+2020-08-25,United States,Mississippi,Walthall,1,1,548,24
+2020-08-25,United States,Mississippi,Warren,3,0,1248,41
+2020-08-25,United States,Mississippi,Washington,18,1,1930,57
+2020-08-25,United States,Mississippi,Wayne,2,0,833,21
+2020-08-25,United States,Mississippi,Webster,0,0,282,13
+2020-08-25,United States,Mississippi,Wilkinson,0,0,258,14
+2020-08-25,United States,Mississippi,Winston,1,0,682,18
+2020-08-25,United States,Mississippi,Yalobusha,1,0,348,10
+2020-08-25,United States,Mississippi,Yazoo,2,0,930,18
+2020-08-25,United States,Missouri,Adair,-1,0,206,0
+2020-08-25,United States,Missouri,Andrew,3,0,110,1
+2020-08-25,United States,Missouri,Atchison,-2,0,20,0
+2020-08-25,United States,Missouri,Audrain,3,0,244,1
+2020-08-25,United States,Missouri,Barry,1,0,323,4
+2020-08-25,United States,Missouri,Barton,4,0,83,0
+2020-08-25,United States,Missouri,Bates,1,0,61,1
+2020-08-25,United States,Missouri,Benton,1,0,145,1
+2020-08-25,United States,Missouri,Bollinger,2,0,97,1
+2020-08-25,United States,Missouri,Boone,34,0,1951,5
+2020-08-25,United States,Missouri,Buchanan,6,0,1188,10
+2020-08-25,United States,Missouri,Butler,3,0,354,2
+2020-08-25,United States,Missouri,Caldwell,1,0,40,1
+2020-08-25,United States,Missouri,Callaway,6,0,259,2
+2020-08-25,United States,Missouri,Camden,3,0,455,8
+2020-08-25,United States,Missouri,Cape Girardeau,15,0,863,6
+2020-08-25,United States,Missouri,Carroll,0,0,107,0
+2020-08-25,United States,Missouri,Carter,1,0,27,1
+2020-08-25,United States,Missouri,Cass,10,0,971,9
+2020-08-25,United States,Missouri,Cedar,1,0,46,0
+2020-08-25,United States,Missouri,Chariton,0,0,22,0
+2020-08-25,United States,Missouri,Christian,11,0,540,1
+2020-08-25,United States,Missouri,Clark,0,0,33,0
+2020-08-25,United States,Missouri,Clay,8,0,1269,30
+2020-08-25,United States,Missouri,Clinton,2,0,115,0
+2020-08-25,United States,Missouri,Cole,3,0,722,3
+2020-08-25,United States,Missouri,Cooper,1,0,187,0
+2020-08-25,United States,Missouri,Crawford,5,0,146,1
+2020-08-25,United States,Missouri,Dade,-1,0,20,0
+2020-08-25,United States,Missouri,Dallas,2,0,90,1
+2020-08-25,United States,Missouri,Daviess,0,0,19,0
+2020-08-25,United States,Missouri,DeKalb,1,0,52,1
+2020-08-25,United States,Missouri,Dent,1,0,32,0
+2020-08-25,United States,Missouri,Douglas,1,0,98,2
+2020-08-25,United States,Missouri,Dunklin,1,0,446,4
+2020-08-25,United States,Missouri,Franklin,14,0,877,19
+2020-08-25,United States,Missouri,Gasconade,0,0,47,0
+2020-08-25,United States,Missouri,Gentry,1,0,89,9
+2020-08-25,United States,Missouri,Greene,69,0,2434,10
+2020-08-25,United States,Missouri,Grundy,2,0,34,1
+2020-08-25,United States,Missouri,Harrison,0,0,62,1
+2020-08-25,United States,Missouri,Henry,1,0,107,3
+2020-08-25,United States,Missouri,Hickory,2,0,53,0
+2020-08-25,United States,Missouri,Holt,0,0,55,0
+2020-08-25,United States,Missouri,Howard,1,0,86,0
+2020-08-25,United States,Missouri,Howell,4,0,202,2
+2020-08-25,United States,Missouri,Iron,0,0,40,0
+2020-08-25,United States,Missouri,Jackson,33,0,5071,71
+2020-08-25,United States,Missouri,Jasper,10,0,2123,35
+2020-08-25,United States,Missouri,Jefferson,55,0,2324,30
+2020-08-25,United States,Missouri,Johnson,8,0,551,3
+2020-08-25,United States,Missouri,Kansas City,87,0,8509,66
+2020-08-25,United States,Missouri,Knox,0,0,38,0
+2020-08-25,United States,Missouri,Laclede,0,0,263,1
+2020-08-25,United States,Missouri,Lafayette,4,0,215,2
+2020-08-25,United States,Missouri,Lawrence,7,0,317,2
+2020-08-25,United States,Missouri,Lewis,1,0,54,1
+2020-08-25,United States,Missouri,Lincoln,8,0,505,1
+2020-08-25,United States,Missouri,Linn,-2,0,41,1
+2020-08-25,United States,Missouri,Livingston,0,0,68,1
+2020-08-25,United States,Missouri,Macon,1,0,72,0
+2020-08-25,United States,Missouri,Madison,6,0,77,0
+2020-08-25,United States,Missouri,Maries,0,0,35,0
+2020-08-25,United States,Missouri,Marion,14,0,349,1
+2020-08-25,United States,Missouri,McDonald,2,0,978,9
+2020-08-25,United States,Missouri,Mercer,0,0,15,0
+2020-08-25,United States,Missouri,Miller,2,0,205,1
+2020-08-25,United States,Missouri,Mississippi,0,0,214,0
+2020-08-25,United States,Missouri,Moniteau,1,0,175,2
+2020-08-25,United States,Missouri,Monroe,2,0,55,0
+2020-08-25,United States,Missouri,Montgomery,1,0,49,1
+2020-08-25,United States,Missouri,Morgan,0,0,108,0
+2020-08-25,United States,Missouri,New Madrid,3,0,341,3
+2020-08-25,United States,Missouri,Newton,2,0,1020,11
+2020-08-25,United States,Missouri,Nodaway,23,0,295,1
+2020-08-25,United States,Missouri,Oregon,1,0,31,0
+2020-08-25,United States,Missouri,Osage,0,0,70,1
+2020-08-25,United States,Missouri,Ozark,-1,0,17,0
+2020-08-25,United States,Missouri,Pemiscot,4,0,305,9
+2020-08-25,United States,Missouri,Perry,5,0,297,4
+2020-08-25,United States,Missouri,Pettis,6,0,742,5
+2020-08-25,United States,Missouri,Phelps,1,0,152,0
+2020-08-25,United States,Missouri,Pike,1,0,132,1
+2020-08-25,United States,Missouri,Platte,1,0,442,10
+2020-08-25,United States,Missouri,Polk,1,0,262,0
+2020-08-25,United States,Missouri,Pulaski,-1,0,330,1
+2020-08-25,United States,Missouri,Putnam,1,0,19,1
+2020-08-25,United States,Missouri,Ralls,4,0,89,0
+2020-08-25,United States,Missouri,Randolph,1,0,109,1
+2020-08-25,United States,Missouri,Ray,1,0,122,0
+2020-08-25,United States,Missouri,Reynolds,1,0,19,0
+2020-08-25,United States,Missouri,Ripley,4,0,83,0
+2020-08-25,United States,Missouri,Saline,3,0,525,7
+2020-08-25,United States,Missouri,Schuyler,0,0,13,0
+2020-08-25,United States,Missouri,Scotland,0,0,18,1
+2020-08-25,United States,Missouri,Scott,4,0,548,13
+2020-08-25,United States,Missouri,Shannon,0,0,47,1
+2020-08-25,United States,Missouri,Shelby,0,0,44,0
+2020-08-25,United States,Missouri,St. Charles,71,0,5290,96
+2020-08-25,United States,Missouri,St. Clair,1,0,26,0
+2020-08-25,United States,Missouri,St. Francois,23,0,829,4
+2020-08-25,United States,Missouri,St. Louis,103,0,17975,713
+2020-08-25,United States,Missouri,St. Louis City,32,0,6207,205
+2020-08-25,United States,Missouri,Ste. Genevieve,1,0,91,1
+2020-08-25,United States,Missouri,Stoddard,11,0,273,9
+2020-08-25,United States,Missouri,Stone,5,0,245,1
+2020-08-25,United States,Missouri,Sullivan,0,0,160,0
+2020-08-25,United States,Missouri,Taney,9,0,864,3
+2020-08-25,United States,Missouri,Texas,0,0,78,1
+2020-08-25,United States,Missouri,Unassigned,54,0,1038,0
+2020-08-25,United States,Missouri,Vernon,1,0,71,0
+2020-08-25,United States,Missouri,Warren,2,0,293,0
+2020-08-25,United States,Missouri,Washington,8,0,199,1
+2020-08-25,United States,Missouri,Wayne,1,0,73,0
+2020-08-25,United States,Missouri,Webster,8,0,181,1
+2020-08-25,United States,Missouri,Worth,0,0,10,0
+2020-08-25,United States,Missouri,Wright,0,0,78,0
+2020-08-25,United States,Montana,Beaverhead,-1,0,69,0
+2020-08-25,United States,Montana,Big Horn,4,0,591,15
+2020-08-25,United States,Montana,Blaine,0,0,15,0
+2020-08-25,United States,Montana,Broadwater,1,0,15,0
+2020-08-25,United States,Montana,Carbon,1,0,83,0
+2020-08-25,United States,Montana,Carter,0,0,0,0
+2020-08-25,United States,Montana,Cascade,19,0,217,5
+2020-08-25,United States,Montana,Chouteau,0,0,10,0
+2020-08-25,United States,Montana,Custer,0,0,64,2
+2020-08-25,United States,Montana,Daniels,0,0,3,0
+2020-08-25,United States,Montana,Dawson,0,0,31,0
+2020-08-25,United States,Montana,Deer Lodge,0,0,32,0
+2020-08-25,United States,Montana,Fallon,0,0,2,0
+2020-08-25,United States,Montana,Fergus,0,0,24,0
+2020-08-25,United States,Montana,Flathead,11,0,490,3
+2020-08-25,United States,Montana,Gallatin,5,0,1017,3
+2020-08-25,United States,Montana,Garfield,0,0,12,0
+2020-08-25,United States,Montana,Glacier,0,0,111,1
+2020-08-25,United States,Montana,Golden Valley,0,0,3,0
+2020-08-25,United States,Montana,Granite,0,0,18,0
+2020-08-25,United States,Montana,Hill,1,0,54,2
+2020-08-25,United States,Montana,Jefferson,0,0,34,0
+2020-08-25,United States,Montana,Judith Basin,0,0,3,0
+2020-08-25,United States,Montana,Lake,1,0,193,1
+2020-08-25,United States,Montana,Lewis and Clark,0,0,191,2
+2020-08-25,United States,Montana,Liberty,0,0,1,0
+2020-08-25,United States,Montana,Lincoln,0,0,81,2
+2020-08-25,United States,Montana,Madison,0,0,91,1
+2020-08-25,United States,Montana,McCone,0,0,5,0
+2020-08-25,United States,Montana,Meagher,0,0,4,0
+2020-08-25,United States,Montana,Mineral,0,0,2,0
+2020-08-25,United States,Montana,Missoula,3,0,407,3
+2020-08-25,United States,Montana,Musselshell,1,0,7,0
+2020-08-25,United States,Montana,Park,-1,0,63,0
+2020-08-25,United States,Montana,Petroleum,0,0,0,0
+2020-08-25,United States,Montana,Phillips,0,0,108,0
+2020-08-25,United States,Montana,Pondera,0,0,15,0
+2020-08-25,United States,Montana,Powder River,0,0,1,0
+2020-08-25,United States,Montana,Powell,5,0,8,0
+2020-08-25,United States,Montana,Prairie,0,0,1,0
+2020-08-25,United States,Montana,Ravalli,2,0,94,2
+2020-08-25,United States,Montana,Richland,0,0,54,2
+2020-08-25,United States,Montana,Roosevelt,0,0,34,1
+2020-08-25,United States,Montana,Rosebud,0,0,134,2
+2020-08-25,United States,Montana,Sanders,3,0,31,0
+2020-08-25,United States,Montana,Sheridan,0,0,5,0
+2020-08-25,United States,Montana,Silver Bow,1,0,111,0
+2020-08-25,United States,Montana,Stillwater,0,0,33,1
+2020-08-25,United States,Montana,Sweet Grass,-1,0,8,1
+2020-08-25,United States,Montana,Teton,0,0,17,0
+2020-08-25,United States,Montana,Toole,0,0,47,6
+2020-08-25,United States,Montana,Treasure,0,0,3,0
+2020-08-25,United States,Montana,Unassigned,0,0,0,0
+2020-08-25,United States,Montana,Valley,0,0,37,0
+2020-08-25,United States,Montana,Wheatland,0,0,3,0
+2020-08-25,United States,Montana,Wibaux,0,0,5,0
+2020-08-25,United States,Montana,Yellowstone,5,1,1797,36
+2020-08-25,United States,Nebraska,Adams,3,0,384,11
+2020-08-25,United States,Nebraska,Antelope,0,0,23,1
+2020-08-25,United States,Nebraska,Arthur,0,0,1,0
+2020-08-25,United States,Nebraska,Banner,0,0,3,0
+2020-08-25,United States,Nebraska,Blaine,0,0,0,0
+2020-08-25,United States,Nebraska,Boone,0,0,16,0
+2020-08-25,United States,Nebraska,Box Butte,0,0,19,0
+2020-08-25,United States,Nebraska,Boyd,0,0,10,0
+2020-08-25,United States,Nebraska,Brown,0,0,2,0
+2020-08-25,United States,Nebraska,Buffalo,9,0,582,3
+2020-08-25,United States,Nebraska,Burt,0,0,57,0
+2020-08-25,United States,Nebraska,Butler,0,0,73,0
+2020-08-25,United States,Nebraska,Cass,1,0,236,2
+2020-08-25,United States,Nebraska,Cedar,0,0,42,0
+2020-08-25,United States,Nebraska,Chase,0,0,11,0
+2020-08-25,United States,Nebraska,Cherry,0,0,5,0
+2020-08-25,United States,Nebraska,Cheyenne,1,0,28,0
+2020-08-25,United States,Nebraska,Clay,1,0,54,0
+2020-08-25,United States,Nebraska,Colfax,0,0,713,4
+2020-08-25,United States,Nebraska,Cuming,0,0,74,0
+2020-08-25,United States,Nebraska,Custer,0,0,66,4
+2020-08-25,United States,Nebraska,Dakota,3,0,1963,42
+2020-08-25,United States,Nebraska,Dawes,1,0,53,0
+2020-08-25,United States,Nebraska,Dawson,1,0,988,10
+2020-08-25,United States,Nebraska,Deuel,-1,0,2,0
+2020-08-25,United States,Nebraska,Dixon,1,0,58,2
+2020-08-25,United States,Nebraska,Dodge,3,0,868,11
+2020-08-25,United States,Nebraska,Douglas,96,2,12715,150
+2020-08-25,United States,Nebraska,Dundy,0,0,5,0
+2020-08-25,United States,Nebraska,Fillmore,0,0,30,1
+2020-08-25,United States,Nebraska,Franklin,0,0,17,0
+2020-08-25,United States,Nebraska,Frontier,0,0,5,0
+2020-08-25,United States,Nebraska,Furnas,0,0,19,1
+2020-08-25,United States,Nebraska,Gage,6,0,118,4
+2020-08-25,United States,Nebraska,Garden,0,0,6,0
+2020-08-25,United States,Nebraska,Garfield,0,0,6,0
+2020-08-25,United States,Nebraska,Gosper,0,0,22,0
+2020-08-25,United States,Nebraska,Grant,0,0,0,0
+2020-08-25,United States,Nebraska,Greeley,0,0,10,0
+2020-08-25,United States,Nebraska,Hall,3,0,1800,46
+2020-08-25,United States,Nebraska,Hamilton,0,0,103,12
+2020-08-25,United States,Nebraska,Harlan,1,0,3,0
+2020-08-25,United States,Nebraska,Hayes,0,0,0,0
+2020-08-25,United States,Nebraska,Hitchcock,0,0,2,0
+2020-08-25,United States,Nebraska,Holt,1,0,17,0
+2020-08-25,United States,Nebraska,Hooker,0,0,4,0
+2020-08-25,United States,Nebraska,Howard,0,0,60,5
+2020-08-25,United States,Nebraska,Jefferson,0,0,19,0
+2020-08-25,United States,Nebraska,Johnson,0,0,21,0
+2020-08-25,United States,Nebraska,Kearney,0,0,97,0
+2020-08-25,United States,Nebraska,Keith,3,0,46,0
+2020-08-25,United States,Nebraska,Keya Paha,0,0,0,0
+2020-08-25,United States,Nebraska,Kimball,0,0,15,0
+2020-08-25,United States,Nebraska,Knox,2,0,50,0
+2020-08-25,United States,Nebraska,Lancaster,7,0,3611,20
+2020-08-25,United States,Nebraska,Lincoln,3,0,254,2
+2020-08-25,United States,Nebraska,Logan,0,0,3,0
+2020-08-25,United States,Nebraska,Loup,0,0,0,0
+2020-08-25,United States,Nebraska,Madison,4,0,546,5
+2020-08-25,United States,Nebraska,McPherson,0,0,6,0
+2020-08-25,United States,Nebraska,Merrick,0,0,62,0
+2020-08-25,United States,Nebraska,Morrill,1,0,64,0
+2020-08-25,United States,Nebraska,Nance,0,0,11,0
+2020-08-25,United States,Nebraska,Nemaha,2,0,61,0
+2020-08-25,United States,Nebraska,Nuckolls,0,0,7,0
+2020-08-25,United States,Nebraska,Otoe,5,0,91,1
+2020-08-25,United States,Nebraska,Pawnee,0,0,10,0
+2020-08-25,United States,Nebraska,Perkins,0,0,28,7
+2020-08-25,United States,Nebraska,Phelps,1,0,54,0
+2020-08-25,United States,Nebraska,Pierce,0,0,56,1
+2020-08-25,United States,Nebraska,Platte,-1,0,830,3
+2020-08-25,United States,Nebraska,Polk,0,0,31,0
+2020-08-25,United States,Nebraska,Red Willow,0,0,18,0
+2020-08-25,United States,Nebraska,Richardson,0,0,30,1
+2020-08-25,United States,Nebraska,Rock,0,0,5,0
+2020-08-25,United States,Nebraska,Saline,2,0,617,2
+2020-08-25,United States,Nebraska,Sarpy,6,2,2648,15
+2020-08-25,United States,Nebraska,Saunders,0,0,189,2
+2020-08-25,United States,Nebraska,Scotts Bluff,0,0,331,6
+2020-08-25,United States,Nebraska,Seward,0,0,147,2
+2020-08-25,United States,Nebraska,Sheridan,0,0,14,0
+2020-08-25,United States,Nebraska,Sherman,0,0,15,1
+2020-08-25,United States,Nebraska,Sioux,0,0,5,0
+2020-08-25,United States,Nebraska,Stanton,0,0,32,0
+2020-08-25,United States,Nebraska,Thayer,0,0,27,0
+2020-08-25,United States,Nebraska,Thomas,0,0,3,0
+2020-08-25,United States,Nebraska,Thurston,0,0,217,4
+2020-08-25,United States,Nebraska,Unassigned,-8,1,168,1
+2020-08-25,United States,Nebraska,Valley,0,0,18,0
+2020-08-25,United States,Nebraska,Washington,0,0,158,1
+2020-08-25,United States,Nebraska,Wayne,0,0,45,0
+2020-08-25,United States,Nebraska,Webster,0,0,11,0
+2020-08-25,United States,Nebraska,Wheeler,0,0,1,0
+2020-08-25,United States,Nebraska,York,1,0,102,0
+2020-08-25,United States,Nevada,Carson City,3,0,408,8
+2020-08-25,United States,Nevada,Churchill,2,0,84,1
+2020-08-25,United States,Nevada,Clark,332,1,56796,1028
+2020-08-25,United States,Nevada,Douglas,3,0,229,1
+2020-08-25,United States,Nevada,Elko,3,0,731,3
+2020-08-25,United States,Nevada,Esmeralda,0,0,0,0
+2020-08-25,United States,Nevada,Eureka,0,0,5,0
+2020-08-25,United States,Nevada,Humboldt,3,0,109,4
+2020-08-25,United States,Nevada,Lander,2,0,56,1
+2020-08-25,United States,Nevada,Lincoln,0,0,7,0
+2020-08-25,United States,Nevada,Lyon,4,0,300,6
+2020-08-25,United States,Nevada,Mineral,0,0,12,0
+2020-08-25,United States,Nevada,Nye,1,0,458,14
+2020-08-25,United States,Nevada,Pershing,0,0,17,0
+2020-08-25,United States,Nevada,Storey,0,0,6,0
+2020-08-25,United States,Nevada,Unassigned,0,0,0,0
+2020-08-25,United States,Nevada,Washoe,55,2,6767,133
+2020-08-25,United States,Nevada,White Pine,1,0,25,1
+2020-08-25,United States,New Hampshire,Belknap,1,0,122,4
+2020-08-25,United States,New Hampshire,Carroll,0,0,99,1
+2020-08-25,United States,New Hampshire,Cheshire,4,0,119,3
+2020-08-25,United States,New Hampshire,Coos,0,0,17,0
+2020-08-25,United States,New Hampshire,Grafton,0,0,109,1
+2020-08-25,United States,New Hampshire,Hillsborough,4,0,3983,284
+2020-08-25,United States,New Hampshire,Merrimack,7,0,494,23
+2020-08-25,United States,New Hampshire,Rockingham,13,0,1771,99
+2020-08-25,United States,New Hampshire,Strafford,4,0,376,13
+2020-08-25,United States,New Hampshire,Sullivan,0,0,44,1
+2020-08-25,United States,New Hampshire,Unassigned,0,0,6,0
+2020-08-25,United States,New Jersey,Atlantic,12,0,3833,252
+2020-08-25,United States,New Jersey,Bergen,35,0,21732,2032
+2020-08-25,United States,New Jersey,Burlington,14,0,6398,482
+2020-08-25,United States,New Jersey,Camden,22,0,9112,584
+2020-08-25,United States,New Jersey,Cape May,5,0,1168,91
+2020-08-25,United States,New Jersey,Cumberland,7,0,3551,159
+2020-08-25,United States,New Jersey,Essex,19,0,20352,2114
+2020-08-25,United States,New Jersey,Gloucester,11,0,3630,220
+2020-08-25,United States,New Jersey,Hudson,15,0,20361,1510
+2020-08-25,United States,New Jersey,Hunterdon,4,0,1235,124
+2020-08-25,United States,New Jersey,Mercer,3,0,8289,624
+2020-08-25,United States,New Jersey,Middlesex,20,0,18468,1420
+2020-08-25,United States,New Jersey,Monmouth,11,0,10798,860
+2020-08-25,United States,New Jersey,Morris,16,0,7588,830
+2020-08-25,United States,New Jersey,Ocean,27,0,11178,1025
+2020-08-25,United States,New Jersey,Passaic,19,0,18345,1246
+2020-08-25,United States,New Jersey,Salem,7,0,967,88
+2020-08-25,United States,New Jersey,Somerset,9,0,5534,564
+2020-08-25,United States,New Jersey,Sussex,7,0,1395,198
+2020-08-25,United States,New Jersey,Unassigned,-1,0,318,0
+2020-08-25,United States,New Jersey,Union,17,0,17320,1352
+2020-08-25,United States,New Jersey,Warren,0,0,1398,171
+2020-08-25,United States,New Mexico,Bernalillo,18,0,5619,149
+2020-08-25,United States,New Mexico,Catron,0,0,5,1
+2020-08-25,United States,New Mexico,Chaves,3,0,625,6
+2020-08-25,United States,New Mexico,Cibola,0,0,392,19
+2020-08-25,United States,New Mexico,Colfax,0,0,19,1
+2020-08-25,United States,New Mexico,Curry,2,0,640,3
+2020-08-25,United States,New Mexico,De Baca,0,0,0,0
+2020-08-25,United States,New Mexico,Dona Ana,10,0,2726,38
+2020-08-25,United States,New Mexico,Eddy,9,0,426,5
+2020-08-25,United States,New Mexico,Grant,0,0,76,2
+2020-08-25,United States,New Mexico,Guadalupe,0,0,33,1
+2020-08-25,United States,New Mexico,Harding,0,0,2,0
+2020-08-25,United States,New Mexico,Hidalgo,0,0,93,1
+2020-08-25,United States,New Mexico,Lea,9,1,1045,9
+2020-08-25,United States,New Mexico,Lincoln,0,0,164,2
+2020-08-25,United States,New Mexico,Los Alamos,0,0,24,0
+2020-08-25,United States,New Mexico,Luna,4,0,273,5
+2020-08-25,United States,New Mexico,McKinley,2,1,4159,239
+2020-08-25,United States,New Mexico,Mora,0,0,6,0
+2020-08-25,United States,New Mexico,Otero,1,0,216,11
+2020-08-25,United States,New Mexico,Quay,0,0,60,1
+2020-08-25,United States,New Mexico,Rio Arriba,2,0,347,10
+2020-08-25,United States,New Mexico,Roosevelt,0,0,191,1
+2020-08-25,United States,New Mexico,San Juan,3,0,3149,189
+2020-08-25,United States,New Mexico,San Miguel,0,0,67,0
+2020-08-25,United States,New Mexico,Sandoval,5,0,1199,35
+2020-08-25,United States,New Mexico,Santa Fe,3,0,780,3
+2020-08-25,United States,New Mexico,Sierra,0,0,37,1
+2020-08-25,United States,New Mexico,Socorro,0,0,76,6
+2020-08-25,United States,New Mexico,Taos,1,0,116,2
+2020-08-25,United States,New Mexico,Torrance,0,0,63,1
+2020-08-25,United States,New Mexico,Unassigned,73,2,1389,2
+2020-08-25,United States,New Mexico,Union,0,0,31,2
+2020-08-25,United States,New Mexico,Valencia,1,0,494,4
+2020-08-25,United States,New York,Albany,2,0,2701,129
+2020-08-25,United States,New York,Allegany,0,0,85,1
+2020-08-25,United States,New York,Broome,11,0,1250,69
+2020-08-25,United States,New York,Cattaraugus,2,0,182,6
+2020-08-25,United States,New York,Cayuga,0,0,167,2
+2020-08-25,United States,New York,Chautauqua,0,0,289,9
+2020-08-25,United States,New York,Chemung,0,0,194,3
+2020-08-25,United States,New York,Chenango,0,0,223,6
+2020-08-25,United States,New York,Clinton,1,0,142,4
+2020-08-25,United States,New York,Columbia,0,0,562,37
+2020-08-25,United States,New York,Cortland,0,0,98,0
+2020-08-25,United States,New York,Delaware,0,0,109,4
+2020-08-25,United States,New York,Dutchess,10,0,4777,153
+2020-08-25,United States,New York,Erie,26,0,9491,676
+2020-08-25,United States,New York,Essex,0,0,100,0
+2020-08-25,United States,New York,Franklin,0,0,56,0
+2020-08-25,United States,New York,Fulton,0,0,309,24
+2020-08-25,United States,New York,Genesee,0,0,290,5
+2020-08-25,United States,New York,Greene,0,0,305,18
+2020-08-25,United States,New York,Hamilton,0,0,12,0
+2020-08-25,United States,New York,Herkimer,0,0,289,4
+2020-08-25,United States,New York,Jefferson,0,0,145,0
+2020-08-25,United States,New York,Lewis,0,0,47,0
+2020-08-25,United States,New York,Livingston,0,0,180,8
+2020-08-25,United States,New York,Madison,0,0,432,17
+2020-08-25,United States,New York,Monroe,13,0,5330,285
+2020-08-25,United States,New York,Montgomery,2,0,196,4
+2020-08-25,United States,New York,Nassau,39,0,44284,2196
+2020-08-25,United States,New York,New York City,214,4,232334,23662
+2020-08-25,United States,New York,Niagara,1,0,1576,98
+2020-08-25,United States,New York,Oneida,1,0,2245,117
+2020-08-25,United States,New York,Onondaga,10,0,3768,203
+2020-08-25,United States,New York,Ontario,0,0,381,34
+2020-08-25,United States,New York,Orange,9,0,11343,493
+2020-08-25,United States,New York,Orleans,0,0,304,54
+2020-08-25,United States,New York,Oswego,0,0,282,3
+2020-08-25,United States,New York,Otsego,0,0,124,5
+2020-08-25,United States,New York,Putnam,2,0,1475,63
+2020-08-25,United States,New York,Rensselaer,1,0,818,40
+2020-08-25,United States,New York,Rockland,10,0,14139,508
+2020-08-25,United States,New York,Saratoga,1,0,816,17
+2020-08-25,United States,New York,Schenectady,3,0,1182,37
+2020-08-25,United States,New York,Schoharie,0,0,69,0
+2020-08-25,United States,New York,Schuyler,0,0,24,0
+2020-08-25,United States,New York,Seneca,0,0,95,3
+2020-08-25,United States,New York,St. Lawrence,0,0,267,4
+2020-08-25,United States,New York,Steuben,0,0,310,42
+2020-08-25,United States,New York,Suffolk,21,0,44519,2001
+2020-08-25,United States,New York,Sullivan,0,0,1495,48
+2020-08-25,United States,New York,Tioga,0,0,206,25
+2020-08-25,United States,New York,Tompkins,0,0,244,0
+2020-08-25,United States,New York,Ulster,7,0,2134,93
+2020-08-25,United States,New York,Unassigned,0,0,0,0
+2020-08-25,United States,New York,Warren,0,0,315,33
+2020-08-25,United States,New York,Washington,0,0,266,14
+2020-08-25,United States,New York,Wayne,0,0,275,3
+2020-08-25,United States,New York,Westchester,21,0,36710,1449
+2020-08-25,United States,New York,Wyoming,1,0,124,5
+2020-08-25,United States,New York,Yates,0,0,60,7
+2020-08-25,United States,North Carolina,Alamance,45,0,2921,44
+2020-08-25,United States,North Carolina,Alexander,3,0,369,2
+2020-08-25,United States,North Carolina,Alleghany,2,0,191,0
+2020-08-25,United States,North Carolina,Anson,6,0,406,3
+2020-08-25,United States,North Carolina,Ashe,0,0,184,1
+2020-08-25,United States,North Carolina,Avery,1,0,120,0
+2020-08-25,United States,North Carolina,Beaufort,7,0,504,9
+2020-08-25,United States,North Carolina,Bertie,3,0,362,5
+2020-08-25,United States,North Carolina,Bladen,5,0,674,9
+2020-08-25,United States,North Carolina,Brunswick,5,1,1358,23
+2020-08-25,United States,North Carolina,Buncombe,38,0,2298,64
+2020-08-25,United States,North Carolina,Burke,7,0,1799,27
+2020-08-25,United States,North Carolina,Cabarrus,28,0,2986,51
+2020-08-25,United States,North Carolina,Caldwell,3,0,1357,14
+2020-08-25,United States,North Carolina,Camden,2,0,87,2
+2020-08-25,United States,North Carolina,Carteret,13,0,436,5
+2020-08-25,United States,North Carolina,Caswell,3,0,219,2
+2020-08-25,United States,North Carolina,Catawba,18,0,2454,39
+2020-08-25,United States,North Carolina,Chatham,11,0,1433,56
+2020-08-25,United States,North Carolina,Cherokee,3,0,367,5
+2020-08-25,United States,North Carolina,Chowan,4,0,186,2
+2020-08-25,United States,North Carolina,Clay,1,0,83,1
+2020-08-25,United States,North Carolina,Cleveland,14,0,1488,25
+2020-08-25,United States,North Carolina,Columbus,0,0,1040,50
+2020-08-25,United States,North Carolina,Craven,1,0,875,24
+2020-08-25,United States,North Carolina,Cumberland,18,0,3745,65
+2020-08-25,United States,North Carolina,Currituck,0,0,89,0
+2020-08-25,United States,North Carolina,Dare,2,0,232,2
+2020-08-25,United States,North Carolina,Davidson,17,0,2040,31
+2020-08-25,United States,North Carolina,Davie,2,0,461,6
+2020-08-25,United States,North Carolina,Duplin,5,0,2060,49
+2020-08-25,United States,North Carolina,Durham,27,0,6626,81
+2020-08-25,United States,North Carolina,Edgecombe,9,0,854,17
+2020-08-25,United States,North Carolina,Forsyth,52,0,5876,66
+2020-08-25,United States,North Carolina,Franklin,3,0,976,28
+2020-08-25,United States,North Carolina,Gaston,32,0,3846,61
+2020-08-25,United States,North Carolina,Gates,3,0,75,2
+2020-08-25,United States,North Carolina,Graham,0,0,50,0
+2020-08-25,United States,North Carolina,Granville,5,0,1446,37
+2020-08-25,United States,North Carolina,Greene,3,0,373,3
+2020-08-25,United States,North Carolina,Guilford,50,0,6427,163
+2020-08-25,United States,North Carolina,Halifax,1,0,816,9
+2020-08-25,United States,North Carolina,Harnett,14,0,1509,43
+2020-08-25,United States,North Carolina,Haywood,2,0,487,25
+2020-08-25,United States,North Carolina,Henderson,2,0,1647,59
+2020-08-25,United States,North Carolina,Hertford,5,0,467,12
+2020-08-25,United States,North Carolina,Hoke,14,0,833,12
+2020-08-25,United States,North Carolina,Hyde,1,0,77,0
+2020-08-25,United States,North Carolina,Iredell,27,0,2214,18
+2020-08-25,United States,North Carolina,Jackson,1,0,469,7
+2020-08-25,United States,North Carolina,Johnston,23,0,3618,49
+2020-08-25,United States,North Carolina,Jones,0,0,126,6
+2020-08-25,United States,North Carolina,Lee,6,0,1386,11
+2020-08-25,United States,North Carolina,Lenoir,12,0,727,11
+2020-08-25,United States,North Carolina,Lincoln,17,0,1029,10
+2020-08-25,United States,North Carolina,Macon,4,0,520,2
+2020-08-25,United States,North Carolina,Madison,2,0,58,1
+2020-08-25,United States,North Carolina,Martin,2,0,312,7
+2020-08-25,United States,North Carolina,McDowell,2,0,753,23
+2020-08-25,United States,North Carolina,Mecklenburg,131,3,24260,274
+2020-08-25,United States,North Carolina,Mitchell,1,0,89,3
+2020-08-25,United States,North Carolina,Montgomery,18,0,797,17
+2020-08-25,United States,North Carolina,Moore,24,0,1231,21
+2020-08-25,United States,North Carolina,Nash,12,0,1476,21
+2020-08-25,United States,North Carolina,New Hanover,6,0,2846,21
+2020-08-25,United States,North Carolina,Northampton,1,0,336,17
+2020-08-25,United States,North Carolina,Onslow,15,0,1355,13
+2020-08-25,United States,North Carolina,Orange,64,0,1955,50
+2020-08-25,United States,North Carolina,Pamlico,6,0,90,2
+2020-08-25,United States,North Carolina,Pasquotank,6,0,513,22
+2020-08-25,United States,North Carolina,Pender,2,0,740,4
+2020-08-25,United States,North Carolina,Perquimans,3,0,105,2
+2020-08-25,United States,North Carolina,Person,3,0,279,2
+2020-08-25,United States,North Carolina,Pitt,96,0,2766,15
+2020-08-25,United States,North Carolina,Polk,9,0,209,6
+2020-08-25,United States,North Carolina,Randolph,7,0,2325,43
+2020-08-25,United States,North Carolina,Richmond,8,0,619,9
+2020-08-25,United States,North Carolina,Robeson,10,0,3219,58
+2020-08-25,United States,North Carolina,Rockingham,7,0,698,7
+2020-08-25,United States,North Carolina,Rowan,16,0,2572,54
+2020-08-25,United States,North Carolina,Rutherford,12,0,897,17
+2020-08-25,United States,North Carolina,Sampson,7,0,1558,20
+2020-08-25,United States,North Carolina,Scotland,5,0,561,8
+2020-08-25,United States,North Carolina,Stanly,6,0,1381,31
+2020-08-25,United States,North Carolina,Stokes,1,0,320,3
+2020-08-25,United States,North Carolina,Surry,11,0,1091,14
+2020-08-25,United States,North Carolina,Swain,0,0,123,3
+2020-08-25,United States,North Carolina,Transylvania,0,0,207,1
+2020-08-25,United States,North Carolina,Tyrrell,0,0,103,2
+2020-08-25,United States,North Carolina,Unassigned,0,0,0,0
+2020-08-25,United States,North Carolina,Union,23,0,3702,47
+2020-08-25,United States,North Carolina,Vance,4,0,858,42
+2020-08-25,United States,North Carolina,Wake,142,0,13842,188
+2020-08-25,United States,North Carolina,Warren,0,0,281,6
+2020-08-25,United States,North Carolina,Washington,8,0,168,4
+2020-08-25,United States,North Carolina,Watauga,5,0,387,0
+2020-08-25,United States,North Carolina,Wayne,9,0,2681,46
+2020-08-25,United States,North Carolina,Wilkes,5,0,981,20
+2020-08-25,United States,North Carolina,Wilson,14,0,1670,36
+2020-08-25,United States,North Carolina,Yadkin,0,0,599,7
+2020-08-25,United States,North Carolina,Yancey,0,0,85,0
+2020-08-25,United States,North Dakota,Adams,0,0,5,0
+2020-08-25,United States,North Dakota,Barnes,1,0,59,0
+2020-08-25,United States,North Dakota,Benson,2,0,205,3
+2020-08-25,United States,North Dakota,Billings,0,0,4,0
+2020-08-25,United States,North Dakota,Bottineau,0,0,24,0
+2020-08-25,United States,North Dakota,Bowman,0,0,15,0
+2020-08-25,United States,North Dakota,Burke,0,0,24,1
+2020-08-25,United States,North Dakota,Burleigh,15,0,1716,13
+2020-08-25,United States,North Dakota,Cass,15,0,3289,76
+2020-08-25,United States,North Dakota,Cavalier,0,0,31,0
+2020-08-25,United States,North Dakota,Dickey,3,0,19,0
+2020-08-25,United States,North Dakota,Divide,0,0,5,0
+2020-08-25,United States,North Dakota,Dunn,1,0,40,0
+2020-08-25,United States,North Dakota,Eddy,1,0,24,0
+2020-08-25,United States,North Dakota,Emmons,0,0,24,1
+2020-08-25,United States,North Dakota,Foster,0,0,28,0
+2020-08-25,United States,North Dakota,Golden Valley,1,0,23,0
+2020-08-25,United States,North Dakota,Grand Forks,25,0,1044,10
+2020-08-25,United States,North Dakota,Grant,0,0,9,0
+2020-08-25,United States,North Dakota,Griggs,0,0,38,1
+2020-08-25,United States,North Dakota,Hettinger,0,0,12,0
+2020-08-25,United States,North Dakota,Kidder,1,0,25,0
+2020-08-25,United States,North Dakota,LaMoure,0,0,18,0
+2020-08-25,United States,North Dakota,Logan,0,0,7,0
+2020-08-25,United States,North Dakota,McHenry,1,0,28,1
+2020-08-25,United States,North Dakota,McIntosh,0,1,43,3
+2020-08-25,United States,North Dakota,McKenzie,0,0,100,2
+2020-08-25,United States,North Dakota,McLean,1,0,127,1
+2020-08-25,United States,North Dakota,Mercer,0,0,37,0
+2020-08-25,United States,North Dakota,Morton,7,0,544,4
+2020-08-25,United States,North Dakota,Mountrail,1,0,161,1
+2020-08-25,United States,North Dakota,Nelson,0,0,28,0
+2020-08-25,United States,North Dakota,Oliver,0,0,8,0
+2020-08-25,United States,North Dakota,Pembina,0,0,28,0
+2020-08-25,United States,North Dakota,Pierce,0,0,22,0
+2020-08-25,United States,North Dakota,Ramsey,8,0,107,2
+2020-08-25,United States,North Dakota,Ransom,1,0,35,0
+2020-08-25,United States,North Dakota,Renville,0,0,10,0
+2020-08-25,United States,North Dakota,Richland,2,0,124,1
+2020-08-25,United States,North Dakota,Rolette,1,0,101,2
+2020-08-25,United States,North Dakota,Sargent,0,0,10,0
+2020-08-25,United States,North Dakota,Sheridan,0,0,9,0
+2020-08-25,United States,North Dakota,Sioux,0,0,110,2
+2020-08-25,United States,North Dakota,Slope,0,0,5,0
+2020-08-25,United States,North Dakota,Stark,21,0,544,6
+2020-08-25,United States,North Dakota,Steele,0,0,17,0
+2020-08-25,United States,North Dakota,Stutsman,5,0,142,3
+2020-08-25,United States,North Dakota,Towner,0,0,6,0
+2020-08-25,United States,North Dakota,Traill,0,0,67,0
+2020-08-25,United States,North Dakota,Unassigned,0,0,0,0
+2020-08-25,United States,North Dakota,Walsh,1,0,138,1
+2020-08-25,United States,North Dakota,Ward,5,0,403,1
+2020-08-25,United States,North Dakota,Wells,0,0,27,0
+2020-08-25,United States,North Dakota,Williams,5,0,331,2
+2020-08-25,United States,Northern Mariana Islands,,0,0,54,2
+2020-08-25,United States,Ohio,Adams,0,1,84,4
+2020-08-25,United States,Ohio,Allen,9,1,1010,47
+2020-08-25,United States,Ohio,Ashland,0,0,162,4
+2020-08-25,United States,Ohio,Ashtabula,1,0,595,37
+2020-08-25,United States,Ohio,Athens,0,0,373,3
+2020-08-25,United States,Ohio,Auglaize,2,0,365,5
+2020-08-25,United States,Ohio,Belmont,2,0,674,24
+2020-08-25,United States,Ohio,Brown,5,0,190,2
+2020-08-25,United States,Ohio,Butler,19,1,3478,78
+2020-08-25,United States,Ohio,Carroll,1,0,122,7
+2020-08-25,United States,Ohio,Champaign,2,0,234,2
+2020-08-25,United States,Ohio,Clark,10,1,1351,23
+2020-08-25,United States,Ohio,Clermont,13,0,1153,13
+2020-08-25,United States,Ohio,Clinton,6,0,216,5
+2020-08-25,United States,Ohio,Columbiana,6,0,1771,72
+2020-08-25,United States,Ohio,Coshocton,0,0,209,8
+2020-08-25,United States,Ohio,Crawford,1,0,189,11
+2020-08-25,United States,Ohio,Cuyahoga,77,1,15032,532
+2020-08-25,United States,Ohio,Darke,14,1,548,29
+2020-08-25,United States,Ohio,Defiance,3,0,191,5
+2020-08-25,United States,Ohio,Delaware,11,0,1527,18
+2020-08-25,United States,Ohio,Erie,6,0,710,23
+2020-08-25,United States,Ohio,Fairfield,8,0,1594,35
+2020-08-25,United States,Ohio,Fayette,3,0,172,0
+2020-08-25,United States,Ohio,Franklin,125,4,20659,476
+2020-08-25,United States,Ohio,Fulton,4,0,177,5
+2020-08-25,United States,Ohio,Gallia,7,1,121,7
+2020-08-25,United States,Ohio,Geauga,1,0,595,44
+2020-08-25,United States,Ohio,Greene,14,1,885,25
+2020-08-25,United States,Ohio,Guernsey,0,0,128,9
+2020-08-25,United States,Ohio,Hamilton,73,3,10606,256
+2020-08-25,United States,Ohio,Hancock,9,0,476,7
+2020-08-25,United States,Ohio,Hardin,0,0,204,11
+2020-08-25,United States,Ohio,Harrison,0,0,28,1
+2020-08-25,United States,Ohio,Henry,18,0,172,4
+2020-08-25,United States,Ohio,Highland,0,0,183,3
+2020-08-25,United States,Ohio,Hocking,0,0,131,10
+2020-08-25,United States,Ohio,Holmes,1,0,342,6
+2020-08-25,United States,Ohio,Huron,0,0,462,7
+2020-08-25,United States,Ohio,Jackson,4,0,137,2
+2020-08-25,United States,Ohio,Jefferson,0,0,261,5
+2020-08-25,United States,Ohio,Knox,2,0,236,14
+2020-08-25,United States,Ohio,Lake,10,1,1254,43
+2020-08-25,United States,Ohio,Lawrence,1,0,395,10
+2020-08-25,United States,Ohio,Licking,7,1,1499,56
+2020-08-25,United States,Ohio,Logan,0,0,219,4
+2020-08-25,United States,Ohio,Lorain,24,1,2022,82
+2020-08-25,United States,Ohio,Lucas,47,0,6117,312
+2020-08-25,United States,Ohio,Madison,5,0,654,9
+2020-08-25,United States,Ohio,Mahoning,27,0,2788,239
+2020-08-25,United States,Ohio,Marion,8,0,2986,37
+2020-08-25,United States,Ohio,Medina,12,1,1098,41
+2020-08-25,United States,Ohio,Meigs,4,0,85,5
+2020-08-25,United States,Ohio,Mercer,0,0,772,17
+2020-08-25,United States,Ohio,Miami,9,0,992,31
+2020-08-25,United States,Ohio,Monroe,0,0,102,16
+2020-08-25,United States,Ohio,Montgomery,52,1,5081,126
+2020-08-25,United States,Ohio,Morgan,2,0,43,0
+2020-08-25,United States,Ohio,Morrow,0,0,214,3
+2020-08-25,United States,Ohio,Muskingum,1,0,291,1
+2020-08-25,United States,Ohio,Noble,0,0,21,0
+2020-08-25,United States,Ohio,Ottawa,0,0,435,29
+2020-08-25,United States,Ohio,Paulding,0,0,77,0
+2020-08-25,United States,Ohio,Perry,8,1,207,6
+2020-08-25,United States,Ohio,Pickaway,0,0,2448,36
+2020-08-25,United States,Ohio,Pike,1,0,93,2
+2020-08-25,United States,Ohio,Portage,9,0,828,57
+2020-08-25,United States,Ohio,Preble,8,0,317,9
+2020-08-25,United States,Ohio,Putnam,5,0,266,13
+2020-08-25,United States,Ohio,Richland,4,0,674,14
+2020-08-25,United States,Ohio,Ross,6,0,619,14
+2020-08-25,United States,Ohio,Sandusky,5,0,483,17
+2020-08-25,United States,Ohio,Scioto,2,0,308,3
+2020-08-25,United States,Ohio,Seneca,5,0,297,13
+2020-08-25,United States,Ohio,Shelby,5,0,293,4
+2020-08-25,United States,Ohio,Stark,11,0,2166,133
+2020-08-25,United States,Ohio,Summit,42,0,4188,191
+2020-08-25,United States,Ohio,Trumbull,11,1,1710,106
+2020-08-25,United States,Ohio,Tuscarawas,5,0,834,14
+2020-08-25,United States,Ohio,Unassigned,0,0,0,0
+2020-08-25,United States,Ohio,Union,5,0,330,3
+2020-08-25,United States,Ohio,Van Wert,1,0,80,2
+2020-08-25,United States,Ohio,Vinton,0,0,36,2
+2020-08-25,United States,Ohio,Warren,25,0,2130,36
+2020-08-25,United States,Ohio,Washington,0,0,222,19
+2020-08-25,United States,Ohio,Wayne,8,0,657,57
+2020-08-25,United States,Ohio,Williams,2,0,149,2
+2020-08-25,United States,Ohio,Wood,13,0,1243,48
+2020-08-25,United States,Ohio,Wyandot,2,1,175,7
+2020-08-25,United States,Oklahoma,Adair,-2,0,410,6
+2020-08-25,United States,Oklahoma,Alfalfa,1,0,11,0
+2020-08-25,United States,Oklahoma,Atoka,3,0,98,1
+2020-08-25,United States,Oklahoma,Beaver,0,0,41,0
+2020-08-25,United States,Oklahoma,Beckham,1,0,114,1
+2020-08-25,United States,Oklahoma,Blaine,5,0,62,0
+2020-08-25,United States,Oklahoma,Bryan,6,0,551,3
+2020-08-25,United States,Oklahoma,Caddo,3,0,509,20
+2020-08-25,United States,Oklahoma,Canadian,7,0,1420,9
+2020-08-25,United States,Oklahoma,Carter,1,0,394,6
+2020-08-25,United States,Oklahoma,Cherokee,10,0,588,3
+2020-08-25,United States,Oklahoma,Choctaw,1,0,222,1
+2020-08-25,United States,Oklahoma,Cimarron,0,0,14,0
+2020-08-25,United States,Oklahoma,Cleveland,21,0,3543,63
+2020-08-25,United States,Oklahoma,Coal,2,0,50,0
+2020-08-25,United States,Oklahoma,Comanche,2,0,1151,11
+2020-08-25,United States,Oklahoma,Cotton,0,0,25,2
+2020-08-25,United States,Oklahoma,Craig,0,0,106,1
+2020-08-25,United States,Oklahoma,Creek,1,0,746,19
+2020-08-25,United States,Oklahoma,Custer,3,0,282,0
+2020-08-25,United States,Oklahoma,Delaware,-1,0,506,20
+2020-08-25,United States,Oklahoma,Dewey,0,0,18,0
+2020-08-25,United States,Oklahoma,Ellis,0,0,6,0
+2020-08-25,United States,Oklahoma,Garfield,16,0,766,9
+2020-08-25,United States,Oklahoma,Garvin,5,0,257,4
+2020-08-25,United States,Oklahoma,Grady,0,0,494,7
+2020-08-25,United States,Oklahoma,Grant,0,0,21,0
+2020-08-25,United States,Oklahoma,Greer,0,0,86,8
+2020-08-25,United States,Oklahoma,Harmon,0,0,37,0
+2020-08-25,United States,Oklahoma,Harper,1,0,17,0
+2020-08-25,United States,Oklahoma,Haskell,2,0,147,2
+2020-08-25,United States,Oklahoma,Hughes,0,0,194,3
+2020-08-25,United States,Oklahoma,Jackson,1,0,566,7
+2020-08-25,United States,Oklahoma,Jefferson,0,0,34,0
+2020-08-25,United States,Oklahoma,Johnston,3,0,69,0
+2020-08-25,United States,Oklahoma,Kay,1,0,288,11
+2020-08-25,United States,Oklahoma,Kingfisher,1,0,236,0
+2020-08-25,United States,Oklahoma,Kiowa,1,0,40,1
+2020-08-25,United States,Oklahoma,Latimer,0,0,104,2
+2020-08-25,United States,Oklahoma,Le Flore,13,0,552,3
+2020-08-25,United States,Oklahoma,Lincoln,1,0,272,5
+2020-08-25,United States,Oklahoma,Logan,-2,0,265,1
+2020-08-25,United States,Oklahoma,Love,2,0,88,0
+2020-08-25,United States,Oklahoma,Major,0,0,43,1
+2020-08-25,United States,Oklahoma,Marshall,1,0,126,1
+2020-08-25,United States,Oklahoma,Mayes,2,0,388,8
+2020-08-25,United States,Oklahoma,McClain,2,0,536,4
+2020-08-25,United States,Oklahoma,McCurtain,7,0,958,29
+2020-08-25,United States,Oklahoma,McIntosh,0,0,223,4
+2020-08-25,United States,Oklahoma,Murray,0,0,86,0
+2020-08-25,United States,Oklahoma,Muskogee,8,0,670,16
+2020-08-25,United States,Oklahoma,Noble,2,0,99,2
+2020-08-25,United States,Oklahoma,Nowata,3,0,78,1
+2020-08-25,United States,Oklahoma,Okfuskee,0,0,91,3
+2020-08-25,United States,Oklahoma,Oklahoma,67,1,12651,144
+2020-08-25,United States,Oklahoma,Okmulgee,1,0,567,4
+2020-08-25,United States,Oklahoma,Osage,4,0,600,12
+2020-08-25,United States,Oklahoma,Ottawa,6,0,470,4
+2020-08-25,United States,Oklahoma,Out of OK,0,0,0,0
+2020-08-25,United States,Oklahoma,Pawnee,2,0,197,3
+2020-08-25,United States,Oklahoma,Payne,21,0,935,4
+2020-08-25,United States,Oklahoma,Pittsburg,3,0,534,12
+2020-08-25,United States,Oklahoma,Pontotoc,2,0,225,2
+2020-08-25,United States,Oklahoma,Pottawatomie,5,0,760,9
+2020-08-25,United States,Oklahoma,Pushmataha,0,0,121,0
+2020-08-25,United States,Oklahoma,Roger Mills,0,0,12,1
+2020-08-25,United States,Oklahoma,Rogers,4,1,1214,26
+2020-08-25,United States,Oklahoma,Seminole,1,0,288,5
+2020-08-25,United States,Oklahoma,Sequoyah,-2,1,509,6
+2020-08-25,United States,Oklahoma,Stephens,7,0,235,4
+2020-08-25,United States,Oklahoma,Texas,1,0,1099,7
+2020-08-25,United States,Oklahoma,Tillman,1,0,63,1
+2020-08-25,United States,Oklahoma,Tulsa,79,1,12391,126
+2020-08-25,United States,Oklahoma,Unassigned,5,0,11,0
+2020-08-25,United States,Oklahoma,Wagoner,4,0,1056,23
+2020-08-25,United States,Oklahoma,Washington,4,0,744,39
+2020-08-25,United States,Oklahoma,Washita,7,0,45,0
+2020-08-25,United States,Oklahoma,Woods,1,0,25,0
+2020-08-25,United States,Oklahoma,Woodward,0,0,72,0
+2020-08-25,United States,Oregon,Baker,0,0,64,1
+2020-08-25,United States,Oregon,Benton,1,0,202,6
+2020-08-25,United States,Oregon,Clackamas,22,0,1833,55
+2020-08-25,United States,Oregon,Clatsop,0,0,93,0
+2020-08-25,United States,Oregon,Columbia,2,0,125,1
+2020-08-25,United States,Oregon,Coos,1,0,99,0
+2020-08-25,United States,Oregon,Crook,0,0,54,1
+2020-08-25,United States,Oregon,Curry,0,0,20,0
+2020-08-25,United States,Oregon,Deschutes,0,0,672,11
+2020-08-25,United States,Oregon,Douglas,0,0,169,2
+2020-08-25,United States,Oregon,Gilliam,0,0,4,0
+2020-08-25,United States,Oregon,Grant,0,0,8,0
+2020-08-25,United States,Oregon,Harney,0,0,11,0
+2020-08-25,United States,Oregon,Hood River,0,0,225,0
+2020-08-25,United States,Oregon,Jackson,26,0,713,2
+2020-08-25,United States,Oregon,Jefferson,7,0,448,6
+2020-08-25,United States,Oregon,Josephine,1,0,151,2
+2020-08-25,United States,Oregon,Klamath,2,0,225,2
+2020-08-25,United States,Oregon,Lake,0,0,32,0
+2020-08-25,United States,Oregon,Lane,2,0,656,5
+2020-08-25,United States,Oregon,Lincoln,0,0,453,11
+2020-08-25,United States,Oregon,Linn,-1,0,362,12
+2020-08-25,United States,Oregon,Malheur,7,0,1044,16
+2020-08-25,United States,Oregon,Marion,31,0,3547,75
+2020-08-25,United States,Oregon,Morrow,3,0,424,3
+2020-08-25,United States,Oregon,Multnomah,57,0,5718,109
+2020-08-25,United States,Oregon,Polk,2,0,395,13
+2020-08-25,United States,Oregon,Sherman,0,0,16,0
+2020-08-25,United States,Oregon,Tillamook,0,0,37,0
+2020-08-25,United States,Oregon,Umatilla,10,0,2547,32
+2020-08-25,United States,Oregon,Unassigned,0,0,0,0
+2020-08-25,United States,Oregon,Union,0,0,408,2
+2020-08-25,United States,Oregon,Wallowa,0,0,21,1
+2020-08-25,United States,Oregon,Wasco,0,0,207,3
+2020-08-25,United States,Oregon,Washington,32,3,3575,35
+2020-08-25,United States,Oregon,Wheeler,0,0,0,0
+2020-08-25,United States,Oregon,Yamhill,13,0,597,14
+2020-08-25,United States,Pennsylvania,Adams,2,0,570,23
+2020-08-25,United States,Pennsylvania,Allegheny,29,0,9932,293
+2020-08-25,United States,Pennsylvania,Armstrong,3,0,285,9
+2020-08-25,United States,Pennsylvania,Beaver,3,0,1504,95
+2020-08-25,United States,Pennsylvania,Bedford,0,0,161,5
+2020-08-25,United States,Pennsylvania,Berks,33,0,5847,377
+2020-08-25,United States,Pennsylvania,Blair,4,0,407,8
+2020-08-25,United States,Pennsylvania,Bradford,1,0,96,3
+2020-08-25,United States,Pennsylvania,Bucks,27,0,7607,584
+2020-08-25,United States,Pennsylvania,Butler,-1,0,745,17
+2020-08-25,United States,Pennsylvania,Cambria,2,0,430,3
+2020-08-25,United States,Pennsylvania,Cameron,0,0,8,0
+2020-08-25,United States,Pennsylvania,Carbon,2,0,416,28
+2020-08-25,United States,Pennsylvania,Centre,6,0,423,11
+2020-08-25,United States,Pennsylvania,Chester,26,1,5539,360
+2020-08-25,United States,Pennsylvania,Clarion,0,0,95,3
+2020-08-25,United States,Pennsylvania,Clearfield,1,0,210,1
+2020-08-25,United States,Pennsylvania,Clinton,0,0,130,5
+2020-08-25,United States,Pennsylvania,Columbia,6,0,527,35
+2020-08-25,United States,Pennsylvania,Crawford,4,0,190,2
+2020-08-25,United States,Pennsylvania,Cumberland,13,1,1458,72
+2020-08-25,United States,Pennsylvania,Dauphin,22,0,3144,161
+2020-08-25,United States,Pennsylvania,Delaware,33,0,10078,719
+2020-08-25,United States,Pennsylvania,Elk,0,0,64,2
+2020-08-25,United States,Pennsylvania,Erie,1,0,1297,29
+2020-08-25,United States,Pennsylvania,Fayette,3,0,661,6
+2020-08-25,United States,Pennsylvania,Forest,0,0,13,0
+2020-08-25,United States,Pennsylvania,Franklin,3,0,1472,46
+2020-08-25,United States,Pennsylvania,Fulton,0,0,31,2
+2020-08-25,United States,Pennsylvania,Greene,1,0,135,1
+2020-08-25,United States,Pennsylvania,Huntingdon,-1,0,350,5
+2020-08-25,United States,Pennsylvania,Indiana,1,0,400,9
+2020-08-25,United States,Pennsylvania,Jefferson,1,0,94,1
+2020-08-25,United States,Pennsylvania,Juniata,0,0,143,6
+2020-08-25,United States,Pennsylvania,Lackawanna,4,0,1999,213
+2020-08-25,United States,Pennsylvania,Lancaster,14,0,6479,428
+2020-08-25,United States,Pennsylvania,Lawrence,0,0,441,17
+2020-08-25,United States,Pennsylvania,Lebanon,5,0,1677,56
+2020-08-25,United States,Pennsylvania,Lehigh,4,0,5132,342
+2020-08-25,United States,Pennsylvania,Luzerne,8,0,3698,186
+2020-08-25,United States,Pennsylvania,Lycoming,5,0,484,20
+2020-08-25,United States,Pennsylvania,McKean,0,0,35,1
+2020-08-25,United States,Pennsylvania,Mercer,6,0,532,13
+2020-08-25,United States,Pennsylvania,Mifflin,0,0,138,1
+2020-08-25,United States,Pennsylvania,Monroe,4,0,1694,127
+2020-08-25,United States,Pennsylvania,Montgomery,42,0,10755,861
+2020-08-25,United States,Pennsylvania,Montour,0,0,123,3
+2020-08-25,United States,Pennsylvania,Northampton,7,0,4066,296
+2020-08-25,United States,Pennsylvania,Northumberland,6,0,631,24
+2020-08-25,United States,Pennsylvania,Perry,0,0,160,5
+2020-08-25,United States,Pennsylvania,Philadelphia,118,0,33054,1736
+2020-08-25,United States,Pennsylvania,Pike,2,0,535,21
+2020-08-25,United States,Pennsylvania,Potter,0,0,24,0
+2020-08-25,United States,Pennsylvania,Schuylkill,0,0,971,51
+2020-08-25,United States,Pennsylvania,Snyder,2,0,142,2
+2020-08-25,United States,Pennsylvania,Somerset,0,0,156,3
+2020-08-25,United States,Pennsylvania,Sullivan,0,0,10,0
+2020-08-25,United States,Pennsylvania,Susquehanna,1,0,247,27
+2020-08-25,United States,Pennsylvania,Tioga,0,0,46,3
+2020-08-25,United States,Pennsylvania,Unassigned,0,0,0,0
+2020-08-25,United States,Pennsylvania,Union,2,0,361,4
+2020-08-25,United States,Pennsylvania,Venango,0,0,69,1
+2020-08-25,United States,Pennsylvania,Warren,0,0,26,1
+2020-08-25,United States,Pennsylvania,Washington,3,0,979,22
+2020-08-25,United States,Pennsylvania,Wayne,1,0,171,10
+2020-08-25,United States,Pennsylvania,Westmoreland,9,0,1740,49
+2020-08-25,United States,Pennsylvania,Wyoming,0,0,65,8
+2020-08-25,United States,Pennsylvania,York,17,0,3136,114
+2020-08-25,United States,Puerto Rico,Adjuntas,1,0,116,0
+2020-08-25,United States,Puerto Rico,Aguada,9,0,200,0
+2020-08-25,United States,Puerto Rico,Aguadilla,6,0,288,0
+2020-08-25,United States,Puerto Rico,Aguas Buenas,2,0,184,0
+2020-08-25,United States,Puerto Rico,Aibonito,4,0,117,0
+2020-08-25,United States,Puerto Rico,Anasco,2,0,179,0
+2020-08-25,United States,Puerto Rico,Arecibo,8,0,457,0
+2020-08-25,United States,Puerto Rico,Arroyo,3,0,115,0
+2020-08-25,United States,Puerto Rico,Barceloneta,0,0,116,0
+2020-08-25,United States,Puerto Rico,Barranquitas,10,0,313,0
+2020-08-25,United States,Puerto Rico,Bayamon,62,0,2289,0
+2020-08-25,United States,Puerto Rico,Cabo Rojo,1,0,263,0
+2020-08-25,United States,Puerto Rico,Caguas,28,0,1029,0
+2020-08-25,United States,Puerto Rico,Camuy,0,0,186,0
+2020-08-25,United States,Puerto Rico,Canovanas,11,0,480,0
+2020-08-25,United States,Puerto Rico,Carolina,32,0,1724,0
+2020-08-25,United States,Puerto Rico,Catano,4,0,275,0
+2020-08-25,United States,Puerto Rico,Cayey,2,0,245,0
+2020-08-25,United States,Puerto Rico,Ceiba,1,0,81,0
+2020-08-25,United States,Puerto Rico,Ciales,0,0,180,0
+2020-08-25,United States,Puerto Rico,Cidra,11,0,233,0
+2020-08-25,United States,Puerto Rico,Coamo,5,0,199,0
+2020-08-25,United States,Puerto Rico,Comerio,4,0,160,0
+2020-08-25,United States,Puerto Rico,Corozal,13,0,358,0
+2020-08-25,United States,Puerto Rico,Culebra,0,0,19,0
+2020-08-25,United States,Puerto Rico,Dorado,17,0,445,0
+2020-08-25,United States,Puerto Rico,Fajardo,8,0,329,0
+2020-08-25,United States,Puerto Rico,Florida,0,0,202,0
+2020-08-25,United States,Puerto Rico,Guanica,1,0,75,0
+2020-08-25,United States,Puerto Rico,Guayama,3,0,212,0
+2020-08-25,United States,Puerto Rico,Guayanilla,0,0,139,0
+2020-08-25,United States,Puerto Rico,Guaynabo,20,0,1162,0
+2020-08-25,United States,Puerto Rico,Gurabo,10,0,338,0
+2020-08-25,United States,Puerto Rico,Hatillo,15,0,166,0
+2020-08-25,United States,Puerto Rico,Hormigueros,0,0,118,0
+2020-08-25,United States,Puerto Rico,Humacao,12,0,279,0
+2020-08-25,United States,Puerto Rico,Isabela,4,0,182,0
+2020-08-25,United States,Puerto Rico,Jayuya,7,0,197,0
+2020-08-25,United States,Puerto Rico,Juana Diaz,1,0,243,0
+2020-08-25,United States,Puerto Rico,Juncos,7,0,217,0
+2020-08-25,United States,Puerto Rico,Lajas,1,0,106,0
+2020-08-25,United States,Puerto Rico,Lares,2,0,230,0
+2020-08-25,United States,Puerto Rico,Las Marias,0,0,80,0
+2020-08-25,United States,Puerto Rico,Las Piedras,6,0,245,0
+2020-08-25,United States,Puerto Rico,Loiza,1,0,170,0
+2020-08-25,United States,Puerto Rico,Luquillo,8,0,163,0
+2020-08-25,United States,Puerto Rico,Manati,11,0,334,0
+2020-08-25,United States,Puerto Rico,Maricao,0,0,48,0
+2020-08-25,United States,Puerto Rico,Maunabo,0,0,79,0
+2020-08-25,United States,Puerto Rico,Mayaguez,2,0,606,0
+2020-08-25,United States,Puerto Rico,Moca,4,0,242,0
+2020-08-25,United States,Puerto Rico,Morovis,6,0,354,0
+2020-08-25,United States,Puerto Rico,Naguabo,1,0,122,0
+2020-08-25,United States,Puerto Rico,Naranjito,10,0,421,0
+2020-08-25,United States,Puerto Rico,Orocovis,5,0,264,0
+2020-08-25,United States,Puerto Rico,Out of PR,0,0,727,0
+2020-08-25,United States,Puerto Rico,Patillas,2,0,128,0
+2020-08-25,United States,Puerto Rico,Penuelas,2,0,92,0
+2020-08-25,United States,Puerto Rico,Ponce,6,0,618,0
+2020-08-25,United States,Puerto Rico,Quebradillas,2,0,105,0
+2020-08-25,United States,Puerto Rico,Rincon,2,0,123,0
+2020-08-25,United States,Puerto Rico,Rio Grande,10,0,409,0
+2020-08-25,United States,Puerto Rico,Sabana Grande,4,0,153,0
+2020-08-25,United States,Puerto Rico,Salinas,5,0,292,0
+2020-08-25,United States,Puerto Rico,San German,0,0,184,0
+2020-08-25,United States,Puerto Rico,San Juan,127,0,4850,0
+2020-08-25,United States,Puerto Rico,San Lorenzo,3,0,237,0
+2020-08-25,United States,Puerto Rico,San Sebastian,1,0,270,0
+2020-08-25,United States,Puerto Rico,Santa Isabel,1,0,123,0
+2020-08-25,United States,Puerto Rico,Toa Alta,21,0,828,0
+2020-08-25,United States,Puerto Rico,Toa Baja,31,0,819,0
+2020-08-25,United States,Puerto Rico,Trujillo Alto,15,0,692,0
+2020-08-25,United States,Puerto Rico,Unassigned,80,0,649,390
+2020-08-25,United States,Puerto Rico,Utuado,1,0,94,0
+2020-08-25,United States,Puerto Rico,Vega Alta,7,0,392,0
+2020-08-25,United States,Puerto Rico,Vega Baja,13,0,606,0
+2020-08-25,United States,Puerto Rico,Vieques,0,0,82,0
+2020-08-25,United States,Puerto Rico,Villalba,0,0,92,0
+2020-08-25,United States,Puerto Rico,Yabucoa,2,0,181,0
+2020-08-25,United States,Puerto Rico,Yauco,6,0,298,0
+2020-08-25,United States,Recovered,,0,0,0,0
+2020-08-25,United States,Rhode Island,Bristol,0,0,329,16
+2020-08-25,United States,Rhode Island,Kent,0,0,1592,107
+2020-08-25,United States,Rhode Island,Newport,0,0,411,9
+2020-08-25,United States,Rhode Island,Providence,0,0,16142,836
+2020-08-25,United States,Rhode Island,Unassigned,280,1,2169,32
+2020-08-25,United States,Rhode Island,Washington,0,0,659,67
+2020-08-25,United States,South Carolina,Abbeville,2,0,392,10
+2020-08-25,United States,South Carolina,Aiken,2,0,2239,56
+2020-08-25,United States,South Carolina,Allendale,3,0,275,6
+2020-08-25,United States,South Carolina,Anderson,14,4,2893,96
+2020-08-25,United States,South Carolina,Bamberg,3,0,519,27
+2020-08-25,United States,South Carolina,Barnwell,2,0,503,11
+2020-08-25,United States,South Carolina,Beaufort,21,0,4580,64
+2020-08-25,United States,South Carolina,Berkeley,12,0,4612,76
+2020-08-25,United States,South Carolina,Calhoun,2,0,411,16
+2020-08-25,United States,South Carolina,Charleston,85,0,13405,226
+2020-08-25,United States,South Carolina,Cherokee,1,0,761,31
+2020-08-25,United States,South Carolina,Chester,4,0,810,17
+2020-08-25,United States,South Carolina,Chesterfield,6,0,913,23
+2020-08-25,United States,South Carolina,Clarendon,4,0,947,61
+2020-08-25,United States,South Carolina,Colleton,2,0,867,36
+2020-08-25,United States,South Carolina,Darlington,12,0,1567,44
+2020-08-25,United States,South Carolina,Dillon,3,0,714,28
+2020-08-25,United States,South Carolina,Dorchester,11,0,3451,68
+2020-08-25,United States,South Carolina,Edgefield,4,0,464,8
+2020-08-25,United States,South Carolina,Fairfield,3,0,618,26
+2020-08-25,United States,South Carolina,Florence,38,1,4052,143
+2020-08-25,United States,South Carolina,Georgetown,5,0,1667,35
+2020-08-25,United States,South Carolina,Greenville,46,1,11620,244
+2020-08-25,United States,South Carolina,Greenwood,29,0,1678,30
+2020-08-25,United States,South Carolina,Hampton,5,0,513,17
+2020-08-25,United States,South Carolina,Horry,16,0,9112,177
+2020-08-25,United States,South Carolina,Jasper,6,0,669,18
+2020-08-25,United States,South Carolina,Kershaw,3,0,1518,29
+2020-08-25,United States,South Carolina,Lancaster,17,0,1554,31
+2020-08-25,United States,South Carolina,Laurens,4,1,1424,54
+2020-08-25,United States,South Carolina,Lee,3,0,610,30
+2020-08-25,United States,South Carolina,Lexington,22,0,5492,131
+2020-08-25,United States,South Carolina,Marion,5,0,646,17
+2020-08-25,United States,South Carolina,Marlboro,11,0,652,5
+2020-08-25,United States,South Carolina,McCormick,0,0,151,4
+2020-08-25,United States,South Carolina,Newberry,3,0,923,13
+2020-08-25,United States,South Carolina,Oconee,14,0,960,16
+2020-08-25,United States,South Carolina,Orangeburg,15,0,2757,94
+2020-08-25,United States,South Carolina,Pickens,14,0,2047,31
+2020-08-25,United States,South Carolina,Richland,52,0,9997,185
+2020-08-25,United States,South Carolina,Saluda,9,0,521,11
+2020-08-25,United States,South Carolina,Spartanburg,13,0,4715,127
+2020-08-25,United States,South Carolina,Sumter,8,0,2731,59
+2020-08-25,United States,South Carolina,Unassigned,0,0,0,0
+2020-08-25,United States,South Carolina,Union,0,0,435,5
+2020-08-25,United States,South Carolina,Williamsburg,2,0,1146,36
+2020-08-25,United States,South Carolina,York,27,0,4020,39
+2020-08-25,United States,South Dakota,Aurora,0,0,42,0
+2020-08-25,United States,South Dakota,Beadle,2,0,616,9
+2020-08-25,United States,South Dakota,Bennett,5,0,11,0
+2020-08-25,United States,South Dakota,Bon Homme,1,0,39,1
+2020-08-25,United States,South Dakota,Brookings,6,0,188,1
+2020-08-25,United States,South Dakota,Brown,6,0,555,3
+2020-08-25,United States,South Dakota,Brule,0,0,50,0
+2020-08-25,United States,South Dakota,Buffalo,0,0,109,3
+2020-08-25,United States,South Dakota,Butte,2,0,29,1
+2020-08-25,United States,South Dakota,Campbell,0,0,4,0
+2020-08-25,United States,South Dakota,Charles Mix,0,0,116,0
+2020-08-25,United States,South Dakota,Clark,1,0,18,0
+2020-08-25,United States,South Dakota,Clay,14,0,172,1
+2020-08-25,United States,South Dakota,Codington,3,0,220,1
+2020-08-25,United States,South Dakota,Corson,0,0,52,0
+2020-08-25,United States,South Dakota,Custer,4,0,86,0
+2020-08-25,United States,South Dakota,Davison,0,0,108,2
+2020-08-25,United States,South Dakota,Day,1,0,32,0
+2020-08-25,United States,South Dakota,Deuel,1,0,34,0
+2020-08-25,United States,South Dakota,Dewey,0,0,65,0
+2020-08-25,United States,South Dakota,Douglas,2,0,22,0
+2020-08-25,United States,South Dakota,Edmunds,0,0,25,0
+2020-08-25,United States,South Dakota,Fall River,1,0,24,0
+2020-08-25,United States,South Dakota,Faulk,0,0,29,1
+2020-08-25,United States,South Dakota,Grant,0,0,39,0
+2020-08-25,United States,South Dakota,Gregory,1,0,9,0
+2020-08-25,United States,South Dakota,Haakon,0,0,3,0
+2020-08-25,United States,South Dakota,Hamlin,1,0,42,0
+2020-08-25,United States,South Dakota,Hand,0,0,13,0
+2020-08-25,United States,South Dakota,Hanson,1,0,22,0
+2020-08-25,United States,South Dakota,Harding,0,0,2,0
+2020-08-25,United States,South Dakota,Hughes,3,0,111,3
+2020-08-25,United States,South Dakota,Hutchinson,0,0,35,1
+2020-08-25,United States,South Dakota,Hyde,0,0,5,0
+2020-08-25,United States,South Dakota,Jackson,0,0,12,1
+2020-08-25,United States,South Dakota,Jerauld,0,0,40,1
+2020-08-25,United States,South Dakota,Jones,0,0,3,0
+2020-08-25,United States,South Dakota,Kingsbury,0,0,18,0
+2020-08-25,United States,South Dakota,Lake,0,0,108,6
+2020-08-25,United States,South Dakota,Lawrence,8,0,120,1
+2020-08-25,United States,South Dakota,Lincoln,8,0,795,2
+2020-08-25,United States,South Dakota,Lyman,0,0,94,3
+2020-08-25,United States,South Dakota,Marshall,0,0,15,0
+2020-08-25,United States,South Dakota,McCook,0,0,39,1
+2020-08-25,United States,South Dakota,McPherson,0,0,10,0
+2020-08-25,United States,South Dakota,Meade,6,0,170,1
+2020-08-25,United States,South Dakota,Mellette,0,0,24,0
+2020-08-25,United States,South Dakota,Miner,0,0,15,0
+2020-08-25,United States,South Dakota,Minnehaha,28,0,4924,70
+2020-08-25,United States,South Dakota,Moody,1,0,38,0
+2020-08-25,United States,South Dakota,Oglala Lakota,0,0,163,2
+2020-08-25,United States,South Dakota,Pennington,28,0,1070,33
+2020-08-25,United States,South Dakota,Perkins,2,0,8,0
+2020-08-25,United States,South Dakota,Potter,0,0,4,0
+2020-08-25,United States,South Dakota,Roberts,2,0,91,1
+2020-08-25,United States,South Dakota,Sanborn,0,0,13,0
+2020-08-25,United States,South Dakota,Spink,0,0,35,0
+2020-08-25,United States,South Dakota,Stanley,0,0,20,0
+2020-08-25,United States,South Dakota,Sully,1,0,8,0
+2020-08-25,United States,South Dakota,Todd,0,0,76,5
+2020-08-25,United States,South Dakota,Tripp,0,0,20,0
+2020-08-25,United States,South Dakota,Turner,1,0,69,0
+2020-08-25,United States,South Dakota,Unassigned,0,0,0,0
+2020-08-25,United States,South Dakota,Union,3,0,235,4
+2020-08-25,United States,South Dakota,Walworth,1,0,32,0
+2020-08-25,United States,South Dakota,Yankton,4,0,183,3
+2020-08-25,United States,South Dakota,Ziebach,1,0,46,0
+2020-08-25,United States,Tennessee,Anderson,3,0,839,8
+2020-08-25,United States,Tennessee,Bedford,6,0,1057,14
+2020-08-25,United States,Tennessee,Benton,0,0,223,3
+2020-08-25,United States,Tennessee,Bledsoe,0,0,768,3
+2020-08-25,United States,Tennessee,Blount,12,0,1744,15
+2020-08-25,United States,Tennessee,Bradley,23,0,2359,16
+2020-08-25,United States,Tennessee,Campbell,3,0,302,2
+2020-08-25,United States,Tennessee,Cannon,1,0,186,0
+2020-08-25,United States,Tennessee,Carroll,8,0,516,6
+2020-08-25,United States,Tennessee,Carter,9,0,736,14
+2020-08-25,United States,Tennessee,Cheatham,4,0,694,10
+2020-08-25,United States,Tennessee,Chester,3,0,336,4
+2020-08-25,United States,Tennessee,Claiborne,1,0,345,2
+2020-08-25,United States,Tennessee,Clay,1,0,103,0
+2020-08-25,United States,Tennessee,Cocke,6,0,606,6
+2020-08-25,United States,Tennessee,Coffee,4,1,695,6
+2020-08-25,United States,Tennessee,Crockett,4,0,359,12
+2020-08-25,United States,Tennessee,Cumberland,3,1,709,8
+2020-08-25,United States,Tennessee,Davidson,50,1,22816,246
+2020-08-25,United States,Tennessee,Decatur,2,0,272,4
+2020-08-25,United States,Tennessee,DeKalb,1,0,417,5
+2020-08-25,United States,Tennessee,Dickson,7,1,851,8
+2020-08-25,United States,Tennessee,Dyer,10,0,862,9
+2020-08-25,United States,Tennessee,Fayette,6,0,820,10
+2020-08-25,United States,Tennessee,Fentress,2,0,149,0
+2020-08-25,United States,Tennessee,Franklin,4,0,426,4
+2020-08-25,United States,Tennessee,Gibson,14,1,995,13
+2020-08-25,United States,Tennessee,Giles,0,0,428,14
+2020-08-25,United States,Tennessee,Grainger,3,0,249,1
+2020-08-25,United States,Tennessee,Greene,9,0,730,10
+2020-08-25,United States,Tennessee,Grundy,0,0,142,2
+2020-08-25,United States,Tennessee,Hamblen,4,0,1580,18
+2020-08-25,United States,Tennessee,Hamilton,33,4,7496,65
+2020-08-25,United States,Tennessee,Hancock,0,0,88,2
+2020-08-25,United States,Tennessee,Hardeman,5,0,1179,22
+2020-08-25,United States,Tennessee,Hardin,5,0,620,8
+2020-08-25,United States,Tennessee,Hawkins,3,0,637,12
+2020-08-25,United States,Tennessee,Haywood,3,0,702,10
+2020-08-25,United States,Tennessee,Henderson,5,0,793,6
+2020-08-25,United States,Tennessee,Henry,2,0,410,4
+2020-08-25,United States,Tennessee,Hickman,1,0,331,1
+2020-08-25,United States,Tennessee,Houston,1,0,73,0
+2020-08-25,United States,Tennessee,Humphreys,4,0,155,3
+2020-08-25,United States,Tennessee,Jackson,0,0,189,1
+2020-08-25,United States,Tennessee,Jefferson,18,1,721,6
+2020-08-25,United States,Tennessee,Johnson,0,0,387,1
+2020-08-25,United States,Tennessee,Knox,57,0,5855,49
+2020-08-25,United States,Tennessee,Lake,5,0,820,1
+2020-08-25,United States,Tennessee,Lauderdale,5,0,637,12
+2020-08-25,United States,Tennessee,Lawrence,4,0,703,8
+2020-08-25,United States,Tennessee,Lewis,0,0,117,1
+2020-08-25,United States,Tennessee,Lincoln,1,0,386,1
+2020-08-25,United States,Tennessee,Loudon,5,0,879,3
+2020-08-25,United States,Tennessee,Macon,2,0,882,14
+2020-08-25,United States,Tennessee,Madison,16,0,1571,31
+2020-08-25,United States,Tennessee,Marion,3,0,300,5
+2020-08-25,United States,Tennessee,Marshall,5,0,472,4
+2020-08-25,United States,Tennessee,Maury,12,0,1593,11
+2020-08-25,United States,Tennessee,McMinn,3,0,717,20
+2020-08-25,United States,Tennessee,McNairy,3,1,490,8
+2020-08-25,United States,Tennessee,Meigs,0,0,134,2
+2020-08-25,United States,Tennessee,Monroe,7,0,608,10
+2020-08-25,United States,Tennessee,Montgomery,17,3,2330,27
+2020-08-25,United States,Tennessee,Moore,0,0,84,0
+2020-08-25,United States,Tennessee,Morgan,2,0,184,1
+2020-08-25,United States,Tennessee,Obion,3,0,757,5
+2020-08-25,United States,Tennessee,Out of TN,-8,1,2929,22
+2020-08-25,United States,Tennessee,Overton,3,0,360,1
+2020-08-25,United States,Tennessee,Perry,1,0,98,0
+2020-08-25,United States,Tennessee,Pickett,0,0,46,1
+2020-08-25,United States,Tennessee,Polk,3,0,305,10
+2020-08-25,United States,Tennessee,Putnam,4,0,2149,23
+2020-08-25,United States,Tennessee,Rhea,3,0,616,2
+2020-08-25,United States,Tennessee,Roane,1,0,587,2
+2020-08-25,United States,Tennessee,Robertson,3,0,1751,25
+2020-08-25,United States,Tennessee,Rutherford,25,0,7486,64
+2020-08-25,United States,Tennessee,Scott,0,0,153,2
+2020-08-25,United States,Tennessee,Sequatchie,0,0,138,1
+2020-08-25,United States,Tennessee,Sevier,2,0,2154,11
+2020-08-25,United States,Tennessee,Shelby,118,0,25976,369
+2020-08-25,United States,Tennessee,Smith,-6,0,497,8
+2020-08-25,United States,Tennessee,Stewart,0,0,89,0
+2020-08-25,United States,Tennessee,Sullivan,3,0,1474,22
+2020-08-25,United States,Tennessee,Sumner,18,0,3889,82
+2020-08-25,United States,Tennessee,Tipton,14,0,1337,13
+2020-08-25,United States,Tennessee,Trousdale,0,0,1592,6
+2020-08-25,United States,Tennessee,Unassigned,-1,1,3293,6
+2020-08-25,United States,Tennessee,Unicoi,0,0,212,1
+2020-08-25,United States,Tennessee,Union,3,1,208,1
+2020-08-25,United States,Tennessee,Van Buren,1,0,54,0
+2020-08-25,United States,Tennessee,Warren,6,0,741,7
+2020-08-25,United States,Tennessee,Washington,5,1,1597,7
+2020-08-25,United States,Tennessee,Wayne,2,0,261,2
+2020-08-25,United States,Tennessee,Weakley,7,2,742,9
+2020-08-25,United States,Tennessee,White,5,0,435,7
+2020-08-25,United States,Tennessee,Williamson,17,0,4157,27
+2020-08-25,United States,Tennessee,Wilson,5,1,2664,30
+2020-08-25,United States,Texas,Anderson,6,0,2431,18
+2020-08-25,United States,Texas,Andrews,0,0,356,8
+2020-08-25,United States,Texas,Angelina,0,1,1964,62
+2020-08-25,United States,Texas,Aransas,1,0,198,16
+2020-08-25,United States,Texas,Archer,0,0,39,0
+2020-08-25,United States,Texas,Armstrong,0,0,10,0
+2020-08-25,United States,Texas,Atascosa,0,0,544,23
+2020-08-25,United States,Texas,Austin,7,0,398,5
+2020-08-25,United States,Texas,Bailey,0,0,196,4
+2020-08-25,United States,Texas,Bandera,0,0,106,3
+2020-08-25,United States,Texas,Bastrop,5,0,1536,25
+2020-08-25,United States,Texas,Baylor,0,0,12,0
+2020-08-25,United States,Texas,Bee,4,0,1473,18
+2020-08-25,United States,Texas,Bell,0,0,4534,55
+2020-08-25,United States,Texas,Bexar,109,0,45364,998
+2020-08-25,United States,Texas,Blanco,0,0,127,5
+2020-08-25,United States,Texas,Borden,0,0,0,0
+2020-08-25,United States,Texas,Bosque,0,0,197,5
+2020-08-25,United States,Texas,Bowie,1,0,860,41
+2020-08-25,United States,Texas,Brazoria,0,0,8662,124
+2020-08-25,United States,Texas,Brazos,38,0,4390,53
+2020-08-25,United States,Texas,Brewster,0,0,189,2
+2020-08-25,United States,Texas,Briscoe,0,0,12,1
+2020-08-25,United States,Texas,Brooks,7,0,197,14
+2020-08-25,United States,Texas,Brown,0,0,435,19
+2020-08-25,United States,Texas,Burleson,0,0,275,6
+2020-08-25,United States,Texas,Burnet,1,0,605,12
+2020-08-25,United States,Texas,Caldwell,0,0,1210,31
+2020-08-25,United States,Texas,Calhoun,0,0,579,7
+2020-08-25,United States,Texas,Callahan,0,0,57,3
+2020-08-25,United States,Texas,Cameron,0,4,19225,657
+2020-08-25,United States,Texas,Camp,0,0,274,7
+2020-08-25,United States,Texas,Carson,0,0,17,0
+2020-08-25,United States,Texas,Cass,2,0,227,9
+2020-08-25,United States,Texas,Castro,0,0,214,4
+2020-08-25,United States,Texas,Chambers,23,0,1103,5
+2020-08-25,United States,Texas,Cherokee,5,0,1339,14
+2020-08-25,United States,Texas,Childress,0,0,52,0
+2020-08-25,United States,Texas,Clay,0,0,59,1
+2020-08-25,United States,Texas,Cochran,0,0,35,1
+2020-08-25,United States,Texas,Coke,0,0,45,2
+2020-08-25,United States,Texas,Coleman,0,0,44,2
+2020-08-25,United States,Texas,Collin,50,4,10639,111
+2020-08-25,United States,Texas,Collingsworth,0,0,15,0
+2020-08-25,United States,Texas,Colorado,5,0,421,3
+2020-08-25,United States,Texas,Comal,0,0,2275,93
+2020-08-25,United States,Texas,Comanche,0,0,184,3
+2020-08-25,United States,Texas,Concho,0,0,35,0
+2020-08-25,United States,Texas,Cooke,0,0,288,4
+2020-08-25,United States,Texas,Coryell,2,0,781,8
+2020-08-25,United States,Texas,Cottle,0,0,18,2
+2020-08-25,United States,Texas,Crane,0,0,70,2
+2020-08-25,United States,Texas,Crockett,0,0,160,4
+2020-08-25,United States,Texas,Crosby,0,0,75,1
+2020-08-25,United States,Texas,Culberson,0,0,22,2
+2020-08-25,United States,Texas,Dallam,0,0,202,6
+2020-08-25,United States,Texas,Dallas,184,4,71662,1033
+2020-08-25,United States,Texas,Dawson,0,0,187,8
+2020-08-25,United States,Texas,Deaf Smith,0,0,770,19
+2020-08-25,United States,Texas,Delta,0,0,18,0
+2020-08-25,United States,Texas,Denton,140,2,9236,118
+2020-08-25,United States,Texas,DeWitt,0,0,782,24
+2020-08-25,United States,Texas,Dickens,0,0,10,1
+2020-08-25,United States,Texas,Dimmit,0,0,171,5
+2020-08-25,United States,Texas,Donley,0,0,52,1
+2020-08-25,United States,Texas,Duval,7,0,229,8
+2020-08-25,United States,Texas,Eastland,0,1,103,2
+2020-08-25,United States,Texas,Ector,50,2,4057,66
+2020-08-25,United States,Texas,Edwards,0,0,34,0
+2020-08-25,United States,Texas,El Paso,158,2,19554,394
+2020-08-25,United States,Texas,Ellis,0,1,3486,55
+2020-08-25,United States,Texas,Erath,0,0,618,7
+2020-08-25,United States,Texas,Falls,0,0,151,3
+2020-08-25,United States,Texas,Fannin,0,0,388,10
+2020-08-25,United States,Texas,Fayette,2,0,444,15
+2020-08-25,United States,Texas,Fisher,0,0,48,1
+2020-08-25,United States,Texas,Floyd,0,0,98,7
+2020-08-25,United States,Texas,Foard,0,0,3,0
+2020-08-25,United States,Texas,Fort Bend,606,0,14640,216
+2020-08-25,United States,Texas,Franklin,0,0,101,4
+2020-08-25,United States,Texas,Freestone,161,0,372,0
+2020-08-25,United States,Texas,Frio,0,0,613,7
+2020-08-25,United States,Texas,Gaines,0,0,228,5
+2020-08-25,United States,Texas,Galveston,50,0,10400,132
+2020-08-25,United States,Texas,Garza,0,0,102,3
+2020-08-25,United States,Texas,Gillespie,0,0,193,6
+2020-08-25,United States,Texas,Glasscock,0,0,6,0
+2020-08-25,United States,Texas,Goliad,0,0,121,6
+2020-08-25,United States,Texas,Gonzales,0,0,783,12
+2020-08-25,United States,Texas,Gray,0,0,239,3
+2020-08-25,United States,Texas,Grayson,20,0,1383,18
+2020-08-25,United States,Texas,Gregg,0,0,1769,43
+2020-08-25,United States,Texas,Grimes,0,0,979,29
+2020-08-25,United States,Texas,Guadalupe,0,0,1858,66
+2020-08-25,United States,Texas,Hale,0,0,1538,40
+2020-08-25,United States,Texas,Hall,0,0,16,1
+2020-08-25,United States,Texas,Hamilton,0,0,96,3
+2020-08-25,United States,Texas,Hansford,0,0,99,3
+2020-08-25,United States,Texas,Hardeman,0,0,22,0
+2020-08-25,United States,Texas,Hardin,0,0,1217,18
+2020-08-25,United States,Texas,Harris,784,2,99290,2030
+2020-08-25,United States,Texas,Harrison,0,0,774,26
+2020-08-25,United States,Texas,Hartley,0,0,99,0
+2020-08-25,United States,Texas,Haskell,0,0,50,1
+2020-08-25,United States,Texas,Hays,47,1,5297,53
+2020-08-25,United States,Texas,Hemphill,0,0,47,0
+2020-08-25,United States,Texas,Henderson,0,0,755,15
+2020-08-25,United States,Texas,Hidalgo,675,10,25169,1101
+2020-08-25,United States,Texas,Hill,0,0,345,8
+2020-08-25,United States,Texas,Hockley,0,0,242,5
+2020-08-25,United States,Texas,Hood,0,0,703,21
+2020-08-25,United States,Texas,Hopkins,0,0,234,4
+2020-08-25,United States,Texas,Houston,-2,0,327,8
+2020-08-25,United States,Texas,Howard,0,0,253,8
+2020-08-25,United States,Texas,Hudspeth,0,0,36,2
+2020-08-25,United States,Texas,Hunt,0,0,1363,25
+2020-08-25,United States,Texas,Hutchinson,0,0,139,3
+2020-08-25,United States,Texas,Irion,0,0,9,0
+2020-08-25,United States,Texas,Jack,0,0,116,0
+2020-08-25,United States,Texas,Jackson,0,0,477,13
+2020-08-25,United States,Texas,Jasper,0,0,393,17
+2020-08-25,United States,Texas,Jeff Davis,0,0,8,0
+2020-08-25,United States,Texas,Jefferson,0,0,6499,103
+2020-08-25,United States,Texas,Jim Hogg,0,0,73,2
+2020-08-25,United States,Texas,Jim Wells,12,0,942,23
+2020-08-25,United States,Texas,Johnson,0,0,2393,40
+2020-08-25,United States,Texas,Jones,0,0,601,0
+2020-08-25,United States,Texas,Karnes,0,0,720,10
+2020-08-25,United States,Texas,Kaufman,0,0,2656,32
+2020-08-25,United States,Texas,Kendall,0,0,193,4
+2020-08-25,United States,Texas,Kenedy,0,0,7,1
+2020-08-25,United States,Texas,Kent,0,0,6,0
+2020-08-25,United States,Texas,Kerr,0,0,426,9
+2020-08-25,United States,Texas,Kimble,0,0,16,1
+2020-08-25,United States,Texas,King,0,0,0,0
+2020-08-25,United States,Texas,Kinney,0,0,22,1
+2020-08-25,United States,Texas,Kleberg,12,0,563,21
+2020-08-25,United States,Texas,Knox,0,0,64,8
+2020-08-25,United States,Texas,La Salle,0,0,367,2
+2020-08-25,United States,Texas,Lamar,8,0,791,21
+2020-08-25,United States,Texas,Lamb,0,0,263,19
+2020-08-25,United States,Texas,Lampasas,0,0,141,5
+2020-08-25,United States,Texas,Lavaca,0,0,661,28
+2020-08-25,United States,Texas,Lee,0,0,188,13
+2020-08-25,United States,Texas,Leon,0,0,167,4
+2020-08-25,United States,Texas,Liberty,37,0,1376,39
+2020-08-25,United States,Texas,Limestone,0,0,381,5
+2020-08-25,United States,Texas,Lipscomb,0,0,23,0
+2020-08-25,United States,Texas,Live Oak,0,0,282,5
+2020-08-25,United States,Texas,Llano,0,0,99,1
+2020-08-25,United States,Texas,Loving,0,0,0,0
+2020-08-25,United States,Texas,Lubbock,33,0,6885,83
+2020-08-25,United States,Texas,Lynn,0,0,76,4
+2020-08-25,United States,Texas,Madison,1,0,690,3
+2020-08-25,United States,Texas,Marion,0,0,139,10
+2020-08-25,United States,Texas,Martin,0,0,70,5
+2020-08-25,United States,Texas,Mason,0,0,64,0
+2020-08-25,United States,Texas,Matagorda,12,0,887,38
+2020-08-25,United States,Texas,Maverick,0,0,3117,67
+2020-08-25,United States,Texas,McCulloch,0,0,74,1
+2020-08-25,United States,Texas,McLennan,47,0,5760,75
+2020-08-25,United States,Texas,McMullen,0,0,11,0
+2020-08-25,United States,Texas,Medina,1,0,1070,34
+2020-08-25,United States,Texas,Menard,0,0,20,0
+2020-08-25,United States,Texas,Midland,12,2,3094,64
+2020-08-25,United States,Texas,Milam,0,0,400,4
+2020-08-25,United States,Texas,Mills,0,0,31,0
+2020-08-25,United States,Texas,Mitchell,0,0,72,1
+2020-08-25,United States,Texas,Montague,0,0,109,3
+2020-08-25,United States,Texas,Montgomery,207,0,8122,113
+2020-08-25,United States,Texas,Moore,0,0,1103,17
+2020-08-25,United States,Texas,Morris,1,0,141,3
+2020-08-25,United States,Texas,Motley,0,0,6,0
+2020-08-25,United States,Texas,Nacogdoches,9,0,1279,45
+2020-08-25,United States,Texas,Navarro,0,0,1009,13
+2020-08-25,United States,Texas,Newton,0,0,162,6
+2020-08-25,United States,Texas,Nolan,0,0,145,4
+2020-08-25,United States,Texas,Nueces,112,3,18181,316
+2020-08-25,United States,Texas,Ochiltree,0,0,102,3
+2020-08-25,United States,Texas,Oldham,0,0,14,1
+2020-08-25,United States,Texas,Orange,0,0,1736,33
+2020-08-25,United States,Texas,Palo Pinto,0,0,405,10
+2020-08-25,United States,Texas,Panola,0,0,302,20
+2020-08-25,United States,Texas,Parker,0,0,1580,23
+2020-08-25,United States,Texas,Parmer,0,0,372,7
+2020-08-25,United States,Texas,Pecos,0,0,272,2
+2020-08-25,United States,Texas,Polk,0,0,773,15
+2020-08-25,United States,Texas,Potter,15,0,3943,51
+2020-08-25,United States,Texas,Presidio,0,0,49,4
+2020-08-25,United States,Texas,Rains,0,0,55,1
+2020-08-25,United States,Texas,Randall,0,0,2042,25
+2020-08-25,United States,Texas,Reagan,0,0,77,5
+2020-08-25,United States,Texas,Real,0,0,99,5
+2020-08-25,United States,Texas,Red River,0,0,143,13
+2020-08-25,United States,Texas,Reeves,0,0,161,5
+2020-08-25,United States,Texas,Refugio,4,0,251,9
+2020-08-25,United States,Texas,Roberts,0,0,6,0
+2020-08-25,United States,Texas,Robertson,0,0,244,3
+2020-08-25,United States,Texas,Rockwall,0,0,1266,21
+2020-08-25,United States,Texas,Runnels,0,0,177,3
+2020-08-25,United States,Texas,Rusk,2,0,446,3
+2020-08-25,United States,Texas,Sabine,0,0,72,6
+2020-08-25,United States,Texas,San Augustine,0,0,185,12
+2020-08-25,United States,Texas,San Jacinto,0,0,193,8
+2020-08-25,United States,Texas,San Patricio,0,0,1202,52
+2020-08-25,United States,Texas,San Saba,0,0,33,0
+2020-08-25,United States,Texas,Schleicher,0,0,36,1
+2020-08-25,United States,Texas,Scurry,0,0,515,2
+2020-08-25,United States,Texas,Shackelford,0,0,20,0
+2020-08-25,United States,Texas,Shelby,0,1,426,19
+2020-08-25,United States,Texas,Sherman,0,0,50,0
+2020-08-25,United States,Texas,Smith,0,1,2978,52
+2020-08-25,United States,Texas,Somervell,0,0,113,2
+2020-08-25,United States,Texas,Starr,34,0,2603,117
+2020-08-25,United States,Texas,Stephens,0,0,111,3
+2020-08-25,United States,Texas,Sterling,0,0,1,0
+2020-08-25,United States,Texas,Stonewall,0,0,7,1
+2020-08-25,United States,Texas,Sutton,0,0,76,2
+2020-08-25,United States,Texas,Swisher,0,0,88,3
+2020-08-25,United States,Texas,Tarrant,411,5,40331,763
+2020-08-25,United States,Texas,Taylor,6,0,1249,32
+2020-08-25,United States,Texas,Terrell,0,0,3,0
+2020-08-25,United States,Texas,Terry,0,0,188,3
+2020-08-25,United States,Texas,Throckmorton,0,0,4,2
+2020-08-25,United States,Texas,Titus,0,0,1293,19
+2020-08-25,United States,Texas,Tom Green,18,0,3094,43
+2020-08-25,United States,Texas,Travis,154,5,25890,362
+2020-08-25,United States,Texas,Trinity,0,0,169,4
+2020-08-25,United States,Texas,Tyler,0,0,175,3
+2020-08-25,United States,Texas,Unassigned,0,0,0,0
+2020-08-25,United States,Texas,Upshur,-1,0,312,5
+2020-08-25,United States,Texas,Upton,0,0,18,1
+2020-08-25,United States,Texas,Uvalde,0,0,654,16
+2020-08-25,United States,Texas,Val Verde,0,0,1869,83
+2020-08-25,United States,Texas,Van Zandt,0,0,488,12
+2020-08-25,United States,Texas,Victoria,0,2,3712,71
+2020-08-25,United States,Texas,Walker,20,0,3340,46
+2020-08-25,United States,Texas,Waller,10,0,635,5
+2020-08-25,United States,Texas,Ward,0,0,102,1
+2020-08-25,United States,Texas,Washington,1,0,560,43
+2020-08-25,United States,Texas,Webb,34,4,10164,232
+2020-08-25,United States,Texas,Wharton,40,0,1152,39
+2020-08-25,United States,Texas,Wheeler,0,0,40,0
+2020-08-25,United States,Texas,Wichita,0,0,1205,14
+2020-08-25,United States,Texas,Wilbarger,0,0,95,2
+2020-08-25,United States,Texas,Willacy,7,0,817,40
+2020-08-25,United States,Texas,Williamson,60,0,7747,113
+2020-08-25,United States,Texas,Wilson,0,0,524,24
+2020-08-25,United States,Texas,Winkler,0,0,88,1
+2020-08-25,United States,Texas,Wise,0,0,604,11
+2020-08-25,United States,Texas,Wood,0,0,378,13
+2020-08-25,United States,Texas,Yoakum,0,0,139,4
+2020-08-25,United States,Texas,Young,0,0,209,6
+2020-08-25,United States,Texas,Zapata,4,0,242,3
+2020-08-25,United States,Texas,Zavala,0,0,253,8
+2020-08-25,United States,Utah,Bear River,9,0,2491,9
+2020-08-25,United States,Utah,Central Utah,2,0,486,2
+2020-08-25,United States,Utah,Davis,12,1,3625,22
+2020-08-25,United States,Utah,Salt Lake,123,0,22883,224
+2020-08-25,United States,Utah,San Juan,1,1,662,28
+2020-08-25,United States,Utah,Southeast Utah,5,0,133,1
+2020-08-25,United States,Utah,Southwest Utah,9,0,3463,26
+2020-08-25,United States,Utah,Summit,5,0,815,1
+2020-08-25,United States,Utah,Tooele,3,0,644,0
+2020-08-25,United States,Utah,TriCounty,1,1,198,1
+2020-08-25,United States,Utah,Unassigned,0,0,0,0
+2020-08-25,United States,Utah,Utah,67,1,10187,43
+2020-08-25,United States,Utah,Wasatch,0,1,615,5
+2020-08-25,United States,Utah,Weber-Morgan,12,0,3162,28
+2020-08-25,United States,Vermont,Addison,0,0,77,2
+2020-08-25,United States,Vermont,Bennington,0,0,96,1
+2020-08-25,United States,Vermont,Caledonia,0,0,30,0
+2020-08-25,United States,Vermont,Chittenden,2,0,775,39
+2020-08-25,United States,Vermont,Essex,0,0,6,0
+2020-08-25,United States,Vermont,Franklin,1,0,123,7
+2020-08-25,United States,Vermont,Grand Isle,0,0,13,0
+2020-08-25,United States,Vermont,Lamoille,0,0,45,1
+2020-08-25,United States,Vermont,Orange,0,0,20,0
+2020-08-25,United States,Vermont,Orleans,0,0,15,0
+2020-08-25,United States,Vermont,Rutland,2,0,105,1
+2020-08-25,United States,Vermont,Unassigned,0,0,8,0
+2020-08-25,United States,Vermont,Washington,1,0,61,2
+2020-08-25,United States,Vermont,Windham,3,0,117,3
+2020-08-25,United States,Vermont,Windsor,0,0,75,2
+2020-08-25,United States,Virgin Islands,,52,1,984,11
+2020-08-25,United States,Virginia,Accomack,0,0,1135,18
+2020-08-25,United States,Virginia,Albemarle,2,0,963,16
+2020-08-25,United States,Virginia,Alexandria,13,0,3270,61
+2020-08-25,United States,Virginia,Alleghany,0,0,61,4
+2020-08-25,United States,Virginia,Amelia,0,0,92,2
+2020-08-25,United States,Virginia,Amherst,3,0,262,1
+2020-08-25,United States,Virginia,Appomattox,1,0,136,1
+2020-08-25,United States,Virginia,Arlington,17,0,3400,137
+2020-08-25,United States,Virginia,Augusta,1,0,346,4
+2020-08-25,United States,Virginia,Bath,0,0,4,0
+2020-08-25,United States,Virginia,Bedford,2,0,487,8
+2020-08-25,United States,Virginia,Bland,0,0,38,0
+2020-08-25,United States,Virginia,Botetourt,4,0,230,8
+2020-08-25,United States,Virginia,Bristol,0,0,105,2
+2020-08-25,United States,Virginia,Brunswick,5,0,269,2
+2020-08-25,United States,Virginia,Buchanan,0,0,93,1
+2020-08-25,United States,Virginia,Buckingham,0,0,634,8
+2020-08-25,United States,Virginia,Buena Vista,0,0,70,1
+2020-08-25,United States,Virginia,Campbell,2,0,298,3
+2020-08-25,United States,Virginia,Caroline,5,0,252,5
+2020-08-25,United States,Virginia,Carroll,4,0,378,16
+2020-08-25,United States,Virginia,Charles City,1,0,66,5
+2020-08-25,United States,Virginia,Charlotte,0,0,59,0
+2020-08-25,United States,Virginia,Charlottesville,1,0,589,16
+2020-08-25,United States,Virginia,Chesapeake,41,1,3564,43
+2020-08-25,United States,Virginia,Chesterfield,14,0,4867,76
+2020-08-25,United States,Virginia,Clarke,0,0,76,0
+2020-08-25,United States,Virginia,Colonial Heights,-1,0,214,22
+2020-08-25,United States,Virginia,Covington,0,0,19,0
+2020-08-25,United States,Virginia,Craig,0,0,22,0
+2020-08-25,United States,Virginia,Culpeper,3,0,1073,13
+2020-08-25,United States,Virginia,Cumberland,0,0,92,0
+2020-08-25,United States,Virginia,Danville,2,0,544,12
+2020-08-25,United States,Virginia,Dickenson,0,0,55,1
+2020-08-25,United States,Virginia,Dinwiddie,2,0,264,8
+2020-08-25,United States,Virginia,Emporia,2,0,214,15
+2020-08-25,United States,Virginia,Essex,1,0,113,2
+2020-08-25,United States,Virginia,Fairfax,82,1,17729,543
+2020-08-25,United States,Virginia,Fairfax City,0,0,106,7
+2020-08-25,United States,Virginia,Falls Church,0,0,64,7
+2020-08-25,United States,Virginia,Fauquier,3,0,720,9
+2020-08-25,United States,Virginia,Floyd,3,0,124,2
+2020-08-25,United States,Virginia,Fluvanna,1,0,210,9
+2020-08-25,United States,Virginia,Franklin,0,0,194,1
+2020-08-25,United States,Virginia,Franklin City,4,0,264,6
+2020-08-25,United States,Virginia,Frederick,6,0,744,10
+2020-08-25,United States,Virginia,Fredericksburg,2,0,453,4
+2020-08-25,United States,Virginia,Galax,4,0,394,28
+2020-08-25,United States,Virginia,Giles,0,0,35,0
+2020-08-25,United States,Virginia,Gloucester,2,0,188,2
+2020-08-25,United States,Virginia,Goochland,1,0,180,7
+2020-08-25,United States,Virginia,Grayson,2,0,174,5
+2020-08-25,United States,Virginia,Greene,1,0,192,2
+2020-08-25,United States,Virginia,Greensville,0,0,657,11
+2020-08-25,United States,Virginia,Halifax,0,0,186,2
+2020-08-25,United States,Virginia,Hampton,9,0,1463,11
+2020-08-25,United States,Virginia,Hanover,2,0,743,34
+2020-08-25,United States,Virginia,Harrisonburg,13,0,1143,31
+2020-08-25,United States,Virginia,Henrico,40,0,4359,189
+2020-08-25,United States,Virginia,Henry,3,0,750,14
+2020-08-25,United States,Virginia,Highland,0,0,6,0
+2020-08-25,United States,Virginia,Hopewell,2,0,318,4
+2020-08-25,United States,Virginia,Isle of Wight,7,0,485,10
+2020-08-25,United States,Virginia,James City,11,0,712,17
+2020-08-25,United States,Virginia,King and Queen,1,0,47,1
+2020-08-25,United States,Virginia,King George,7,0,193,4
+2020-08-25,United States,Virginia,King William,0,0,106,2
+2020-08-25,United States,Virginia,Lancaster,3,0,60,0
+2020-08-25,United States,Virginia,Lee,3,0,161,2
+2020-08-25,United States,Virginia,Lexington,1,0,42,0
+2020-08-25,United States,Virginia,Loudoun,23,0,5735,115
+2020-08-25,United States,Virginia,Louisa,2,0,233,2
+2020-08-25,United States,Virginia,Lunenburg,0,0,81,1
+2020-08-25,United States,Virginia,Lynchburg,7,0,839,5
+2020-08-25,United States,Virginia,Madison,0,0,85,2
+2020-08-25,United States,Virginia,Manassas,4,0,1758,23
+2020-08-25,United States,Virginia,Manassas Park,0,0,552,7
+2020-08-25,United States,Virginia,Martinsville,2,0,280,3
+2020-08-25,United States,Virginia,Mathews,0,0,23,0
+2020-08-25,United States,Virginia,Mecklenburg,1,0,482,33
+2020-08-25,United States,Virginia,Middlesex,0,0,54,1
+2020-08-25,United States,Virginia,Montgomery,13,0,387,3
+2020-08-25,United States,Virginia,Nelson,1,0,82,0
+2020-08-25,United States,Virginia,New Kent,2,0,142,1
+2020-08-25,United States,Virginia,Newport News,15,0,2145,20
+2020-08-25,United States,Virginia,Norfolk,0,0,4164,43
+2020-08-25,United States,Virginia,Northampton,0,0,303,29
+2020-08-25,United States,Virginia,Northumberland,2,0,85,3
+2020-08-25,United States,Virginia,Norton,0,0,22,0
+2020-08-25,United States,Virginia,Nottoway,0,0,184,14
+2020-08-25,United States,Virginia,Orange,0,0,244,3
+2020-08-25,United States,Virginia,Page,0,0,358,25
+2020-08-25,United States,Virginia,Patrick,-1,0,199,10
+2020-08-25,United States,Virginia,Petersburg,5,1,587,20
+2020-08-25,United States,Virginia,Pittsylvania,3,0,644,4
+2020-08-25,United States,Virginia,Poquoson,1,0,57,0
+2020-08-25,United States,Virginia,Portsmouth,0,1,2086,31
+2020-08-25,United States,Virginia,Powhatan,1,0,179,4
+2020-08-25,United States,Virginia,Prince Edward,0,0,466,11
+2020-08-25,United States,Virginia,Prince George,2,0,491,2
+2020-08-25,United States,Virginia,Prince William,51,0,10392,183
+2020-08-25,United States,Virginia,Pulaski,1,0,109,3
+2020-08-25,United States,Virginia,Radford,33,0,166,0
+2020-08-25,United States,Virginia,Rappahannock,0,0,49,2
+2020-08-25,United States,Virginia,Richmond,5,0,328,4
+2020-08-25,United States,Virginia,Richmond City,27,0,3615,43
+2020-08-25,United States,Virginia,Roanoke,5,0,557,4
+2020-08-25,United States,Virginia,Roanoke City,6,0,1129,15
+2020-08-25,United States,Virginia,Rockbridge,1,0,81,1
+2020-08-25,United States,Virginia,Rockingham,1,0,1000,20
+2020-08-25,United States,Virginia,Russell,0,0,168,4
+2020-08-25,United States,Virginia,Salem,4,0,190,3
+2020-08-25,United States,Virginia,Scott,3,0,143,3
+2020-08-25,United States,Virginia,Shenandoah,1,0,759,47
+2020-08-25,United States,Virginia,Smyth,3,0,222,3
+2020-08-25,United States,Virginia,Southampton,2,0,331,13
+2020-08-25,United States,Virginia,Spotsylvania,17,0,1718,37
+2020-08-25,United States,Virginia,Stafford,13,0,1602,10
+2020-08-25,United States,Virginia,Staunton,0,0,165,0
+2020-08-25,United States,Virginia,Suffolk,9,0,1545,59
+2020-08-25,United States,Virginia,Surry,2,0,60,2
+2020-08-25,United States,Virginia,Sussex,0,0,324,9
+2020-08-25,United States,Virginia,Tazewell,0,0,171,0
+2020-08-25,United States,Virginia,Unassigned,0,0,0,0
+2020-08-25,United States,Virginia,Virginia Beach,46,0,5739,64
+2020-08-25,United States,Virginia,Warren,0,0,386,6
+2020-08-25,United States,Virginia,Washington,0,0,311,7
+2020-08-25,United States,Virginia,Waynesboro,2,0,208,3
+2020-08-25,United States,Virginia,Westmoreland,0,0,220,3
+2020-08-25,United States,Virginia,Williamsburg,1,0,145,6
+2020-08-25,United States,Virginia,Winchester,0,0,429,4
+2020-08-25,United States,Virginia,Wise,4,0,287,5
+2020-08-25,United States,Virginia,Wythe,0,0,139,3
+2020-08-25,United States,Virginia,York,5,0,432,5
+2020-08-25,United States,Washington,Adams,11,0,564,7
+2020-08-25,United States,Washington,Asotin,0,0,49,2
+2020-08-25,United States,Washington,Benton,18,0,4020,120
+2020-08-25,United States,Washington,Chelan,8,0,1686,11
+2020-08-25,United States,Washington,Clallam,2,0,193,1
+2020-08-25,United States,Washington,Clark,35,1,2101,57
+2020-08-25,United States,Washington,Columbia,0,0,13,1
+2020-08-25,United States,Washington,Cowlitz,4,0,526,6
+2020-08-25,United States,Washington,Douglas,1,0,1118,7
+2020-08-25,United States,Washington,Ferry,0,0,24,0
+2020-08-25,United States,Washington,Franklin,9,1,3873,54
+2020-08-25,United States,Washington,Garfield,0,0,4,0
+2020-08-25,United States,Washington,Grant,18,0,2108,15
+2020-08-25,United States,Washington,Grays Harbor,1,1,221,7
+2020-08-25,United States,Washington,Island,3,0,267,10
+2020-08-25,United States,Washington,Jefferson,1,0,69,0
+2020-08-25,United States,Washington,King,60,1,18980,716
+2020-08-25,United States,Washington,Kitsap,3,0,932,8
+2020-08-25,United States,Washington,Kittitas,0,0,454,21
+2020-08-25,United States,Washington,Klickitat,1,0,182,2
+2020-08-25,United States,Washington,Lewis,2,0,321,4
+2020-08-25,United States,Washington,Lincoln,0,0,31,1
+2020-08-25,United States,Washington,Mason,3,0,299,1
+2020-08-25,United States,Washington,Okanogan,0,0,969,9
+2020-08-25,United States,Washington,Pacific,0,0,61,2
+2020-08-25,United States,Washington,Pend Oreille,0,0,55,0
+2020-08-25,United States,Washington,Pierce,21,1,6601,160
+2020-08-25,United States,Washington,San Juan,0,0,29,0
+2020-08-25,United States,Washington,Skagit,2,0,1014,22
+2020-08-25,United States,Washington,Skamania,0,0,59,1
+2020-08-25,United States,Washington,Snohomish,29,0,6064,198
+2020-08-25,United States,Washington,Spokane,26,1,5071,121
+2020-08-25,United States,Washington,Stevens,0,0,122,1
+2020-08-25,United States,Washington,Thurston,8,0,894,12
+2020-08-25,United States,Washington,Unassigned,1,0,207,1
+2020-08-25,United States,Washington,Wahkiakum,0,0,6,0
+2020-08-25,United States,Washington,Walla Walla,6,0,710,2
+2020-08-25,United States,Washington,Whatcom,2,0,1060,34
+2020-08-25,United States,Washington,Whitman,59,0,257,0
+2020-08-25,United States,Washington,Yakima,13,1,10947,242
+2020-08-25,United States,West Virginia,Barbour,0,0,33,1
+2020-08-25,United States,West Virginia,Berkeley,1,0,767,11
+2020-08-25,United States,West Virginia,Boone,1,0,128,0
+2020-08-25,United States,West Virginia,Braxton,0,0,9,0
+2020-08-25,United States,West Virginia,Brooke,1,0,85,1
+2020-08-25,United States,West Virginia,Cabell,3,0,490,5
+2020-08-25,United States,West Virginia,Calhoun,0,0,8,0
+2020-08-25,United States,West Virginia,Clay,0,0,19,1
+2020-08-25,United States,West Virginia,Doddridge,0,0,6,0
+2020-08-25,United States,West Virginia,Fayette,0,0,187,8
+2020-08-25,United States,West Virginia,Gilmer,0,0,18,0
+2020-08-25,United States,West Virginia,Grant,0,0,133,5
+2020-08-25,United States,West Virginia,Greenbrier,0,0,100,3
+2020-08-25,United States,West Virginia,Hampshire,1,0,92,1
+2020-08-25,United States,West Virginia,Hancock,0,0,118,0
+2020-08-25,United States,West Virginia,Hardy,0,0,63,0
+2020-08-25,United States,West Virginia,Harrison,1,0,256,1
+2020-08-25,United States,West Virginia,Jackson,0,0,190,19
+2020-08-25,United States,West Virginia,Jefferson,2,0,324,4
+2020-08-25,United States,West Virginia,Kanawha,11,0,1225,27
+2020-08-25,United States,West Virginia,Lewis,0,0,32,2
+2020-08-25,United States,West Virginia,Lincoln,0,0,115,0
+2020-08-25,United States,West Virginia,Logan,2,0,439,17
+2020-08-25,United States,West Virginia,Marion,1,0,208,2
+2020-08-25,United States,West Virginia,Marshall,0,0,135,1
+2020-08-25,United States,West Virginia,Mason,1,0,84,1
+2020-08-25,United States,West Virginia,McDowell,0,0,66,0
+2020-08-25,United States,West Virginia,Mercer,2,0,276,21
+2020-08-25,United States,West Virginia,Mineral,0,0,131,4
+2020-08-25,United States,West Virginia,Mingo,0,0,213,5
+2020-08-25,United States,West Virginia,Monongalia,7,0,1060,5
+2020-08-25,United States,West Virginia,Monroe,0,0,65,0
+2020-08-25,United States,West Virginia,Morgan,0,0,37,0
+2020-08-25,United States,West Virginia,Nicholas,1,0,43,1
+2020-08-25,United States,West Virginia,Ohio,0,0,288,4
+2020-08-25,United States,West Virginia,Pendleton,0,0,48,1
+2020-08-25,United States,West Virginia,Pleasants,0,0,14,2
+2020-08-25,United States,West Virginia,Pocahontas,0,0,42,0
+2020-08-25,United States,West Virginia,Preston,1,0,135,4
+2020-08-25,United States,West Virginia,Putnam,2,0,247,0
+2020-08-25,United States,West Virginia,Raleigh,1,0,325,3
+2020-08-25,United States,West Virginia,Randolph,0,0,220,0
+2020-08-25,United States,West Virginia,Ritchie,0,0,3,0
+2020-08-25,United States,West Virginia,Roane,1,0,25,1
+2020-08-25,United States,West Virginia,Summers,0,0,18,0
+2020-08-25,United States,West Virginia,Taylor,1,0,101,2
+2020-08-25,United States,West Virginia,Tucker,0,0,11,0
+2020-08-25,United States,West Virginia,Tyler,0,0,15,0
+2020-08-25,United States,West Virginia,Unassigned,0,0,0,0
+2020-08-25,United States,West Virginia,Upshur,0,0,40,0
+2020-08-25,United States,West Virginia,Wayne,1,0,227,9
+2020-08-25,United States,West Virginia,Webster,0,0,7,0
+2020-08-25,United States,West Virginia,Wetzel,0,0,45,0
+2020-08-25,United States,West Virginia,Wirt,0,0,7,0
+2020-08-25,United States,West Virginia,Wood,0,0,291,5
+2020-08-25,United States,West Virginia,Wyoming,0,0,51,2
+2020-08-25,United States,Wisconsin,Adams,0,0,99,2
+2020-08-25,United States,Wisconsin,Ashland,0,0,31,1
+2020-08-25,United States,Wisconsin,Barron,0,0,358,3
+2020-08-25,United States,Wisconsin,Bayfield,0,0,41,1
+2020-08-25,United States,Wisconsin,Brown,10,0,4969,57
+2020-08-25,United States,Wisconsin,Buffalo,2,0,54,2
+2020-08-25,United States,Wisconsin,Burnett,0,0,33,1
+2020-08-25,United States,Wisconsin,Calumet,8,0,450,2
+2020-08-25,United States,Wisconsin,Chippewa,1,0,302,0
+2020-08-25,United States,Wisconsin,Clark,2,0,230,8
+2020-08-25,United States,Wisconsin,Columbia,7,0,326,2
+2020-08-25,United States,Wisconsin,Crawford,1,0,96,0
+2020-08-25,United States,Wisconsin,Dane,29,0,5117,39
+2020-08-25,United States,Wisconsin,Dodge,23,0,1034,5
+2020-08-25,United States,Wisconsin,Door,2,0,126,3
+2020-08-25,United States,Wisconsin,Douglas,2,0,241,0
+2020-08-25,United States,Wisconsin,Dunn,1,0,155,0
+2020-08-25,United States,Wisconsin,Eau Claire,6,0,728,6
+2020-08-25,United States,Wisconsin,Florence,3,0,22,0
+2020-08-25,United States,Wisconsin,Fond du Lac,22,0,964,9
+2020-08-25,United States,Wisconsin,Forest,1,0,65,4
+2020-08-25,United States,Wisconsin,Grant,1,0,421,16
+2020-08-25,United States,Wisconsin,Green,1,0,250,1
+2020-08-25,United States,Wisconsin,Green Lake,7,0,83,0
+2020-08-25,United States,Wisconsin,Iowa,1,0,110,0
+2020-08-25,United States,Wisconsin,Iron,2,0,110,1
+2020-08-25,United States,Wisconsin,Jackson,0,0,71,1
+2020-08-25,United States,Wisconsin,Jefferson,5,0,824,6
+2020-08-25,United States,Wisconsin,Juneau,2,0,173,1
+2020-08-25,United States,Wisconsin,Kenosha,1,0,2874,61
+2020-08-25,United States,Wisconsin,Kewaunee,0,0,156,2
+2020-08-25,United States,Wisconsin,La Crosse,9,0,1047,1
+2020-08-25,United States,Wisconsin,Lafayette,1,0,182,0
+2020-08-25,United States,Wisconsin,Langlade,0,0,76,2
+2020-08-25,United States,Wisconsin,Lincoln,0,0,76,1
+2020-08-25,United States,Wisconsin,Manitowoc,5,0,457,1
+2020-08-25,United States,Wisconsin,Marathon,2,0,733,13
+2020-08-25,United States,Wisconsin,Marinette,2,0,565,6
+2020-08-25,United States,Wisconsin,Marquette,0,0,82,1
+2020-08-25,United States,Wisconsin,Menominee,0,0,28,0
+2020-08-25,United States,Wisconsin,Milwaukee,72,0,23281,479
+2020-08-25,United States,Wisconsin,Monroe,0,0,266,2
+2020-08-25,United States,Wisconsin,Oconto,14,0,372,1
+2020-08-25,United States,Wisconsin,Oneida,1,0,193,0
+2020-08-25,United States,Wisconsin,Outagamie,26,0,1576,17
+2020-08-25,United States,Wisconsin,Ozaukee,0,0,853,18
+2020-08-25,United States,Wisconsin,Pepin,1,0,47,0
+2020-08-25,United States,Wisconsin,Pierce,1,0,271,4
+2020-08-25,United States,Wisconsin,Polk,0,0,156,2
+2020-08-25,United States,Wisconsin,Portage,5,0,512,0
+2020-08-25,United States,Wisconsin,Price,0,0,33,0
+2020-08-25,United States,Wisconsin,Racine,0,0,3840,85
+2020-08-25,United States,Wisconsin,Richland,0,0,41,4
+2020-08-25,United States,Wisconsin,Rock,11,0,1571,26
+2020-08-25,United States,Wisconsin,Rusk,0,0,23,1
+2020-08-25,United States,Wisconsin,Sauk,2,0,590,3
+2020-08-25,United States,Wisconsin,Sawyer,1,0,143,0
+2020-08-25,United States,Wisconsin,Shawano,3,0,234,0
+2020-08-25,United States,Wisconsin,Sheboygan,6,0,939,8
+2020-08-25,United States,Wisconsin,St. Croix,1,0,591,6
+2020-08-25,United States,Wisconsin,Taylor,2,0,85,3
+2020-08-25,United States,Wisconsin,Trempealeau,0,0,395,2
+2020-08-25,United States,Wisconsin,Unassigned,0,0,0,0
+2020-08-25,United States,Wisconsin,Vernon,0,0,86,0
+2020-08-25,United States,Wisconsin,Vilas,3,0,93,0
+2020-08-25,United States,Wisconsin,Walworth,13,0,1604,25
+2020-08-25,United States,Wisconsin,Washburn,1,0,56,0
+2020-08-25,United States,Wisconsin,Washington,2,0,1460,26
+2020-08-25,United States,Wisconsin,Waukesha,54,0,5267,70
+2020-08-25,United States,Wisconsin,Waupaca,1,0,593,17
+2020-08-25,United States,Wisconsin,Waushara,2,0,135,1
+2020-08-25,United States,Wisconsin,Winnebago,10,0,1371,20
+2020-08-25,United States,Wisconsin,Wood,1,0,418,2
+2020-08-25,United States,Wyoming,Albany,0,0,127,0
+2020-08-25,United States,Wyoming,Big Horn,1,0,39,0
+2020-08-25,United States,Wyoming,Campbell,2,0,164,0
+2020-08-25,United States,Wyoming,Carbon,1,0,185,0
+2020-08-25,United States,Wyoming,Converse,0,0,36,0
+2020-08-25,United States,Wyoming,Crook,1,0,14,0
+2020-08-25,United States,Wyoming,Fremont,2,0,574,0
+2020-08-25,United States,Wyoming,Goshen,2,0,46,0
+2020-08-25,United States,Wyoming,Hot Springs,1,0,28,0
+2020-08-25,United States,Wyoming,Johnson,0,0,27,1
+2020-08-25,United States,Wyoming,Laramie,4,0,545,0
+2020-08-25,United States,Wyoming,Lincoln,1,0,108,0
+2020-08-25,United States,Wyoming,Natrona,6,0,273,0
+2020-08-25,United States,Wyoming,Niobrara,0,0,2,0
+2020-08-25,United States,Wyoming,Park,0,0,158,0
+2020-08-25,United States,Wyoming,Platte,0,0,7,0
+2020-08-25,United States,Wyoming,Sheridan,4,0,121,0
+2020-08-25,United States,Wyoming,Sublette,0,0,48,0
+2020-08-25,United States,Wyoming,Sweetwater,0,0,290,0
+2020-08-25,United States,Wyoming,Teton,0,0,409,0
+2020-08-25,United States,Wyoming,Uinta,0,0,283,0
+2020-08-25,United States,Wyoming,Unassigned,0,0,0,36
+2020-08-25,United States,Wyoming,Washakie,0,0,108,0
+2020-08-25,United States,Wyoming,Weston,0,0,11,0
