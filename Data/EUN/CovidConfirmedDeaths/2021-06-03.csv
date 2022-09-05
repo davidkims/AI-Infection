@@ -1,0 +1,3622 @@
+tDate,Country,Province1,Province2,Confirmed,Deaths,AccConfirmed,AccDeaths
+2021-06-03,Australia,Australian Capital Territory,,0,0,124,3
+2021-06-03,Australia,New South Wales,,2,0,5590,54
+2021-06-03,Australia,Northern Territory,,0,0,173,0
+2021-06-03,Australia,Queensland,,2,0,1621,7
+2021-06-03,Australia,South Australia,,6,0,760,4
+2021-06-03,Australia,Tasmania,,0,0,234,13
+2021-06-03,Australia,Victoria,,3,0,20617,820
+2021-06-03,Australia,Western Australia,,0,0,1018,9
+2021-06-03,Austria,,,400,6,645552,10621
+2021-06-03,Belgium,Antwerp,,302,0,138275,0
+2021-06-03,Belgium,Brussels,,206,0,130690,0
+2021-06-03,Belgium,East Flanders,,202,0,122194,0
+2021-06-03,Belgium,Flemish Brabant,,139,0,81048,0
+2021-06-03,Belgium,Hainaut,,252,0,157256,0
+2021-06-03,Belgium,Liege,,211,0,128684,0
+2021-06-03,Belgium,Limburg,,135,0,60000,0
+2021-06-03,Belgium,Luxembourg,,24,0,30973,0
+2021-06-03,Belgium,Namur,,62,0,58761,0
+2021-06-03,Belgium,Unknown,,59,14,20364,24982
+2021-06-03,Belgium,Walloon Brabant,,76,0,40857,0
+2021-06-03,Belgium,West Flanders,,191,0,96256,0
+2021-06-03,Canada,Alberta,,410,3,228128,2231
+2021-06-03,Canada,British Columbia,,194,4,144667,1707
+2021-06-03,Canada,Manitoba,,264,6,51580,1062
+2021-06-03,Canada,New Brunswick,,12,0,2227,43
+2021-06-03,Canada,Newfoundland and Labrador,,17,0,1334,6
+2021-06-03,Canada,Northwest Territories,,0,0,128,0
+2021-06-03,Canada,Nova Scotia,,16,2,5595,87
+2021-06-03,Canada,Nunavut,,0,0,648,4
+2021-06-03,Canada,Ontario,,853,23,540763,8768
+2021-06-03,Canada,Prince Edward Island,,0,0,204,0
+2021-06-03,Canada,Quebec,,296,5,371384,11138
+2021-06-03,Canada,Repatriated Travellers,,0,0,13,0
+2021-06-03,Canada,Saskatchewan,,130,1,46964,541
+2021-06-03,Canada,Yukon,,0,0,84,2
+2021-06-03,Chile,Antofagasta,,111,0,53658,1044
+2021-06-03,Chile,Araucania,,217,0,83585,1073
+2021-06-03,Chile,Arica y Parinacota,,57,0,22926,444
+2021-06-03,Chile,Atacama,,156,0,21706,236
+2021-06-03,Chile,Aysen,,67,0,6093,35
+2021-06-03,Chile,Biobio,,377,0,131293,2098
+2021-06-03,Chile,Coquimbo,,152,0,38247,702
+2021-06-03,Chile,Los Lagos,,236,0,78068,1053
+2021-06-03,Chile,Los Rios,,151,0,39450,449
+2021-06-03,Chile,Magallanes,,44,1,27871,411
+2021-06-03,Chile,Maule,,331,0,85522,1377
+2021-06-03,Chile,Metropolitana,,2819,40,581583,15532
+2021-06-03,Chile,Nuble,,102,0,30482,509
+2021-06-03,Chile,OHiggins,,292,0,57816,1161
+2021-06-03,Chile,Tarapaca,,54,0,36974,674
+2021-06-03,Chile,Unknown,,0,0,54,0
+2021-06-03,Chile,Valparaiso,,450,0,99645,2587
+2021-06-03,China,Anhui,,0,0,1004,6
+2021-06-03,China,Beijing,,1,0,1060,9
+2021-06-03,China,Chongqing,,0,0,598,6
+2021-06-03,China,Fujian,,1,0,625,1
+2021-06-03,China,Gansu,,0,0,194,2
+2021-06-03,China,Guangdong,,17,0,2498,8
+2021-06-03,China,Guangxi,,0,0,275,2
+2021-06-03,China,Guizhou,,0,0,147,2
+2021-06-03,China,Hainan,,0,0,188,6
+2021-06-03,China,Hebei,,0,0,1317,7
+2021-06-03,China,Heilongjiang,,0,0,1612,13
+2021-06-03,China,Henan,,0,0,1315,22
+2021-06-03,China,Hong Kong,,0,0,11848,210
+2021-06-03,China,Hubei,,0,0,68159,4512
+2021-06-03,China,Hunan,,0,0,1051,4
+2021-06-03,China,Inner Mongolia,,0,0,387,1
+2021-06-03,China,Jiangsu,,0,0,727,0
+2021-06-03,China,Jiangxi,,0,0,937,1
+2021-06-03,China,Jilin,,0,0,573,3
+2021-06-03,China,Liaoning,,0,0,425,2
+2021-06-03,China,Macau,,0,0,51,0
+2021-06-03,China,Ningxia,,0,0,76,0
+2021-06-03,China,Qinghai,,0,0,18,0
+2021-06-03,China,Shaanxi,,0,0,616,3
+2021-06-03,China,Shandong,,0,0,883,7
+2021-06-03,China,Shanghai,,3,0,2111,7
+2021-06-03,China,Shanxi,,0,0,253,0
+2021-06-03,China,Sichuan,,2,0,1030,3
+2021-06-03,China,Tianjin,,0,0,393,3
+2021-06-03,China,Tibet,,0,0,1,0
+2021-06-03,China,Unknown,,0,0,0,0
+2021-06-03,China,Xinjiang,,0,0,980,3
+2021-06-03,China,Yunnan,,0,0,353,2
+2021-06-03,China,Zhejiang,,0,0,1364,1
+2021-06-03,Colombia,Amazonas,,18,0,6346,241
+2021-06-03,Colombia,Antioquia,,5437,110,547033,12142
+2021-06-03,Colombia,Arauca,,160,2,7975,236
+2021-06-03,Colombia,Atlantico,,1277,35,273719,8494
+2021-06-03,Colombia,Bolivar,,3322,32,105946,2035
+2021-06-03,Colombia,Boyaca,,1500,27,68623,1609
+2021-06-03,Colombia,Caldas,,1110,18,73123,1501
+2021-06-03,Colombia,Capital District,,16521,252,982405,19209
+2021-06-03,Colombia,Caqueta,,90,3,18433,688
+2021-06-03,Colombia,Casanare,,711,10,21461,487
+2021-06-03,Colombia,Cauca,,444,7,34609,926
+2021-06-03,Colombia,Cesar,,1303,26,69427,1872
+2021-06-03,Colombia,Choco,,410,6,11919,303
+2021-06-03,Colombia,Cordoba,,1127,23,64738,2541
+2021-06-03,Colombia,Cundinamarca,,4590,91,168593,4548
+2021-06-03,Colombia,Guainia,,43,0,1798,22
+2021-06-03,Colombia,Guaviare,,76,4,3175,52
+2021-06-03,Colombia,Huila,,637,31,59579,2070
+2021-06-03,Colombia,La Guajira,,385,7,36424,1147
+2021-06-03,Colombia,Magdalena,,1471,26,71655,2696
+2021-06-03,Colombia,Meta,,911,13,53950,1254
+2021-06-03,Colombia,Narino,,1018,37,64771,2146
+2021-06-03,Colombia,Norte de Santander,,1056,19,62424,3073
+2021-06-03,Colombia,Putumayo,,133,6,12094,497
+2021-06-03,Colombia,Quindio,,318,11,44105,1324
+2021-06-03,Colombia,Risaralda,,636,9,63504,1592
+2021-06-03,Colombia,San Andres y Providencia,,136,7,5648,104
+2021-06-03,Colombia,Santander,,2810,68,136884,4640
+2021-06-03,Colombia,Sucre,,1039,24,37031,1183
+2021-06-03,Colombia,Tolima,,1017,26,76907,2481
+2021-06-03,Colombia,Unknown,,-25966,-523,0,0
+2021-06-03,Colombia,Valle del Cauca,,3174,103,271721,8651
+2021-06-03,Colombia,Vaupes,,12,0,1547,14
+2021-06-03,Colombia,Vichada,,74,1,1855,30
+2021-06-03,Costa Rica,,,2319,24,323598,4098
+2021-06-03,Czechia,,,476,7,1662256,30126
+2021-06-03,Denmark,,,954,0,283089,2516
+2021-06-03,Denmark,Faroe Islands,,2,0,723,1
+2021-06-03,Denmark,Greenland,,0,0,40,0
+2021-06-03,Estonia,,,130,1,129804,1259
+2021-06-03,Finland,,,128,3,92770,959
+2021-06-03,France,,,0,0,5619133,108834
+2021-06-03,France,French Guiana,,176,3,24212,119
+2021-06-03,France,French Polynesia,,4,0,18879,142
+2021-06-03,France,Guadeloupe,,0,0,16874,255
+2021-06-03,France,Martinique,,0,0,11979,95
+2021-06-03,France,Mayotte,,0,0,19325,173
+2021-06-03,France,New Caledonia,,0,0,128,0
+2021-06-03,France,Reunion,,1174,14,26075,203
+2021-06-03,France,Saint Barthelemy,,0,0,1005,1
+2021-06-03,France,Saint Pierre and Miquelon,,0,0,25,0
+2021-06-03,France,St Martin,,0,0,1915,12
+2021-06-03,France,Wallis and Futuna,,0,0,445,7
+2021-06-03,Germany,Baden-Wurttemberg,,830,12,494341,10003
+2021-06-03,Germany,Bayern,,706,26,640963,14991
+2021-06-03,Germany,Berlin,,210,1,178772,3499
+2021-06-03,Germany,Brandenburg,,81,1,108417,3736
+2021-06-03,Germany,Bremen,,19,0,27159,475
+2021-06-03,Germany,Hamburg,,49,1,76387,1566
+2021-06-03,Germany,Hessen,,447,10,287588,7382
+2021-06-03,Germany,Mecklenburg-Vorpommern,,23,1,43934,1124
+2021-06-03,Germany,Niedersachsen,,319,14,258893,5645
+2021-06-03,Germany,Nordrhein-Westfalen,,1135,31,808002,16820
+2021-06-03,Germany,Rheinland-Pfalz,,246,9,153300,3745
+2021-06-03,Germany,Saarland,,63,0,40934,1011
+2021-06-03,Germany,Sachsen,,307,41,284380,9761
+2021-06-03,Germany,Sachsen-Anhalt,,121,11,98681,3362
+2021-06-03,Germany,Schleswig-Holstein,,76,2,63255,1597
+2021-06-03,Germany,Thuringen,,78,4,127833,4228
+2021-06-03,Germany,Unknown,,386,0,5165,0
+2021-06-03,Greece,,,1379,23,405542,12145
+2021-06-03,Hungary,,,275,13,804987,29774
+2021-06-03,Iceland,,,10,0,6586,30
+2021-06-03,Ireland,,,407,0,262787,4941
+2021-06-03,Israel,,,6,2,839517,6415
+2021-06-03,Italy,Abruzzo,,67,0,74142,2484
+2021-06-03,Italy,Basilicata,,37,1,26377,580
+2021-06-03,Italy,Calabria,,158,1,67164,1173
+2021-06-03,Italy,Campania,,388,5,420032,7221
+2021-06-03,Italy,Emilia-Romagna,,151,1,384137,13190
+2021-06-03,Italy,Friuli Venezia Giulia,,35,0,107060,3788
+2021-06-03,Italy,Lazio,,211,4,342429,8189
+2021-06-03,Italy,Liguria,,45,1,102825,4325
+2021-06-03,Italy,Lombardia,,519,10,836097,33630
+2021-06-03,Italy,Marche,,125,1,102841,3018
+2021-06-03,Italy,Molise,,6,0,13596,491
+2021-06-03,Italy,P.A. Bolzano,,34,1,72947,1176
+2021-06-03,Italy,P.A. Trento,,27,0,45486,1358
+2021-06-03,Italy,Piemonte,,190,4,360673,11647
+2021-06-03,Italy,Puglia,,196,10,250842,6518
+2021-06-03,Italy,Sardegna,,40,0,56735,1465
+2021-06-03,Italy,Sicilia,,289,16,226424,5855
+2021-06-03,Italy,Toscana,,162,4,241743,6729
+2021-06-03,Italy,Umbria,,33,0,56433,1402
+2021-06-03,Italy,Valle d`Aosta,,8,0,11609,472
+2021-06-03,Italy,Veneto,,175,3,423608,11572
+2021-06-03,Japan,Aichi,,287,13,47932,797
+2021-06-03,Japan,Akita,,0,0,758,14
+2021-06-03,Japan,Aomori,,15,0,2383,29
+2021-06-03,Japan,Chiba,,109,2,37273,680
+2021-06-03,Japan,Ehime,,4,0,2725,71
+2021-06-03,Japan,Fukui,,7,0,1048,34
+2021-06-03,Japan,Fukuoka,,116,4,34331,469
+2021-06-03,Japan,Fukushima,,14,0,4602,141
+2021-06-03,Japan,Gifu,,74,1,8758,161
+2021-06-03,Japan,Gunma,,23,0,7865,140
+2021-06-03,Japan,Hiroshima,,70,1,10810,133
+2021-06-03,Japan,Hokkaido,,317,10,38524,1138
+2021-06-03,Japan,Hyogo,,104,10,40061,1200
+2021-06-03,Japan,Ibaraki,,38,1,9807,151
+2021-06-03,Japan,Ishikawa,,18,0,3794,107
+2021-06-03,Japan,Iwate,,17,0,1465,45
+2021-06-03,Japan,Kagawa,,7,1,2019,25
+2021-06-03,Japan,Kagoshima,,32,0,3384,32
+2021-06-03,Japan,Kanagawa,,218,10,61956,893
+2021-06-03,Japan,Kochi,,27,0,1523,20
+2021-06-03,Japan,Kumamoto,,17,3,6310,102
+2021-06-03,Japan,Kyoto,,62,1,15924,213
+2021-06-03,Japan,Mie,,23,0,4958,108
+2021-06-03,Japan,Miyagi,,20,0,8939,83
+2021-06-03,Japan,Miyazaki,,4,1,3031,25
+2021-06-03,Japan,Nagano,,16,0,4822,83
+2021-06-03,Japan,Nagasaki,,10,1,2917,67
+2021-06-03,Japan,Nara,,19,0,7826,116
+2021-06-03,Japan,Niigata,,18,3,3252,38
+2021-06-03,Japan,Oita,,22,3,3408,50
+2021-06-03,Japan,Okayama,,37,0,7397,106
+2021-06-03,Japan,Okinawa,,297,1,17622,153
+2021-06-03,Japan,Osaka,,213,27,100125,2359
+2021-06-03,Japan,Port Quarantine,,6,0,2973,3
+2021-06-03,Japan,Saga,,3,0,2526,20
+2021-06-03,Japan,Saitama,,132,4,44073,793
+2021-06-03,Japan,Shiga,,33,1,5173,81
+2021-06-03,Japan,Shimane,,0,0,555,0
+2021-06-03,Japan,Shizuoka,,40,0,8480,137
+2021-06-03,Japan,Tochigi,,27,0,6412,78
+2021-06-03,Japan,Tokushima,,1,0,1632,60
+2021-06-03,Japan,Tokyo,,487,13,161981,2059
+2021-06-03,Japan,Tottori,,0,0,467,2
+2021-06-03,Japan,Toyama,,10,0,1901,36
+2021-06-03,Japan,Unknown,,0,0,8,0
+2021-06-03,Japan,Wakayama,,8,1,2629,42
+2021-06-03,Japan,Yamagata,,7,1,1978,43
+2021-06-03,Japan,Yamaguchi,,17,0,2957,64
+2021-06-03,Japan,Yamanashi,,10,0,1571,19
+2021-06-03,Latvia,,,348,7,133866,2386
+2021-06-03,Lithuania,,,422,7,275198,4283
+2021-06-03,Luxembourg,,,44,1,70027,818
+2021-06-03,Mexico,Aguascalientes,,11,1,26534,2422
+2021-06-03,Mexico,Baja California,,49,6,49550,8563
+2021-06-03,Mexico,Baja California Sur,,123,5,32409,1444
+2021-06-03,Mexico,Campeche,,19,0,10266,1230
+2021-06-03,Mexico,Chiapas,,21,0,11554,1643
+2021-06-03,Mexico,Chihuahua,,135,8,56251,7385
+2021-06-03,Mexico,Ciudad de Mexico,,797,42,660725,34248
+2021-06-03,Mexico,Coahuila,,29,3,68906,6313
+2021-06-03,Mexico,Colima,,18,0,11965,1198
+2021-06-03,Mexico,Durango,,21,2,34260,2466
+2021-06-03,Mexico,Guanajuato,,49,12,132051,10926
+2021-06-03,Mexico,Guerrero,,35,2,41203,4477
+2021-06-03,Mexico,Hidalgo,,30,1,39042,6231
+2021-06-03,Mexico,Jalisco,,89,10,87254,12437
+2021-06-03,Mexico,Mexico,,259,31,252728,36938
+2021-06-03,Mexico,Michoacan,,97,6,48621,5857
+2021-06-03,Mexico,Morelos,,52,25,33781,3437
+2021-06-03,Mexico,Nayarit,,19,0,12228,1836
+2021-06-03,Mexico,Nuevo Leon,,42,7,124368,9569
+2021-06-03,Mexico,Oaxaca,,53,7,47307,3744
+2021-06-03,Mexico,Puebla,,35,34,85281,11933
+2021-06-03,Mexico,Queretaro,,18,-2,69225,4395
+2021-06-03,Mexico,Quintana Roo,,199,11,27405,2809
+2021-06-03,Mexico,San Luis Potosi,,49,2,64383,5395
+2021-06-03,Mexico,Sinaloa,,89,24,39406,6233
+2021-06-03,Mexico,Sonora,,122,14,75487,6663
+2021-06-03,Mexico,Tabasco,,278,14,68859,4177
+2021-06-03,Mexico,Tamaulipas,,198,11,60064,5050
+2021-06-03,Mexico,Tlaxcala,,5,2,19952,2469
+2021-06-03,Mexico,Unknown,,0,0,0,0
+2021-06-03,Mexico,Veracruz,,91,24,61740,9896
+2021-06-03,Mexico,Yucatan,,221,4,40325,3962
+2021-06-03,Mexico,Zacatecas,,16,0,30798,2800
+2021-06-03,Netherlands,Aruba,,13,0,11006,107
+2021-06-03,Netherlands,Bonaire Sint Eustatius and Saba,,1,0,1615,17
+2021-06-03,Netherlands,Curacao,,0,0,12273,122
+2021-06-03,Netherlands,Drenthe,,85,0,33728,353
+2021-06-03,Netherlands,Flevoland,,47,0,36460,244
+2021-06-03,Netherlands,Friesland,,85,0,43230,475
+2021-06-03,Netherlands,Gelderland,,291,1,185017,2020
+2021-06-03,Netherlands,Groningen,,66,0,38710,263
+2021-06-03,Netherlands,Limburg,,186,2,113813,1639
+2021-06-03,Netherlands,Noord-Brabant,,454,0,268169,3127
+2021-06-03,Netherlands,Noord-Holland,,334,4,273554,2596
+2021-06-03,Netherlands,Overijssel,,151,2,108231,1131
+2021-06-03,Netherlands,Sint Maarten,,0,0,2433,28
+2021-06-03,Netherlands,Unknown,,2,0,3875,14
+2021-06-03,Netherlands,Utrecht,,129,1,126170,1276
+2021-06-03,Netherlands,Zeeland,,13,0,29293,246
+2021-06-03,Netherlands,Zuid-Holland,,659,2,394032,4260
+2021-06-03,New Zealand,,,2,0,2681,26
+2021-06-03,New Zealand,Cook Islands,,0,0,1,0
+2021-06-03,Norway,,,353,2,125929,785
+2021-06-03,Poland,,,659,128,2873527,73984
+2021-06-03,Portugal,,,724,1,850262,17026
+2021-06-03,Slovakia,,,124,13,389990,12366
+2021-06-03,Slovenia,,,374,4,254419,4380
+2021-06-03,South Korea,,,681,3,142157,1968
+2021-06-03,Spain,Andalusia,,1373,18,587551,9918
+2021-06-03,Spain,Aragon,,149,0,124517,3511
+2021-06-03,Spain,Asturias,,41,0,52496,1967
+2021-06-03,Spain,Baleares,,35,0,60537,839
+2021-06-03,Spain,C. Valenciana,,183,0,395109,7393
+2021-06-03,Spain,Canarias,,132,1,56693,771
+2021-06-03,Spain,Cantabria,,52,0,30352,565
+2021-06-03,Spain,Castilla - La Mancha,,28,9,193173,5923
+2021-06-03,Spain,Castilla y Leon,,258,6,231661,6890
+2021-06-03,Spain,Catalonia,,1162,8,613539,14552
+2021-06-03,Spain,Ceuta,,17,0,5896,115
+2021-06-03,Spain,Extremadura,,55,0,75960,1804
+2021-06-03,Spain,Galicia,,93,1,127121,2407
+2021-06-03,Spain,La Rioja,,57,0,30999,771
+2021-06-03,Spain,Madrid,,850,12,717880,15307
+2021-06-03,Spain,Melilla,,11,0,9148,97
+2021-06-03,Spain,Murcia,,56,2,113200,1602
+2021-06-03,Spain,Navarra,,93,1,62583,1176
+2021-06-03,Spain,Pais Vasco,,339,8,199347,4441
+2021-06-03,Sweden,Blekinge,,0,0,12519,128
+2021-06-03,Sweden,Dalarna,,0,0,26484,340
+2021-06-03,Sweden,Gavleborg,,0,0,35512,556
+2021-06-03,Sweden,Gotland,,0,0,3939,51
+2021-06-03,Sweden,Halland,,0,0,40207,317
+2021-06-03,Sweden,Jamtland Harjedalen,,0,0,12307,120
+2021-06-03,Sweden,Jonkoping,,0,0,42452,553
+2021-06-03,Sweden,Kalmar,,0,0,23757,243
+2021-06-03,Sweden,Kronoberg,,0,0,21641,313
+2021-06-03,Sweden,Norrbotten,,0,0,24556,264
+2021-06-03,Sweden,Orebro,,0,0,31602,336
+2021-06-03,Sweden,Ostergotland,,0,0,41618,629
+2021-06-03,Sweden,Skane,,0,0,153662,1730
+2021-06-03,Sweden,Sormland,,0,0,25397,461
+2021-06-03,Sweden,Stockholm,,0,0,251285,4320
+2021-06-03,Sweden,Uppsala,,0,0,39789,536
+2021-06-03,Sweden,Varmland,,0,0,18454,210
+2021-06-03,Sweden,Vasterbotten,,0,0,22909,181
+2021-06-03,Sweden,Vasternorrland,,0,0,26417,467
+2021-06-03,Sweden,Vastmanland,,0,0,27122,347
+2021-06-03,Sweden,Vastra Gotaland,,0,0,186844,2349
+2021-06-03,Switzerland,,,717,0,696213,10826
+2021-06-03,Taiwan,,,547,12,9389,149
+2021-06-03,Turkey,,,7181,112,5263697,47768
+2021-06-03,United Kingdom,Anguilla,,0,0,109,0
+2021-06-03,United Kingdom,Bermuda,,0,0,2494,33
+2021-06-03,United Kingdom,British Virgin Islands,,0,0,248,1
+2021-06-03,United Kingdom,Cayman Islands,,0,0,584,2
+2021-06-03,United Kingdom,Channel Islands,,0,0,4066,86
+2021-06-03,United Kingdom,England,,3417,11,3921939,112402
+2021-06-03,United Kingdom,Falkland Islands (Malvinas),,0,0,63,0
+2021-06-03,United Kingdom,Gibraltar,,2,0,4298,94
+2021-06-03,United Kingdom,Isle of Man,,0,0,1594,29
+2021-06-03,United Kingdom,Montserrat,,0,0,20,1
+2021-06-03,United Kingdom,Northern Ireland,,84,0,122815,2153
+2021-06-03,United Kingdom,Saint Helena Ascension and Tristan da Cunha,,0,0,4,0
+2021-06-03,United Kingdom,Scotland,,677,1,237066,7670
+2021-06-03,United Kingdom,Turks and Caicos Islands,,1,0,2418,17
+2021-06-03,United Kingdom,Unknown,,0,0,0,0
+2021-06-03,United Kingdom,Wales,,83,0,212879,5569
+2021-06-03,United States,Alabama,Autauga,11,0,7161,111
+2021-06-03,United States,Alabama,Baldwin,13,0,21674,311
+2021-06-03,United States,Alabama,Barbour,3,0,2340,59
+2021-06-03,United States,Alabama,Bibb,0,0,2665,64
+2021-06-03,United States,Alabama,Blount,2,0,6889,139
+2021-06-03,United States,Alabama,Bullock,3,0,1236,42
+2021-06-03,United States,Alabama,Butler,0,0,2220,71
+2021-06-03,United States,Alabama,Calhoun,4,0,14641,324
+2021-06-03,United States,Alabama,Chambers,16,1,3687,124
+2021-06-03,United States,Alabama,Cherokee,1,0,1865,45
+2021-06-03,United States,Alabama,Chilton,1,0,4438,115
+2021-06-03,United States,Alabama,Choctaw,0,0,613,25
+2021-06-03,United States,Alabama,Clarke,0,0,3526,61
+2021-06-03,United States,Alabama,Clay,0,0,1581,57
+2021-06-03,United States,Alabama,Cleburne,1,0,1507,43
+2021-06-03,United States,Alabama,Coffee,1,0,5610,121
+2021-06-03,United States,Alabama,Colbert,5,0,6354,138
+2021-06-03,United States,Alabama,Conecuh,3,0,1125,30
+2021-06-03,United States,Alabama,Coosa,2,0,1102,29
+2021-06-03,United States,Alabama,Covington,3,0,4221,119
+2021-06-03,United States,Alabama,Crenshaw,0,0,1542,57
+2021-06-03,United States,Alabama,Cullman,7,0,9864,199
+2021-06-03,United States,Alabama,Dale,3,0,4908,114
+2021-06-03,United States,Alabama,Dallas,0,0,3599,154
+2021-06-03,United States,Alabama,DeKalb,3,0,8911,188
+2021-06-03,United States,Alabama,Elmore,24,0,10265,208
+2021-06-03,United States,Alabama,Escambia,6,0,3983,77
+2021-06-03,United States,Alabama,Etowah,9,0,14022,359
+2021-06-03,United States,Alabama,Fayette,5,0,2155,62
+2021-06-03,United States,Alabama,Franklin,4,0,4282,82
+2021-06-03,United States,Alabama,Geneva,2,0,2563,81
+2021-06-03,United States,Alabama,Greene,1,0,931,34
+2021-06-03,United States,Alabama,Hale,2,0,2256,78
+2021-06-03,United States,Alabama,Henry,1,0,1936,43
+2021-06-03,United States,Alabama,Houston,2,0,10723,285
+2021-06-03,United States,Alabama,Jackson,2,0,6872,112
+2021-06-03,United States,Alabama,Jefferson,176,2,80436,1542
+2021-06-03,United States,Alabama,Lamar,2,0,1454,37
+2021-06-03,United States,Alabama,Lauderdale,4,0,9524,245
+2021-06-03,United States,Alabama,Lawrence,3,0,3084,100
+2021-06-03,United States,Alabama,Lee,18,0,16153,173
+2021-06-03,United States,Alabama,Limestone,6,0,10132,156
+2021-06-03,United States,Alabama,Lowndes,1,0,1413,54
+2021-06-03,United States,Alabama,Macon,1,0,1624,50
+2021-06-03,United States,Alabama,Madison,24,0,35393,514
+2021-06-03,United States,Alabama,Marengo,0,0,2503,65
+2021-06-03,United States,Alabama,Marion,7,0,3195,102
+2021-06-03,United States,Alabama,Marshall,16,0,12364,228
+2021-06-03,United States,Alabama,Mobile,22,3,41612,820
+2021-06-03,United States,Alabama,Monroe,0,0,1790,41
+2021-06-03,United States,Alabama,Montgomery,62,2,24958,602
+2021-06-03,United States,Alabama,Morgan,10,0,14539,283
+2021-06-03,United States,Alabama,Perry,1,0,1084,26
+2021-06-03,United States,Alabama,Pickens,2,0,2360,62
+2021-06-03,United States,Alabama,Pike,1,0,3135,77
+2021-06-03,United States,Alabama,Randolph,1,0,1849,43
+2021-06-03,United States,Alabama,Russell,5,1,4519,41
+2021-06-03,United States,Alabama,Shelby,9,1,25446,254
+2021-06-03,United States,Alabama,St. Clair,5,0,10089,247
+2021-06-03,United States,Alabama,Sumter,0,0,1056,32
+2021-06-03,United States,Alabama,Talladega,6,0,8393,181
+2021-06-03,United States,Alabama,Tallapoosa,13,1,4091,154
+2021-06-03,United States,Alabama,Tuscaloosa,5,0,26072,457
+2021-06-03,United States,Alabama,Walker,8,0,7304,278
+2021-06-03,United States,Alabama,Washington,3,0,1692,39
+2021-06-03,United States,Alabama,Wilcox,0,0,1272,30
+2021-06-03,United States,Alabama,Winston,2,0,2795,73
+2021-06-03,United States,Alaska,Aleutians East,0,0,369,3
+2021-06-03,United States,Alaska,Aleutians West,2,0,708,1
+2021-06-03,United States,Alaska,Anchorage,6,0,30818,179
+2021-06-03,United States,Alaska,Bethel,0,0,3903,22
+2021-06-03,United States,Alaska,Bristol Bay,0,0,0,0
+2021-06-03,United States,Alaska,Bristol Bay plus Lake and Peninsula,0,0,198,0
+2021-06-03,United States,Alaska,Chugach,0,0,437,3
+2021-06-03,United States,Alaska,Copper River,0,0,245,0
+2021-06-03,United States,Alaska,Denali,0,0,111,0
+2021-06-03,United States,Alaska,Dillingham,0,0,230,2
+2021-06-03,United States,Alaska,Fairbanks North Star,9,0,8041,43
+2021-06-03,United States,Alaska,Haines,0,0,31,0
+2021-06-03,United States,Alaska,Juneau,5,0,1461,5
+2021-06-03,United States,Alaska,Kenai Peninsula,4,0,4582,22
+2021-06-03,United States,Alaska,Ketchikan Gateway,3,0,663,2
+2021-06-03,United States,Alaska,Kodiak Island,1,0,1126,6
+2021-06-03,United States,Alaska,Kusilvak,0,0,1311,4
+2021-06-03,United States,Alaska,Matanuska-Susitna,6,0,11764,57
+2021-06-03,United States,Alaska,Nome,0,0,378,0
+2021-06-03,United States,Alaska,North Slope,0,0,1087,4
+2021-06-03,United States,Alaska,Northwest Arctic,0,0,621,2
+2021-06-03,United States,Alaska,Petersburg,0,0,174,1
+2021-06-03,United States,Alaska,Prince of Wales-Hyder,2,0,158,1
+2021-06-03,United States,Alaska,Sitka,1,0,371,1
+2021-06-03,United States,Alaska,Skagway,0,0,21,0
+2021-06-03,United States,Alaska,Southeast Fairbanks,2,0,741,5
+2021-06-03,United States,Alaska,Unassigned,-5,0,291,0
+2021-06-03,United States,Alaska,Valdez-Cordova,0,0,0,0
+2021-06-03,United States,Alaska,Wrangell,0,0,58,0
+2021-06-03,United States,Alaska,Yakutat,0,0,89,2
+2021-06-03,United States,Alaska,Yukon-Koyukuk,0,0,368,4
+2021-06-03,United States,Arizona,Apache,0,0,11409,432
+2021-06-03,United States,Arizona,Cochise,-3,0,12081,289
+2021-06-03,United States,Arizona,Coconino,4,0,17868,330
+2021-06-03,United States,Arizona,Gila,2,0,6939,229
+2021-06-03,United States,Arizona,Graham,2,0,5627,83
+2021-06-03,United States,Arizona,Greenlee,0,0,574,10
+2021-06-03,United States,Arizona,La Paz,1,0,2481,80
+2021-06-03,United States,Arizona,Maricopa,696,9,551298,10080
+2021-06-03,United States,Arizona,Mohave,22,3,23099,738
+2021-06-03,United States,Arizona,Navajo,8,2,16452,542
+2021-06-03,United States,Arizona,Out of AZ,0,0,0,0
+2021-06-03,United States,Arizona,Pima,70,-1,116980,2409
+2021-06-03,United States,Arizona,Pinal,86,4,52963,896
+2021-06-03,United States,Arizona,Santa Cruz,2,0,8041,180
+2021-06-03,United States,Arizona,Unassigned,0,0,0,0
+2021-06-03,United States,Arizona,Yavapai,22,1,19310,509
+2021-06-03,United States,Arizona,Yuma,3,2,37247,841
+2021-06-03,United States,Arkansas,Arkansas,3,0,2129,37
+2021-06-03,United States,Arkansas,Ashley,5,0,2041,35
+2021-06-03,United States,Arkansas,Baxter,1,0,3205,104
+2021-06-03,United States,Arkansas,Benton,20,0,29415,419
+2021-06-03,United States,Arkansas,Boone,5,0,3876,80
+2021-06-03,United States,Arkansas,Bradley,8,0,1420,32
+2021-06-03,United States,Arkansas,Calhoun,0,0,412,3
+2021-06-03,United States,Arkansas,Carroll,2,0,2817,46
+2021-06-03,United States,Arkansas,Chicot,0,0,1620,41
+2021-06-03,United States,Arkansas,Clark,2,0,2124,41
+2021-06-03,United States,Arkansas,Clay,1,0,1792,52
+2021-06-03,United States,Arkansas,Cleburne,0,0,2013,74
+2021-06-03,United States,Arkansas,Cleveland,3,0,963,25
+2021-06-03,United States,Arkansas,Columbia,0,0,2361,56
+2021-06-03,United States,Arkansas,Conway,0,0,2248,33
+2021-06-03,United States,Arkansas,Craighead,9,0,13616,182
+2021-06-03,United States,Arkansas,Crawford,2,-1,7133,119
+2021-06-03,United States,Arkansas,Crittenden,3,0,6149,97
+2021-06-03,United States,Arkansas,Cross,0,0,1963,50
+2021-06-03,United States,Arkansas,Dallas,1,0,762,15
+2021-06-03,United States,Arkansas,Desha,0,0,1367,24
+2021-06-03,United States,Arkansas,Drew,1,0,2016,45
+2021-06-03,United States,Arkansas,Faulkner,5,1,12822,163
+2021-06-03,United States,Arkansas,Franklin,1,0,1704,40
+2021-06-03,United States,Arkansas,Fulton,1,0,1149,47
+2021-06-03,United States,Arkansas,Garland,7,0,10335,261
+2021-06-03,United States,Arkansas,Grant,2,0,1697,33
+2021-06-03,United States,Arkansas,Greene,5,0,6176,77
+2021-06-03,United States,Arkansas,Hempstead,1,0,2013,20
+2021-06-03,United States,Arkansas,Hot Spring,9,0,5198,74
+2021-06-03,United States,Arkansas,Howard,1,0,1666,25
+2021-06-03,United States,Arkansas,Independence,3,0,3798,124
+2021-06-03,United States,Arkansas,Izard,0,0,1686,42
+2021-06-03,United States,Arkansas,Jackson,1,0,3229,38
+2021-06-03,United States,Arkansas,Jefferson,5,0,8974,168
+2021-06-03,United States,Arkansas,Johnson,0,0,2936,38
+2021-06-03,United States,Arkansas,Lafayette,0,0,554,9
+2021-06-03,United States,Arkansas,Lawrence,0,0,2131,43
+2021-06-03,United States,Arkansas,Lee,0,1,1699,36
+2021-06-03,United States,Arkansas,Lincoln,1,0,3208,48
+2021-06-03,United States,Arkansas,Little River,1,0,1255,42
+2021-06-03,United States,Arkansas,Logan,1,0,2250,25
+2021-06-03,United States,Arkansas,Lonoke,8,0,7483,121
+2021-06-03,United States,Arkansas,Madison,0,0,1463,23
+2021-06-03,United States,Arkansas,Marion,0,0,1067,30
+2021-06-03,United States,Arkansas,Miller,2,0,4407,38
+2021-06-03,United States,Arkansas,Mississippi,2,0,5896,109
+2021-06-03,United States,Arkansas,Monroe,0,0,871,17
+2021-06-03,United States,Arkansas,Montgomery,1,0,759,33
+2021-06-03,United States,Arkansas,Nevada,0,0,830,24
+2021-06-03,United States,Arkansas,Newton,1,0,733,26
+2021-06-03,United States,Arkansas,Ouachita,2,0,2345,63
+2021-06-03,United States,Arkansas,Perry,0,0,846,10
+2021-06-03,United States,Arkansas,Phillips,4,0,1856,43
+2021-06-03,United States,Arkansas,Pike,0,0,1016,22
+2021-06-03,United States,Arkansas,Poinsett,0,0,3185,77
+2021-06-03,United States,Arkansas,Polk,0,0,2010,74
+2021-06-03,United States,Arkansas,Pope,0,0,8090,110
+2021-06-03,United States,Arkansas,Prairie,0,0,910,21
+2021-06-03,United States,Arkansas,Pulaski,38,0,39868,662
+2021-06-03,United States,Arkansas,Randolph,1,0,2180,47
+2021-06-03,United States,Arkansas,Saline,17,1,12170,172
+2021-06-03,United States,Arkansas,Scott,0,0,943,14
+2021-06-03,United States,Arkansas,Searcy,1,-1,718,18
+2021-06-03,United States,Arkansas,Sebastian,5,0,15332,283
+2021-06-03,United States,Arkansas,Sevier,4,0,2804,24
+2021-06-03,United States,Arkansas,Sharp,1,0,1616,47
+2021-06-03,United States,Arkansas,St. Francis,0,0,3611,44
+2021-06-03,United States,Arkansas,Stone,0,0,993,30
+2021-06-03,United States,Arkansas,Unassigned,6,0,2906,0
+2021-06-03,United States,Arkansas,Union,5,0,4056,115
+2021-06-03,United States,Arkansas,Van Buren,9,0,1347,23
+2021-06-03,United States,Arkansas,Washington,15,0,31217,352
+2021-06-03,United States,Arkansas,White,9,0,8142,120
+2021-06-03,United States,Arkansas,Woodruff,0,0,651,14
+2021-06-03,United States,Arkansas,Yell,1,0,3449,66
+2021-06-03,United States,California,Alameda,15,1,88970,1254
+2021-06-03,United States,California,Alpine,0,0,89,0
+2021-06-03,United States,California,Amador,0,0,3687,47
+2021-06-03,United States,California,Butte,-2,0,12427,193
+2021-06-03,United States,California,Calaveras,2,0,2186,56
+2021-06-03,United States,California,Colusa,0,0,2265,18
+2021-06-03,United States,California,Contra Costa,52,0,69745,813
+2021-06-03,United States,California,Del Norte,0,0,1434,8
+2021-06-03,United States,California,El Dorado,-1,0,10303,113
+2021-06-03,United States,California,Fresno,27,0,102534,1706
+2021-06-03,United States,California,Glenn,0,0,2422,27
+2021-06-03,United States,California,Humboldt,2,0,4325,43
+2021-06-03,United States,California,Imperial,-10,0,28722,736
+2021-06-03,United States,California,Inyo,1,0,1432,38
+2021-06-03,United States,California,Kern,41,5,110188,1394
+2021-06-03,United States,California,Kings,0,0,23076,247
+2021-06-03,United States,California,Lake,0,0,3523,45
+2021-06-03,United States,California,Lassen,3,0,5748,24
+2021-06-03,United States,California,Los Angeles,105,3,1244275,24367
+2021-06-03,United States,California,Madera,6,0,16549,245
+2021-06-03,United States,California,Marin,-1,0,14152,229
+2021-06-03,United States,California,Mariposa,3,0,461,7
+2021-06-03,United States,California,Mendocino,5,0,4228,49
+2021-06-03,United States,California,Merced,10,1,32178,471
+2021-06-03,United States,California,Modoc,1,0,515,4
+2021-06-03,United States,California,Mono,0,0,1294,4
+2021-06-03,United States,California,Monterey,6,1,43753,386
+2021-06-03,United States,California,Napa,1,0,9949,82
+2021-06-03,United States,California,Nevada,9,0,4832,75
+2021-06-03,United States,California,Orange,54,3,272210,5068
+2021-06-03,United States,California,Placer,33,0,23075,297
+2021-06-03,United States,California,Plumas,0,0,723,6
+2021-06-03,United States,California,Riverside,119,4,300851,4612
+2021-06-03,United States,California,Sacramento,97,6,106570,1715
+2021-06-03,United States,California,San Benito,0,0,6088,63
+2021-06-03,United States,California,San Bernardino,0,0,298545,4758
+2021-06-03,United States,California,San Diego,42,4,280346,3760
+2021-06-03,United States,California,San Francisco,9,0,37031,550
+2021-06-03,United States,California,San Joaquin,69,4,73968,1423
+2021-06-03,United States,California,San Luis Obispo,20,0,21347,261
+2021-06-03,United States,California,San Mateo,-6,0,42383,576
+2021-06-03,United States,California,Santa Barbara,9,0,34507,456
+2021-06-03,United States,California,Santa Clara,13,1,119528,2058
+2021-06-03,United States,California,Santa Cruz,0,0,16182,207
+2021-06-03,United States,California,Shasta,0,0,12445,230
+2021-06-03,United States,California,Sierra,0,0,113,0
+2021-06-03,United States,California,Siskiyou,4,0,2363,33
+2021-06-03,United States,California,Solano,33,0,33430,256
+2021-06-03,United States,California,Sonoma,57,0,30393,322
+2021-06-03,United States,California,Stanislaus,36,0,62878,1066
+2021-06-03,United States,California,Sutter,11,0,9554,111
+2021-06-03,United States,California,Tehama,0,0,5692,63
+2021-06-03,United States,California,Trinity,0,0,411,5
+2021-06-03,United States,California,Tulare,7,0,49925,846
+2021-06-03,United States,California,Tuolumne,1,2,4171,69
+2021-06-03,United States,California,Unassigned,1,0,34,0
+2021-06-03,United States,California,Ventura,14,0,81396,1021
+2021-06-03,United States,California,Yolo,3,0,14067,210
+2021-06-03,United States,California,Yuba,12,0,6401,48
+2021-06-03,United States,Colorado,Adams,21,0,59820,700
+2021-06-03,United States,Colorado,Alamosa,5,0,1691,33
+2021-06-03,United States,Colorado,Arapahoe,46,1,61562,747
+2021-06-03,United States,Colorado,Archuleta,4,0,990,2
+2021-06-03,United States,Colorado,Baca,2,0,317,4
+2021-06-03,United States,Colorado,Bent,0,0,1542,21
+2021-06-03,United States,Colorado,Boulder,8,0,23692,232
+2021-06-03,United States,Colorado,Broomfield,6,1,4889,76
+2021-06-03,United States,Colorado,Chaffee,3,0,1732,25
+2021-06-03,United States,Colorado,Cheyenne,0,0,130,6
+2021-06-03,United States,Colorado,Clear Creek,1,0,465,3
+2021-06-03,United States,Colorado,Conejos,2,2,678,15
+2021-06-03,United States,Colorado,Costilla,0,0,246,3
+2021-06-03,United States,Colorado,Crowley,0,0,2206,16
+2021-06-03,United States,Colorado,Custer,1,0,207,1
+2021-06-03,United States,Colorado,Delta,8,0,2783,63
+2021-06-03,United States,Colorado,Denver,56,1,73201,826
+2021-06-03,United States,Colorado,Dolores,1,0,112,1
+2021-06-03,United States,Colorado,Douglas,38,1,29595,241
+2021-06-03,United States,Colorado,Eagle,-1,0,6322,23
+2021-06-03,United States,Colorado,El Paso,125,0,70650,839
+2021-06-03,United States,Colorado,Elbert,5,0,1816,13
+2021-06-03,United States,Colorado,Fremont,4,0,6452,62
+2021-06-03,United States,Colorado,Garfield,4,0,5964,42
+2021-06-03,United States,Colorado,Gilpin,0,0,270,3
+2021-06-03,United States,Colorado,Grand,0,0,1485,6
+2021-06-03,United States,Colorado,Gunnison,0,0,1351,6
+2021-06-03,United States,Colorado,Hinsdale,2,0,20,0
+2021-06-03,United States,Colorado,Huerfano,0,0,428,17
+2021-06-03,United States,Colorado,Jackson,1,0,64,0
+2021-06-03,United States,Colorado,Jefferson,47,2,48028,790
+2021-06-03,United States,Colorado,Kiowa,0,0,95,3
+2021-06-03,United States,Colorado,Kit Carson,1,0,629,11
+2021-06-03,United States,Colorado,La Plata,-1,0,4035,41
+2021-06-03,United States,Colorado,Lake,-1,0,811,0
+2021-06-03,United States,Colorado,Larimer,37,0,27034,242
+2021-06-03,United States,Colorado,Las Animas,0,0,1148,13
+2021-06-03,United States,Colorado,Lincoln,0,0,1031,4
+2021-06-03,United States,Colorado,Logan,3,0,4018,68
+2021-06-03,United States,Colorado,Mesa,43,0,15891,230
+2021-06-03,United States,Colorado,Mineral,0,0,93,1
+2021-06-03,United States,Colorado,Moffat,4,0,846,22
+2021-06-03,United States,Colorado,Montezuma,0,0,1998,25
+2021-06-03,United States,Colorado,Montrose,1,0,3596,60
+2021-06-03,United States,Colorado,Morgan,0,0,2710,94
+2021-06-03,United States,Colorado,Otero,3,0,2057,67
+2021-06-03,United States,Colorado,Ouray,0,0,288,3
+2021-06-03,United States,Colorado,Out of CO,0,0,0,0
+2021-06-03,United States,Colorado,Park,4,0,814,5
+2021-06-03,United States,Colorado,Phillips,0,0,393,13
+2021-06-03,United States,Colorado,Pitkin,0,0,2600,4
+2021-06-03,United States,Colorado,Prowers,0,0,1265,22
+2021-06-03,United States,Colorado,Pueblo,17,0,19118,400
+2021-06-03,United States,Colorado,Rio Blanco,1,0,586,4
+2021-06-03,United States,Colorado,Rio Grande,18,0,862,16
+2021-06-03,United States,Colorado,Routt,-1,1,2252,21
+2021-06-03,United States,Colorado,Saguache,2,0,402,4
+2021-06-03,United States,Colorado,San Juan,0,0,49,0
+2021-06-03,United States,Colorado,San Miguel,7,0,896,0
+2021-06-03,United States,Colorado,Sedgwick,0,0,235,2
+2021-06-03,United States,Colorado,Summit,2,1,3737,9
+2021-06-03,United States,Colorado,Teller,1,1,1831,16
+2021-06-03,United States,Colorado,Unassigned,0,0,72,0
+2021-06-03,United States,Colorado,Washington,3,0,466,13
+2021-06-03,United States,Colorado,Weld,41,0,32645,344
+2021-06-03,United States,Colorado,Yuma,2,0,946,17
+2021-06-03,United States,Connecticut,Fairfield,34,2,100082,2199
+2021-06-03,United States,Connecticut,Hartford,40,0,84090,2427
+2021-06-03,United States,Connecticut,Litchfield,7,0,14601,297
+2021-06-03,United States,Connecticut,Middlesex,3,0,12789,371
+2021-06-03,United States,Connecticut,New Haven,20,1,91959,2122
+2021-06-03,United States,Connecticut,New London,0,0,22488,448
+2021-06-03,United States,Connecticut,Tolland,8,0,9598,187
+2021-06-03,United States,Connecticut,Unassigned,0,0,1183,1
+2021-06-03,United States,Connecticut,Windham,3,0,10888,195
+2021-06-03,United States,Delaware,Kent,2,0,18120,344
+2021-06-03,United States,Delaware,New Castle,12,3,64578,827
+2021-06-03,United States,Delaware,Sussex,3,2,25987,495
+2021-06-03,United States,Delaware,Unassigned,0,0,226,0
+2021-06-03,United States,District of Columbia,District of Columbia,11,1,49011,1135
+2021-06-03,United States,Florida,Alachua,15,0,25499,285
+2021-06-03,United States,Florida,Baker,-1,0,3541,62
+2021-06-03,United States,Florida,Bay,7,0,20584,394
+2021-06-03,United States,Florida,Bradford,2,0,3051,58
+2021-06-03,United States,Florida,Brevard,36,8,42999,913
+2021-06-03,United States,Florida,Broward,59,2,245095,3079
+2021-06-03,United States,Florida,Calhoun,0,0,1707,45
+2021-06-03,United States,Florida,Charlotte,12,0,13425,437
+2021-06-03,United States,Florida,Citrus,10,0,11411,463
+2021-06-03,United States,Florida,Clay,10,0,19275,352
+2021-06-03,United States,Florida,Collier,40,2,37142,551
+2021-06-03,United States,Florida,Columbia,5,0,8270,170
+2021-06-03,United States,Florida,DeSoto,2,0,4437,97
+2021-06-03,United States,Florida,Dixie,0,0,1626,24
+2021-06-03,United States,Florida,Duval,47,3,100884,1483
+2021-06-03,United States,Florida,Escambia,6,4,36639,704
+2021-06-03,United States,Florida,Flagler,4,1,7504,113
+2021-06-03,United States,Florida,Franklin,1,0,1360,20
+2021-06-03,United States,Florida,Gadsden,1,0,5771,99
+2021-06-03,United States,Florida,Gilchrist,2,0,1638,44
+2021-06-03,United States,Florida,Glades,1,0,983,19
+2021-06-03,United States,Florida,Gulf,0,0,1979,45
+2021-06-03,United States,Florida,Hamilton,1,0,1648,25
+2021-06-03,United States,Florida,Hardee,2,0,3277,45
+2021-06-03,United States,Florida,Hendry,4,0,4872,86
+2021-06-03,United States,Florida,Hernando,23,3,14613,480
+2021-06-03,United States,Florida,Highlands,2,0,8780,366
+2021-06-03,United States,Florida,Hillsborough,161,2,143397,1830
+2021-06-03,United States,Florida,Holmes,3,0,2285,49
+2021-06-03,United States,Florida,Indian River,6,0,12851,305
+2021-06-03,United States,Florida,Jackson,5,0,6314,158
+2021-06-03,United States,Florida,Jefferson,0,0,1522,28
+2021-06-03,United States,Florida,Lafayette,2,0,1625,26
+2021-06-03,United States,Florida,Lake,34,4,31099,662
+2021-06-03,United States,Florida,Lee,26,2,73727,1009
+2021-06-03,United States,Florida,Leon,7,-2,32838,331
+2021-06-03,United States,Florida,Levy,5,0,3576,56
+2021-06-03,United States,Florida,Liberty,0,0,1084,16
+2021-06-03,United States,Florida,Madison,3,0,2097,45
+2021-06-03,United States,Florida,Manatee,25,0,39938,688
+2021-06-03,United States,Florida,Marion,18,7,31957,992
+2021-06-03,United States,Florida,Martin,11,0,12725,331
+2021-06-03,United States,Florida,Miami-Dade,216,17,501639,6457
+2021-06-03,United States,Florida,Monroe,1,0,7092,51
+2021-06-03,United States,Florida,Nassau,6,0,8654,126
+2021-06-03,United States,Florida,Okaloosa,6,0,20896,367
+2021-06-03,United States,Florida,Okeechobee,4,0,4184,89
+2021-06-03,United States,Florida,Orange,50,1,143051,1310
+2021-06-03,United States,Florida,Osceola,21,2,46266,529
+2021-06-03,United States,Florida,Palm Beach,57,0,148713,2881
+2021-06-03,United States,Florida,Pasco,26,0,42914,800
+2021-06-03,United States,Florida,Pinellas,43,1,81481,1671
+2021-06-03,United States,Florida,Polk,53,-5,71198,1386
+2021-06-03,United States,Florida,Putnam,8,1,6727,159
+2021-06-03,United States,Florida,Santa Rosa,6,0,18562,291
+2021-06-03,United States,Florida,Sarasota,15,0,33718,843
+2021-06-03,United States,Florida,Seminole,20,0,35380,516
+2021-06-03,United States,Florida,St. Johns,21,0,23301,221
+2021-06-03,United States,Florida,St. Lucie,29,1,27497,657
+2021-06-03,United States,Florida,Sumter,0,1,9504,283
+2021-06-03,United States,Florida,Suwannee,3,0,5394,139
+2021-06-03,United States,Florida,Taylor,0,0,2753,48
+2021-06-03,United States,Florida,Unassigned,-4,0,3027,0
+2021-06-03,United States,Florida,Union,0,0,1847,74
+2021-06-03,United States,Florida,Volusia,44,0,44941,844
+2021-06-03,United States,Florida,Wakulla,4,0,3529,56
+2021-06-03,United States,Florida,Walton,7,0,7924,89
+2021-06-03,United States,Florida,Washington,1,0,2752,52
+2021-06-03,United States,Georgia,Appling,2,0,2320,72
+2021-06-03,United States,Georgia,Atkinson,0,0,1033,22
+2021-06-03,United States,Georgia,Bacon,0,0,1650,39
+2021-06-03,United States,Georgia,Baker,0,0,230,9
+2021-06-03,United States,Georgia,Baldwin,1,0,4562,132
+2021-06-03,United States,Georgia,Banks,-1,0,1838,40
+2021-06-03,United States,Georgia,Barrow,10,0,10136,140
+2021-06-03,United States,Georgia,Bartow,5,0,14809,233
+2021-06-03,United States,Georgia,Ben Hill,0,0,2107,81
+2021-06-03,United States,Georgia,Berrien,0,0,1872,46
+2021-06-03,United States,Georgia,Bibb,10,2,15982,457
+2021-06-03,United States,Georgia,Bleckley,0,0,1465,51
+2021-06-03,United States,Georgia,Brantley,1,0,1649,40
+2021-06-03,United States,Georgia,Brooks,1,0,1410,48
+2021-06-03,United States,Georgia,Bryan,2,0,3695,41
+2021-06-03,United States,Georgia,Bulloch,0,0,6832,120
+2021-06-03,United States,Georgia,Burke,2,0,2606,64
+2021-06-03,United States,Georgia,Butts,1,0,3172,88
+2021-06-03,United States,Georgia,Calhoun,0,0,589,15
+2021-06-03,United States,Georgia,Camden,4,0,4010,37
+2021-06-03,United States,Georgia,Candler,0,0,968,67
+2021-06-03,United States,Georgia,Carroll,2,0,11483,243
+2021-06-03,United States,Georgia,Catoosa,1,0,6516,71
+2021-06-03,United States,Georgia,Charlton,0,0,1550,34
+2021-06-03,United States,Georgia,Chatham,13,2,23494,460
+2021-06-03,United States,Georgia,Chattahoochee,1,0,4275,16
+2021-06-03,United States,Georgia,Chattooga,1,0,2863,74
+2021-06-03,United States,Georgia,Cherokee,15,1,31378,329
+2021-06-03,United States,Georgia,Clarke,2,0,15143,147
+2021-06-03,United States,Georgia,Clay,0,0,237,3
+2021-06-03,United States,Georgia,Clayton,12,1,27174,502
+2021-06-03,United States,Georgia,Clinch,0,0,986,27
+2021-06-03,United States,Georgia,Cobb,33,2,79568,1082
+2021-06-03,United States,Georgia,Coffee,5,1,5313,173
+2021-06-03,United States,Georgia,Colquitt,10,0,4741,124
+2021-06-03,United States,Georgia,Columbia,5,0,17034,209
+2021-06-03,United States,Georgia,Cook,2,0,1836,43
+2021-06-03,United States,Georgia,Coweta,5,1,14272,223
+2021-06-03,United States,Georgia,Crawford,0,0,655,20
+2021-06-03,United States,Georgia,Crisp,0,1,2097,84
+2021-06-03,United States,Georgia,Dade,0,0,1458,14
+2021-06-03,United States,Georgia,Dawson,0,0,3092,47
+2021-06-03,United States,Georgia,Decatur,1,0,2961,70
+2021-06-03,United States,Georgia,DeKalb,9,1,66742,1045
+2021-06-03,United States,Georgia,Dodge,1,1,2111,104
+2021-06-03,United States,Georgia,Dooly,0,0,1086,46
+2021-06-03,United States,Georgia,Dougherty,9,0,7651,305
+2021-06-03,United States,Georgia,Douglas,9,1,15478,227
+2021-06-03,United States,Georgia,Early,3,0,1184,48
+2021-06-03,United States,Georgia,Echols,1,0,474,9
+2021-06-03,United States,Georgia,Effingham,0,0,4655,69
+2021-06-03,United States,Georgia,Elbert,0,0,2292,74
+2021-06-03,United States,Georgia,Emanuel,2,0,2579,82
+2021-06-03,United States,Georgia,Evans,0,0,977,29
+2021-06-03,United States,Georgia,Fannin,3,0,2402,74
+2021-06-03,United States,Georgia,Fayette,4,1,9069,175
+2021-06-03,United States,Georgia,Floyd,1,0,12041,235
+2021-06-03,United States,Georgia,Forsyth,10,0,22718,200
+2021-06-03,United States,Georgia,Franklin,0,1,2681,52
+2021-06-03,United States,Georgia,Fulton,29,4,98464,1423
+2021-06-03,United States,Georgia,Gilmer,4,0,3003,87
+2021-06-03,United States,Georgia,Glascock,0,0,267,19
+2021-06-03,United States,Georgia,Glynn,0,0,8271,178
+2021-06-03,United States,Georgia,Gordon,1,0,8208,117
+2021-06-03,United States,Georgia,Grady,5,0,2234,62
+2021-06-03,United States,Georgia,Greene,0,0,1831,62
+2021-06-03,United States,Georgia,Gwinnett,37,2,102631,1181
+2021-06-03,United States,Georgia,Habersham,2,0,5080,160
+2021-06-03,United States,Georgia,Hall,9,0,27519,483
+2021-06-03,United States,Georgia,Hancock,0,1,921,68
+2021-06-03,United States,Georgia,Haralson,0,0,2649,86
+2021-06-03,United States,Georgia,Harris,0,1,2622,61
+2021-06-03,United States,Georgia,Hart,2,0,2381,56
+2021-06-03,United States,Georgia,Heard,0,0,882,22
+2021-06-03,United States,Georgia,Henry,13,0,25690,329
+2021-06-03,United States,Georgia,Houston,6,0,14778,266
+2021-06-03,United States,Georgia,Irwin,12,0,931,30
+2021-06-03,United States,Georgia,Jackson,3,0,9943,146
+2021-06-03,United States,Georgia,Jasper,0,-1,1407,38
+2021-06-03,United States,Georgia,Jeff Davis,1,0,1899,43
+2021-06-03,United States,Georgia,Jefferson,1,0,1958,69
+2021-06-03,United States,Georgia,Jenkins,0,0,857,44
+2021-06-03,United States,Georgia,Johnson,0,0,1121,50
+2021-06-03,United States,Georgia,Jones,7,0,2040,57
+2021-06-03,United States,Georgia,Lamar,0,0,2054,57
+2021-06-03,United States,Georgia,Lanier,1,0,793,13
+2021-06-03,United States,Georgia,Laurens,2,0,5614,169
+2021-06-03,United States,Georgia,Lee,5,0,2754,58
+2021-06-03,United States,Georgia,Liberty,2,0,4142,65
+2021-06-03,United States,Georgia,Lincoln,0,0,827,28
+2021-06-03,United States,Georgia,Long,0,0,875,13
+2021-06-03,United States,Georgia,Lowndes,11,0,12869,213
+2021-06-03,United States,Georgia,Lumpkin,0,0,2999,76
+2021-06-03,United States,Georgia,Macon,-1,0,885,34
+2021-06-03,United States,Georgia,Madison,1,0,3260,56
+2021-06-03,United States,Georgia,Marion,0,0,567,21
+2021-06-03,United States,Georgia,McDuffie,0,0,2521,50
+2021-06-03,United States,Georgia,McIntosh,0,0,863,16
+2021-06-03,United States,Georgia,Meriwether,1,0,2042,88
+2021-06-03,United States,Georgia,Miller,0,0,853,13
+2021-06-03,United States,Georgia,Mitchell,2,0,2096,82
+2021-06-03,United States,Georgia,Monroe,3,0,2686,99
+2021-06-03,United States,Georgia,Montgomery,2,0,897,21
+2021-06-03,United States,Georgia,Morgan,0,0,2140,31
+2021-06-03,United States,Georgia,Murray,3,0,5015,89
+2021-06-03,United States,Georgia,Muscogee,10,2,16701,479
+2021-06-03,United States,Georgia,Newton,5,1,11281,255
+2021-06-03,United States,Georgia,Oconee,2,0,4030,73
+2021-06-03,United States,Georgia,Oglethorpe,0,0,1498,30
+2021-06-03,United States,Georgia,Out of GA,15,2,29725,659
+2021-06-03,United States,Georgia,Paulding,8,0,17143,225
+2021-06-03,United States,Georgia,Peach,1,0,2681,60
+2021-06-03,United States,Georgia,Pickens,1,0,3479,78
+2021-06-03,United States,Georgia,Pierce,0,0,2494,55
+2021-06-03,United States,Georgia,Pike,2,0,2319,41
+2021-06-03,United States,Georgia,Polk,0,0,5674,97
+2021-06-03,United States,Georgia,Pulaski,0,0,930,45
+2021-06-03,United States,Georgia,Putnam,0,0,2206,56
+2021-06-03,United States,Georgia,Quitman,0,0,168,2
+2021-06-03,United States,Georgia,Rabun,0,0,1768,49
+2021-06-03,United States,Georgia,Randolph,1,0,631,34
+2021-06-03,United States,Georgia,Richmond,7,1,24971,516
+2021-06-03,United States,Georgia,Rockdale,6,0,7803,173
+2021-06-03,United States,Georgia,Schley,0,0,350,4
+2021-06-03,United States,Georgia,Screven,1,0,997,31
+2021-06-03,United States,Georgia,Seminole,1,0,952,19
+2021-06-03,United States,Georgia,Spalding,5,0,6420,195
+2021-06-03,United States,Georgia,Stephens,1,0,3127,80
+2021-06-03,United States,Georgia,Stewart,5,0,930,25
+2021-06-03,United States,Georgia,Sumter,1,0,2589,104
+2021-06-03,United States,Georgia,Talbot,0,0,493,18
+2021-06-03,United States,Georgia,Taliaferro,0,0,124,3
+2021-06-03,United States,Georgia,Tattnall,2,0,2325,65
+2021-06-03,United States,Georgia,Taylor,0,0,801,25
+2021-06-03,United States,Georgia,Telfair,1,0,1312,58
+2021-06-03,United States,Georgia,Terrell,1,0,817,48
+2021-06-03,United States,Georgia,Thomas,5,0,4506,124
+2021-06-03,United States,Georgia,Tift,2,0,4939,127
+2021-06-03,United States,Georgia,Toombs,0,0,3429,116
+2021-06-03,United States,Georgia,Towns,0,0,1245,56
+2021-06-03,United States,Georgia,Treutlen,1,0,855,29
+2021-06-03,United States,Georgia,Troup,2,1,7580,232
+2021-06-03,United States,Georgia,Turner,0,0,1033,39
+2021-06-03,United States,Georgia,Twiggs,0,0,728,44
+2021-06-03,United States,Georgia,Unassigned,22,-2,3146,5
+2021-06-03,United States,Georgia,Union,4,0,2250,73
+2021-06-03,United States,Georgia,Upson,-2,0,3492,131
+2021-06-03,United States,Georgia,Walker,3,0,7652,87
+2021-06-03,United States,Georgia,Walton,-2,0,10683,261
+2021-06-03,United States,Georgia,Ware,6,0,4938,177
+2021-06-03,United States,Georgia,Warren,0,0,544,20
+2021-06-03,United States,Georgia,Washington,0,0,2057,88
+2021-06-03,United States,Georgia,Wayne,2,0,3621,90
+2021-06-03,United States,Georgia,Webster,0,0,146,4
+2021-06-03,United States,Georgia,Wheeler,0,0,632,24
+2021-06-03,United States,Georgia,White,2,0,3200,80
+2021-06-03,United States,Georgia,Whitfield,5,1,16962,245
+2021-06-03,United States,Georgia,Wilcox,1,0,828,48
+2021-06-03,United States,Georgia,Wilkes,1,0,1093,30
+2021-06-03,United States,Georgia,Wilkinson,1,0,935,27
+2021-06-03,United States,Georgia,Worth,0,0,1798,68
+2021-06-03,United States,Guam,,14,0,8187,139
+2021-06-03,United States,Hawaii,Hawaii,0,0,2968,53
+2021-06-03,United States,Hawaii,Honolulu,13,0,27170,388
+2021-06-03,United States,Hawaii,Kauai,-1,0,323,2
+2021-06-03,United States,Hawaii,Maui,9,0,4650,54
+2021-06-03,United States,Hawaii,Out of HI,4,0,1246,3
+2021-06-03,United States,Hawaii,Unassigned,0,0,0,0
+2021-06-03,United States,Idaho,Ada,62,0,52937,472
+2021-06-03,United States,Idaho,Adams,0,0,341,4
+2021-06-03,United States,Idaho,Bannock,-5,0,8843,110
+2021-06-03,United States,Idaho,Bear Lake,0,0,391,2
+2021-06-03,United States,Idaho,Benewah,3,0,701,9
+2021-06-03,United States,Idaho,Bingham,1,0,4853,76
+2021-06-03,United States,Idaho,Blaine,0,0,2388,18
+2021-06-03,United States,Idaho,Boise,0,0,365,2
+2021-06-03,United States,Idaho,Bonner,5,0,3315,42
+2021-06-03,United States,Idaho,Bonneville,1,2,14991,172
+2021-06-03,United States,Idaho,Boundary,1,0,873,11
+2021-06-03,United States,Idaho,Butte,0,0,212,1
+2021-06-03,United States,Idaho,Camas,0,0,72,0
+2021-06-03,United States,Idaho,Canyon,30,1,27219,300
+2021-06-03,United States,Idaho,Caribou,0,0,702,12
+2021-06-03,United States,Idaho,Cassia,2,0,2952,27
+2021-06-03,United States,Idaho,Clark,0,0,59,0
+2021-06-03,United States,Idaho,Clearwater,0,0,1073,14
+2021-06-03,United States,Idaho,Custer,2,0,257,3
+2021-06-03,United States,Idaho,Elmore,5,0,2077,17
+2021-06-03,United States,Idaho,Franklin,0,0,1199,16
+2021-06-03,United States,Idaho,Fremont,0,0,1137,14
+2021-06-03,United States,Idaho,Gem,4,1,1815,39
+2021-06-03,United States,Idaho,Gooding,1,0,1318,24
+2021-06-03,United States,Idaho,Idaho,5,0,1280,18
+2021-06-03,United States,Idaho,Jefferson,0,1,3018,32
+2021-06-03,United States,Idaho,Jerome,2,0,2632,23
+2021-06-03,United States,Idaho,Kootenai,28,0,18633,210
+2021-06-03,United States,Idaho,Latah,0,1,3199,11
+2021-06-03,United States,Idaho,Lemhi,0,0,532,9
+2021-06-03,United States,Idaho,Lewis,1,0,415,10
+2021-06-03,United States,Idaho,Lincoln,0,0,511,11
+2021-06-03,United States,Idaho,Madison,6,0,7292,28
+2021-06-03,United States,Idaho,Minidoka,0,0,2343,33
+2021-06-03,United States,Idaho,Nez Perce,3,0,3687,54
+2021-06-03,United States,Idaho,Oneida,0,0,364,4
+2021-06-03,United States,Idaho,Owyhee,3,0,1082,30
+2021-06-03,United States,Idaho,Payette,2,0,2592,37
+2021-06-03,United States,Idaho,Power,0,0,657,9
+2021-06-03,United States,Idaho,Shoshone,2,0,1158,34
+2021-06-03,United States,Idaho,Teton,0,0,1228,4
+2021-06-03,United States,Idaho,Twin Falls,7,1,9686,128
+2021-06-03,United States,Idaho,Unassigned,0,0,0,0
+2021-06-03,United States,Idaho,Valley,1,0,849,6
+2021-06-03,United States,Idaho,Washington,1,0,1230,21
+2021-06-03,United States,Illinois,Adams,1,0,8616,124
+2021-06-03,United States,Illinois,Alexander,0,0,470,11
+2021-06-03,United States,Illinois,Bond,1,0,2083,24
+2021-06-03,United States,Illinois,Boone,5,0,6796,75
+2021-06-03,United States,Illinois,Brown,1,0,724,6
+2021-06-03,United States,Illinois,Bureau,3,0,3768,83
+2021-06-03,United States,Illinois,Calhoun,1,0,519,2
+2021-06-03,United States,Illinois,Carroll,1,0,1774,37
+2021-06-03,United States,Illinois,Cass,3,0,2019,27
+2021-06-03,United States,Illinois,Champaign,16,0,20997,148
+2021-06-03,United States,Illinois,Christian,10,0,3830,73
+2021-06-03,United States,Illinois,Clark,1,0,1826,33
+2021-06-03,United States,Illinois,Clay,3,0,1491,43
+2021-06-03,United States,Illinois,Clinton,0,0,5777,91
+2021-06-03,United States,Illinois,Coles,3,0,5739,99
+2021-06-03,United States,Illinois,Cook,198,3,554124,10330
+2021-06-03,United States,Illinois,Crawford,0,0,2138,26
+2021-06-03,United States,Illinois,Cumberland,0,0,1298,19
+2021-06-03,United States,Illinois,De Witt,3,0,1567,28
+2021-06-03,United States,Illinois,DeKalb,4,0,10056,120
+2021-06-03,United States,Illinois,Douglas,0,0,2601,34
+2021-06-03,United States,Illinois,DuPage,14,0,91907,1305
+2021-06-03,United States,Illinois,Edgar,0,0,1749,40
+2021-06-03,United States,Illinois,Edwards,1,0,575,12
+2021-06-03,United States,Illinois,Effingham,1,0,4751,72
+2021-06-03,United States,Illinois,Fayette,8,0,3208,55
+2021-06-03,United States,Illinois,Ford,3,0,1848,48
+2021-06-03,United States,Illinois,Franklin,3,0,4522,76
+2021-06-03,United States,Illinois,Fulton,0,0,4037,59
+2021-06-03,United States,Illinois,Gallatin,0,0,462,4
+2021-06-03,United States,Illinois,Greene,2,0,1452,33
+2021-06-03,United States,Illinois,Grundy,4,0,5968,76
+2021-06-03,United States,Illinois,Hamilton,0,0,839,15
+2021-06-03,United States,Illinois,Hancock,1,0,1789,31
+2021-06-03,United States,Illinois,Hardin,0,0,389,12
+2021-06-03,United States,Illinois,Henderson,0,0,529,14
+2021-06-03,United States,Illinois,Henry,0,0,5059,69
+2021-06-03,United States,Illinois,Iroquois,4,0,3094,67
+2021-06-03,United States,Illinois,Jackson,0,0,5076,64
+2021-06-03,United States,Illinois,Jasper,0,0,1156,18
+2021-06-03,United States,Illinois,Jefferson,2,0,4411,121
+2021-06-03,United States,Illinois,Jersey,-1,0,2708,50
+2021-06-03,United States,Illinois,Jo Daviess,0,0,1826,24
+2021-06-03,United States,Illinois,Johnson,1,0,1467,16
+2021-06-03,United States,Illinois,Kane,19,1,59215,795
+2021-06-03,United States,Illinois,Kankakee,6,0,14450,214
+2021-06-03,United States,Illinois,Kendall,5,0,13243,96
+2021-06-03,United States,Illinois,Knox,3,0,5619,152
+2021-06-03,United States,Illinois,Lake,21,0,68111,1005
+2021-06-03,United States,Illinois,LaSalle,5,0,12718,247
+2021-06-03,United States,Illinois,Lawrence,1,0,2409,25
+2021-06-03,United States,Illinois,Lee,1,0,4190,52
+2021-06-03,United States,Illinois,Livingston,4,0,4882,87
+2021-06-03,United States,Illinois,Logan,2,0,3953,62
+2021-06-03,United States,Illinois,Macon,5,0,10939,208
+2021-06-03,United States,Illinois,Macoupin,1,0,4767,87
+2021-06-03,United States,Illinois,Madison,5,0,30824,523
+2021-06-03,United States,Illinois,Marion,1,0,4496,116
+2021-06-03,United States,Illinois,Marshall,1,0,1082,19
+2021-06-03,United States,Illinois,Mason,0,0,1535,45
+2021-06-03,United States,Illinois,Massac,0,0,1357,40
+2021-06-03,United States,Illinois,McDonough,1,0,2896,50
+2021-06-03,United States,Illinois,McHenry,14,0,29075,291
+2021-06-03,United States,Illinois,McLean,4,1,18488,184
+2021-06-03,United States,Illinois,Menard,0,0,1245,12
+2021-06-03,United States,Illinois,Mercer,1,0,1488,34
+2021-06-03,United States,Illinois,Monroe,1,0,4374,94
+2021-06-03,United States,Illinois,Montgomery,0,0,3776,74
+2021-06-03,United States,Illinois,Morgan,3,0,3926,82
+2021-06-03,United States,Illinois,Moultrie,2,0,1626,28
+2021-06-03,United States,Illinois,Ogle,7,0,6179,83
+2021-06-03,United States,Illinois,Out of IL,0,0,2,0
+2021-06-03,United States,Illinois,Peoria,6,0,23395,330
+2021-06-03,United States,Illinois,Perry,-2,0,3193,60
+2021-06-03,United States,Illinois,Piatt,0,0,1521,14
+2021-06-03,United States,Illinois,Pike,2,0,1802,53
+2021-06-03,United States,Illinois,Pope,0,0,326,4
+2021-06-03,United States,Illinois,Pulaski,0,0,696,7
+2021-06-03,United States,Illinois,Putnam,0,0,486,3
+2021-06-03,United States,Illinois,Randolph,3,0,4150,87
+2021-06-03,United States,Illinois,Richland,1,0,1763,40
+2021-06-03,United States,Illinois,Rock Island,7,1,15209,321
+2021-06-03,United States,Illinois,Saline,3,0,2592,56
+2021-06-03,United States,Illinois,Sangamon,1,0,19009,237
+2021-06-03,United States,Illinois,Schuyler,2,0,779,7
+2021-06-03,United States,Illinois,Scott,0,0,486,1
+2021-06-03,United States,Illinois,Shelby,0,0,2319,37
+2021-06-03,United States,Illinois,St. Clair,6,0,28146,518
+2021-06-03,United States,Illinois,Stark,0,0,644,24
+2021-06-03,United States,Illinois,Stephenson,0,0,4808,85
+2021-06-03,United States,Illinois,Tazewell,9,0,17150,299
+2021-06-03,United States,Illinois,Unassigned,4,1,86,2399
+2021-06-03,United States,Illinois,Union,1,0,2267,40
+2021-06-03,United States,Illinois,Vermilion,1,0,9925,136
+2021-06-03,United States,Illinois,Wabash,1,0,1352,12
+2021-06-03,United States,Illinois,Warren,0,0,1830,48
+2021-06-03,United States,Illinois,Washington,0,0,1648,25
+2021-06-03,United States,Illinois,Wayne,-1,0,1801,53
+2021-06-03,United States,Illinois,White,0,0,1702,26
+2021-06-03,United States,Illinois,Whiteside,2,0,7189,173
+2021-06-03,United States,Illinois,Will,11,1,76659,1020
+2021-06-03,United States,Illinois,Williamson,3,0,7528,134
+2021-06-03,United States,Illinois,Winnebago,8,0,33901,493
+2021-06-03,United States,Illinois,Woodford,0,0,4803,80
+2021-06-03,United States,Indiana,Adams,1,0,3446,55
+2021-06-03,United States,Indiana,Allen,18,0,41441,685
+2021-06-03,United States,Indiana,Bartholomew,0,0,8135,156
+2021-06-03,United States,Indiana,Benton,0,0,1000,14
+2021-06-03,United States,Indiana,Blackford,1,0,1355,32
+2021-06-03,United States,Indiana,Boone,3,0,6862,103
+2021-06-03,United States,Indiana,Brown,0,0,1032,42
+2021-06-03,United States,Indiana,Carroll,2,0,1930,20
+2021-06-03,United States,Indiana,Cass,0,0,5954,108
+2021-06-03,United States,Indiana,Clark,0,0,13136,192
+2021-06-03,United States,Indiana,Clay,-1,0,2634,47
+2021-06-03,United States,Indiana,Clinton,1,0,4343,53
+2021-06-03,United States,Indiana,Crawford,0,0,1021,16
+2021-06-03,United States,Indiana,Daviess,2,0,3006,99
+2021-06-03,United States,Indiana,Dearborn,2,0,5874,78
+2021-06-03,United States,Indiana,Decatur,2,0,2889,92
+2021-06-03,United States,Indiana,DeKalb,3,0,4363,85
+2021-06-03,United States,Indiana,Delaware,3,1,10898,190
+2021-06-03,United States,Indiana,Dubois,2,0,6197,117
+2021-06-03,United States,Indiana,Elkhart,15,0,29219,452
+2021-06-03,United States,Indiana,Fayette,0,1,2839,64
+2021-06-03,United States,Indiana,Floyd,2,0,7736,179
+2021-06-03,United States,Indiana,Fountain,2,0,2166,47
+2021-06-03,United States,Indiana,Franklin,1,0,1699,35
+2021-06-03,United States,Indiana,Fulton,1,0,1983,41
+2021-06-03,United States,Indiana,Gibson,-1,0,4420,92
+2021-06-03,United States,Indiana,Grant,5,0,7192,176
+2021-06-03,United States,Indiana,Greene,1,0,2841,85
+2021-06-03,United States,Indiana,Hamilton,9,0,36204,414
+2021-06-03,United States,Indiana,Hancock,1,1,8464,143
+2021-06-03,United States,Indiana,Harrison,0,0,4386,73
+2021-06-03,United States,Indiana,Hendricks,5,0,17498,316
+2021-06-03,United States,Indiana,Henry,3,1,5861,107
+2021-06-03,United States,Indiana,Howard,5,0,10184,224
+2021-06-03,United States,Indiana,Huntington,0,1,4004,81
+2021-06-03,United States,Indiana,Jackson,1,0,5068,74
+2021-06-03,United States,Indiana,Jasper,3,0,3816,52
+2021-06-03,United States,Indiana,Jay,1,0,1998,32
+2021-06-03,United States,Indiana,Jefferson,2,0,3342,82
+2021-06-03,United States,Indiana,Jennings,0,0,2339,49
+2021-06-03,United States,Indiana,Johnson,7,0,18245,382
+2021-06-03,United States,Indiana,Knox,0,0,3747,90
+2021-06-03,United States,Indiana,Kosciusko,7,1,9578,118
+2021-06-03,United States,Indiana,LaGrange,-1,0,2719,72
+2021-06-03,United States,Indiana,Lake,12,0,55032,999
+2021-06-03,United States,Indiana,LaPorte,8,0,12310,219
+2021-06-03,United States,Indiana,Lawrence,6,0,4692,121
+2021-06-03,United States,Indiana,Madison,4,0,12920,341
+2021-06-03,United States,Indiana,Marion,47,2,102018,1767
+2021-06-03,United States,Indiana,Marshall,1,0,6185,116
+2021-06-03,United States,Indiana,Martin,-2,0,908,15
+2021-06-03,United States,Indiana,Miami,2,0,3889,68
+2021-06-03,United States,Indiana,Monroe,3,1,12076,173
+2021-06-03,United States,Indiana,Montgomery,4,0,4295,89
+2021-06-03,United States,Indiana,Morgan,3,0,6691,140
+2021-06-03,United States,Indiana,Newton,0,0,1112,35
+2021-06-03,United States,Indiana,Noble,7,0,5753,85
+2021-06-03,United States,Indiana,Ohio,1,0,578,11
+2021-06-03,United States,Indiana,Orange,0,0,1874,54
+2021-06-03,United States,Indiana,Owen,1,1,2085,57
+2021-06-03,United States,Indiana,Parke,0,0,1480,16
+2021-06-03,United States,Indiana,Perry,0,0,1861,37
+2021-06-03,United States,Indiana,Pike,2,0,1370,34
+2021-06-03,United States,Indiana,Porter,2,0,19212,322
+2021-06-03,United States,Indiana,Posey,1,0,2728,34
+2021-06-03,United States,Indiana,Pulaski,0,0,1188,46
+2021-06-03,United States,Indiana,Putnam,2,0,3694,60
+2021-06-03,United States,Indiana,Randolph,3,0,2440,82
+2021-06-03,United States,Indiana,Ripley,1,0,3442,70
+2021-06-03,United States,Indiana,Rush,0,0,1751,26
+2021-06-03,United States,Indiana,Scott,1,0,2685,55
+2021-06-03,United States,Indiana,Shelby,0,0,4987,97
+2021-06-03,United States,Indiana,Spencer,0,0,2336,31
+2021-06-03,United States,Indiana,St. Joseph,13,0,36789,558
+2021-06-03,United States,Indiana,Starke,1,0,2253,55
+2021-06-03,United States,Indiana,Steuben,3,0,3955,59
+2021-06-03,United States,Indiana,Sullivan,1,0,2131,42
+2021-06-03,United States,Indiana,Switzerland,0,0,803,8
+2021-06-03,United States,Indiana,Tippecanoe,8,-1,22704,224
+2021-06-03,United States,Indiana,Tipton,0,0,1654,46
+2021-06-03,United States,Indiana,Unassigned,0,0,0,417
+2021-06-03,United States,Indiana,Union,0,0,727,10
+2021-06-03,United States,Indiana,Vanderburgh,3,0,22485,398
+2021-06-03,United States,Indiana,Vermillion,0,0,1721,44
+2021-06-03,United States,Indiana,Vigo,3,0,12560,252
+2021-06-03,United States,Indiana,Wabash,2,0,3591,82
+2021-06-03,United States,Indiana,Warren,0,0,830,15
+2021-06-03,United States,Indiana,Warrick,0,0,7825,155
+2021-06-03,United States,Indiana,Washington,1,0,2439,33
+2021-06-03,United States,Indiana,Wayne,8,0,7130,201
+2021-06-03,United States,Indiana,Wells,0,0,2940,81
+2021-06-03,United States,Indiana,White,1,0,3246,53
+2021-06-03,United States,Indiana,Whitley,0,0,4035,40
+2021-06-03,United States,Iowa,Adair,1,0,873,32
+2021-06-03,United States,Iowa,Adams,0,0,344,4
+2021-06-03,United States,Iowa,Allamakee,1,0,1523,51
+2021-06-03,United States,Iowa,Appanoose,1,0,1287,49
+2021-06-03,United States,Iowa,Audubon,1,0,517,10
+2021-06-03,United States,Iowa,Benton,0,0,2578,55
+2021-06-03,United States,Iowa,Black Hawk,15,0,15942,310
+2021-06-03,United States,Iowa,Boone,0,0,2678,34
+2021-06-03,United States,Iowa,Bremer,2,0,2871,60
+2021-06-03,United States,Iowa,Buchanan,0,0,1923,33
+2021-06-03,United States,Iowa,Buena Vista,2,0,4258,40
+2021-06-03,United States,Iowa,Butler,0,0,1658,35
+2021-06-03,United States,Iowa,Calhoun,0,0,1388,13
+2021-06-03,United States,Iowa,Carroll,0,0,2867,52
+2021-06-03,United States,Iowa,Cass,3,0,1392,54
+2021-06-03,United States,Iowa,Cedar,0,0,1913,23
+2021-06-03,United States,Iowa,Cerro Gordo,0,0,5501,90
+2021-06-03,United States,Iowa,Cherokee,1,0,1592,38
+2021-06-03,United States,Iowa,Chickasaw,0,0,1244,16
+2021-06-03,United States,Iowa,Clarke,1,0,1006,24
+2021-06-03,United States,Iowa,Clay,0,0,2161,27
+2021-06-03,United States,Iowa,Clayton,1,0,1706,57
+2021-06-03,United States,Iowa,Clinton,0,0,5600,93
+2021-06-03,United States,Iowa,Crawford,-3,0,2675,40
+2021-06-03,United States,Iowa,Dallas,2,0,11251,99
+2021-06-03,United States,Iowa,Davis,0,0,849,24
+2021-06-03,United States,Iowa,Decatur,1,0,612,9
+2021-06-03,United States,Iowa,Delaware,0,0,2108,41
+2021-06-03,United States,Iowa,Des Moines,9,0,4655,67
+2021-06-03,United States,Iowa,Dickinson,0,0,2490,44
+2021-06-03,United States,Iowa,Dubuque,14,0,13464,209
+2021-06-03,United States,Iowa,Emmet,2,0,1354,40
+2021-06-03,United States,Iowa,Fayette,1,0,1855,42
+2021-06-03,United States,Iowa,Floyd,0,0,1623,42
+2021-06-03,United States,Iowa,Franklin,1,0,1226,21
+2021-06-03,United States,Iowa,Fremont,0,0,626,9
+2021-06-03,United States,Iowa,Greene,0,0,780,10
+2021-06-03,United States,Iowa,Grundy,0,0,1366,33
+2021-06-03,United States,Iowa,Guthrie,3,0,1227,32
+2021-06-03,United States,Iowa,Hamilton,1,1,1810,51
+2021-06-03,United States,Iowa,Hancock,2,0,1498,34
+2021-06-03,United States,Iowa,Hardin,4,0,1872,44
+2021-06-03,United States,Iowa,Harrison,1,0,1798,73
+2021-06-03,United States,Iowa,Henry,0,0,2938,37
+2021-06-03,United States,Iowa,Howard,0,0,1047,22
+2021-06-03,United States,Iowa,Humboldt,0,0,1194,26
+2021-06-03,United States,Iowa,Ida,1,0,914,35
+2021-06-03,United States,Iowa,Iowa,-1,0,1496,24
+2021-06-03,United States,Iowa,Jackson,2,0,2247,42
+2021-06-03,United States,Iowa,Jasper,0,0,4204,72
+2021-06-03,United States,Iowa,Jefferson,0,0,1333,35
+2021-06-03,United States,Iowa,Johnson,6,0,14576,85
+2021-06-03,United States,Iowa,Jones,0,0,3008,57
+2021-06-03,United States,Iowa,Keokuk,-1,0,962,31
+2021-06-03,United States,Iowa,Kossuth,-1,0,2159,65
+2021-06-03,United States,Iowa,Lee,2,1,3796,56
+2021-06-03,United States,Iowa,Linn,23,0,21080,338
+2021-06-03,United States,Iowa,Louisa,0,0,1292,49
+2021-06-03,United States,Iowa,Lucas,0,0,779,23
+2021-06-03,United States,Iowa,Lyon,0,0,1586,41
+2021-06-03,United States,Iowa,Madison,2,0,1642,19
+2021-06-03,United States,Iowa,Mahaska,0,0,2319,51
+2021-06-03,United States,Iowa,Marion,2,0,3651,76
+2021-06-03,United States,Iowa,Marshall,-1,0,4859,76
+2021-06-03,United States,Iowa,Mills,0,0,1628,23
+2021-06-03,United States,Iowa,Mitchell,0,0,1265,42
+2021-06-03,United States,Iowa,Monona,1,0,829,31
+2021-06-03,United States,Iowa,Monroe,0,0,958,29
+2021-06-03,United States,Iowa,Montgomery,0,0,1035,38
+2021-06-03,United States,Iowa,Muscatine,2,0,4864,104
+2021-06-03,United States,Iowa,O`Brien,0,0,1998,61
+2021-06-03,United States,Iowa,Osceola,0,0,789,16
+2021-06-03,United States,Iowa,Page,3,0,1938,22
+2021-06-03,United States,Iowa,Palo Alto,0,0,1135,23
+2021-06-03,United States,Iowa,Plymouth,1,0,4024,80
+2021-06-03,United States,Iowa,Pocahontas,0,0,858,22
+2021-06-03,United States,Iowa,Polk,23,0,58042,636
+2021-06-03,United States,Iowa,Pottawattamie,9,0,11186,171
+2021-06-03,United States,Iowa,Poweshiek,0,0,1566,35
+2021-06-03,United States,Iowa,Ringgold,0,0,559,24
+2021-06-03,United States,Iowa,Sac,-1,0,1307,19
+2021-06-03,United States,Iowa,Scott,5,0,20249,244
+2021-06-03,United States,Iowa,Shelby,0,0,1311,37
+2021-06-03,United States,Iowa,Sioux,0,0,5161,74
+2021-06-03,United States,Iowa,Story,5,0,10694,48
+2021-06-03,United States,Iowa,Tama,0,0,2109,71
+2021-06-03,United States,Iowa,Taylor,0,0,664,12
+2021-06-03,United States,Iowa,Unassigned,4,0,967,0
+2021-06-03,United States,Iowa,Union,0,0,1292,34
+2021-06-03,United States,Iowa,Van Buren,0,0,562,18
+2021-06-03,United States,Iowa,Wapello,0,0,4327,122
+2021-06-03,United States,Iowa,Warren,0,0,5811,90
+2021-06-03,United States,Iowa,Washington,3,0,2561,51
+2021-06-03,United States,Iowa,Wayne,0,0,543,23
+2021-06-03,United States,Iowa,Webster,1,0,5138,94
+2021-06-03,United States,Iowa,Winnebago,1,0,1437,31
+2021-06-03,United States,Iowa,Winneshiek,-1,0,1971,35
+2021-06-03,United States,Iowa,Woodbury,5,0,15207,229
+2021-06-03,United States,Iowa,Worth,0,0,756,8
+2021-06-03,United States,Iowa,Wright,0,2,1856,40
+2021-06-03,United States,Kansas,Allen,1,0,1246,20
+2021-06-03,United States,Kansas,Anderson,1,0,843,18
+2021-06-03,United States,Kansas,Atchison,-9,0,1625,14
+2021-06-03,United States,Kansas,Barber,0,0,374,6
+2021-06-03,United States,Kansas,Barton,0,0,2623,49
+2021-06-03,United States,Kansas,Bourbon,0,0,1427,26
+2021-06-03,United States,Kansas,Brown,0,1,1241,39
+2021-06-03,United States,Kansas,Butler,9,0,7601,89
+2021-06-03,United States,Kansas,Chase,0,0,274,3
+2021-06-03,United States,Kansas,Chautauqua,1,0,268,6
+2021-06-03,United States,Kansas,Cherokee,4,0,2498,53
+2021-06-03,United States,Kansas,Cheyenne,0,0,368,14
+2021-06-03,United States,Kansas,Clark,-1,0,251,7
+2021-06-03,United States,Kansas,Clay,1,0,804,29
+2021-06-03,United States,Kansas,Cloud,12,0,998,23
+2021-06-03,United States,Kansas,Coffey,1,0,742,23
+2021-06-03,United States,Kansas,Comanche,0,0,169,9
+2021-06-03,United States,Kansas,Cowley,3,0,4001,109
+2021-06-03,United States,Kansas,Crawford,7,0,4759,77
+2021-06-03,United States,Kansas,Decatur,2,0,270,12
+2021-06-03,United States,Kansas,Dickinson,3,0,1781,45
+2021-06-03,United States,Kansas,Doniphan,0,0,1015,23
+2021-06-03,United States,Kansas,Douglas,0,0,9342,84
+2021-06-03,United States,Kansas,Edwards,0,0,267,12
+2021-06-03,United States,Kansas,Elk,0,0,180,5
+2021-06-03,United States,Kansas,Ellis,3,0,3755,72
+2021-06-03,United States,Kansas,Ellsworth,-1,-1,1219,25
+2021-06-03,United States,Kansas,Finney,4,0,6101,73
+2021-06-03,United States,Kansas,Ford,-1,0,5767,76
+2021-06-03,United States,Kansas,Franklin,0,0,2578,42
+2021-06-03,United States,Kansas,Geary,13,0,3462,40
+2021-06-03,United States,Kansas,Gove,0,0,386,19
+2021-06-03,United States,Kansas,Graham,0,0,265,9
+2021-06-03,United States,Kansas,Grant,0,0,946,18
+2021-06-03,United States,Kansas,Gray,2,0,568,14
+2021-06-03,United States,Kansas,Greeley,0,0,104,1
+2021-06-03,United States,Kansas,Greenwood,1,0,568,11
+2021-06-03,United States,Kansas,Hamilton,0,0,210,1
+2021-06-03,United States,Kansas,Harper,0,0,617,18
+2021-06-03,United States,Kansas,Harvey,2,2,3680,72
+2021-06-03,United States,Kansas,Haskell,1,0,420,9
+2021-06-03,United States,Kansas,Hodgeman,0,0,213,8
+2021-06-03,United States,Kansas,Jackson,1,0,1412,16
+2021-06-03,United States,Kansas,Jefferson,1,1,1743,36
+2021-06-03,United States,Kansas,Jewell,0,0,213,6
+2021-06-03,United States,Kansas,Johnson,64,0,59208,763
+2021-06-03,United States,Kansas,Kearny,0,0,573,10
+2021-06-03,United States,Kansas,Kingman,0,0,772,15
+2021-06-03,United States,Kansas,Kiowa,0,0,238,4
+2021-06-03,United States,Kansas,Labette,1,0,2752,50
+2021-06-03,United States,Kansas,Lane,0,0,128,7
+2021-06-03,United States,Kansas,Leavenworth,9,0,7264,92
+2021-06-03,United States,Kansas,Lincoln,0,0,265,5
+2021-06-03,United States,Kansas,Linn,1,0,823,8
+2021-06-03,United States,Kansas,Logan,0,0,289,6
+2021-06-03,United States,Kansas,Lyon,2,-1,4301,85
+2021-06-03,United States,Kansas,Marion,1,0,1114,24
+2021-06-03,United States,Kansas,Marshall,3,0,1127,25
+2021-06-03,United States,Kansas,McPherson,6,0,3303,83
+2021-06-03,United States,Kansas,Meade,0,0,517,12
+2021-06-03,United States,Kansas,Miami,6,0,2779,42
+2021-06-03,United States,Kansas,Mitchell,1,0,565,18
+2021-06-03,United States,Kansas,Montgomery,2,0,3474,82
+2021-06-03,United States,Kansas,Morris,0,0,590,23
+2021-06-03,United States,Kansas,Morton,2,0,269,8
+2021-06-03,United States,Kansas,Nemaha,0,0,1516,55
+2021-06-03,United States,Kansas,Neosho,0,0,1805,35
+2021-06-03,United States,Kansas,Ness,0,0,372,16
+2021-06-03,United States,Kansas,Norton,0,0,1206,27
+2021-06-03,United States,Kansas,Osage,2,0,1260,26
+2021-06-03,United States,Kansas,Osborne,0,0,290,12
+2021-06-03,United States,Kansas,Ottawa,0,0,552,13
+2021-06-03,United States,Kansas,Out of KS,0,0,0,0
+2021-06-03,United States,Kansas,Pawnee,2,1,1174,14
+2021-06-03,United States,Kansas,Phillips,1,0,715,24
+2021-06-03,United States,Kansas,Pottawatomie,15,0,1934,31
+2021-06-03,United States,Kansas,Pratt,0,0,815,25
+2021-06-03,United States,Kansas,Rawlins,7,0,331,7
+2021-06-03,United States,Kansas,Reno,13,0,8565,139
+2021-06-03,United States,Kansas,Republic,0,0,669,13
+2021-06-03,United States,Kansas,Rice,0,0,1078,12
+2021-06-03,United States,Kansas,Riley,43,0,6595,43
+2021-06-03,United States,Kansas,Rooks,0,0,656,11
+2021-06-03,United States,Kansas,Rush,0,0,433,14
+2021-06-03,United States,Kansas,Russell,0,0,859,28
+2021-06-03,United States,Kansas,Saline,3,1,6296,143
+2021-06-03,United States,Kansas,Scott,0,0,600,24
+2021-06-03,United States,Kansas,Sedgwick,104,0,57376,767
+2021-06-03,United States,Kansas,Seward,-1,0,3872,41
+2021-06-03,United States,Kansas,Shawnee,25,0,17594,363
+2021-06-03,United States,Kansas,Sheridan,0,0,436,14
+2021-06-03,United States,Kansas,Sherman,4,0,657,12
+2021-06-03,United States,Kansas,Smith,3,0,274,3
+2021-06-03,United States,Kansas,Stafford,0,0,344,9
+2021-06-03,United States,Kansas,Stanton,0,0,185,6
+2021-06-03,United States,Kansas,Stevens,1,0,560,10
+2021-06-03,United States,Kansas,Sumner,5,0,2193,52
+2021-06-03,United States,Kansas,Thomas,0,0,1099,20
+2021-06-03,United States,Kansas,Trego,0,0,407,8
+2021-06-03,United States,Kansas,Unassigned,0,0,0,0
+2021-06-03,United States,Kansas,Wabaunsee,1,0,686,13
+2021-06-03,United States,Kansas,Wallace,0,0,179,4
+2021-06-03,United States,Kansas,Washington,6,0,542,14
+2021-06-03,United States,Kansas,Wichita,0,0,217,6
+2021-06-03,United States,Kansas,Wilson,0,0,1018,16
+2021-06-03,United States,Kansas,Woodson,1,0,220,5
+2021-06-03,United States,Kansas,Wyandotte,39,0,20642,283
+2021-06-03,United States,Kentucky,Adair,0,-1,1950,53
+2021-06-03,United States,Kentucky,Allen,-1,0,2096,42
+2021-06-03,United States,Kentucky,Anderson,1,0,1762,23
+2021-06-03,United States,Kentucky,Ballard,1,0,410,9
+2021-06-03,United States,Kentucky,Barren,4,0,4480,98
+2021-06-03,United States,Kentucky,Bath,1,0,1038,22
+2021-06-03,United States,Kentucky,Bell,2,0,3143,56
+2021-06-03,United States,Kentucky,Boone,21,0,14258,145
+2021-06-03,United States,Kentucky,Bourbon,1,0,1732,19
+2021-06-03,United States,Kentucky,Boyd,2,0,5070,75
+2021-06-03,United States,Kentucky,Boyle,2,0,3461,76
+2021-06-03,United States,Kentucky,Bracken,0,0,652,7
+2021-06-03,United States,Kentucky,Breathitt,2,0,1036,9
+2021-06-03,United States,Kentucky,Breckinridge,1,0,1296,17
+2021-06-03,United States,Kentucky,Bullitt,5,0,7349,80
+2021-06-03,United States,Kentucky,Butler,1,0,1471,27
+2021-06-03,United States,Kentucky,Caldwell,1,0,1464,32
+2021-06-03,United States,Kentucky,Calloway,8,0,3551,50
+2021-06-03,United States,Kentucky,Campbell,20,0,8671,78
+2021-06-03,United States,Kentucky,Carlisle,0,0,482,9
+2021-06-03,United States,Kentucky,Carroll,1,0,1031,20
+2021-06-03,United States,Kentucky,Carter,1,0,2312,35
+2021-06-03,United States,Kentucky,Casey,1,0,1487,36
+2021-06-03,United States,Kentucky,Christian,5,0,6990,106
+2021-06-03,United States,Kentucky,Clark,1,0,2974,32
+2021-06-03,United States,Kentucky,Clay,3,0,2689,46
+2021-06-03,United States,Kentucky,Clinton,0,0,1450,31
+2021-06-03,United States,Kentucky,Crittenden,0,0,674,23
+2021-06-03,United States,Kentucky,Cumberland,0,0,703,12
+2021-06-03,United States,Kentucky,Daviess,5,0,10924,190
+2021-06-03,United States,Kentucky,Edmonson,0,0,918,25
+2021-06-03,United States,Kentucky,Elliott,0,0,967,2
+2021-06-03,United States,Kentucky,Estill,4,0,1144,12
+2021-06-03,United States,Kentucky,Fayette,12,0,36205,309
+2021-06-03,United States,Kentucky,Fleming,2,0,1214,24
+2021-06-03,United States,Kentucky,Floyd,2,0,3466,70
+2021-06-03,United States,Kentucky,Franklin,4,0,4124,56
+2021-06-03,United States,Kentucky,Fulton,0,0,535,16
+2021-06-03,United States,Kentucky,Gallatin,2,0,721,31
+2021-06-03,United States,Kentucky,Garrard,-2,0,1547,36
+2021-06-03,United States,Kentucky,Grant,11,0,2444,20
+2021-06-03,United States,Kentucky,Graves,5,0,4275,96
+2021-06-03,United States,Kentucky,Grayson,3,1,2226,58
+2021-06-03,United States,Kentucky,Green,1,0,1231,17
+2021-06-03,United States,Kentucky,Greenup,-1,0,3661,63
+2021-06-03,United States,Kentucky,Hancock,0,0,895,15
+2021-06-03,United States,Kentucky,Hardin,12,0,9857,167
+2021-06-03,United States,Kentucky,Harlan,7,0,2908,85
+2021-06-03,United States,Kentucky,Harrison,0,0,1725,25
+2021-06-03,United States,Kentucky,Hart,2,0,2007,51
+2021-06-03,United States,Kentucky,Henderson,6,1,4930,78
+2021-06-03,United States,Kentucky,Henry,0,0,1381,18
+2021-06-03,United States,Kentucky,Hickman,2,0,396,13
+2021-06-03,United States,Kentucky,Hopkins,3,0,4562,147
+2021-06-03,United States,Kentucky,Jackson,1,0,1326,32
+2021-06-03,United States,Kentucky,Jefferson,56,0,82289,1314
+2021-06-03,United States,Kentucky,Jessamine,2,0,4756,66
+2021-06-03,United States,Kentucky,Johnson,8,0,2070,35
+2021-06-03,United States,Kentucky,Kenton,29,0,16727,199
+2021-06-03,United States,Kentucky,Knott,0,0,1149,24
+2021-06-03,United States,Kentucky,Knox,5,1,3352,44
+2021-06-03,United States,Kentucky,Larue,0,0,1349,26
+2021-06-03,United States,Kentucky,Laurel,11,0,6844,78
+2021-06-03,United States,Kentucky,Lawrence,3,0,1475,25
+2021-06-03,United States,Kentucky,Lee,0,0,1289,26
+2021-06-03,United States,Kentucky,Leslie,1,0,938,8
+2021-06-03,United States,Kentucky,Letcher,1,0,1936,45
+2021-06-03,United States,Kentucky,Lewis,0,0,1354,40
+2021-06-03,United States,Kentucky,Lincoln,9,0,2381,57
+2021-06-03,United States,Kentucky,Livingston,2,0,868,24
+2021-06-03,United States,Kentucky,Logan,2,0,2883,69
+2021-06-03,United States,Kentucky,Lyon,0,0,1546,20
+2021-06-03,United States,Kentucky,Madison,12,0,9457,111
+2021-06-03,United States,Kentucky,Magoffin,6,0,1016,17
+2021-06-03,United States,Kentucky,Marion,-1,0,2354,38
+2021-06-03,United States,Kentucky,Marshall,6,0,2868,57
+2021-06-03,United States,Kentucky,Martin,3,0,1047,20
+2021-06-03,United States,Kentucky,Mason,2,1,1727,40
+2021-06-03,United States,Kentucky,McCracken,5,0,6843,131
+2021-06-03,United States,Kentucky,McCreary,7,0,2032,33
+2021-06-03,United States,Kentucky,McLean,1,0,898,27
+2021-06-03,United States,Kentucky,Meade,0,0,2062,25
+2021-06-03,United States,Kentucky,Menifee,0,0,480,17
+2021-06-03,United States,Kentucky,Mercer,3,0,2606,54
+2021-06-03,United States,Kentucky,Metcalfe,4,1,1055,30
+2021-06-03,United States,Kentucky,Monroe,0,0,1340,44
+2021-06-03,United States,Kentucky,Montgomery,0,0,2808,30
+2021-06-03,United States,Kentucky,Morgan,0,0,2293,3
+2021-06-03,United States,Kentucky,Muhlenberg,9,0,3029,67
+2021-06-03,United States,Kentucky,Nelson,0,0,4971,59
+2021-06-03,United States,Kentucky,Nicholas,0,0,559,8
+2021-06-03,United States,Kentucky,Ohio,4,0,2497,54
+2021-06-03,United States,Kentucky,Oldham,4,0,7671,84
+2021-06-03,United States,Kentucky,Owen,4,0,727,13
+2021-06-03,United States,Kentucky,Owsley,-1,0,503,16
+2021-06-03,United States,Kentucky,Pendleton,1,0,1038,5
+2021-06-03,United States,Kentucky,Perry,2,0,2699,66
+2021-06-03,United States,Kentucky,Pike,4,0,5649,103
+2021-06-03,United States,Kentucky,Powell,0,0,1330,13
+2021-06-03,United States,Kentucky,Pulaski,2,0,6579,108
+2021-06-03,United States,Kentucky,Robertson,0,0,234,14
+2021-06-03,United States,Kentucky,Rockcastle,5,0,1614,23
+2021-06-03,United States,Kentucky,Rowan,0,0,2289,20
+2021-06-03,United States,Kentucky,Russell,0,0,1890,44
+2021-06-03,United States,Kentucky,Scott,3,0,5086,36
+2021-06-03,United States,Kentucky,Shelby,0,0,4803,78
+2021-06-03,United States,Kentucky,Simpson,-1,0,2127,42
+2021-06-03,United States,Kentucky,Spencer,4,0,1634,25
+2021-06-03,United States,Kentucky,Taylor,5,0,3209,52
+2021-06-03,United States,Kentucky,Todd,4,0,1176,27
+2021-06-03,United States,Kentucky,Trigg,6,0,1343,15
+2021-06-03,United States,Kentucky,Trimble,1,0,694,7
+2021-06-03,United States,Kentucky,Unassigned,0,0,9,0
+2021-06-03,United States,Kentucky,Union,4,0,1422,16
+2021-06-03,United States,Kentucky,Warren,10,0,16160,180
+2021-06-03,United States,Kentucky,Washington,0,0,1454,41
+2021-06-03,United States,Kentucky,Wayne,0,0,2223,48
+2021-06-03,United States,Kentucky,Webster,2,0,1342,20
+2021-06-03,United States,Kentucky,Whitley,-3,0,5098,59
+2021-06-03,United States,Kentucky,Wolfe,0,0,535,6
+2021-06-03,United States,Kentucky,Woodford,1,0,2167,21
+2021-06-03,United States,Louisiana,Acadia,24,0,6693,195
+2021-06-03,United States,Louisiana,Allen,3,0,3230,92
+2021-06-03,United States,Louisiana,Ascension,21,0,12621,167
+2021-06-03,United States,Louisiana,Assumption,9,0,2273,36
+2021-06-03,United States,Louisiana,Avoyelles,4,0,4302,123
+2021-06-03,United States,Louisiana,Beauregard,5,0,3264,78
+2021-06-03,United States,Louisiana,Bienville,5,0,1689,82
+2021-06-03,United States,Louisiana,Bossier,9,0,14218,306
+2021-06-03,United States,Louisiana,Caddo,36,1,26744,753
+2021-06-03,United States,Louisiana,Calcasieu,14,0,22851,439
+2021-06-03,United States,Louisiana,Caldwell,1,0,1121,29
+2021-06-03,United States,Louisiana,Cameron,2,0,608,7
+2021-06-03,United States,Louisiana,Catahoula,3,0,1172,38
+2021-06-03,United States,Louisiana,Claiborne,1,0,1448,55
+2021-06-03,United States,Louisiana,Concordia,-3,0,1891,61
+2021-06-03,United States,Louisiana,De Soto,12,0,2852,78
+2021-06-03,United States,Louisiana,East Baton Rouge,58,0,40416,824
+2021-06-03,United States,Louisiana,East Carroll,3,0,1133,27
+2021-06-03,United States,Louisiana,East Feliciana,5,0,3216,112
+2021-06-03,United States,Louisiana,Evangeline,-3,0,3653,93
+2021-06-03,United States,Louisiana,Franklin,7,0,2515,106
+2021-06-03,United States,Louisiana,Grant,-2,0,2214,58
+2021-06-03,United States,Louisiana,Iberia,2,0,7298,157
+2021-06-03,United States,Louisiana,Iberville,3,0,3884,100
+2021-06-03,United States,Louisiana,Jackson,8,0,2025,51
+2021-06-03,United States,Louisiana,Jefferson,64,0,46894,898
+2021-06-03,United States,Louisiana,Jefferson Davis,10,0,3215,97
+2021-06-03,United States,Louisiana,Lafayette,22,0,24091,289
+2021-06-03,United States,Louisiana,Lafourche,25,1,9864,205
+2021-06-03,United States,Louisiana,LaSalle,1,0,1618,37
+2021-06-03,United States,Louisiana,Lincoln,11,0,4602,93
+2021-06-03,United States,Louisiana,Livingston,27,0,13784,209
+2021-06-03,United States,Louisiana,Madison,1,0,1569,40
+2021-06-03,United States,Louisiana,Morehouse,-3,0,2853,78
+2021-06-03,United States,Louisiana,Natchitoches,-13,0,4119,93
+2021-06-03,United States,Louisiana,Orleans,21,1,30651,795
+2021-06-03,United States,Louisiana,Ouachita,9,0,18806,455
+2021-06-03,United States,Louisiana,Out of LA,0,0,0,0
+2021-06-03,United States,Louisiana,Plaquemines,-4,0,2555,27
+2021-06-03,United States,Louisiana,Pointe Coupee,-1,0,2675,75
+2021-06-03,United States,Louisiana,Rapides,21,0,12530,318
+2021-06-03,United States,Louisiana,Red River,7,0,893,38
+2021-06-03,United States,Louisiana,Richland,-2,0,2472,56
+2021-06-03,United States,Louisiana,Sabine,-4,0,2971,62
+2021-06-03,United States,Louisiana,St. Bernard,5,0,4078,53
+2021-06-03,United States,Louisiana,St. Charles,15,0,5552,97
+2021-06-03,United States,Louisiana,St. Helena,1,0,960,12
+2021-06-03,United States,Louisiana,St. James,6,0,2010,50
+2021-06-03,United States,Louisiana,St. John the Baptist,-4,0,3796,141
+2021-06-03,United States,Louisiana,St. Landry,2,0,9072,259
+2021-06-03,United States,Louisiana,St. Martin,8,0,5427,117
+2021-06-03,United States,Louisiana,St. Mary,16,0,4875,140
+2021-06-03,United States,Louisiana,St. Tammany,63,0,26023,527
+2021-06-03,United States,Louisiana,Tangipahoa,28,0,12928,299
+2021-06-03,United States,Louisiana,Tensas,0,0,364,8
+2021-06-03,United States,Louisiana,Terrebonne,41,0,10642,225
+2021-06-03,United States,Louisiana,Unassigned,2,0,416,0
+2021-06-03,United States,Louisiana,Union,3,0,2428,80
+2021-06-03,United States,Louisiana,Vermilion,14,0,5620,124
+2021-06-03,United States,Louisiana,Vernon,6,0,3163,104
+2021-06-03,United States,Louisiana,Washington,16,0,4420,133
+2021-06-03,United States,Louisiana,Webster,1,0,4185,113
+2021-06-03,United States,Louisiana,West Baton Rouge,3,0,2937,61
+2021-06-03,United States,Louisiana,West Carroll,-2,0,1182,41
+2021-06-03,United States,Louisiana,West Feliciana,-1,0,1168,34
+2021-06-03,United States,Louisiana,Winn,-1,0,1565,45
+2021-06-03,United States,Maine,Androscoggin,14,1,8286,80
+2021-06-03,United States,Maine,Aroostook,2,0,1869,45
+2021-06-03,United States,Maine,Cumberland,8,0,17120,195
+2021-06-03,United States,Maine,Franklin,0,0,1339,15
+2021-06-03,United States,Maine,Hancock,1,0,1354,38
+2021-06-03,United States,Maine,Kennebec,9,0,6498,71
+2021-06-03,United States,Maine,Knox,1,0,1132,6
+2021-06-03,United States,Maine,Lincoln,0,0,1062,3
+2021-06-03,United States,Maine,Oxford,2,0,3576,65
+2021-06-03,United States,Maine,Penobscot,11,0,6176,93
+2021-06-03,United States,Maine,Piscataquis,1,0,571,6
+2021-06-03,United States,Maine,Sagadahoc,0,0,1459,10
+2021-06-03,United States,Maine,Somerset,1,1,2190,32
+2021-06-03,United States,Maine,Unassigned,0,0,1,0
+2021-06-03,United States,Maine,Waldo,4,0,1026,21
+2021-06-03,United States,Maine,Washington,0,0,897,16
+2021-06-03,United States,Maine,York,8,0,13325,131
+2021-06-03,United States,Maryland,Allegany,0,0,7008,211
+2021-06-03,United States,Maryland,Anne Arundel,7,0,43794,646
+2021-06-03,United States,Maryland,Baltimore,12,0,65655,1657
+2021-06-03,United States,Maryland,Baltimore City,-5,1,52860,1224
+2021-06-03,United States,Maryland,Calvert,1,0,4219,85
+2021-06-03,United States,Maryland,Caroline,0,0,2341,29
+2021-06-03,United States,Maryland,Carroll,2,0,9481,252
+2021-06-03,United States,Maryland,Cecil,0,0,6301,150
+2021-06-03,United States,Maryland,Charles,5,1,10870,211
+2021-06-03,United States,Maryland,Dorchester,0,0,2828,64
+2021-06-03,United States,Maryland,Frederick,3,1,19776,339
+2021-06-03,United States,Maryland,Garrett,0,0,2034,65
+2021-06-03,United States,Maryland,Harford,3,1,16568,293
+2021-06-03,United States,Maryland,Howard,1,0,19218,250
+2021-06-03,United States,Maryland,Kent,0,0,1348,51
+2021-06-03,United States,Maryland,Montgomery,5,0,70935,1604
+2021-06-03,United States,Maryland,Prince George`s,10,0,85089,1573
+2021-06-03,United States,Maryland,Queen Anne`s,1,0,2998,51
+2021-06-03,United States,Maryland,Somerset,0,0,2613,40
+2021-06-03,United States,Maryland,St. Mary`s,2,0,6028,130
+2021-06-03,United States,Maryland,Talbot,1,0,2160,44
+2021-06-03,United States,Maryland,Unassigned,0,1,0,47
+2021-06-03,United States,Maryland,Washington,8,0,14595,328
+2021-06-03,United States,Maryland,Wicomico,-2,1,7683,172
+2021-06-03,United States,Maryland,Worcester,11,0,3658,106
+2021-06-03,United States,Massachusetts,Barnstable,0,0,13907,469
+2021-06-03,United States,Massachusetts,Berkshire,0,0,6526,286
+2021-06-03,United States,Massachusetts,Bristol,17,0,66672,1729
+2021-06-03,United States,Massachusetts,Dukes and Nantucket,2,0,2928,5
+2021-06-03,United States,Massachusetts,Essex,17,1,97615,2393
+2021-06-03,United States,Massachusetts,Franklin,1,0,2571,113
+2021-06-03,United States,Massachusetts,Hampden,11,1,52233,1526
+2021-06-03,United States,Massachusetts,Hampshire,0,0,9140,298
+2021-06-03,United States,Massachusetts,Middlesex,13,0,134928,3759
+2021-06-03,United States,Massachusetts,Norfolk,4,0,54825,1789
+2021-06-03,United States,Massachusetts,Plymouth,13,0,49151,1438
+2021-06-03,United States,Massachusetts,Suffolk,6,0,92769,1838
+2021-06-03,United States,Massachusetts,Unassigned,35,0,46943,7
+2021-06-03,United States,Massachusetts,Worcester,15,1,77057,2236
+2021-06-03,United States,Michigan,Alcona,0,0,738,32
+2021-06-03,United States,Michigan,Alger,0,0,515,6
+2021-06-03,United States,Michigan,Allegan,7,0,11099,150
+2021-06-03,United States,Michigan,Alpena,1,0,2260,60
+2021-06-03,United States,Michigan,Antrim,0,0,1628,29
+2021-06-03,United States,Michigan,Arenac,1,0,1204,29
+2021-06-03,United States,Michigan,Baraga,2,0,812,37
+2021-06-03,United States,Michigan,Barry,6,0,5932,67
+2021-06-03,United States,Michigan,Bay,3,0,11216,346
+2021-06-03,United States,Michigan,Benzie,0,0,1274,35
+2021-06-03,United States,Michigan,Berrien,5,0,15408,286
+2021-06-03,United States,Michigan,Branch,5,0,4813,96
+2021-06-03,United States,Michigan,Calhoun,13,0,14432,304
+2021-06-03,United States,Michigan,Cass,4,0,5452,76
+2021-06-03,United States,Michigan,Charlevoix,2,0,1665,21
+2021-06-03,United States,Michigan,Cheboygan,1,0,1924,45
+2021-06-03,United States,Michigan,Chippewa,0,0,2473,33
+2021-06-03,United States,Michigan,Clare,1,0,2462,81
+2021-06-03,United States,Michigan,Clinton,1,1,7589,90
+2021-06-03,United States,Michigan,Crawford,1,0,992,14
+2021-06-03,United States,Michigan,Delta,11,0,4040,94
+2021-06-03,United States,Michigan,Dickinson,5,0,2738,74
+2021-06-03,United States,Michigan,Eaton,12,0,10111,208
+2021-06-03,United States,Michigan,Emmet,0,0,2366,42
+2021-06-03,United States,Michigan,Federal Correctional Institution (FCI),0,0,316,5
+2021-06-03,United States,Michigan,Genesee,14,1,41607,947
+2021-06-03,United States,Michigan,Gladwin,2,0,2299,59
+2021-06-03,United States,Michigan,Gogebic,2,0,1404,50
+2021-06-03,United States,Michigan,Grand Traverse,2,0,6451,96
+2021-06-03,United States,Michigan,Gratiot,1,0,4064,120
+2021-06-03,United States,Michigan,Hillsdale,3,0,4392,93
+2021-06-03,United States,Michigan,Houghton,2,0,3131,42
+2021-06-03,United States,Michigan,Huron,1,0,4080,79
+2021-06-03,United States,Michigan,Ingham,9,0,24770,382
+2021-06-03,United States,Michigan,Ionia,11,0,6266,80
+2021-06-03,United States,Michigan,Iosco,0,0,1993,74
+2021-06-03,United States,Michigan,Iron,0,1,1052,52
+2021-06-03,United States,Michigan,Isabella,-1,0,6305,96
+2021-06-03,United States,Michigan,Jackson,3,1,15762,279
+2021-06-03,United States,Michigan,Kalamazoo,20,1,23012,397
+2021-06-03,United States,Michigan,Kalkaska,0,0,1119,23
+2021-06-03,United States,Michigan,Kent,43,2,72850,841
+2021-06-03,United States,Michigan,Keweenaw,-1,0,176,2
+2021-06-03,United States,Michigan,Lake,1,0,631,15
+2021-06-03,United States,Michigan,Lapeer,4,1,9194,200
+2021-06-03,United States,Michigan,Leelanau,1,0,1240,18
+2021-06-03,United States,Michigan,Lenawee,4,0,9332,163
+2021-06-03,United States,Michigan,Livingston,6,1,16634,187
+2021-06-03,United States,Michigan,Luce,3,0,477,4
+2021-06-03,United States,Michigan,Mackinac,0,0,705,3
+2021-06-03,United States,Michigan,Macomb,40,1,99717,2427
+2021-06-03,United States,Michigan,Manistee,0,0,1197,22
+2021-06-03,United States,Michigan,Marquette,-1,0,5068,61
+2021-06-03,United States,Michigan,Mason,1,0,2128,36
+2021-06-03,United States,Michigan,Mecosta,2,0,3191,32
+2021-06-03,United States,Michigan,Menominee,4,0,2117,43
+2021-06-03,United States,Michigan,Michigan Department of Corrections (MDOC),-1,0,26881,150
+2021-06-03,United States,Michigan,Midland,2,0,7528,90
+2021-06-03,United States,Michigan,Missaukee,-1,-1,1501,25
+2021-06-03,United States,Michigan,Monroe,3,0,15339,261
+2021-06-03,United States,Michigan,Montcalm,11,0,6030,112
+2021-06-03,United States,Michigan,Montmorency,0,0,612,20
+2021-06-03,United States,Michigan,Muskegon,16,6,16136,361
+2021-06-03,United States,Michigan,Newaygo,5,2,4854,68
+2021-06-03,United States,Michigan,Oakland,57,0,117976,2358
+2021-06-03,United States,Michigan,Oceana,3,0,2756,60
+2021-06-03,United States,Michigan,Ogemaw,-1,0,1734,43
+2021-06-03,United States,Michigan,Ontonagon,1,0,476,21
+2021-06-03,United States,Michigan,Osceola,0,0,1951,30
+2021-06-03,United States,Michigan,Oscoda,3,0,681,30
+2021-06-03,United States,Michigan,Otsego,-2,0,2330,41
+2021-06-03,United States,Michigan,Ottawa,13,1,32698,425
+2021-06-03,United States,Michigan,Out of MI,-19,0,1769,15
+2021-06-03,United States,Michigan,Presque Isle,0,0,1052,34
+2021-06-03,United States,Michigan,Roscommon,2,1,1889,51
+2021-06-03,United States,Michigan,Saginaw,18,4,21245,606
+2021-06-03,United States,Michigan,Sanilac,2,0,4249,119
+2021-06-03,United States,Michigan,Schoolcraft,1,0,435,5
+2021-06-03,United States,Michigan,Shiawassee,1,0,6403,105
+2021-06-03,United States,Michigan,St. Clair,12,2,18369,436
+2021-06-03,United States,Michigan,St. Joseph,10,0,6208,100
+2021-06-03,United States,Michigan,Tuscola,3,0,5656,175
+2021-06-03,United States,Michigan,Unassigned,0,0,19,0
+2021-06-03,United States,Michigan,Van Buren,3,0,7094,128
+2021-06-03,United States,Michigan,Washtenaw,7,1,26393,295
+2021-06-03,United States,Michigan,Wayne,91,8,164451,5029
+2021-06-03,United States,Michigan,Wexford,0,0,2884,47
+2021-06-03,United States,Minnesota,Aitkin,0,0,1370,36
+2021-06-03,United States,Minnesota,Anoka,10,0,42506,452
+2021-06-03,United States,Minnesota,Becker,0,0,3850,55
+2021-06-03,United States,Minnesota,Beltrami,0,0,4049,59
+2021-06-03,United States,Minnesota,Benton,0,0,5808,97
+2021-06-03,United States,Minnesota,Big Stone,0,0,603,4
+2021-06-03,United States,Minnesota,Blue Earth,0,0,7606,42
+2021-06-03,United States,Minnesota,Brown,-1,0,3075,40
+2021-06-03,United States,Minnesota,Carlton,1,0,3508,56
+2021-06-03,United States,Minnesota,Carver,4,0,10611,46
+2021-06-03,United States,Minnesota,Cass,1,0,2834,32
+2021-06-03,United States,Minnesota,Chippewa,0,0,1536,38
+2021-06-03,United States,Minnesota,Chisago,1,0,6151,52
+2021-06-03,United States,Minnesota,Clay,0,0,8241,92
+2021-06-03,United States,Minnesota,Clearwater,0,0,886,16
+2021-06-03,United States,Minnesota,Cook,0,0,170,0
+2021-06-03,United States,Minnesota,Cottonwood,0,0,1670,23
+2021-06-03,United States,Minnesota,Crow Wing,1,0,6788,92
+2021-06-03,United States,Minnesota,Dakota,13,0,46604,464
+2021-06-03,United States,Minnesota,Dodge,1,0,1870,3
+2021-06-03,United States,Minnesota,Douglas,0,0,4738,80
+2021-06-03,United States,Minnesota,Faribault,0,0,1536,19
+2021-06-03,United States,Minnesota,Fillmore,0,0,1572,10
+2021-06-03,United States,Minnesota,Freeborn,0,0,3453,31
+2021-06-03,United States,Minnesota,Goodhue,1,0,4827,73
+2021-06-03,United States,Minnesota,Grant,0,0,593,8
+2021-06-03,United States,Minnesota,Hennepin,39,0,124322,1752
+2021-06-03,United States,Minnesota,Houston,0,0,1736,16
+2021-06-03,United States,Minnesota,Hubbard,1,0,1941,41
+2021-06-03,United States,Minnesota,Isanti,0,0,4360,64
+2021-06-03,United States,Minnesota,Itasca,1,0,4546,60
+2021-06-03,United States,Minnesota,Jackson,0,0,1224,12
+2021-06-03,United States,Minnesota,Kanabec,0,0,1462,27
+2021-06-03,United States,Minnesota,Kandiyohi,0,0,6628,84
+2021-06-03,United States,Minnesota,Kittson,0,0,486,22
+2021-06-03,United States,Minnesota,Koochiching,0,0,922,16
+2021-06-03,United States,Minnesota,Lac qui Parle,0,0,756,22
+2021-06-03,United States,Minnesota,Lake,0,0,819,20
+2021-06-03,United States,Minnesota,Lake of the Woods,0,0,343,3
+2021-06-03,United States,Minnesota,Le Sueur,1,0,2964,25
+2021-06-03,United States,Minnesota,Lincoln,0,0,584,3
+2021-06-03,United States,Minnesota,Lyon,0,0,3635,52
+2021-06-03,United States,Minnesota,Mahnomen,1,0,566,9
+2021-06-03,United States,Minnesota,Marshall,0,0,882,17
+2021-06-03,United States,Minnesota,Martin,1,0,2341,32
+2021-06-03,United States,Minnesota,McLeod,0,0,4281,61
+2021-06-03,United States,Minnesota,Meeker,0,0,2615,42
+2021-06-03,United States,Minnesota,Mille Lacs,0,0,3103,54
+2021-06-03,United States,Minnesota,Morrison,0,0,4230,60
+2021-06-03,United States,Minnesota,Mower,0,0,4701,33
+2021-06-03,United States,Minnesota,Murray,0,0,1070,9
+2021-06-03,United States,Minnesota,Nicollet,1,0,3305,44
+2021-06-03,United States,Minnesota,Nobles,0,0,4085,48
+2021-06-03,United States,Minnesota,Norman,0,0,547,9
+2021-06-03,United States,Minnesota,Olmsted,5,0,13355,102
+2021-06-03,United States,Minnesota,Otter Tail,1,0,5833,81
+2021-06-03,United States,Minnesota,Pennington,0,0,1539,19
+2021-06-03,United States,Minnesota,Pine,2,0,3346,23
+2021-06-03,United States,Minnesota,Pipestone,0,0,1163,26
+2021-06-03,United States,Minnesota,Polk,0,0,3880,71
+2021-06-03,United States,Minnesota,Pope,0,0,1126,6
+2021-06-03,United States,Minnesota,Ramsey,14,0,52233,888
+2021-06-03,United States,Minnesota,Red Lake,0,0,401,7
+2021-06-03,United States,Minnesota,Redwood,0,0,1757,38
+2021-06-03,United States,Minnesota,Renville,0,0,1819,45
+2021-06-03,United States,Minnesota,Rice,3,0,8155,108
+2021-06-03,United States,Minnesota,Rock,0,0,1287,19
+2021-06-03,United States,Minnesota,Roseau,0,0,2107,20
+2021-06-03,United States,Minnesota,Scott,3,0,17494,130
+2021-06-03,United States,Minnesota,Sherburne,4,0,11936,91
+2021-06-03,United States,Minnesota,Sibley,0,0,1459,10
+2021-06-03,United States,Minnesota,St. Louis,4,0,18047,310
+2021-06-03,United States,Minnesota,Stearns,2,0,22495,224
+2021-06-03,United States,Minnesota,Steele,1,0,3962,15
+2021-06-03,United States,Minnesota,Stevens,0,0,924,11
+2021-06-03,United States,Minnesota,Swift,0,0,1066,18
+2021-06-03,United States,Minnesota,Todd,1,0,2849,32
+2021-06-03,United States,Minnesota,Traverse,0,0,374,5
+2021-06-03,United States,Minnesota,Unassigned,-1,0,499,93
+2021-06-03,United States,Minnesota,Wabasha,0,0,2076,3
+2021-06-03,United States,Minnesota,Wadena,0,0,1605,22
+2021-06-03,United States,Minnesota,Waseca,0,0,2376,23
+2021-06-03,United States,Minnesota,Washington,9,0,27298,289
+2021-06-03,United States,Minnesota,Watonwan,0,0,1352,9
+2021-06-03,United States,Minnesota,Wilkin,0,0,831,12
+2021-06-03,United States,Minnesota,Winona,1,0,4599,50
+2021-06-03,United States,Minnesota,Wright,1,0,16346,143
+2021-06-03,United States,Minnesota,Yellow Medicine,1,0,1147,20
+2021-06-03,United States,Mississippi,Adams,0,2,2998,84
+2021-06-03,United States,Mississippi,Alcorn,0,1,3191,72
+2021-06-03,United States,Mississippi,Amite,2,0,1253,42
+2021-06-03,United States,Mississippi,Attala,1,0,2147,73
+2021-06-03,United States,Mississippi,Benton,0,0,1021,25
+2021-06-03,United States,Mississippi,Bolivar,1,0,4815,133
+2021-06-03,United States,Mississippi,Calhoun,1,0,1733,32
+2021-06-03,United States,Mississippi,Carroll,-1,0,1222,30
+2021-06-03,United States,Mississippi,Chickasaw,1,0,2096,59
+2021-06-03,United States,Mississippi,Choctaw,0,0,788,18
+2021-06-03,United States,Mississippi,Claiborne,0,0,1028,30
+2021-06-03,United States,Mississippi,Clarke,0,0,1789,80
+2021-06-03,United States,Mississippi,Clay,1,0,1863,54
+2021-06-03,United States,Mississippi,Coahoma,3,0,2979,81
+2021-06-03,United States,Mississippi,Copiah,0,0,2989,66
+2021-06-03,United States,Mississippi,Covington,2,0,2650,81
+2021-06-03,United States,Mississippi,DeSoto,2,0,22133,264
+2021-06-03,United States,Mississippi,Forrest,4,0,7784,153
+2021-06-03,United States,Mississippi,Franklin,0,0,846,23
+2021-06-03,United States,Mississippi,George,3,0,2511,48
+2021-06-03,United States,Mississippi,Greene,1,0,1313,33
+2021-06-03,United States,Mississippi,Grenada,0,0,2635,87
+2021-06-03,United States,Mississippi,Hancock,2,0,3841,87
+2021-06-03,United States,Mississippi,Harrison,21,0,18209,314
+2021-06-03,United States,Mississippi,Hinds,9,0,20516,418
+2021-06-03,United States,Mississippi,Holmes,1,0,1897,74
+2021-06-03,United States,Mississippi,Humphreys,0,0,972,33
+2021-06-03,United States,Mississippi,Issaquena,0,0,169,6
+2021-06-03,United States,Mississippi,Itawamba,0,0,3044,77
+2021-06-03,United States,Mississippi,Jackson,6,0,13574,248
+2021-06-03,United States,Mississippi,Jasper,0,0,2215,48
+2021-06-03,United States,Mississippi,Jefferson,1,0,662,28
+2021-06-03,United States,Mississippi,Jefferson Davis,0,0,1073,33
+2021-06-03,United States,Mississippi,Jones,1,0,8423,165
+2021-06-03,United States,Mississippi,Kemper,0,0,963,28
+2021-06-03,United States,Mississippi,Lafayette,2,0,6263,119
+2021-06-03,United States,Mississippi,Lamar,-1,0,6286,88
+2021-06-03,United States,Mississippi,Lauderdale,0,0,7235,241
+2021-06-03,United States,Mississippi,Lawrence,0,0,1306,24
+2021-06-03,United States,Mississippi,Leake,0,0,2707,74
+2021-06-03,United States,Mississippi,Lee,1,0,10025,175
+2021-06-03,United States,Mississippi,Leflore,0,0,3507,125
+2021-06-03,United States,Mississippi,Lincoln,2,0,3998,111
+2021-06-03,United States,Mississippi,Lowndes,1,0,6448,149
+2021-06-03,United States,Mississippi,Madison,1,0,10188,224
+2021-06-03,United States,Mississippi,Marion,0,0,2708,80
+2021-06-03,United States,Mississippi,Marshall,2,0,4562,105
+2021-06-03,United States,Mississippi,Monroe,2,0,4144,135
+2021-06-03,United States,Mississippi,Montgomery,2,0,1285,43
+2021-06-03,United States,Mississippi,Neshoba,2,0,4053,178
+2021-06-03,United States,Mississippi,Newton,0,0,2478,62
+2021-06-03,United States,Mississippi,Noxubee,0,0,1278,34
+2021-06-03,United States,Mississippi,Oktibbeha,0,0,4652,98
+2021-06-03,United States,Mississippi,Panola,1,0,4632,110
+2021-06-03,United States,Mississippi,Pearl River,1,0,4562,146
+2021-06-03,United States,Mississippi,Perry,0,0,1265,38
+2021-06-03,United States,Mississippi,Pike,0,0,3354,107
+2021-06-03,United States,Mississippi,Pontotoc,1,0,4233,73
+2021-06-03,United States,Mississippi,Prentiss,0,0,2822,60
+2021-06-03,United States,Mississippi,Quitman,0,0,817,16
+2021-06-03,United States,Mississippi,Rankin,6,1,13799,282
+2021-06-03,United States,Mississippi,Scott,0,0,3183,74
+2021-06-03,United States,Mississippi,Sharkey,0,0,506,17
+2021-06-03,United States,Mississippi,Simpson,1,0,2974,89
+2021-06-03,United States,Mississippi,Smith,0,0,1637,34
+2021-06-03,United States,Mississippi,Stone,1,0,1851,33
+2021-06-03,United States,Mississippi,Sunflower,1,0,3385,91
+2021-06-03,United States,Mississippi,Tallahatchie,0,0,1796,41
+2021-06-03,United States,Mississippi,Tate,5,1,3409,86
+2021-06-03,United States,Mississippi,Tippah,1,0,2903,68
+2021-06-03,United States,Mississippi,Tishomingo,0,0,2300,67
+2021-06-03,United States,Mississippi,Tunica,0,0,1076,26
+2021-06-03,United States,Mississippi,Unassigned,0,0,0,0
+2021-06-03,United States,Mississippi,Union,1,0,4146,76
+2021-06-03,United States,Mississippi,Walthall,0,0,1349,46
+2021-06-03,United States,Mississippi,Warren,2,-1,4430,121
+2021-06-03,United States,Mississippi,Washington,0,0,5393,135
+2021-06-03,United States,Mississippi,Wayne,0,0,2642,42
+2021-06-03,United States,Mississippi,Webster,0,0,1150,32
+2021-06-03,United States,Mississippi,Wilkinson,1,0,687,31
+2021-06-03,United States,Mississippi,Winston,1,0,2293,81
+2021-06-03,United States,Mississippi,Yalobusha,1,0,1668,38
+2021-06-03,United States,Mississippi,Yazoo,1,0,3129,70
+2021-06-03,United States,Missouri,Adair,1,0,2400,19
+2021-06-03,United States,Missouri,Andrew,5,0,1878,20
+2021-06-03,United States,Missouri,Atchison,0,0,457,6
+2021-06-03,United States,Missouri,Audrain,2,0,2712,58
+2021-06-03,United States,Missouri,Barry,6,0,2925,47
+2021-06-03,United States,Missouri,Barton,4,0,1186,15
+2021-06-03,United States,Missouri,Bates,0,0,1340,30
+2021-06-03,United States,Missouri,Benton,2,0,1697,34
+2021-06-03,United States,Missouri,Bollinger,1,0,1141,14
+2021-06-03,United States,Missouri,Boone,7,0,18099,93
+2021-06-03,United States,Missouri,Buchanan,2,0,9390,145
+2021-06-03,United States,Missouri,Butler,1,0,4228,48
+2021-06-03,United States,Missouri,Caldwell,5,0,815,14
+2021-06-03,United States,Missouri,Callaway,2,0,5021,50
+2021-06-03,United States,Missouri,Camden,3,0,4136,88
+2021-06-03,United States,Missouri,Cape Girardeau,0,2,8951,135
+2021-06-03,United States,Missouri,Carroll,1,0,1045,23
+2021-06-03,United States,Missouri,Carter,0,0,543,11
+2021-06-03,United States,Missouri,Cass,13,1,9288,114
+2021-06-03,United States,Missouri,Cedar,1,0,1128,21
+2021-06-03,United States,Missouri,Chariton,2,0,701,8
+2021-06-03,United States,Missouri,Christian,17,2,8580,93
+2021-06-03,United States,Missouri,Clark,0,0,678,7
+2021-06-03,United States,Missouri,Clay,8,1,10177,168
+2021-06-03,United States,Missouri,Clinton,1,0,1976,65
+2021-06-03,United States,Missouri,Cole,7,0,9176,127
+2021-06-03,United States,Missouri,Cooper,0,0,1929,27
+2021-06-03,United States,Missouri,Crawford,0,0,2623,38
+2021-06-03,United States,Missouri,Dade,0,0,594,17
+2021-06-03,United States,Missouri,Dallas,3,0,1335,28
+2021-06-03,United States,Missouri,Daviess,2,0,714,11
+2021-06-03,United States,Missouri,DeKalb,0,0,1132,32
+2021-06-03,United States,Missouri,Dent,1,0,1001,17
+2021-06-03,United States,Missouri,Douglas,0,0,950,29
+2021-06-03,United States,Missouri,Dunklin,4,0,2908,50
+2021-06-03,United States,Missouri,Franklin,5,1,10740,185
+2021-06-03,United States,Missouri,Gasconade,2,0,1563,46
+2021-06-03,United States,Missouri,Gentry,0,0,829,20
+2021-06-03,United States,Missouri,Greene,28,0,28792,471
+2021-06-03,United States,Missouri,Grundy,3,0,1036,34
+2021-06-03,United States,Missouri,Harrison,1,0,886,14
+2021-06-03,United States,Missouri,Henry,-1,0,2033,40
+2021-06-03,United States,Missouri,Hickory,0,0,654,15
+2021-06-03,United States,Missouri,Holt,0,0,447,14
+2021-06-03,United States,Missouri,Howard,1,0,1058,7
+2021-06-03,United States,Missouri,Howell,5,0,3530,45
+2021-06-03,United States,Missouri,Iron,0,0,915,7
+2021-06-03,United States,Missouri,Jackson,23,2,38816,465
+2021-06-03,United States,Missouri,Jasper,25,1,15726,238
+2021-06-03,United States,Missouri,Jefferson,8,1,23536,249
+2021-06-03,United States,Missouri,Johnson,3,0,4810,56
+2021-06-03,United States,Missouri,Kansas City,7,2,44605,589
+2021-06-03,United States,Missouri,Knox,0,0,378,3
+2021-06-03,United States,Missouri,Laclede,7,1,3354,70
+2021-06-03,United States,Missouri,Lafayette,5,0,3133,57
+2021-06-03,United States,Missouri,Lawrence,4,1,3457,87
+2021-06-03,United States,Missouri,Lewis,0,0,1046,19
+2021-06-03,United States,Missouri,Lincoln,5,0,6096,50
+2021-06-03,United States,Missouri,Linn,14,1,1396,14
+2021-06-03,United States,Missouri,Livingston,23,0,1961,42
+2021-06-03,United States,Missouri,Macon,4,0,1579,16
+2021-06-03,United States,Missouri,Madison,0,0,1677,16
+2021-06-03,United States,Missouri,Maries,0,0,641,8
+2021-06-03,United States,Missouri,Marion,2,1,3635,52
+2021-06-03,United States,Missouri,McDonald,6,0,2468,28
+2021-06-03,United States,Missouri,Mercer,0,0,300,2
+2021-06-03,United States,Missouri,Miller,2,1,2554,55
+2021-06-03,United States,Missouri,Mississippi,4,0,1482,28
+2021-06-03,United States,Missouri,Moniteau,0,0,1798,32
+2021-06-03,United States,Missouri,Monroe,0,0,1000,12
+2021-06-03,United States,Missouri,Montgomery,2,0,1042,11
+2021-06-03,United States,Missouri,Morgan,2,0,1724,44
+2021-06-03,United States,Missouri,New Madrid,0,1,2133,46
+2021-06-03,United States,Missouri,Newton,12,1,5438,80
+2021-06-03,United States,Missouri,Nodaway,11,0,2715,25
+2021-06-03,United States,Missouri,Oregon,0,0,803,5
+2021-06-03,United States,Missouri,Osage,1,0,1641,16
+2021-06-03,United States,Missouri,Ozark,0,0,653,21
+2021-06-03,United States,Missouri,Pemiscot,1,0,1605,39
+2021-06-03,United States,Missouri,Perry,0,0,2248,30
+2021-06-03,United States,Missouri,Pettis,3,0,5173,77
+2021-06-03,United States,Missouri,Phelps,2,0,3900,130
+2021-06-03,United States,Missouri,Pike,0,0,1802,26
+2021-06-03,United States,Missouri,Platte,2,0,4202,47
+2021-06-03,United States,Missouri,Polk,38,0,3393,37
+2021-06-03,United States,Missouri,Pulaski,1,3,3510,55
+2021-06-03,United States,Missouri,Putnam,8,0,412,4
+2021-06-03,United States,Missouri,Ralls,0,0,1065,13
+2021-06-03,United States,Missouri,Randolph,4,0,2658,30
+2021-06-03,United States,Missouri,Ray,0,0,1987,27
+2021-06-03,United States,Missouri,Reynolds,0,0,387,3
+2021-06-03,United States,Missouri,Ripley,0,0,1092,16
+2021-06-03,United States,Missouri,Saline,0,0,2838,38
+2021-06-03,United States,Missouri,Schuyler,0,0,342,7
+2021-06-03,United States,Missouri,Scotland,0,0,306,4
+2021-06-03,United States,Missouri,Scott,1,0,4733,86
+2021-06-03,United States,Missouri,Shannon,0,0,589,12
+2021-06-03,United States,Missouri,Shelby,2,0,663,7
+2021-06-03,United States,Missouri,St. Charles,12,2,43075,464
+2021-06-03,United States,Missouri,St. Clair,2,0,793,8
+2021-06-03,United States,Missouri,St. Francois,2,0,8871,115
+2021-06-03,United States,Missouri,St. Louis,41,11,100133,2248
+2021-06-03,United States,Missouri,St. Louis City,19,0,25006,514
+2021-06-03,United States,Missouri,Ste. Genevieve,0,0,1832,17
+2021-06-03,United States,Missouri,Stoddard,2,0,2508,41
+2021-06-03,United States,Missouri,Stone,3,0,2486,47
+2021-06-03,United States,Missouri,Sullivan,3,0,850,14
+2021-06-03,United States,Missouri,Taney,8,1,5438,97
+2021-06-03,United States,Missouri,Texas,9,0,1880,23
+2021-06-03,United States,Missouri,Unassigned,0,0,0,0
+2021-06-03,United States,Missouri,Vernon,0,0,1964,46
+2021-06-03,United States,Missouri,Warren,2,1,3206,24
+2021-06-03,United States,Missouri,Washington,0,0,2770,52
+2021-06-03,United States,Missouri,Wayne,0,0,1037,14
+2021-06-03,United States,Missouri,Webster,6,0,3682,54
+2021-06-03,United States,Missouri,Worth,0,0,163,2
+2021-06-03,United States,Missouri,Wright,2,0,1625,33
+2021-06-03,United States,Montana,Beaverhead,1,0,912,11
+2021-06-03,United States,Montana,Big Horn,1,0,2569,76
+2021-06-03,United States,Montana,Blaine,0,0,794,24
+2021-06-03,United States,Montana,Broadwater,1,0,508,5
+2021-06-03,United States,Montana,Carbon,1,1,889,17
+2021-06-03,United States,Montana,Carter,0,0,151,5
+2021-06-03,United States,Montana,Cascade,19,5,9271,175
+2021-06-03,United States,Montana,Chouteau,0,1,510,7
+2021-06-03,United States,Montana,Custer,2,0,1197,18
+2021-06-03,United States,Montana,Daniels,0,0,197,8
+2021-06-03,United States,Montana,Dawson,0,0,1100,30
+2021-06-03,United States,Montana,Deer Lodge,0,0,1118,15
+2021-06-03,United States,Montana,Fallon,0,0,286,2
+2021-06-03,United States,Montana,Fergus,0,0,1120,31
+2021-06-03,United States,Montana,Flathead,8,0,12185,96
+2021-06-03,United States,Montana,Gallatin,37,0,14846,63
+2021-06-03,United States,Montana,Garfield,0,0,80,2
+2021-06-03,United States,Montana,Glacier,1,0,1542,42
+2021-06-03,United States,Montana,Golden Valley,0,0,57,2
+2021-06-03,United States,Montana,Granite,1,0,202,2
+2021-06-03,United States,Montana,Hill,7,0,2006,45
+2021-06-03,United States,Montana,Jefferson,2,0,1098,8
+2021-06-03,United States,Montana,Judith Basin,0,0,91,1
+2021-06-03,United States,Montana,Lake,2,0,2119,36
+2021-06-03,United States,Montana,Lewis and Clark,6,0,6970,88
+2021-06-03,United States,Montana,Liberty,0,0,117,1
+2021-06-03,United States,Montana,Lincoln,1,0,1631,17
+2021-06-03,United States,Montana,Madison,1,0,787,8
+2021-06-03,United States,Montana,McCone,0,0,183,1
+2021-06-03,United States,Montana,Meagher,1,0,152,7
+2021-06-03,United States,Montana,Mineral,1,0,264,0
+2021-06-03,United States,Montana,Missoula,5,1,9224,95
+2021-06-03,United States,Montana,Musselshell,0,0,356,12
+2021-06-03,United States,Montana,Park,2,0,1432,20
+2021-06-03,United States,Montana,Petroleum,0,0,12,1
+2021-06-03,United States,Montana,Phillips,0,0,524,16
+2021-06-03,United States,Montana,Pondera,0,0,500,4
+2021-06-03,United States,Montana,Powder River,0,0,126,6
+2021-06-03,United States,Montana,Powell,0,0,929,11
+2021-06-03,United States,Montana,Prairie,0,0,141,2
+2021-06-03,United States,Montana,Ravalli,7,0,3171,45
+2021-06-03,United States,Montana,Richland,0,0,1242,17
+2021-06-03,United States,Montana,Roosevelt,1,0,1661,54
+2021-06-03,United States,Montana,Rosebud,0,0,1229,50
+2021-06-03,United States,Montana,Sanders,2,0,650,15
+2021-06-03,United States,Montana,Sheridan,0,0,424,5
+2021-06-03,United States,Montana,Silver Bow,4,0,4120,86
+2021-06-03,United States,Montana,Stillwater,11,0,740,14
+2021-06-03,United States,Montana,Sweet Grass,0,0,402,7
+2021-06-03,United States,Montana,Teton,0,0,502,6
+2021-06-03,United States,Montana,Toole,0,0,723,11
+2021-06-03,United States,Montana,Treasure,0,0,55,1
+2021-06-03,United States,Montana,Unassigned,0,0,0,0
+2021-06-03,United States,Montana,Valley,0,0,901,18
+2021-06-03,United States,Montana,Wheatland,0,0,180,8
+2021-06-03,United States,Montana,Wibaux,0,0,121,6
+2021-06-03,United States,Montana,Yellowstone,33,0,17685,268
+2021-06-03,United States,Nebraska,Adams,0,0,2993,46
+2021-06-03,United States,Nebraska,Antelope,0,0,536,7
+2021-06-03,United States,Nebraska,Arthur,0,0,22,1
+2021-06-03,United States,Nebraska,Banner,0,0,36,0
+2021-06-03,United States,Nebraska,Blaine,0,0,21,0
+2021-06-03,United States,Nebraska,Boone,0,0,584,4
+2021-06-03,United States,Nebraska,Box Butte,0,0,944,8
+2021-06-03,United States,Nebraska,Boyd,0,0,176,3
+2021-06-03,United States,Nebraska,Brown,0,0,220,2
+2021-06-03,United States,Nebraska,Buffalo,0,0,5521,57
+2021-06-03,United States,Nebraska,Burt,0,0,671,12
+2021-06-03,United States,Nebraska,Butler,0,0,850,11
+2021-06-03,United States,Nebraska,Cass,0,0,2676,16
+2021-06-03,United States,Nebraska,Cedar,0,0,776,11
+2021-06-03,United States,Nebraska,Chase,0,0,463,5
+2021-06-03,United States,Nebraska,Cherry,0,0,301,7
+2021-06-03,United States,Nebraska,Cheyenne,0,0,938,16
+2021-06-03,United States,Nebraska,Clay,0,0,706,11
+2021-06-03,United States,Nebraska,Colfax,0,0,1593,21
+2021-06-03,United States,Nebraska,Cuming,0,0,1056,15
+2021-06-03,United States,Nebraska,Custer,0,0,852,19
+2021-06-03,United States,Nebraska,Dakota,0,0,3939,65
+2021-06-03,United States,Nebraska,Dawes,0,0,749,12
+2021-06-03,United States,Nebraska,Dawson,0,0,2888,31
+2021-06-03,United States,Nebraska,Deuel,0,0,107,1
+2021-06-03,United States,Nebraska,Dixon,0,0,611,9
+2021-06-03,United States,Nebraska,Dodge,0,0,4964,62
+2021-06-03,United States,Nebraska,Douglas,0,0,71755,718
+2021-06-03,United States,Nebraska,Dundy,0,0,185,4
+2021-06-03,United States,Nebraska,Fillmore,0,0,507,8
+2021-06-03,United States,Nebraska,Franklin,0,0,242,4
+2021-06-03,United States,Nebraska,Frontier,0,0,193,1
+2021-06-03,United States,Nebraska,Furnas,0,0,508,5
+2021-06-03,United States,Nebraska,Gage,0,0,2188,19
+2021-06-03,United States,Nebraska,Garden,0,0,113,1
+2021-06-03,United States,Nebraska,Garfield,0,0,153,1
+2021-06-03,United States,Nebraska,Gosper,0,0,187,5
+2021-06-03,United States,Nebraska,Grant,0,0,41,4
+2021-06-03,United States,Nebraska,Greeley,0,0,214,1
+2021-06-03,United States,Nebraska,Hall,0,0,7863,117
+2021-06-03,United States,Nebraska,Hamilton,0,0,967,17
+2021-06-03,United States,Nebraska,Harlan,0,0,219,0
+2021-06-03,United States,Nebraska,Hayes,0,0,61,0
+2021-06-03,United States,Nebraska,Hitchcock,0,0,255,5
+2021-06-03,United States,Nebraska,Holt,0,0,865,16
+2021-06-03,United States,Nebraska,Hooker,0,0,54,2
+2021-06-03,United States,Nebraska,Howard,0,0,559,10
+2021-06-03,United States,Nebraska,Jefferson,0,0,669,1
+2021-06-03,United States,Nebraska,Johnson,0,0,641,9
+2021-06-03,United States,Nebraska,Kearney,0,0,690,5
+2021-06-03,United States,Nebraska,Keith,0,0,723,10
+2021-06-03,United States,Nebraska,Keya Paha,0,0,54,0
+2021-06-03,United States,Nebraska,Kimball,0,0,423,1
+2021-06-03,United States,Nebraska,Knox,0,0,888,12
+2021-06-03,United States,Nebraska,Lancaster,0,0,31468,170
+2021-06-03,United States,Nebraska,Lincoln,0,0,3874,60
+2021-06-03,United States,Nebraska,Logan,0,0,82,0
+2021-06-03,United States,Nebraska,Loup,0,0,42,0
+2021-06-03,United States,Nebraska,Madison,0,0,4303,44
+2021-06-03,United States,Nebraska,McPherson,0,0,29,1
+2021-06-03,United States,Nebraska,Merrick,0,0,787,15
+2021-06-03,United States,Nebraska,Morrill,0,0,513,7
+2021-06-03,United States,Nebraska,Nance,0,0,414,10
+2021-06-03,United States,Nebraska,Nemaha,0,0,696,15
+2021-06-03,United States,Nebraska,Nuckolls,0,0,434,11
+2021-06-03,United States,Nebraska,Otoe,0,0,1473,10
+2021-06-03,United States,Nebraska,Pawnee,0,0,234,1
+2021-06-03,United States,Nebraska,Perkins,0,0,294,11
+2021-06-03,United States,Nebraska,Phelps,0,0,1001,10
+2021-06-03,United States,Nebraska,Pierce,0,0,642,20
+2021-06-03,United States,Nebraska,Platte,0,0,4152,50
+2021-06-03,United States,Nebraska,Polk,0,0,585,9
+2021-06-03,United States,Nebraska,Red Willow,0,0,1214,15
+2021-06-03,United States,Nebraska,Richardson,0,0,738,19
+2021-06-03,United States,Nebraska,Rock,0,0,102,2
+2021-06-03,United States,Nebraska,Saline,0,0,2044,2
+2021-06-03,United States,Nebraska,Sarpy,0,0,22854,131
+2021-06-03,United States,Nebraska,Saunders,0,0,2534,16
+2021-06-03,United States,Nebraska,Scotts Bluff,0,0,4193,48
+2021-06-03,United States,Nebraska,Seward,0,0,1761,32
+2021-06-03,United States,Nebraska,Sheridan,0,0,530,10
+2021-06-03,United States,Nebraska,Sherman,0,0,212,4
+2021-06-03,United States,Nebraska,Sioux,0,0,39,0
+2021-06-03,United States,Nebraska,Stanton,0,0,372,11
+2021-06-03,United States,Nebraska,Thayer,0,0,495,4
+2021-06-03,United States,Nebraska,Thomas,0,0,53,1
+2021-06-03,United States,Nebraska,Thurston,0,0,848,11
+2021-06-03,United States,Nebraska,Unassigned,30,0,2199,19
+2021-06-03,United States,Nebraska,Valley,0,0,327,2
+2021-06-03,United States,Nebraska,Washington,0,0,2198,25
+2021-06-03,United States,Nebraska,Wayne,0,0,1090,7
+2021-06-03,United States,Nebraska,Webster,0,0,391,7
+2021-06-03,United States,Nebraska,Wheeler,0,0,39,0
+2021-06-03,United States,Nebraska,York,0,0,1768,11
+2021-06-03,United States,Nevada,Carson City,7,0,6549,123
+2021-06-03,United States,Nevada,Churchill,1,0,2076,49
+2021-06-03,United States,Nevada,Clark,349,3,251809,4413
+2021-06-03,United States,Nevada,Douglas,13,0,2939,36
+2021-06-03,United States,Nevada,Elko,21,0,5036,56
+2021-06-03,United States,Nevada,Esmeralda,0,0,38,0
+2021-06-03,United States,Nevada,Eureka,0,0,55,0
+2021-06-03,United States,Nevada,Humboldt,0,0,1199,14
+2021-06-03,United States,Nevada,Lander,1,0,469,9
+2021-06-03,United States,Nevada,Lincoln,0,0,362,3
+2021-06-03,United States,Nevada,Lyon,12,0,3250,65
+2021-06-03,United States,Nevada,Mineral,0,0,309,7
+2021-06-03,United States,Nevada,Nye,7,0,2983,108
+2021-06-03,United States,Nevada,Pershing,0,0,969,20
+2021-06-03,United States,Nevada,Storey,0,0,111,3
+2021-06-03,United States,Nevada,Washoe,8,0,45902,681
+2021-06-03,United States,Nevada,White Pine,0,0,625,6
+2021-06-03,United States,New Hampshire,Belknap,7,0,4117,100
+2021-06-03,United States,New Hampshire,Carroll,4,0,2465,11
+2021-06-03,United States,New Hampshire,Cheshire,1,0,3867,34
+2021-06-03,United States,New Hampshire,Coos,3,0,2042,41
+2021-06-03,United States,New Hampshire,Grafton,9,0,4045,26
+2021-06-03,United States,New Hampshire,Hillsborough,9,0,36176,643
+2021-06-03,United States,New Hampshire,Merrimack,2,0,9616,116
+2021-06-03,United States,New Hampshire,Rockingham,5,0,24263,262
+2021-06-03,United States,New Hampshire,Strafford,4,0,9918,94
+2021-06-03,United States,New Hampshire,Sullivan,3,0,1814,25
+2021-06-03,United States,New Hampshire,Unassigned,-23,0,468,1
+2021-06-03,United States,New Jersey,Atlantic,9,0,31530,686
+2021-06-03,United States,New Jersey,Bergen,17,0,104287,2867
+2021-06-03,United States,New Jersey,Burlington,-17,1,44159,856
+2021-06-03,United States,New Jersey,Camden,26,2,55604,1310
+2021-06-03,United States,New Jersey,Cape May,3,1,9184,208
+2021-06-03,United States,New Jersey,Cumberland,14,2,17096,437
+2021-06-03,United States,New Jersey,Essex,60,4,94065,2997
+2021-06-03,United States,New Jersey,Gloucester,17,1,30516,641
+2021-06-03,United States,New Jersey,Hudson,12,1,87905,2287
+2021-06-03,United States,New Jersey,Hunterdon,-3,0,9782,176
+2021-06-03,United States,New Jersey,Mercer,3,0,33990,951
+2021-06-03,United States,New Jersey,Middlesex,27,3,92181,2360
+2021-06-03,United States,New Jersey,Monmouth,12,2,75485,1624
+2021-06-03,United States,New Jersey,Morris,15,2,50093,1233
+2021-06-03,United States,New Jersey,Ocean,22,3,75776,2155
+2021-06-03,United States,New Jersey,Passaic,29,1,72873,1923
+2021-06-03,United States,New Jersey,Salem,4,0,6081,185
+2021-06-03,United States,New Jersey,Somerset,5,2,30032,844
+2021-06-03,United States,New Jersey,Sussex,5,2,13987,304
+2021-06-03,United States,New Jersey,Unassigned,-3,0,822,0
+2021-06-03,United States,New Jersey,Union,12,0,71348,1966
+2021-06-03,United States,New Jersey,Warren,4,1,9967,237
+2021-06-03,United States,New Mexico,Bernalillo,20,1,58514,944
+2021-06-03,United States,New Mexico,Catron,0,0,95,5
+2021-06-03,United States,New Mexico,Chaves,0,0,9024,169
+2021-06-03,United States,New Mexico,Cibola,0,0,2897,124
+2021-06-03,United States,New Mexico,Colfax,5,0,790,44
+2021-06-03,United States,New Mexico,Curry,1,1,5255,84
+2021-06-03,United States,New Mexico,De Baca,0,0,172,2
+2021-06-03,United States,New Mexico,Dona Ana,-2,1,24893,487
+2021-06-03,United States,New Mexico,Eddy,3,0,6880,139
+2021-06-03,United States,New Mexico,Grant,5,0,1731,41
+2021-06-03,United States,New Mexico,Guadalupe,0,0,431,11
+2021-06-03,United States,New Mexico,Harding,0,0,12,1
+2021-06-03,United States,New Mexico,Hidalgo,0,0,363,9
+2021-06-03,United States,New Mexico,Lea,7,0,8368,195
+2021-06-03,United States,New Mexico,Lincoln,2,0,1746,18
+2021-06-03,United States,New Mexico,Los Alamos,0,0,530,6
+2021-06-03,United States,New Mexico,Luna,0,0,3360,92
+2021-06-03,United States,New Mexico,McKinley,-2,1,12346,477
+2021-06-03,United States,New Mexico,Mora,0,0,172,7
+2021-06-03,United States,New Mexico,Otero,-1,0,4027,77
+2021-06-03,United States,New Mexico,Quay,0,0,518,10
+2021-06-03,United States,New Mexico,Rio Arriba,2,0,3677,75
+2021-06-03,United States,New Mexico,Roosevelt,0,0,2011,59
+2021-06-03,United States,New Mexico,San Juan,11,0,15487,484
+2021-06-03,United States,New Mexico,San Miguel,6,0,1376,17
+2021-06-03,United States,New Mexico,Sandoval,3,0,12131,240
+2021-06-03,United States,New Mexico,Santa Fe,4,0,10465,147
+2021-06-03,United States,New Mexico,Sierra,1,0,778,52
+2021-06-03,United States,New Mexico,Socorro,0,0,1323,60
+2021-06-03,United States,New Mexico,Taos,2,0,1688,53
+2021-06-03,United States,New Mexico,Torrance,1,0,834,13
+2021-06-03,United States,New Mexico,Unassigned,0,0,4260,0
+2021-06-03,United States,New Mexico,Union,1,0,256,10
+2021-06-03,United States,New Mexico,Valencia,2,0,6812,116
+2021-06-03,United States,New York,Albany,8,0,24642,354
+2021-06-03,United States,New York,Allegany,1,0,3533,86
+2021-06-03,United States,New York,Bronx,41,3,182676,6574
+2021-06-03,United States,New York,Broome,3,0,18557,363
+2021-06-03,United States,New York,Cattaraugus,5,0,5707,89
+2021-06-03,United States,New York,Cayuga,3,0,6316,92
+2021-06-03,United States,New York,Chautauqua,1,0,8919,143
+2021-06-03,United States,New York,Chemung,2,0,7724,135
+2021-06-03,United States,New York,Chenango,2,0,3473,76
+2021-06-03,United States,New York,Clinton,2,0,4832,33
+2021-06-03,United States,New York,Columbia,1,0,4046,104
+2021-06-03,United States,New York,Cortland,4,0,3893,60
+2021-06-03,United States,New York,Delaware,0,0,2357,37
+2021-06-03,United States,New York,Dutchess,8,0,29402,444
+2021-06-03,United States,New York,Erie,21,1,89335,1795
+2021-06-03,United States,New York,Essex,0,0,1590,26
+2021-06-03,United States,New York,Franklin,1,0,2550,12
+2021-06-03,United States,New York,Fulton,2,0,4400,91
+2021-06-03,United States,New York,Genesee,2,0,5425,124
+2021-06-03,United States,New York,Greene,0,0,3398,78
+2021-06-03,United States,New York,Hamilton,0,0,313,2
+2021-06-03,United States,New York,Herkimer,0,0,5172,107
+2021-06-03,United States,New York,Jefferson,1,0,6081,68
+2021-06-03,United States,New York,Kings,9,2,279764,10402
+2021-06-03,United States,New York,Lewis,3,0,2790,36
+2021-06-03,United States,New York,Livingston,1,0,4499,60
+2021-06-03,United States,New York,Madison,0,0,4546,89
+2021-06-03,United States,New York,Monroe,42,2,68522,1100
+2021-06-03,United States,New York,Montgomery,1,0,4249,124
+2021-06-03,United States,New York,Nassau,21,0,183233,3169
+2021-06-03,United States,New York,New York,20,1,137786,4482
+2021-06-03,United States,New York,Niagara,6,1,19986,371
+2021-06-03,United States,New York,Oneida,9,0,22494,512
+2021-06-03,United States,New York,Onondaga,11,0,38726,675
+2021-06-03,United States,New York,Ontario,5,0,7390,93
+2021-06-03,United States,New York,Orange,10,0,48172,814
+2021-06-03,United States,New York,Orleans,0,0,3110,83
+2021-06-03,United States,New York,Oswego,2,0,7580,91
+2021-06-03,United States,New York,Otsego,0,0,3448,47
+2021-06-03,United States,New York,Out of NY,0,0,0,244
+2021-06-03,United States,New York,Putnam,4,0,10581,91
+2021-06-03,United States,New York,Queens,49,-1,276534,9922
+2021-06-03,United States,New York,Rensselaer,2,0,11194,142
+2021-06-03,United States,New York,Richmond,17,0,74706,1835
+2021-06-03,United States,New York,Rockland,7,0,46864,752
+2021-06-03,United States,New York,Saratoga,6,0,15312,168
+2021-06-03,United States,New York,Schenectady,11,0,13167,203
+2021-06-03,United States,New York,Schoharie,0,0,1689,17
+2021-06-03,United States,New York,Schuyler,0,0,1056,14
+2021-06-03,United States,New York,Seneca,0,0,2003,56
+2021-06-03,United States,New York,St. Lawrence,1,0,6612,96
+2021-06-03,United States,New York,Steuben,1,0,6910,143
+2021-06-03,United States,New York,Suffolk,27,0,200575,3392
+2021-06-03,United States,New York,Sullivan,1,0,6638,74
+2021-06-03,United States,New York,Tioga,1,0,3796,62
+2021-06-03,United States,New York,Tompkins,2,0,4325,52
+2021-06-03,United States,New York,Ulster,3,0,13876,256
+2021-06-03,United States,New York,Unassigned,1,0,105,30
+2021-06-03,United States,New York,Warren,2,0,3640,57
+2021-06-03,United States,New York,Washington,3,0,3141,55
+2021-06-03,United States,New York,Wayne,1,0,5746,68
+2021-06-03,United States,New York,Westchester,12,0,129411,2284
+2021-06-03,United States,New York,Wyoming,0,0,3574,52
+2021-06-03,United States,New York,Yates,1,0,1178,26
+2021-06-03,United States,North Carolina,Alamance,1,0,18831,287
+2021-06-03,United States,North Carolina,Alexander,-1,0,4421,84
+2021-06-03,United States,North Carolina,Alleghany,1,0,1074,5
+2021-06-03,United States,North Carolina,Anson,-1,0,2610,55
+2021-06-03,United States,North Carolina,Ashe,4,0,2183,41
+2021-06-03,United States,North Carolina,Avery,0,0,2151,20
+2021-06-03,United States,North Carolina,Beaufort,4,0,4704,97
+2021-06-03,United States,North Carolina,Bertie,0,0,1785,44
+2021-06-03,United States,North Carolina,Bladen,8,0,3345,42
+2021-06-03,United States,North Carolina,Brunswick,1,0,9262,153
+2021-06-03,United States,North Carolina,Buncombe,2,0,17967,322
+2021-06-03,United States,North Carolina,Burke,3,0,10074,159
+2021-06-03,United States,North Carolina,Cabarrus,1,0,22156,260
+2021-06-03,United States,North Carolina,Caldwell,2,0,9445,110
+2021-06-03,United States,North Carolina,Camden,1,0,684,5
+2021-06-03,United States,North Carolina,Carteret,0,0,5219,55
+2021-06-03,United States,North Carolina,Caswell,0,0,2187,29
+2021-06-03,United States,North Carolina,Catawba,-1,0,19671,307
+2021-06-03,United States,North Carolina,Chatham,3,0,4736,89
+2021-06-03,United States,North Carolina,Cherokee,3,0,2615,34
+2021-06-03,United States,North Carolina,Chowan,0,0,1485,23
+2021-06-03,United States,North Carolina,Clay,-1,0,794,18
+2021-06-03,United States,North Carolina,Cleveland,1,0,11586,227
+2021-06-03,United States,North Carolina,Columbus,-1,0,6379,151
+2021-06-03,United States,North Carolina,Craven,1,0,9414,127
+2021-06-03,United States,North Carolina,Cumberland,17,1,29695,311
+2021-06-03,United States,North Carolina,Currituck,0,0,1574,16
+2021-06-03,United States,North Carolina,Dare,0,0,2147,10
+2021-06-03,United States,North Carolina,Davidson,4,0,16894,193
+2021-06-03,United States,North Carolina,Davie,0,0,4151,38
+2021-06-03,United States,North Carolina,Duplin,1,0,6329,137
+2021-06-03,United States,North Carolina,Durham,4,0,25570,225
+2021-06-03,United States,North Carolina,Edgecombe,2,0,5658,113
+2021-06-03,United States,North Carolina,Forsyth,4,0,36617,388
+2021-06-03,United States,North Carolina,Franklin,0,0,7030,51
+2021-06-03,United States,North Carolina,Gaston,12,0,26941,437
+2021-06-03,United States,North Carolina,Gates,1,0,749,13
+2021-06-03,United States,North Carolina,Graham,2,0,619,12
+2021-06-03,United States,North Carolina,Granville,0,0,5991,83
+2021-06-03,United States,North Carolina,Greene,2,0,2383,47
+2021-06-03,United States,North Carolina,Guilford,12,2,48278,713
+2021-06-03,United States,North Carolina,Halifax,6,0,5653,112
+2021-06-03,United States,North Carolina,Harnett,6,0,11876,177
+2021-06-03,United States,North Carolina,Haywood,0,0,4456,96
+2021-06-03,United States,North Carolina,Henderson,3,0,10276,161
+2021-06-03,United States,North Carolina,Hertford,1,0,2111,64
+2021-06-03,United States,North Carolina,Hoke,5,0,4827,56
+2021-06-03,United States,North Carolina,Hyde,0,0,672,9
+2021-06-03,United States,North Carolina,Iredell,4,0,19095,219
+2021-06-03,United States,North Carolina,Jackson,-1,0,3625,56
+2021-06-03,United States,North Carolina,Johnston,4,0,22010,223
+2021-06-03,United States,North Carolina,Jones,2,0,891,28
+2021-06-03,United States,North Carolina,Lee,0,0,6104,80
+2021-06-03,United States,North Carolina,Lenoir,4,0,6182,117
+2021-06-03,United States,North Carolina,Lincoln,2,0,10230,86
+2021-06-03,United States,North Carolina,Macon,0,0,3155,40
+2021-06-03,United States,North Carolina,Madison,0,0,1603,42
+2021-06-03,United States,North Carolina,Martin,1,0,2281,44
+2021-06-03,United States,North Carolina,McDowell,-1,0,5292,63
+2021-06-03,United States,North Carolina,Mecklenburg,34,1,113520,970
+2021-06-03,United States,North Carolina,Mitchell,0,0,1466,16
+2021-06-03,United States,North Carolina,Montgomery,1,0,3348,96
+2021-06-03,United States,North Carolina,Moore,0,0,8977,190
+2021-06-03,United States,North Carolina,Nash,3,0,11630,194
+2021-06-03,United States,North Carolina,New Hanover,2,0,19426,168
+2021-06-03,United States,North Carolina,Northampton,0,0,1890,60
+2021-06-03,United States,North Carolina,Onslow,16,1,17501,149
+2021-06-03,United States,North Carolina,Orange,2,0,8569,101
+2021-06-03,United States,North Carolina,Pamlico,0,0,1120,13
+2021-06-03,United States,North Carolina,Pasquotank,1,1,3426,84
+2021-06-03,United States,North Carolina,Pender,-1,0,5520,69
+2021-06-03,United States,North Carolina,Perquimans,0,0,1023,12
+2021-06-03,United States,North Carolina,Person,4,0,3450,71
+2021-06-03,United States,North Carolina,Pitt,2,0,20243,96
+2021-06-03,United States,North Carolina,Polk,0,0,1495,29
+2021-06-03,United States,North Carolina,Randolph,13,1,15197,231
+2021-06-03,United States,North Carolina,Richmond,-1,0,4735,97
+2021-06-03,United States,North Carolina,Robeson,0,0,16645,244
+2021-06-03,United States,North Carolina,Rockingham,2,0,7777,121
+2021-06-03,United States,North Carolina,Rowan,4,0,17070,306
+2021-06-03,United States,North Carolina,Rutherford,1,0,7408,213
+2021-06-03,United States,North Carolina,Sampson,-1,0,8009,113
+2021-06-03,United States,North Carolina,Scotland,4,0,3852,86
+2021-06-03,United States,North Carolina,Stanly,2,0,7916,134
+2021-06-03,United States,North Carolina,Stokes,2,0,4174,80
+2021-06-03,United States,North Carolina,Surry,6,0,8364,166
+2021-06-03,United States,North Carolina,Swain,0,0,1211,17
+2021-06-03,United States,North Carolina,Transylvania,1,0,2402,33
+2021-06-03,United States,North Carolina,Tyrrell,0,0,323,6
+2021-06-03,United States,North Carolina,Unassigned,0,0,0,0
+2021-06-03,United States,North Carolina,Union,2,2,24694,225
+2021-06-03,United States,North Carolina,Vance,0,0,4985,87
+2021-06-03,United States,North Carolina,Wake,21,0,88954,728
+2021-06-03,United States,North Carolina,Warren,0,0,1806,20
+2021-06-03,United States,North Carolina,Washington,2,0,1115,31
+2021-06-03,United States,North Carolina,Watauga,2,0,4815,31
+2021-06-03,United States,North Carolina,Wayne,4,0,11348,246
+2021-06-03,United States,North Carolina,Wilkes,3,0,6835,115
+2021-06-03,United States,North Carolina,Wilson,4,0,9781,179
+2021-06-03,United States,North Carolina,Yadkin,2,0,4109,51
+2021-06-03,United States,North Carolina,Yancey,0,0,1636,28
+2021-06-03,United States,North Dakota,Adams,0,0,270,3
+2021-06-03,United States,North Dakota,Barnes,1,0,1419,31
+2021-06-03,United States,North Dakota,Benson,0,0,1100,19
+2021-06-03,United States,North Dakota,Billings,0,0,54,0
+2021-06-03,United States,North Dakota,Bottineau,0,0,720,20
+2021-06-03,United States,North Dakota,Bowman,0,0,404,5
+2021-06-03,United States,North Dakota,Burke,1,0,248,2
+2021-06-03,United States,North Dakota,Burleigh,17,0,15916,192
+2021-06-03,United States,North Dakota,Cass,10,0,24681,209
+2021-06-03,United States,North Dakota,Cavalier,0,0,432,5
+2021-06-03,United States,North Dakota,Dickey,0,0,799,33
+2021-06-03,United States,North Dakota,Divide,0,0,187,2
+2021-06-03,United States,North Dakota,Dunn,0,0,389,7
+2021-06-03,United States,North Dakota,Eddy,0,0,471,6
+2021-06-03,United States,North Dakota,Emmons,1,0,432,13
+2021-06-03,United States,North Dakota,Foster,0,0,600,19
+2021-06-03,United States,North Dakota,Golden Valley,0,0,260,3
+2021-06-03,United States,North Dakota,Grand Forks,1,0,10685,77
+2021-06-03,United States,North Dakota,Grant,0,0,211,7
+2021-06-03,United States,North Dakota,Griggs,0,0,330,2
+2021-06-03,United States,North Dakota,Hettinger,0,0,332,4
+2021-06-03,United States,North Dakota,Kidder,0,0,273,10
+2021-06-03,United States,North Dakota,LaMoure,0,0,536,17
+2021-06-03,United States,North Dakota,Logan,0,0,265,10
+2021-06-03,United States,North Dakota,McHenry,1,0,651,23
+2021-06-03,United States,North Dakota,McIntosh,0,0,347,7
+2021-06-03,United States,North Dakota,McKenzie,6,0,1411,13
+2021-06-03,United States,North Dakota,McLean,1,0,1285,30
+2021-06-03,United States,North Dakota,Mercer,6,0,1155,10
+2021-06-03,United States,North Dakota,Morton,1,0,5314,101
+2021-06-03,United States,North Dakota,Mountrail,1,0,1364,17
+2021-06-03,United States,North Dakota,Nelson,0,0,479,15
+2021-06-03,United States,North Dakota,Oliver,0,0,158,3
+2021-06-03,United States,North Dakota,Pembina,0,0,822,11
+2021-06-03,United States,North Dakota,Pierce,1,0,549,25
+2021-06-03,United States,North Dakota,Ramsey,2,0,1725,30
+2021-06-03,United States,North Dakota,Ransom,0,0,698,17
+2021-06-03,United States,North Dakota,Renville,0,0,321,14
+2021-06-03,United States,North Dakota,Richland,0,0,2024,17
+2021-06-03,United States,North Dakota,Rolette,1,0,2161,28
+2021-06-03,United States,North Dakota,Sargent,0,0,500,7
+2021-06-03,United States,North Dakota,Sheridan,0,0,122,2
+2021-06-03,United States,North Dakota,Sioux,0,0,663,12
+2021-06-03,United States,North Dakota,Slope,0,0,32,0
+2021-06-03,United States,North Dakota,Stark,11,0,4916,51
+2021-06-03,United States,North Dakota,Steele,5,0,193,2
+2021-06-03,United States,North Dakota,Stutsman,0,0,3539,81
+2021-06-03,United States,North Dakota,Towner,1,0,326,11
+2021-06-03,United States,North Dakota,Traill,1,0,1048,18
+2021-06-03,United States,North Dakota,Unassigned,0,0,0,31
+2021-06-03,United States,North Dakota,Walsh,0,0,1912,27
+2021-06-03,United States,North Dakota,Ward,7,0,9894,196
+2021-06-03,United States,North Dakota,Wells,0,0,457,8
+2021-06-03,United States,North Dakota,Williams,7,0,4965,40
+2021-06-03,United States,Northern Mariana Islands,,0,0,183,2
+2021-06-03,United States,Ohio,Adams,1,0,2412,56
+2021-06-03,United States,Ohio,Allen,8,0,11855,240
+2021-06-03,United States,Ohio,Ashland,1,0,4340,97
+2021-06-03,United States,Ohio,Ashtabula,0,0,7071,179
+2021-06-03,United States,Ohio,Athens,4,0,5225,60
+2021-06-03,United States,Ohio,Auglaize,7,0,4994,87
+2021-06-03,United States,Ohio,Belmont,7,0,6117,176
+2021-06-03,United States,Ohio,Brown,0,0,4001,61
+2021-06-03,United States,Ohio,Butler,-2,0,38799,607
+2021-06-03,United States,Ohio,Carroll,2,0,1951,48
+2021-06-03,United States,Ohio,Champaign,0,0,3417,59
+2021-06-03,United States,Ohio,Clark,2,0,14201,306
+2021-06-03,United States,Ohio,Clermont,7,0,20036,255
+2021-06-03,United States,Ohio,Clinton,2,0,3774,66
+2021-06-03,United States,Ohio,Columbiana,-1,0,8983,230
+2021-06-03,United States,Ohio,Coshocton,-1,0,2676,59
+2021-06-03,United States,Ohio,Crawford,1,0,4017,111
+2021-06-03,United States,Ohio,Cuyahoga,46,3,115055,2240
+2021-06-03,United States,Ohio,Darke,4,0,5401,130
+2021-06-03,United States,Ohio,Defiance,2,0,4302,99
+2021-06-03,United States,Ohio,Delaware,5,0,18737,136
+2021-06-03,United States,Ohio,Erie,0,0,8038,164
+2021-06-03,United States,Ohio,Fairfield,7,0,16475,205
+2021-06-03,United States,Ohio,Fayette,0,0,2847,50
+2021-06-03,United States,Ohio,Franklin,29,0,127965,1473
+2021-06-03,United States,Ohio,Fulton,0,1,4306,73
+2021-06-03,United States,Ohio,Gallia,1,0,2391,50
+2021-06-03,United States,Ohio,Geauga,0,0,6816,151
+2021-06-03,United States,Ohio,Greene,-1,0,15216,248
+2021-06-03,United States,Ohio,Guernsey,2,0,3222,53
+2021-06-03,United States,Ohio,Hamilton,17,1,80972,1255
+2021-06-03,United States,Ohio,Hancock,0,0,6990,132
+2021-06-03,United States,Ohio,Hardin,1,0,2741,65
+2021-06-03,United States,Ohio,Harrison,4,0,1136,38
+2021-06-03,United States,Ohio,Henry,1,0,2725,67
+2021-06-03,United States,Ohio,Highland,0,1,3583,66
+2021-06-03,United States,Ohio,Hocking,3,0,2192,63
+2021-06-03,United States,Ohio,Holmes,2,0,2669,102
+2021-06-03,United States,Ohio,Huron,2,0,5501,122
+2021-06-03,United States,Ohio,Jackson,0,0,3160,54
+2021-06-03,United States,Ohio,Jefferson,5,0,5648,160
+2021-06-03,United States,Ohio,Knox,2,0,4557,112
+2021-06-03,United States,Ohio,Lake,5,0,21077,389
+2021-06-03,United States,Ohio,Lawrence,1,0,5675,103
+2021-06-03,United States,Ohio,Licking,0,0,16597,224
+2021-06-03,United States,Ohio,Logan,2,0,3864,77
+2021-06-03,United States,Ohio,Lorain,7,0,25516,507
+2021-06-03,United States,Ohio,Lucas,17,0,43137,826
+2021-06-03,United States,Ohio,Madison,4,0,4425,66
+2021-06-03,United States,Ohio,Mahoning,16,0,22211,607
+2021-06-03,United States,Ohio,Marion,5,0,8622,139
+2021-06-03,United States,Ohio,Medina,1,0,15534,274
+2021-06-03,United States,Ohio,Meigs,0,0,1473,40
+2021-06-03,United States,Ohio,Mercer,0,0,4859,85
+2021-06-03,United States,Ohio,Miami,5,0,10804,224
+2021-06-03,United States,Ohio,Monroe,0,0,1353,44
+2021-06-03,United States,Ohio,Montgomery,12,0,52281,1043
+2021-06-03,United States,Ohio,Morgan,-1,0,1091,24
+2021-06-03,United States,Ohio,Morrow,0,0,2907,40
+2021-06-03,United States,Ohio,Muskingum,1,0,8876,135
+2021-06-03,United States,Ohio,Noble,1,0,1350,39
+2021-06-03,United States,Ohio,Ottawa,2,0,3719,81
+2021-06-03,United States,Ohio,Paulding,1,0,1758,42
+2021-06-03,United States,Ohio,Perry,4,0,2970,50
+2021-06-03,United States,Ohio,Pickaway,0,0,8632,122
+2021-06-03,United States,Ohio,Pike,1,0,2419,35
+2021-06-03,United States,Ohio,Portage,3,0,13172,215
+2021-06-03,United States,Ohio,Preble,4,0,3839,105
+2021-06-03,United States,Ohio,Putnam,-1,0,4329,104
+2021-06-03,United States,Ohio,Richland,11,1,11556,212
+2021-06-03,United States,Ohio,Ross,1,0,6917,162
+2021-06-03,United States,Ohio,Sandusky,2,0,5436,126
+2021-06-03,United States,Ohio,Scioto,3,1,6509,107
+2021-06-03,United States,Ohio,Seneca,0,0,5334,127
+2021-06-03,United States,Ohio,Shelby,2,0,4734,95
+2021-06-03,United States,Ohio,Stark,15,0,33132,933
+2021-06-03,United States,Ohio,Summit,9,1,48169,1006
+2021-06-03,United States,Ohio,Trumbull,17,0,16447,485
+2021-06-03,United States,Ohio,Tuscarawas,10,0,8594,252
+2021-06-03,United States,Ohio,Unassigned,0,0,0,4
+2021-06-03,United States,Ohio,Union,2,0,5819,49
+2021-06-03,United States,Ohio,Van Wert,0,0,2465,64
+2021-06-03,United States,Ohio,Vinton,0,0,851,17
+2021-06-03,United States,Ohio,Warren,-9,0,24514,305
+2021-06-03,United States,Ohio,Washington,1,0,5281,110
+2021-06-03,United States,Ohio,Wayne,2,0,9066,223
+2021-06-03,United States,Ohio,Williams,2,0,3462,78
+2021-06-03,United States,Ohio,Wood,4,0,13256,199
+2021-06-03,United States,Ohio,Wyandot,2,0,2344,56
+2021-06-03,United States,Oklahoma,Adair,4,0,3192,43
+2021-06-03,United States,Oklahoma,Alfalfa,0,0,1154,7
+2021-06-03,United States,Oklahoma,Atoka,4,0,1877,26
+2021-06-03,United States,Oklahoma,Beaver,1,0,476,6
+2021-06-03,United States,Oklahoma,Beckham,0,0,2898,58
+2021-06-03,United States,Oklahoma,Blaine,1,0,1047,20
+2021-06-03,United States,Oklahoma,Bryan,2,0,6126,78
+2021-06-03,United States,Oklahoma,Caddo,2,0,3978,96
+2021-06-03,United States,Oklahoma,Canadian,35,1,17370,185
+2021-06-03,United States,Oklahoma,Carter,21,0,6170,125
+2021-06-03,United States,Oklahoma,Cherokee,6,0,5641,78
+2021-06-03,United States,Oklahoma,Choctaw,0,1,1620,27
+2021-06-03,United States,Oklahoma,Cimarron,0,0,214,2
+2021-06-03,United States,Oklahoma,Cleveland,42,3,31263,433
+2021-06-03,United States,Oklahoma,Coal,0,0,700,15
+2021-06-03,United States,Oklahoma,Comanche,68,0,13963,195
+2021-06-03,United States,Oklahoma,Cotton,0,0,695,16
+2021-06-03,United States,Oklahoma,Craig,4,0,1994,18
+2021-06-03,United States,Oklahoma,Creek,11,1,7008,164
+2021-06-03,United States,Oklahoma,Custer,5,0,4083,104
+2021-06-03,United States,Oklahoma,Delaware,14,0,4675,94
+2021-06-03,United States,Oklahoma,Dewey,0,0,552,14
+2021-06-03,United States,Oklahoma,Ellis,0,0,357,6
+2021-06-03,United States,Oklahoma,Garfield,4,0,7813,139
+2021-06-03,United States,Oklahoma,Garvin,2,0,3620,79
+2021-06-03,United States,Oklahoma,Grady,12,1,5980,129
+2021-06-03,United States,Oklahoma,Grant,0,0,549,7
+2021-06-03,United States,Oklahoma,Greer,-1,0,584,22
+2021-06-03,United States,Oklahoma,Harmon,0,0,327,6
+2021-06-03,United States,Oklahoma,Harper,0,0,420,8
+2021-06-03,United States,Oklahoma,Haskell,0,0,1254,17
+2021-06-03,United States,Oklahoma,Hughes,4,0,1242,29
+2021-06-03,United States,Oklahoma,Jackson,1,0,3130,56
+2021-06-03,United States,Oklahoma,Jefferson,1,0,704,16
+2021-06-03,United States,Oklahoma,Johnston,4,0,1381,37
+2021-06-03,United States,Oklahoma,Kay,7,0,5335,128
+2021-06-03,United States,Oklahoma,Kingfisher,2,0,2058,41
+2021-06-03,United States,Oklahoma,Kiowa,1,0,819,26
+2021-06-03,United States,Oklahoma,Latimer,4,0,842,13
+2021-06-03,United States,Oklahoma,Le Flore,10,0,5609,67
+2021-06-03,United States,Oklahoma,Lincoln,3,0,3252,72
+2021-06-03,United States,Oklahoma,Logan,15,0,4302,64
+2021-06-03,United States,Oklahoma,Love,0,0,1504,22
+2021-06-03,United States,Oklahoma,Major,-1,0,956,24
+2021-06-03,United States,Oklahoma,Marshall,0,0,2047,23
+2021-06-03,United States,Oklahoma,Mayes,15,0,4252,72
+2021-06-03,United States,Oklahoma,McClain,7,0,5322,73
+2021-06-03,United States,Oklahoma,McCurtain,12,0,3981,93
+2021-06-03,United States,Oklahoma,McIntosh,0,0,2013,61
+2021-06-03,United States,Oklahoma,Murray,2,2,2024,44
+2021-06-03,United States,Oklahoma,Muskogee,16,1,9364,176
+2021-06-03,United States,Oklahoma,Noble,0,0,1380,20
+2021-06-03,United States,Oklahoma,Nowata,1,0,1151,20
+2021-06-03,United States,Oklahoma,Okfuskee,3,0,1795,32
+2021-06-03,United States,Oklahoma,Oklahoma,180,4,87426,1301
+2021-06-03,United States,Oklahoma,Okmulgee,14,0,3818,81
+2021-06-03,United States,Oklahoma,Osage,3,2,4769,78
+2021-06-03,United States,Oklahoma,Ottawa,11,0,3935,69
+2021-06-03,United States,Oklahoma,Out of OK,0,0,0,0
+2021-06-03,United States,Oklahoma,Pawnee,2,0,1790,52
+2021-06-03,United States,Oklahoma,Payne,3,0,8706,76
+2021-06-03,United States,Oklahoma,Pittsburg,2,1,4654,78
+2021-06-03,United States,Oklahoma,Pontotoc,5,1,5156,79
+2021-06-03,United States,Oklahoma,Pottawatomie,9,1,8397,131
+2021-06-03,United States,Oklahoma,Pushmataha,0,0,1010,22
+2021-06-03,United States,Oklahoma,Roger Mills,0,0,390,12
+2021-06-03,United States,Oklahoma,Rogers,27,0,10572,193
+2021-06-03,United States,Oklahoma,Seminole,1,0,2879,78
+2021-06-03,United States,Oklahoma,Sequoyah,12,0,4148,56
+2021-06-03,United States,Oklahoma,Stephens,9,1,4890,105
+2021-06-03,United States,Oklahoma,Texas,3,0,3534,34
+2021-06-03,United States,Oklahoma,Tillman,0,0,803,17
+2021-06-03,United States,Oklahoma,Tulsa,220,3,75371,1112
+2021-06-03,United States,Oklahoma,Unassigned,-858,0,99,0
+2021-06-03,United States,Oklahoma,Wagoner,28,2,8169,121
+2021-06-03,United States,Oklahoma,Washington,19,0,5242,118
+2021-06-03,United States,Oklahoma,Washita,1,0,1087,23
+2021-06-03,United States,Oklahoma,Woods,4,0,1207,18
+2021-06-03,United States,Oklahoma,Woodward,3,0,3170,36
+2021-06-03,United States,Oregon,Baker,4,0,975,15
+2021-06-03,United States,Oregon,Benton,8,0,3204,22
+2021-06-03,United States,Oregon,Clackamas,32,0,18385,223
+2021-06-03,United States,Oregon,Clatsop,0,0,1011,8
+2021-06-03,United States,Oregon,Columbia,2,0,1840,29
+2021-06-03,United States,Oregon,Coos,0,0,2147,36
+2021-06-03,United States,Oregon,Crook,5,0,1209,22
+2021-06-03,United States,Oregon,Curry,4,0,672,10
+2021-06-03,United States,Oregon,Deschutes,13,0,9689,79
+2021-06-03,United States,Oregon,Douglas,16,1,3588,78
+2021-06-03,United States,Oregon,Gilliam,0,0,64,1
+2021-06-03,United States,Oregon,Grant,7,0,536,6
+2021-06-03,United States,Oregon,Harney,11,0,394,8
+2021-06-03,United States,Oregon,Hood River,1,0,1205,32
+2021-06-03,United States,Oregon,Jackson,32,1,11283,145
+2021-06-03,United States,Oregon,Jefferson,13,0,2326,38
+2021-06-03,United States,Oregon,Josephine,7,0,3488,72
+2021-06-03,United States,Oregon,Klamath,8,0,4699,73
+2021-06-03,United States,Oregon,Lake,1,0,463,7
+2021-06-03,United States,Oregon,Lane,25,0,13560,154
+2021-06-03,United States,Oregon,Lincoln,2,0,1403,21
+2021-06-03,United States,Oregon,Linn,11,0,5369,77
+2021-06-03,United States,Oregon,Malheur,8,0,3570,63
+2021-06-03,United States,Oregon,Marion,41,0,22936,318
+2021-06-03,United States,Oregon,Morrow,0,0,1135,16
+2021-06-03,United States,Oregon,Multnomah,27,0,39640,606
+2021-06-03,United States,Oregon,Polk,10,0,3889,53
+2021-06-03,United States,Oregon,Sherman,0,0,63,1
+2021-06-03,United States,Oregon,Tillamook,0,0,664,4
+2021-06-03,United States,Oregon,Umatilla,26,0,8427,86
+2021-06-03,United States,Oregon,Unassigned,0,0,0,0
+2021-06-03,United States,Oregon,Union,2,0,1468,23
+2021-06-03,United States,Oregon,Wallowa,1,0,189,5
+2021-06-03,United States,Oregon,Wasco,1,0,1424,28
+2021-06-03,United States,Oregon,Washington,26,0,26394,238
+2021-06-03,United States,Oregon,Wheeler,0,0,34,1
+2021-06-03,United States,Oregon,Yamhill,4,0,4655,78
+2021-06-03,United States,Pennsylvania,Adams,10,0,9581,183
+2021-06-03,United States,Pennsylvania,Allegheny,42,4,101378,1984
+2021-06-03,United States,Pennsylvania,Armstrong,1,0,5981,144
+2021-06-03,United States,Pennsylvania,Beaver,11,1,15433,384
+2021-06-03,United States,Pennsylvania,Bedford,7,0,4651,138
+2021-06-03,United States,Pennsylvania,Berks,38,2,48055,1033
+2021-06-03,United States,Pennsylvania,Blair,6,0,13446,339
+2021-06-03,United States,Pennsylvania,Bradford,10,0,6064,90
+2021-06-03,United States,Pennsylvania,Bucks,11,1,60604,1302
+2021-06-03,United States,Pennsylvania,Butler,17,0,17498,417
+2021-06-03,United States,Pennsylvania,Cambria,25,0,14647,432
+2021-06-03,United States,Pennsylvania,Cameron,0,0,303,7
+2021-06-03,United States,Pennsylvania,Carbon,5,0,6367,171
+2021-06-03,United States,Pennsylvania,Centre,7,0,16864,224
+2021-06-03,United States,Pennsylvania,Chester,0,0,40680,814
+2021-06-03,United States,Pennsylvania,Clarion,1,0,3184,92
+2021-06-03,United States,Pennsylvania,Clearfield,6,0,8593,147
+2021-06-03,United States,Pennsylvania,Clinton,0,0,3682,66
+2021-06-03,United States,Pennsylvania,Columbia,5,0,5855,133
+2021-06-03,United States,Pennsylvania,Crawford,8,0,7465,151
+2021-06-03,United States,Pennsylvania,Cumberland,5,0,20422,524
+2021-06-03,United States,Pennsylvania,Dauphin,18,0,25969,549
+2021-06-03,United States,Pennsylvania,Delaware,1,1,52165,1391
+2021-06-03,United States,Pennsylvania,Elk,3,0,2864,39
+2021-06-03,United States,Pennsylvania,Erie,14,0,21055,416
+2021-06-03,United States,Pennsylvania,Fayette,11,0,13228,322
+2021-06-03,United States,Pennsylvania,Forest,0,0,1431,21
+2021-06-03,United States,Pennsylvania,Franklin,13,0,15325,370
+2021-06-03,United States,Pennsylvania,Fulton,4,0,1359,15
+2021-06-03,United States,Pennsylvania,Greene,6,0,3308,40
+2021-06-03,United States,Pennsylvania,Huntingdon,2,0,5113,132
+2021-06-03,United States,Pennsylvania,Indiana,10,0,6361,176
+2021-06-03,United States,Pennsylvania,Jefferson,3,1,3332,99
+2021-06-03,United States,Pennsylvania,Juniata,3,0,2134,87
+2021-06-03,United States,Pennsylvania,Lackawanna,3,1,18446,474
+2021-06-03,United States,Pennsylvania,Lancaster,10,1,55156,1155
+2021-06-03,United States,Pennsylvania,Lawrence,7,0,7593,211
+2021-06-03,United States,Pennsylvania,Lebanon,8,2,16126,291
+2021-06-03,United States,Pennsylvania,Lehigh,-1,3,39643,856
+2021-06-03,United States,Pennsylvania,Luzerne,12,1,31823,813
+2021-06-03,United States,Pennsylvania,Lycoming,6,1,11878,287
+2021-06-03,United States,Pennsylvania,McKean,6,0,3777,72
+2021-06-03,United States,Pennsylvania,Mercer,6,0,9618,258
+2021-06-03,United States,Pennsylvania,Mifflin,1,0,5397,178
+2021-06-03,United States,Pennsylvania,Monroe,7,0,14709,317
+2021-06-03,United States,Pennsylvania,Montgomery,19,3,70105,1719
+2021-06-03,United States,Pennsylvania,Montour,0,1,2011,67
+2021-06-03,United States,Pennsylvania,Northampton,8,1,35710,712
+2021-06-03,United States,Pennsylvania,Northumberland,9,0,9633,357
+2021-06-03,United States,Pennsylvania,Perry,0,0,3828,100
+2021-06-03,United States,Pennsylvania,Philadelphia,0,13,153308,3682
+2021-06-03,United States,Pennsylvania,Pike,1,0,3993,54
+2021-06-03,United States,Pennsylvania,Potter,-1,0,1181,23
+2021-06-03,United States,Pennsylvania,Schuylkill,7,0,14729,408
+2021-06-03,United States,Pennsylvania,Snyder,4,0,3660,85
+2021-06-03,United States,Pennsylvania,Somerset,7,1,8002,213
+2021-06-03,United States,Pennsylvania,Sullivan,0,0,434,20
+2021-06-03,United States,Pennsylvania,Susquehanna,7,0,2641,62
+2021-06-03,United States,Pennsylvania,Tioga,6,0,3059,108
+2021-06-03,United States,Pennsylvania,Unassigned,0,0,0,0
+2021-06-03,United States,Pennsylvania,Union,-1,1,6128,88
+2021-06-03,United States,Pennsylvania,Venango,10,0,4067,96
+2021-06-03,United States,Pennsylvania,Warren,1,0,2623,103
+2021-06-03,United States,Pennsylvania,Washington,16,2,17795,302
+2021-06-03,United States,Pennsylvania,Wayne,1,0,4105,80
+2021-06-03,United States,Pennsylvania,Westmoreland,21,3,34150,769
+2021-06-03,United States,Pennsylvania,Wyoming,3,0,1979,54
+2021-06-03,United States,Pennsylvania,York,37,1,46429,813
+2021-06-03,United States,Puerto Rico,Adjuntas,0,0,466,0
+2021-06-03,United States,Puerto Rico,Aguada,0,0,1318,0
+2021-06-03,United States,Puerto Rico,Aguadilla,-3,0,1518,0
+2021-06-03,United States,Puerto Rico,Aguas Buenas,3,0,1197,0
+2021-06-03,United States,Puerto Rico,Aibonito,0,0,671,0
+2021-06-03,United States,Puerto Rico,Anasco,1,0,797,0
+2021-06-03,United States,Puerto Rico,Arecibo,0,0,2959,0
+2021-06-03,United States,Puerto Rico,Arroyo,0,0,296,0
+2021-06-03,United States,Puerto Rico,Barceloneta,1,0,765,0
+2021-06-03,United States,Puerto Rico,Barranquitas,0,0,1217,0
+2021-06-03,United States,Puerto Rico,Bayamon,1,0,10295,0
+2021-06-03,United States,Puerto Rico,Cabo Rojo,3,0,910,0
+2021-06-03,United States,Puerto Rico,Caguas,0,0,6246,0
+2021-06-03,United States,Puerto Rico,Camuy,0,0,1188,0
+2021-06-03,United States,Puerto Rico,Canovanas,1,0,1940,0
+2021-06-03,United States,Puerto Rico,Carolina,2,0,8587,0
+2021-06-03,United States,Puerto Rico,Catano,0,0,1228,0
+2021-06-03,United States,Puerto Rico,Cayey,0,0,1278,0
+2021-06-03,United States,Puerto Rico,Ceiba,1,0,389,0
+2021-06-03,United States,Puerto Rico,Ciales,0,0,768,0
+2021-06-03,United States,Puerto Rico,Cidra,0,0,1283,0
+2021-06-03,United States,Puerto Rico,Coamo,0,0,868,0
+2021-06-03,United States,Puerto Rico,Comerio,-1,0,711,0
+2021-06-03,United States,Puerto Rico,Corozal,0,0,1552,0
+2021-06-03,United States,Puerto Rico,Culebra,0,0,38,0
+2021-06-03,United States,Puerto Rico,Dorado,0,0,2018,0
+2021-06-03,United States,Puerto Rico,Fajardo,1,0,1217,0
+2021-06-03,United States,Puerto Rico,Florida,0,0,526,0
+2021-06-03,United States,Puerto Rico,Guanica,0,0,229,0
+2021-06-03,United States,Puerto Rico,Guayama,0,0,826,0
+2021-06-03,United States,Puerto Rico,Guayanilla,0,0,381,0
+2021-06-03,United States,Puerto Rico,Guaynabo,-1,0,4229,0
+2021-06-03,United States,Puerto Rico,Gurabo,0,0,2160,0
+2021-06-03,United States,Puerto Rico,Hatillo,0,0,1139,0
+2021-06-03,United States,Puerto Rico,Hormigueros,0,0,397,0
+2021-06-03,United States,Puerto Rico,Humacao,1,0,2054,0
+2021-06-03,United States,Puerto Rico,Isabela,0,0,1393,0
+2021-06-03,United States,Puerto Rico,Jayuya,0,0,364,0
+2021-06-03,United States,Puerto Rico,Juana Diaz,0,0,1109,0
+2021-06-03,United States,Puerto Rico,Juncos,0,0,2251,0
+2021-06-03,United States,Puerto Rico,Lajas,-1,0,435,0
+2021-06-03,United States,Puerto Rico,Lares,0,0,778,0
+2021-06-03,United States,Puerto Rico,Las Marias,0,0,242,0
+2021-06-03,United States,Puerto Rico,Las Piedras,0,0,1621,0
+2021-06-03,United States,Puerto Rico,Loiza,1,0,1273,0
+2021-06-03,United States,Puerto Rico,Luquillo,1,0,741,0
+2021-06-03,United States,Puerto Rico,Manati,0,0,1420,0
+2021-06-03,United States,Puerto Rico,Maricao,0,0,103,0
+2021-06-03,United States,Puerto Rico,Maunabo,0,0,343,0
+2021-06-03,United States,Puerto Rico,Mayaguez,1,0,1917,0
+2021-06-03,United States,Puerto Rico,Moca,1,0,1392,0
+2021-06-03,United States,Puerto Rico,Morovis,1,0,1458,0
+2021-06-03,United States,Puerto Rico,Naguabo,0,0,1058,0
+2021-06-03,United States,Puerto Rico,Naranjito,0,0,1558,0
+2021-06-03,United States,Puerto Rico,Orocovis,0,0,884,0
+2021-06-03,United States,Puerto Rico,Out of PR,1,0,289,0
+2021-06-03,United States,Puerto Rico,Patillas,0,0,359,0
+2021-06-03,United States,Puerto Rico,Penuelas,0,0,562,0
+2021-06-03,United States,Puerto Rico,Ponce,1,0,3365,0
+2021-06-03,United States,Puerto Rico,Quebradillas,0,0,901,0
+2021-06-03,United States,Puerto Rico,Rincon,0,0,538,0
+2021-06-03,United States,Puerto Rico,Rio Grande,0,0,2126,0
+2021-06-03,United States,Puerto Rico,Sabana Grande,0,0,383,0
+2021-06-03,United States,Puerto Rico,Salinas,0,0,741,0
+2021-06-03,United States,Puerto Rico,San German,1,0,608,0
+2021-06-03,United States,Puerto Rico,San Juan,10,0,18266,0
+2021-06-03,United States,Puerto Rico,San Lorenzo,0,0,1740,0
+2021-06-03,United States,Puerto Rico,San Sebastian,0,0,1310,0
+2021-06-03,United States,Puerto Rico,Santa Isabel,1,0,467,0
+2021-06-03,United States,Puerto Rico,Toa Alta,2,0,3909,0
+2021-06-03,United States,Puerto Rico,Toa Baja,0,0,3856,0
+2021-06-03,United States,Puerto Rico,Trujillo Alto,1,0,2971,0
+2021-06-03,United States,Puerto Rico,Unassigned,-4,3,4024,2512
+2021-06-03,United States,Puerto Rico,Utuado,0,0,893,0
+2021-06-03,United States,Puerto Rico,Vega Alta,0,0,1755,0
+2021-06-03,United States,Puerto Rico,Vega Baja,0,0,2925,0
+2021-06-03,United States,Puerto Rico,Vieques,0,0,121,0
+2021-06-03,United States,Puerto Rico,Villalba,0,0,747,0
+2021-06-03,United States,Puerto Rico,Yabucoa,1,0,1110,0
+2021-06-03,United States,Puerto Rico,Yauco,0,0,832,0
+2021-06-03,United States,Recovered,,0,0,0,0
+2021-06-03,United States,Rhode Island,Bristol,0,0,5153,144
+2021-06-03,United States,Rhode Island,Kent,0,0,18715,364
+2021-06-03,United States,Rhode Island,Newport,0,0,6891,41
+2021-06-03,United States,Rhode Island,Providence,0,0,98724,1978
+2021-06-03,United States,Rhode Island,Unassigned,51,0,12380,15
+2021-06-03,United States,Rhode Island,Washington,0,0,10032,170
+2021-06-03,United States,South Carolina,Abbeville,1,0,2598,41
+2021-06-03,United States,South Carolina,Aiken,5,0,17521,229
+2021-06-03,United States,South Carolina,Allendale,1,0,948,15
+2021-06-03,United States,South Carolina,Anderson,19,0,23201,527
+2021-06-03,United States,South Carolina,Bamberg,0,0,1592,51
+2021-06-03,United States,South Carolina,Barnwell,1,0,2600,57
+2021-06-03,United States,South Carolina,Beaufort,6,0,17066,209
+2021-06-03,United States,South Carolina,Berkeley,14,0,17894,201
+2021-06-03,United States,South Carolina,Calhoun,3,0,1336,37
+2021-06-03,United States,South Carolina,Charleston,12,1,43814,511
+2021-06-03,United States,South Carolina,Cherokee,5,0,6155,156
+2021-06-03,United States,South Carolina,Chester,0,0,4264,76
+2021-06-03,United States,South Carolina,Chesterfield,0,0,4887,105
+2021-06-03,United States,South Carolina,Clarendon,1,0,3459,114
+2021-06-03,United States,South Carolina,Colleton,0,0,3678,129
+2021-06-03,United States,South Carolina,Darlington,3,1,8562,179
+2021-06-03,United States,South Carolina,Dillon,3,0,4403,85
+2021-06-03,United States,South Carolina,Dorchester,8,0,18214,222
+2021-06-03,United States,South Carolina,Edgefield,6,0,3161,44
+2021-06-03,United States,South Carolina,Fairfield,0,0,2413,83
+2021-06-03,United States,South Carolina,Florence,6,0,17888,420
+2021-06-03,United States,South Carolina,Georgetown,3,0,6772,140
+2021-06-03,United States,South Carolina,Greenville,27,0,75203,1020
+2021-06-03,United States,South Carolina,Greenwood,-1,0,8275,172
+2021-06-03,United States,South Carolina,Hampton,0,0,1930,51
+2021-06-03,United States,South Carolina,Horry,17,0,39337,580
+2021-06-03,United States,South Carolina,Jasper,2,0,2410,47
+2021-06-03,United States,South Carolina,Kershaw,4,0,7551,141
+2021-06-03,United States,South Carolina,Lancaster,4,0,10891,169
+2021-06-03,United States,South Carolina,Laurens,0,0,7499,170
+2021-06-03,United States,South Carolina,Lee,0,0,1926,64
+2021-06-03,United States,South Carolina,Lexington,12,0,33693,490
+2021-06-03,United States,South Carolina,Marion,0,0,3537,107
+2021-06-03,United States,South Carolina,Marlboro,5,0,3460,56
+2021-06-03,United States,South Carolina,McCormick,0,0,1030,28
+2021-06-03,United States,South Carolina,Newberry,1,0,5105,106
+2021-06-03,United States,South Carolina,Oconee,10,0,9842,135
+2021-06-03,United States,South Carolina,Orangeburg,3,0,9887,253
+2021-06-03,United States,South Carolina,Pickens,9,1,19022,301
+2021-06-03,United States,South Carolina,Richland,15,0,47167,571
+2021-06-03,United States,South Carolina,Saluda,0,0,1828,51
+2021-06-03,United States,South Carolina,Spartanburg,25,0,41816,820
+2021-06-03,United States,South Carolina,Sumter,1,0,10508,208
+2021-06-03,United States,South Carolina,Unassigned,0,0,0,0
+2021-06-03,United States,South Carolina,Union,0,0,3168,83
+2021-06-03,United States,South Carolina,Williamsburg,4,0,4106,100
+2021-06-03,United States,South Carolina,York,29,0,31909,385
+2021-06-03,United States,South Dakota,Aurora,0,0,475,15
+2021-06-03,United States,South Dakota,Beadle,1,0,2965,40
+2021-06-03,United States,South Dakota,Bennett,0,0,391,9
+2021-06-03,United States,South Dakota,Bon Homme,0,1,1555,28
+2021-06-03,United States,South Dakota,Brookings,0,0,4231,37
+2021-06-03,United States,South Dakota,Brown,3,2,5631,95
+2021-06-03,United States,South Dakota,Brule,0,0,717,10
+2021-06-03,United States,South Dakota,Buffalo,0,0,426,13
+2021-06-03,United States,South Dakota,Butte,2,0,1081,20
+2021-06-03,United States,South Dakota,Campbell,0,0,131,4
+2021-06-03,United States,South Dakota,Charles Mix,1,0,1383,22
+2021-06-03,United States,South Dakota,Clark,0,0,463,5
+2021-06-03,United States,South Dakota,Clay,0,0,1931,15
+2021-06-03,United States,South Dakota,Codington,0,0,4647,82
+2021-06-03,United States,South Dakota,Corson,0,0,480,12
+2021-06-03,United States,South Dakota,Custer,1,0,874,12
+2021-06-03,United States,South Dakota,Davison,0,0,3245,66
+2021-06-03,United States,South Dakota,Day,0,0,709,29
+2021-06-03,United States,South Dakota,Deuel,0,0,531,9
+2021-06-03,United States,South Dakota,Dewey,0,0,1475,29
+2021-06-03,United States,South Dakota,Douglas,0,0,455,9
+2021-06-03,United States,South Dakota,Edmunds,0,0,513,14
+2021-06-03,United States,South Dakota,Fall River,0,0,602,16
+2021-06-03,United States,South Dakota,Faulk,0,0,372,13
+2021-06-03,United States,South Dakota,Grant,0,0,1057,42
+2021-06-03,United States,South Dakota,Gregory,1,0,586,30
+2021-06-03,United States,South Dakota,Haakon,0,0,265,10
+2021-06-03,United States,South Dakota,Hamlin,0,0,799,39
+2021-06-03,United States,South Dakota,Hand,0,0,364,6
+2021-06-03,United States,South Dakota,Hanson,0,0,388,4
+2021-06-03,United States,South Dakota,Harding,0,0,97,1
+2021-06-03,United States,South Dakota,Hughes,1,0,2522,41
+2021-06-03,United States,South Dakota,Hutchinson,0,0,920,28
+2021-06-03,United States,South Dakota,Hyde,0,0,141,1
+2021-06-03,United States,South Dakota,Jackson,0,0,291,14
+2021-06-03,United States,South Dakota,Jerauld,0,0,281,16
+2021-06-03,United States,South Dakota,Jones,0,0,93,0
+2021-06-03,United States,South Dakota,Kingsbury,0,0,818,18
+2021-06-03,United States,South Dakota,Lake,0,0,1387,20
+2021-06-03,United States,South Dakota,Lawrence,0,0,3004,47
+2021-06-03,United States,South Dakota,Lincoln,1,0,8711,77
+2021-06-03,United States,South Dakota,Lyman,0,0,658,11
+2021-06-03,United States,South Dakota,Marshall,0,0,375,6
+2021-06-03,United States,South Dakota,McCook,0,0,809,25
+2021-06-03,United States,South Dakota,McPherson,0,0,247,4
+2021-06-03,United States,South Dakota,Meade,4,0,2788,31
+2021-06-03,United States,South Dakota,Mellette,0,0,261,2
+2021-06-03,United States,South Dakota,Miner,1,0,307,10
+2021-06-03,United States,South Dakota,Minnehaha,8,2,31709,363
+2021-06-03,United States,South Dakota,Moody,0,0,666,20
+2021-06-03,United States,South Dakota,Oglala Lakota,1,0,2120,49
+2021-06-03,United States,South Dakota,Pennington,7,0,13844,200
+2021-06-03,United States,South Dakota,Perkins,0,0,359,14
+2021-06-03,United States,South Dakota,Potter,0,0,392,4
+2021-06-03,United States,South Dakota,Roberts,0,0,1376,41
+2021-06-03,United States,South Dakota,Sanborn,0,0,345,3
+2021-06-03,United States,South Dakota,Spink,0,0,844,26
+2021-06-03,United States,South Dakota,Stanley,1,0,354,2
+2021-06-03,United States,South Dakota,Sully,1,0,144,3
+2021-06-03,United States,South Dakota,Todd,0,0,1234,32
+2021-06-03,United States,South Dakota,Tripp,0,0,755,17
+2021-06-03,United States,South Dakota,Turner,1,0,1181,57
+2021-06-03,United States,South Dakota,Unassigned,0,0,0,0
+2021-06-03,United States,South Dakota,Union,0,0,2227,43
+2021-06-03,United States,South Dakota,Walworth,0,0,772,15
+2021-06-03,United States,South Dakota,Yankton,1,0,3109,34
+2021-06-03,United States,South Dakota,Ziebach,0,0,344,9
+2021-06-03,United States,Tennessee,Anderson,-2,0,8836,172
+2021-06-03,United States,Tennessee,Bedford,0,0,6550,130
+2021-06-03,United States,Tennessee,Benton,0,1,1682,42
+2021-06-03,United States,Tennessee,Bledsoe,-1,0,2190,11
+2021-06-03,United States,Tennessee,Blount,-2,0,15632,196
+2021-06-03,United States,Tennessee,Bradley,6,0,15205,153
+2021-06-03,United States,Tennessee,Campbell,1,0,4202,63
+2021-06-03,United States,Tennessee,Cannon,0,0,1936,32
+2021-06-03,United States,Tennessee,Carroll,0,0,3659,83
+2021-06-03,United States,Tennessee,Carter,3,0,6702,159
+2021-06-03,United States,Tennessee,Cheatham,0,0,4607,56
+2021-06-03,United States,Tennessee,Chester,0,0,2172,51
+2021-06-03,United States,Tennessee,Claiborne,2,0,3202,74
+2021-06-03,United States,Tennessee,Clay,0,0,1102,30
+2021-06-03,United States,Tennessee,Cocke,0,0,4538,100
+2021-06-03,United States,Tennessee,Coffee,1,0,6953,125
+2021-06-03,United States,Tennessee,Crockett,-2,0,2042,49
+2021-06-03,United States,Tennessee,Cumberland,-1,0,6823,138
+2021-06-03,United States,Tennessee,Davidson,34,1,90184,952
+2021-06-03,United States,Tennessee,Decatur,0,0,1602,39
+2021-06-03,United States,Tennessee,DeKalb,2,0,2826,54
+2021-06-03,United States,Tennessee,Dickson,2,0,6910,114
+2021-06-03,United States,Tennessee,Dyer,1,0,5457,107
+2021-06-03,United States,Tennessee,Fayette,0,1,5158,83
+2021-06-03,United States,Tennessee,Fentress,0,0,2442,48
+2021-06-03,United States,Tennessee,Franklin,0,0,5177,90
+2021-06-03,United States,Tennessee,Gibson,3,0,6616,147
+2021-06-03,United States,Tennessee,Giles,3,0,4027,101
+2021-06-03,United States,Tennessee,Grainger,0,0,2653,49
+2021-06-03,United States,Tennessee,Greene,2,1,7978,159
+2021-06-03,United States,Tennessee,Grundy,0,0,1795,35
+2021-06-03,United States,Tennessee,Hamblen,0,0,8639,174
+2021-06-03,United States,Tennessee,Hamilton,26,1,45058,501
+2021-06-03,United States,Tennessee,Hancock,0,0,603,12
+2021-06-03,United States,Tennessee,Hardeman,3,0,3549,65
+2021-06-03,United States,Tennessee,Hardin,1,0,3599,68
+2021-06-03,United States,Tennessee,Hawkins,4,0,6283,112
+2021-06-03,United States,Tennessee,Haywood,-2,0,2711,62
+2021-06-03,United States,Tennessee,Henderson,4,0,3840,77
+2021-06-03,United States,Tennessee,Henry,1,0,3248,76
+2021-06-03,United States,Tennessee,Hickman,1,0,2864,46
+2021-06-03,United States,Tennessee,Houston,0,0,1108,33
+2021-06-03,United States,Tennessee,Humphreys,3,0,1868,28
+2021-06-03,United States,Tennessee,Jackson,1,0,1331,36
+2021-06-03,United States,Tennessee,Jefferson,0,0,6281,125
+2021-06-03,United States,Tennessee,Johnson,1,0,2439,39
+2021-06-03,United States,Tennessee,Knox,43,0,51688,639
+2021-06-03,United States,Tennessee,Lake,2,0,1714,26
+2021-06-03,United States,Tennessee,Lauderdale,1,1,3238,48
+2021-06-03,United States,Tennessee,Lawrence,11,0,6035,92
+2021-06-03,United States,Tennessee,Lewis,1,0,1591,26
+2021-06-03,United States,Tennessee,Lincoln,-1,0,4369,66
+2021-06-03,United States,Tennessee,Loudon,2,0,6220,70
+2021-06-03,United States,Tennessee,Macon,0,0,3645,78
+2021-06-03,United States,Tennessee,Madison,19,0,11393,241
+2021-06-03,United States,Tennessee,Marion,2,0,3153,47
+2021-06-03,United States,Tennessee,Marshall,2,0,4222,58
+2021-06-03,United States,Tennessee,Maury,3,0,13603,173
+2021-06-03,United States,Tennessee,McMinn,0,0,6594,101
+2021-06-03,United States,Tennessee,McNairy,1,0,2856,54
+2021-06-03,United States,Tennessee,Meigs,0,0,1408,25
+2021-06-03,United States,Tennessee,Monroe,0,0,5926,97
+2021-06-03,United States,Tennessee,Montgomery,8,1,20732,229
+2021-06-03,United States,Tennessee,Moore,-1,0,1018,17
+2021-06-03,United States,Tennessee,Morgan,1,0,2525,39
+2021-06-03,United States,Tennessee,Obion,0,0,4589,97
+2021-06-03,United States,Tennessee,Out of TN,21,0,17866,100
+2021-06-03,United States,Tennessee,Overton,0,0,3033,61
+2021-06-03,United States,Tennessee,Perry,-1,0,1069,28
+2021-06-03,United States,Tennessee,Pickett,-1,0,763,24
+2021-06-03,United States,Tennessee,Polk,1,0,2107,25
+2021-06-03,United States,Tennessee,Putnam,5,0,11480,178
+2021-06-03,United States,Tennessee,Rhea,0,0,4380,75
+2021-06-03,United States,Tennessee,Roane,-1,0,6348,105
+2021-06-03,United States,Tennessee,Robertson,0,0,9842,132
+2021-06-03,United States,Tennessee,Rutherford,13,0,43497,443
+2021-06-03,United States,Tennessee,Scott,1,0,3192,45
+2021-06-03,United States,Tennessee,Sequatchie,0,0,1742,29
+2021-06-03,United States,Tennessee,Sevier,1,0,13497,176
+2021-06-03,United States,Tennessee,Shelby,34,-1,97747,1666
+2021-06-03,United States,Tennessee,Smith,4,0,2792,40
+2021-06-03,United States,Tennessee,Stewart,0,0,1356,28
+2021-06-03,United States,Tennessee,Sullivan,17,1,17196,304
+2021-06-03,United States,Tennessee,Sumner,2,0,24312,352
+2021-06-03,United States,Tennessee,Tipton,-1,1,7439,105
+2021-06-03,United States,Tennessee,Trousdale,0,0,2511,22
+2021-06-03,United States,Tennessee,Unassigned,0,0,16913,136
+2021-06-03,United States,Tennessee,Unicoi,-1,0,2050,49
+2021-06-03,United States,Tennessee,Union,2,0,1951,34
+2021-06-03,United States,Tennessee,Van Buren,0,0,860,23
+2021-06-03,United States,Tennessee,Warren,-2,1,5555,83
+2021-06-03,United States,Tennessee,Washington,11,0,14816,251
+2021-06-03,United States,Tennessee,Wayne,-1,0,2975,34
+2021-06-03,United States,Tennessee,Weakley,-1,0,4194,67
+2021-06-03,United States,Tennessee,White,4,0,3707,74
+2021-06-03,United States,Tennessee,Williamson,6,0,28294,218
+2021-06-03,United States,Tennessee,Wilson,22,0,19046,239
+2021-06-03,United States,Texas,Anderson,-5,0,6212,127
+2021-06-03,United States,Texas,Andrews,0,0,1834,47
+2021-06-03,United States,Texas,Angelina,56,1,8669,284
+2021-06-03,United States,Texas,Aransas,1,0,1259,41
+2021-06-03,United States,Texas,Archer,0,0,811,12
+2021-06-03,United States,Texas,Armstrong,0,0,204,6
+2021-06-03,United States,Texas,Atascosa,8,0,5823,150
+2021-06-03,United States,Texas,Austin,4,0,2196,37
+2021-06-03,United States,Texas,Bailey,1,0,840,19
+2021-06-03,United States,Texas,Bandera,0,0,1427,28
+2021-06-03,United States,Texas,Bastrop,12,0,9621,96
+2021-06-03,United States,Texas,Baylor,0,0,299,13
+2021-06-03,United States,Texas,Bee,2,0,3516,73
+2021-06-03,United States,Texas,Bell,0,1,22634,432
+2021-06-03,United States,Texas,Bexar,0,2,222898,3574
+2021-06-03,United States,Texas,Blanco,5,0,755,20
+2021-06-03,United States,Texas,Borden,0,0,30,2
+2021-06-03,United States,Texas,Bosque,1,0,1689,34
+2021-06-03,United States,Texas,Bowie,5,1,7094,221
+2021-06-03,United States,Texas,Brazoria,45,1,38115,519
+2021-06-03,United States,Texas,Brazos,23,2,27628,254
+2021-06-03,United States,Texas,Brewster,1,0,936,16
+2021-06-03,United States,Texas,Briscoe,0,0,168,6
+2021-06-03,United States,Texas,Brooks,1,0,829,36
+2021-06-03,United States,Texas,Brown,0,0,4283,120
+2021-06-03,United States,Texas,Burleson,5,0,2445,48
+2021-06-03,United States,Texas,Burnet,11,1,4809,66
+2021-06-03,United States,Texas,Caldwell,1,0,5717,98
+2021-06-03,United States,Texas,Calhoun,17,0,2425,25
+2021-06-03,United States,Texas,Callahan,3,0,1206,40
+2021-06-03,United States,Texas,Cameron,67,0,41288,1647
+2021-06-03,United States,Texas,Camp,3,0,1265,44
+2021-06-03,United States,Texas,Carson,5,0,544,14
+2021-06-03,United States,Texas,Cass,5,0,1968,83
+2021-06-03,United States,Texas,Castro,4,0,1015,32
+2021-06-03,United States,Texas,Chambers,23,0,5123,28
+2021-06-03,United States,Texas,Cherokee,6,0,4265,142
+2021-06-03,United States,Texas,Childress,-1,0,1374,17
+2021-06-03,United States,Texas,Clay,1,0,1036,16
+2021-06-03,United States,Texas,Cochran,0,0,320,15
+2021-06-03,United States,Texas,Coke,0,0,467,13
+2021-06-03,United States,Texas,Coleman,0,0,751,33
+2021-06-03,United States,Texas,Collin,0,1,91521,835
+2021-06-03,United States,Texas,Collingsworth,-1,0,329,9
+2021-06-03,United States,Texas,Colorado,-1,0,1743,32
+2021-06-03,United States,Texas,Comal,45,0,10867,299
+2021-06-03,United States,Texas,Comanche,0,0,1562,51
+2021-06-03,United States,Texas,Concho,0,0,472,8
+2021-06-03,United States,Texas,Cooke,0,0,3785,72
+2021-06-03,United States,Texas,Coryell,19,0,7319,86
+2021-06-03,United States,Texas,Cottle,1,0,191,7
+2021-06-03,United States,Texas,Crane,1,0,538,12
+2021-06-03,United States,Texas,Crockett,0,0,576,15
+2021-06-03,United States,Texas,Crosby,3,0,663,29
+2021-06-03,United States,Texas,Culberson,0,0,364,11
+2021-06-03,United States,Texas,Dallam,-5,0,987,26
+2021-06-03,United States,Texas,Dallas,253,1,303533,4080
+2021-06-03,United States,Texas,Dawson,2,0,1739,69
+2021-06-03,United States,Texas,Deaf Smith,4,0,2859,66
+2021-06-03,United States,Texas,Delta,0,0,323,12
+2021-06-03,United States,Texas,Denton,68,0,76203,765
+2021-06-03,United States,Texas,DeWitt,2,0,1932,59
+2021-06-03,United States,Texas,Dickens,-1,0,186,10
+2021-06-03,United States,Texas,Dimmit,27,0,2302,36
+2021-06-03,United States,Texas,Donley,-3,0,415,15
+2021-06-03,United States,Texas,Duval,0,0,1274,41
+2021-06-03,United States,Texas,Eastland,1,1,1363,50
+2021-06-03,United States,Texas,Ector,18,0,17432,377
+2021-06-03,United States,Texas,Edwards,0,0,252,6
+2021-06-03,United States,Texas,El Paso,22,2,136154,2719
+2021-06-03,United States,Texas,Ellis,36,1,23067,317
+2021-06-03,United States,Texas,Erath,6,1,4222,70
+2021-06-03,United States,Texas,Falls,-2,0,2098,32
+2021-06-03,United States,Texas,Fannin,3,0,3490,109
+2021-06-03,United States,Texas,Fayette,5,0,2744,67
+2021-06-03,United States,Texas,Fisher,1,0,305,14
+2021-06-03,United States,Texas,Floyd,2,0,887,30
+2021-06-03,United States,Texas,Foard,0,0,124,10
+2021-06-03,United States,Texas,Fort Bend,125,1,68899,683
+2021-06-03,United States,Texas,Franklin,0,0,738,26
+2021-06-03,United States,Texas,Freestone,2,0,1966,50
+2021-06-03,United States,Texas,Frio,12,0,2941,52
+2021-06-03,United States,Texas,Gaines,5,0,1457,44
+2021-06-03,United States,Texas,Galveston,62,2,40446,427
+2021-06-03,United States,Texas,Garza,0,0,502,22
+2021-06-03,United States,Texas,Gillespie,6,0,2593,51
+2021-06-03,United States,Texas,Glasscock,0,0,104,2
+2021-06-03,United States,Texas,Goliad,2,0,473,13
+2021-06-03,United States,Texas,Gonzales,3,0,2755,57
+2021-06-03,United States,Texas,Gray,8,0,2359,57
+2021-06-03,United States,Texas,Grayson,4,0,11352,342
+2021-06-03,United States,Texas,Gregg,0,0,11321,356
+2021-06-03,United States,Texas,Grimes,8,0,3765,71
+2021-06-03,United States,Texas,Guadalupe,65,0,15179,216
+2021-06-03,United States,Texas,Hale,0,0,6148,156
+2021-06-03,United States,Texas,Hall,8,0,495,14
+2021-06-03,United States,Texas,Hamilton,0,0,784,27
+2021-06-03,United States,Texas,Hansford,0,0,915,24
+2021-06-03,United States,Texas,Hardeman,0,0,383,12
+2021-06-03,United States,Texas,Hardin,27,0,5934,113
+2021-06-03,United States,Texas,Harris,71,8,400507,6450
+2021-06-03,United States,Texas,Harrison,4,1,4926,110
+2021-06-03,United States,Texas,Hartley,4,0,654,2
+2021-06-03,United States,Texas,Haskell,11,0,457,27
+2021-06-03,United States,Texas,Hays,29,5,20960,252
+2021-06-03,United States,Texas,Hemphill,0,0,584,2
+2021-06-03,United States,Texas,Henderson,0,0,5974,191
+2021-06-03,United States,Texas,Hidalgo,122,2,91551,2880
+2021-06-03,United States,Texas,Hill,7,0,4536,109
+2021-06-03,United States,Texas,Hockley,15,0,2881,103
+2021-06-03,United States,Texas,Hood,7,0,6598,130
+2021-06-03,United States,Texas,Hopkins,7,0,3169,112
+2021-06-03,United States,Texas,Houston,1,0,1683,55
+2021-06-03,United States,Texas,Howard,1,0,4676,101
+2021-06-03,United States,Texas,Hudspeth,0,0,538,12
+2021-06-03,United States,Texas,Hunt,0,0,6095,173
+2021-06-03,United States,Texas,Hutchinson,19,0,2084,71
+2021-06-03,United States,Texas,Irion,0,0,127,1
+2021-06-03,United States,Texas,Jack,0,0,605,16
+2021-06-03,United States,Texas,Jackson,1,0,1864,31
+2021-06-03,United States,Texas,Jasper,11,0,2506,92
+2021-06-03,United States,Texas,Jeff Davis,0,0,192,5
+2021-06-03,United States,Texas,Jefferson,7,0,19784,434
+2021-06-03,United States,Texas,Jim Hogg,0,0,618,16
+2021-06-03,United States,Texas,Jim Wells,8,0,4328,105
+2021-06-03,United States,Texas,Johnson,31,0,19982,370
+2021-06-03,United States,Texas,Jones,-9,0,2594,55
+2021-06-03,United States,Texas,Karnes,19,0,2287,37
+2021-06-03,United States,Texas,Kaufman,51,0,16301,260
+2021-06-03,United States,Texas,Kendall,8,0,3348,72
+2021-06-03,United States,Texas,Kenedy,0,0,39,2
+2021-06-03,United States,Texas,Kent,0,0,106,2
+2021-06-03,United States,Texas,Kerr,8,0,4569,88
+2021-06-03,United States,Texas,Kimble,0,0,285,6
+2021-06-03,United States,Texas,King,0,0,11,0
+2021-06-03,United States,Texas,Kinney,0,0,350,6
+2021-06-03,United States,Texas,Kleberg,1,0,2660,93
+2021-06-03,United States,Texas,Knox,0,0,263,17
+2021-06-03,United States,Texas,La Salle,0,0,1052,28
+2021-06-03,United States,Texas,Lamar,0,0,5881,156
+2021-06-03,United States,Texas,Lamb,12,0,2355,83
+2021-06-03,United States,Texas,Lampasas,2,0,2199,33
+2021-06-03,United States,Texas,Lavaca,2,0,2517,76
+2021-06-03,United States,Texas,Lee,4,0,2216,39
+2021-06-03,United States,Texas,Leon,3,0,1650,43
+2021-06-03,United States,Texas,Liberty,-36,0,7994,188
+2021-06-03,United States,Texas,Limestone,5,0,2816,80
+2021-06-03,United States,Texas,Lipscomb,0,0,349,12
+2021-06-03,United States,Texas,Live Oak,0,0,1138,22
+2021-06-03,United States,Texas,Llano,3,1,1691,52
+2021-06-03,United States,Texas,Loving,0,0,2,0
+2021-06-03,United States,Texas,Lubbock,28,1,49347,792
+2021-06-03,United States,Texas,Lynn,1,0,624,23
+2021-06-03,United States,Texas,Madison,4,0,1986,29
+2021-06-03,United States,Texas,Marion,1,0,543,33
+2021-06-03,United States,Texas,Martin,1,0,638,19
+2021-06-03,United States,Texas,Mason,2,0,425,6
+2021-06-03,United States,Texas,Matagorda,3,0,4221,114
+2021-06-03,United States,Texas,Maverick,0,0,10451,356
+2021-06-03,United States,Texas,McCulloch,1,0,584,19
+2021-06-03,United States,Texas,McLennan,51,1,27547,477
+2021-06-03,United States,Texas,McMullen,0,0,84,5
+2021-06-03,United States,Texas,Medina,10,0,5096,105
+2021-06-03,United States,Texas,Menard,0,0,211,9
+2021-06-03,United States,Texas,Midland,0,0,17708,272
+2021-06-03,United States,Texas,Milam,0,0,2555,49
+2021-06-03,United States,Texas,Mills,0,0,658,21
+2021-06-03,United States,Texas,Mitchell,3,0,609,31
+2021-06-03,United States,Texas,Montague,2,0,2110,72
+2021-06-03,United States,Texas,Montgomery,226,0,54602,589
+2021-06-03,United States,Texas,Moore,3,0,2751,73
+2021-06-03,United States,Texas,Morris,0,0,883,33
+2021-06-03,United States,Texas,Motley,-1,0,116,8
+2021-06-03,United States,Texas,Nacogdoches,5,1,4601,172
+2021-06-03,United States,Texas,Navarro,10,0,5880,143
+2021-06-03,United States,Texas,Newton,5,0,634,38
+2021-06-03,United States,Texas,Nolan,0,0,1545,51
+2021-06-03,United States,Texas,Nueces,48,1,43224,826
+2021-06-03,United States,Texas,Ochiltree,2,0,1187,27
+2021-06-03,United States,Texas,Oldham,0,0,285,4
+2021-06-03,United States,Texas,Orange,4,0,8714,149
+2021-06-03,United States,Texas,Palo Pinto,2,1,2911,76
+2021-06-03,United States,Texas,Panola,1,0,1635,75
+2021-06-03,United States,Texas,Parker,32,0,15974,184
+2021-06-03,United States,Texas,Parmer,0,0,1294,35
+2021-06-03,United States,Texas,Pecos,2,0,1677,34
+2021-06-03,United States,Texas,Polk,0,0,3365,120
+2021-06-03,United States,Texas,Potter,11,1,17554,457
+2021-06-03,United States,Texas,Presidio,0,0,818,24
+2021-06-03,United States,Texas,Rains,0,0,812,26
+2021-06-03,United States,Texas,Randall,3,0,16916,287
+2021-06-03,United States,Texas,Reagan,0,0,382,8
+2021-06-03,United States,Texas,Real,0,0,313,12
+2021-06-03,United States,Texas,Red River,0,0,699,37
+2021-06-03,United States,Texas,Reeves,0,0,1919,43
+2021-06-03,United States,Texas,Refugio,0,0,678,23
+2021-06-03,United States,Texas,Roberts,0,0,62,1
+2021-06-03,United States,Texas,Robertson,3,0,2177,43
+2021-06-03,United States,Texas,Rockwall,29,0,11681,154
+2021-06-03,United States,Texas,Runnels,0,0,1296,38
+2021-06-03,United States,Texas,Rusk,4,0,4033,108
+2021-06-03,United States,Texas,Sabine,0,0,524,45
+2021-06-03,United States,Texas,San Augustine,2,0,580,32
+2021-06-03,United States,Texas,San Jacinto,5,0,1357,39
+2021-06-03,United States,Texas,San Patricio,0,0,4416,151
+2021-06-03,United States,Texas,San Saba,-1,0,781,23
+2021-06-03,United States,Texas,Schleicher,0,0,244,6
+2021-06-03,United States,Texas,Scurry,0,0,2425,62
+2021-06-03,United States,Texas,Shackelford,0,0,276,5
+2021-06-03,United States,Texas,Shelby,4,0,1711,68
+2021-06-03,United States,Texas,Sherman,0,0,235,12
+2021-06-03,United States,Texas,Smith,0,0,20452,482
+2021-06-03,United States,Texas,Somervell,0,0,1084,14
+2021-06-03,United States,Texas,Starr,4,0,9476,298
+2021-06-03,United States,Texas,Stephens,0,0,803,26
+2021-06-03,United States,Texas,Sterling,0,0,108,4
+2021-06-03,United States,Texas,Stonewall,0,0,157,6
+2021-06-03,United States,Texas,Sutton,0,0,470,8
+2021-06-03,United States,Texas,Swisher,-2,0,883,18
+2021-06-03,United States,Texas,Tarrant,190,4,260896,3512
+2021-06-03,United States,Texas,Taylor,10,0,15825,411
+2021-06-03,United States,Texas,Terrell,0,0,74,2
+2021-06-03,United States,Texas,Terry,6,0,1701,56
+2021-06-03,United States,Texas,Throckmorton,0,0,73,5
+2021-06-03,United States,Texas,Titus,8,0,3748,84
+2021-06-03,United States,Texas,Tom Green,3,1,16902,270
+2021-06-03,United States,Texas,Travis,65,1,83830,1025
+2021-06-03,United States,Texas,Trinity,1,0,792,26
+2021-06-03,United States,Texas,Tyler,57,0,1332,42
+2021-06-03,United States,Texas,Unassigned,0,0,0,0
+2021-06-03,United States,Texas,Upshur,2,0,3307,75
+2021-06-03,United States,Texas,Upton,0,0,373,10
+2021-06-03,United States,Texas,Uvalde,0,0,3595,72
+2021-06-03,United States,Texas,Val Verde,0,0,7921,223
+2021-06-03,United States,Texas,Van Zandt,0,0,4385,120
+2021-06-03,United States,Texas,Victoria,0,0,9094,218
+2021-06-03,United States,Texas,Walker,11,0,8811,131
+2021-06-03,United States,Texas,Waller,-11,0,4195,49
+2021-06-03,United States,Texas,Ward,0,0,1206,24
+2021-06-03,United States,Texas,Washington,9,0,4150,94
+2021-06-03,United States,Texas,Webb,0,0,44133,794
+2021-06-03,United States,Texas,Wharton,5,0,4205,116
+2021-06-03,United States,Texas,Wheeler,2,0,568,11
+2021-06-03,United States,Texas,Wichita,0,0,15138,377
+2021-06-03,United States,Texas,Wilbarger,0,0,1928,55
+2021-06-03,United States,Texas,Willacy,10,0,3064,88
+2021-06-03,United States,Texas,Williamson,0,2,46690,478
+2021-06-03,United States,Texas,Wilson,13,0,4608,69
+2021-06-03,United States,Texas,Winkler,0,0,770,21
+2021-06-03,United States,Texas,Wise,14,0,7420,121
+2021-06-03,United States,Texas,Wood,0,0,3462,129
+2021-06-03,United States,Texas,Yoakum,2,0,876,27
+2021-06-03,United States,Texas,Young,0,0,2181,45
+2021-06-03,United States,Texas,Zapata,3,0,1783,36
+2021-06-03,United States,Texas,Zavala,2,0,1873,41
+2021-06-03,United States,Utah,Bear River,10,0,22002,103
+2021-06-03,United States,Utah,Central Utah,5,0,9050,68
+2021-06-03,United States,Utah,Davis,33,0,38753,172
+2021-06-03,United States,Utah,Salt Lake,76,1,151080,892
+2021-06-03,United States,Utah,San Juan,0,0,1917,37
+2021-06-03,United States,Utah,Southeast Utah,4,0,3621,28
+2021-06-03,United States,Utah,Southwest Utah,9,0,29260,274
+2021-06-03,United States,Utah,Summit,2,0,5575,13
+2021-06-03,United States,Utah,Tooele,4,0,7461,44
+2021-06-03,United States,Utah,TriCounty,8,0,4199,36
+2021-06-03,United States,Utah,Unassigned,-1,0,931,0
+2021-06-03,United States,Utah,Utah,28,1,96977,395
+2021-06-03,United States,Utah,Wasatch,0,0,4675,22
+2021-06-03,United States,Utah,Weber-Morgan,22,1,30981,221
+2021-06-03,United States,Vermont,Addison,0,0,1061,8
+2021-06-03,United States,Vermont,Bennington,2,0,2041,15
+2021-06-03,United States,Vermont,Caledonia,1,0,1072,7
+2021-06-03,United States,Vermont,Chittenden,1,0,7492,103
+2021-06-03,United States,Vermont,Essex,0,0,291,2
+2021-06-03,United States,Vermont,Franklin,0,0,2028,39
+2021-06-03,United States,Vermont,Grand Isle,0,0,217,2
+2021-06-03,United States,Vermont,Lamoille,-1,0,881,3
+2021-06-03,United States,Vermont,Orange,0,0,815,3
+2021-06-03,United States,Vermont,Orleans,0,0,1285,11
+2021-06-03,United States,Vermont,Rutland,2,0,2275,20
+2021-06-03,United States,Vermont,Unassigned,0,0,22,0
+2021-06-03,United States,Vermont,Washington,0,0,1891,15
+2021-06-03,United States,Vermont,Windham,1,0,1382,14
+2021-06-03,United States,Vermont,Windsor,2,0,1479,13
+2021-06-03,United States,Virgin Islands,,47,1,3512,28
+2021-06-03,United States,Virginia,Accomack,1,0,2859,42
+2021-06-03,United States,Virginia,Albemarle,4,0,5800,83
+2021-06-03,United States,Virginia,Alexandria,-1,0,11837,137
+2021-06-03,United States,Virginia,Alleghany,0,0,1364,49
+2021-06-03,United States,Virginia,Amelia,0,0,921,33
+2021-06-03,United States,Virginia,Amherst,1,0,2957,37
+2021-06-03,United States,Virginia,Appomattox,1,0,1616,26
+2021-06-03,United States,Virginia,Arlington,-1,0,15291,256
+2021-06-03,United States,Virginia,Augusta,5,1,5908,74
+2021-06-03,United States,Virginia,Bath,0,0,273,10
+2021-06-03,United States,Virginia,Bedford,10,1,6583,107
+2021-06-03,United States,Virginia,Bland,0,0,680,10
+2021-06-03,United States,Virginia,Botetourt,1,0,2552,38
+2021-06-03,United States,Virginia,Bristol,3,0,1570,35
+2021-06-03,United States,Virginia,Brunswick,0,0,1327,24
+2021-06-03,United States,Virginia,Buchanan,0,0,1476,43
+2021-06-03,United States,Virginia,Buckingham,1,0,2140,30
+2021-06-03,United States,Virginia,Buena Vista,1,0,915,22
+2021-06-03,United States,Virginia,Campbell,-10,-2,4553,87
+2021-06-03,United States,Virginia,Caroline,4,0,2649,38
+2021-06-03,United States,Virginia,Carroll,4,1,2690,77
+2021-06-03,United States,Virginia,Charles City,0,0,502,16
+2021-06-03,United States,Virginia,Charlotte,0,0,874,21
+2021-06-03,United States,Virginia,Charlottesville,-1,0,4013,57
+2021-06-03,United States,Virginia,Chesapeake,5,0,21107,301
+2021-06-03,United States,Virginia,Chesterfield,5,0,28092,441
+2021-06-03,United States,Virginia,Clarke,0,0,991,20
+2021-06-03,United States,Virginia,Colonial Heights,0,0,1717,61
+2021-06-03,United States,Virginia,Covington,3,0,609,14
+2021-06-03,United States,Virginia,Craig,0,0,322,6
+2021-06-03,United States,Virginia,Culpeper,-2,0,4683,65
+2021-06-03,United States,Virginia,Cumberland,2,0,501,10
+2021-06-03,United States,Virginia,Danville,2,0,4471,141
+2021-06-03,United States,Virginia,Dickenson,1,0,955,17
+2021-06-03,United States,Virginia,Dinwiddie,1,0,2139,45
+2021-06-03,United States,Virginia,Emporia,0,0,674,42
+2021-06-03,United States,Virginia,Essex,-1,0,780,10
+2021-06-03,United States,Virginia,Fairfax,6,1,77010,1103
+2021-06-03,United States,Virginia,Fairfax City,-1,0,567,19
+2021-06-03,United States,Virginia,Falls Church,0,0,431,8
+2021-06-03,United States,Virginia,Fauquier,-2,0,4744,70
+2021-06-03,United States,Virginia,Floyd,-1,0,875,23
+2021-06-03,United States,Virginia,Fluvanna,1,0,1922,20
+2021-06-03,United States,Virginia,Franklin,2,1,4082,79
+2021-06-03,United States,Virginia,Franklin City,0,0,1134,32
+2021-06-03,United States,Virginia,Frederick,0,0,8067,102
+2021-06-03,United States,Virginia,Fredericksburg,0,1,2137,25
+2021-06-03,United States,Virginia,Galax,0,0,1175,53
+2021-06-03,United States,Virginia,Giles,2,0,1300,22
+2021-06-03,United States,Virginia,Gloucester,4,0,2253,49
+2021-06-03,United States,Virginia,Goochland,0,0,1461,23
+2021-06-03,United States,Virginia,Grayson,1,0,1494,35
+2021-06-03,United States,Virginia,Greene,0,0,1288,18
+2021-06-03,United States,Virginia,Greensville,0,0,1586,25
+2021-06-03,United States,Virginia,Halifax,1,0,2826,78
+2021-06-03,United States,Virginia,Hampton,9,0,10653,178
+2021-06-03,United States,Virginia,Hanover,3,1,8196,162
+2021-06-03,United States,Virginia,Harrisonburg,1,0,6504,95
+2021-06-03,United States,Virginia,Henrico,6,0,25541,620
+2021-06-03,United States,Virginia,Henry,1,0,4651,124
+2021-06-03,United States,Virginia,Highland,0,0,109,1
+2021-06-03,United States,Virginia,Hopewell,-2,0,2628,77
+2021-06-03,United States,Virginia,Isle of Wight,0,0,3162,69
+2021-06-03,United States,Virginia,James City,1,0,4642,72
+2021-06-03,United States,Virginia,King and Queen,0,0,406,8
+2021-06-03,United States,Virginia,King George,4,0,1740,20
+2021-06-03,United States,Virginia,King William,2,0,1245,13
+2021-06-03,United States,Virginia,Lancaster,0,0,716,17
+2021-06-03,United States,Virginia,Lee,-1,1,2434,49
+2021-06-03,United States,Virginia,Lexington,3,0,1208,32
+2021-06-03,United States,Virginia,Loudoun,17,0,27940,278
+2021-06-03,United States,Virginia,Louisa,0,0,1993,33
+2021-06-03,United States,Virginia,Lunenburg,0,0,780,14
+2021-06-03,United States,Virginia,Lynchburg,5,1,7838,154
+2021-06-03,United States,Virginia,Madison,0,0,595,16
+2021-06-03,United States,Virginia,Manassas,-3,0,4311,47
+2021-06-03,United States,Virginia,Manassas Park,0,0,1217,11
+2021-06-03,United States,Virginia,Martinsville,0,0,1619,77
+2021-06-03,United States,Virginia,Mathews,0,0,599,12
+2021-06-03,United States,Virginia,Mecklenburg,1,0,2331,67
+2021-06-03,United States,Virginia,Middlesex,0,0,573,20
+2021-06-03,United States,Virginia,Montgomery,0,0,9411,96
+2021-06-03,United States,Virginia,Nelson,0,0,895,13
+2021-06-03,United States,Virginia,New Kent,-1,0,1513,18
+2021-06-03,United States,Virginia,Newport News,1,1,14221,232
+2021-06-03,United States,Virginia,Norfolk,2,1,17895,264
+2021-06-03,United States,Virginia,Northampton,0,0,807,36
+2021-06-03,United States,Virginia,Northumberland,0,0,745,20
+2021-06-03,United States,Virginia,Norton,0,0,290,7
+2021-06-03,United States,Virginia,Nottoway,0,0,1922,48
+2021-06-03,United States,Virginia,Orange,2,0,2229,39
+2021-06-03,United States,Virginia,Page,11,0,2103,57
+2021-06-03,United States,Virginia,Patrick,0,0,1377,43
+2021-06-03,United States,Virginia,Petersburg,0,0,3914,86
+2021-06-03,United States,Virginia,Pittsylvania,-1,-1,5577,82
+2021-06-03,United States,Virginia,Poquoson,0,0,890,16
+2021-06-03,United States,Virginia,Portsmouth,4,0,9135,200
+2021-06-03,United States,Virginia,Powhatan,3,0,1923,17
+2021-06-03,United States,Virginia,Prince Edward,-1,0,2180,34
+2021-06-03,United States,Virginia,Prince George,4,0,3613,32
+2021-06-03,United States,Virginia,Prince William,16,0,45438,499
+2021-06-03,United States,Virginia,Pulaski,2,0,2682,61
+2021-06-03,United States,Virginia,Radford,0,0,2167,18
+2021-06-03,United States,Virginia,Rappahannock,1,0,344,2
+2021-06-03,United States,Virginia,Richmond,0,0,1529,14
+2021-06-03,United States,Virginia,Richmond City,11,1,17099,268
+2021-06-03,United States,Virginia,Roanoke,5,0,8307,145
+2021-06-03,United States,Virginia,Roanoke City,2,0,8510,193
+2021-06-03,United States,Virginia,Rockbridge,-1,0,1548,46
+2021-06-03,United States,Virginia,Rockingham,1,0,6817,108
+2021-06-03,United States,Virginia,Russell,0,0,2293,39
+2021-06-03,United States,Virginia,Salem,-5,0,2188,50
+2021-06-03,United States,Virginia,Scott,2,0,1860,59
+2021-06-03,United States,Virginia,Shenandoah,-9,0,4346,133
+2021-06-03,United States,Virginia,Smyth,0,0,2965,95
+2021-06-03,United States,Virginia,Southampton,0,0,1985,56
+2021-06-03,United States,Virginia,Spotsylvania,4,1,10141,123
+2021-06-03,United States,Virginia,Stafford,11,1,11428,81
+2021-06-03,United States,Virginia,Staunton,1,0,2525,71
+2021-06-03,United States,Virginia,Suffolk,4,0,7976,191
+2021-06-03,United States,Virginia,Surry,0,0,421,9
+2021-06-03,United States,Virginia,Sussex,0,0,1198,22
+2021-06-03,United States,Virginia,Tazewell,0,0,3702,72
+2021-06-03,United States,Virginia,Virginia Beach,3,0,36193,407
+2021-06-03,United States,Virginia,Warren,0,1,3031,59
+2021-06-03,United States,Virginia,Washington,6,0,4986,110
+2021-06-03,United States,Virginia,Waynesboro,1,0,2388,38
+2021-06-03,United States,Virginia,Westmoreland,-1,0,1305,26
+2021-06-03,United States,Virginia,Williamsburg,0,0,772,13
+2021-06-03,United States,Virginia,Winchester,2,0,2925,47
+2021-06-03,United States,Virginia,Wise,4,0,3244,100
+2021-06-03,United States,Virginia,Wythe,2,0,2680,81
+2021-06-03,United States,Virginia,York,1,0,3776,55
+2021-06-03,United States,Washington,Adams,0,0,2191,23
+2021-06-03,United States,Washington,Asotin,1,0,1482,28
+2021-06-03,United States,Washington,Benton,26,0,17295,221
+2021-06-03,United States,Washington,Chelan,10,0,6809,66
+2021-06-03,United States,Washington,Clallam,8,0,1333,11
+2021-06-03,United States,Washington,Clark,57,0,24977,272
+2021-06-03,United States,Washington,Columbia,0,0,125,5
+2021-06-03,United States,Washington,Cowlitz,14,0,6249,93
+2021-06-03,United States,Washington,Douglas,1,0,3614,23
+2021-06-03,United States,Washington,Ferry,0,0,379,8
+2021-06-03,United States,Washington,Franklin,7,0,12586,116
+2021-06-03,United States,Washington,Garfield,0,0,124,5
+2021-06-03,United States,Washington,Grant,2,0,9126,79
+2021-06-03,United States,Washington,Grays Harbor,12,1,4418,73
+2021-06-03,United States,Washington,Island,2,0,1787,30
+2021-06-03,United States,Washington,Jefferson,1,0,416,4
+2021-06-03,United States,Washington,King,62,3,109819,1588
+2021-06-03,United States,Washington,Kitsap,17,0,8484,112
+2021-06-03,United States,Washington,Kittitas,11,0,3132,34
+2021-06-03,United States,Washington,Klickitat,3,0,810,11
+2021-06-03,United States,Washington,Lewis,28,2,4951,73
+2021-06-03,United States,Washington,Lincoln,3,0,607,10
+2021-06-03,United States,Washington,Mason,1,0,2840,33
+2021-06-03,United States,Washington,Okanogan,6,0,2644,41
+2021-06-03,United States,Washington,Pacific,2,0,969,11
+2021-06-03,United States,Washington,Pend Oreille,2,0,803,9
+2021-06-03,United States,Washington,Pierce,107,2,55434,698
+2021-06-03,United States,Washington,San Juan,1,0,186,0
+2021-06-03,United States,Washington,Skagit,3,1,5885,74
+2021-06-03,United States,Washington,Skamania,1,0,362,2
+2021-06-03,United States,Washington,Snohomish,54,0,39009,586
+2021-06-03,United States,Washington,Spokane,185,2,45357,652
+2021-06-03,United States,Washington,Stevens,3,1,2305,29
+2021-06-03,United States,Washington,Thurston,32,0,10430,106
+2021-06-03,United States,Washington,Unassigned,-3,0,1521,3
+2021-06-03,United States,Washington,Wahkiakum,0,0,134,1
+2021-06-03,United States,Washington,Walla Walla,4,0,5161,66
+2021-06-03,United States,Washington,Whatcom,24,0,9490,98
+2021-06-03,United States,Washington,Whitman,2,0,4270,49
+2021-06-03,United States,Washington,Yakima,4,0,30163,458
+2021-06-03,United States,West Virginia,Barbour,0,1,1498,29
+2021-06-03,United States,West Virginia,Berkeley,15,0,12709,126
+2021-06-03,United States,West Virginia,Boone,6,0,2171,34
+2021-06-03,United States,West Virginia,Braxton,2,0,977,3
+2021-06-03,United States,West Virginia,Brooke,1,0,2228,60
+2021-06-03,United States,West Virginia,Cabell,8,0,8812,173
+2021-06-03,United States,West Virginia,Calhoun,2,0,371,1
+2021-06-03,United States,West Virginia,Clay,0,0,539,10
+2021-06-03,United States,West Virginia,Doddridge,1,0,626,6
+2021-06-03,United States,West Virginia,Fayette,3,0,3519,79
+2021-06-03,United States,West Virginia,Gilmer,0,0,874,6
+2021-06-03,United States,West Virginia,Grant,0,0,1294,27
+2021-06-03,United States,West Virginia,Greenbrier,1,0,2861,61
+2021-06-03,United States,West Virginia,Hampshire,2,0,1909,34
+2021-06-03,United States,West Virginia,Hancock,-1,0,2837,89
+2021-06-03,United States,West Virginia,Hardy,0,0,1553,24
+2021-06-03,United States,West Virginia,Harrison,8,0,6035,77
+2021-06-03,United States,West Virginia,Jackson,1,0,2208,61
+2021-06-03,United States,West Virginia,Jefferson,-3,1,4759,53
+2021-06-03,United States,West Virginia,Kanawha,11,0,15342,347
+2021-06-03,United States,West Virginia,Lewis,1,0,1267,21
+2021-06-03,United States,West Virginia,Lincoln,4,0,1555,23
+2021-06-03,United States,West Virginia,Logan,4,0,3224,95
+2021-06-03,United States,West Virginia,Marion,3,0,4570,51
+2021-06-03,United States,West Virginia,Marshall,0,0,3519,77
+2021-06-03,United States,West Virginia,Mason,0,0,2037,37
+2021-06-03,United States,West Virginia,McDowell,0,0,1597,25
+2021-06-03,United States,West Virginia,Mercer,4,0,5068,119
+2021-06-03,United States,West Virginia,Mineral,8,0,2933,89
+2021-06-03,United States,West Virginia,Mingo,1,1,2692,42
+2021-06-03,United States,West Virginia,Monongalia,2,0,9349,87
+2021-06-03,United States,West Virginia,Monroe,7,0,1183,17
+2021-06-03,United States,West Virginia,Morgan,2,0,1223,21
+2021-06-03,United States,West Virginia,Nicholas,3,0,1858,20
+2021-06-03,United States,West Virginia,Ohio,-1,0,4285,86
+2021-06-03,United States,West Virginia,Pendleton,1,0,713,11
+2021-06-03,United States,West Virginia,Pleasants,0,0,955,12
+2021-06-03,United States,West Virginia,Pocahontas,1,0,679,12
+2021-06-03,United States,West Virginia,Preston,-7,0,2934,46
+2021-06-03,United States,West Virginia,Putnam,1,0,5288,93
+2021-06-03,United States,West Virginia,Raleigh,5,0,6976,88
+2021-06-03,United States,West Virginia,Randolph,7,0,2782,13
+2021-06-03,United States,West Virginia,Ritchie,0,0,751,11
+2021-06-03,United States,West Virginia,Roane,1,0,651,9
+2021-06-03,United States,West Virginia,Summers,0,0,840,22
+2021-06-03,United States,West Virginia,Taylor,0,0,1254,23
+2021-06-03,United States,West Virginia,Tucker,1,0,544,10
+2021-06-03,United States,West Virginia,Tyler,0,0,737,10
+2021-06-03,United States,West Virginia,Unassigned,0,0,0,0
+2021-06-03,United States,West Virginia,Upshur,0,0,1935,33
+2021-06-03,United States,West Virginia,Wayne,0,0,3167,42
+2021-06-03,United States,West Virginia,Webster,0,0,531,8
+2021-06-03,United States,West Virginia,Wetzel,0,0,1378,31
+2021-06-03,United States,West Virginia,Wirt,0,0,448,4
+2021-06-03,United States,West Virginia,Wood,3,0,7895,173
+2021-06-03,United States,West Virginia,Wyoming,1,0,2027,39
+2021-06-03,United States,Wisconsin,Adams,0,1,1950,19
+2021-06-03,United States,Wisconsin,Ashland,1,0,1393,15
+2021-06-03,United States,Wisconsin,Barron,3,1,6030,84
+2021-06-03,United States,Wisconsin,Bayfield,2,0,1288,19
+2021-06-03,United States,Wisconsin,Brown,37,0,35527,292
+2021-06-03,United States,Wisconsin,Buffalo,2,0,1413,7
+2021-06-03,United States,Wisconsin,Burnett,1,1,1572,24
+2021-06-03,United States,Wisconsin,Calumet,-1,0,6513,56
+2021-06-03,United States,Wisconsin,Chippewa,7,0,7672,96
+2021-06-03,United States,Wisconsin,Clark,0,0,3692,64
+2021-06-03,United States,Wisconsin,Columbia,1,0,5907,69
+2021-06-03,United States,Wisconsin,Crawford,1,0,1795,19
+2021-06-03,United States,Wisconsin,Dane,8,0,46570,333
+2021-06-03,United States,Wisconsin,Dodge,6,1,12915,194
+2021-06-03,United States,Wisconsin,Door,1,0,2843,30
+2021-06-03,United States,Wisconsin,Douglas,5,2,4977,60
+2021-06-03,United States,Wisconsin,Dunn,2,0,5095,33
+2021-06-03,United States,Wisconsin,Eau Claire,1,0,11956,121
+2021-06-03,United States,Wisconsin,Florence,0,0,506,13
+2021-06-03,United States,Wisconsin,Fond du Lac,3,0,13804,131
+2021-06-03,United States,Wisconsin,Forest,0,0,1042,26
+2021-06-03,United States,Wisconsin,Grant,3,0,5736,93
+2021-06-03,United States,Wisconsin,Green,1,0,3645,25
+2021-06-03,United States,Wisconsin,Green Lake,3,0,2049,22
+2021-06-03,United States,Wisconsin,Iowa,3,0,2147,13
+2021-06-03,United States,Wisconsin,Iron,1,0,702,40
+2021-06-03,United States,Wisconsin,Jackson,1,0,2711,28
+2021-06-03,United States,Wisconsin,Jefferson,3,0,9659,133
+2021-06-03,United States,Wisconsin,Juneau,2,1,3338,29
+2021-06-03,United States,Wisconsin,Kenosha,8,2,18671,331
+2021-06-03,United States,Wisconsin,Kewaunee,2,0,2714,36
+2021-06-03,United States,Wisconsin,La Crosse,-10,1,13606,89
+2021-06-03,United States,Wisconsin,Lafayette,2,0,1730,10
+2021-06-03,United States,Wisconsin,Langlade,4,0,2199,48
+2021-06-03,United States,Wisconsin,Lincoln,1,0,3285,94
+2021-06-03,United States,Wisconsin,Manitowoc,5,0,8899,91
+2021-06-03,United States,Wisconsin,Marathon,1,0,16383,225
+2021-06-03,United States,Wisconsin,Marinette,2,1,4701,72
+2021-06-03,United States,Wisconsin,Marquette,1,0,1584,28
+2021-06-03,United States,Wisconsin,Menominee,0,0,814,11
+2021-06-03,United States,Wisconsin,Milwaukee,19,4,117291,1390
+2021-06-03,United States,Wisconsin,Monroe,1,0,4723,41
+2021-06-03,United States,Wisconsin,Oconto,4,0,5080,68
+2021-06-03,United States,Wisconsin,Oneida,0,0,3812,77
+2021-06-03,United States,Wisconsin,Outagamie,11,1,23836,232
+2021-06-03,United States,Wisconsin,Ozaukee,10,0,9276,99
+2021-06-03,United States,Wisconsin,Pepin,0,0,890,7
+2021-06-03,United States,Wisconsin,Pierce,0,0,4974,43
+2021-06-03,United States,Wisconsin,Polk,10,0,4805,60
+2021-06-03,United States,Wisconsin,Portage,8,0,7424,72
+2021-06-03,United States,Wisconsin,Price,0,0,1346,7
+2021-06-03,United States,Wisconsin,Racine,11,0,25229,387
+2021-06-03,United States,Wisconsin,Richland,1,0,1396,16
+2021-06-03,United States,Wisconsin,Rock,4,1,18308,204
+2021-06-03,United States,Wisconsin,Rusk,2,0,1439,18
+2021-06-03,United States,Wisconsin,Sauk,5,0,6217,55
+2021-06-03,United States,Wisconsin,Sawyer,2,0,1834,28
+2021-06-03,United States,Wisconsin,Shawano,-1,0,5324,84
+2021-06-03,United States,Wisconsin,Sheboygan,2,0,14767,161
+2021-06-03,United States,Wisconsin,St. Croix,3,0,9767,66
+2021-06-03,United States,Wisconsin,Taylor,0,0,2130,34
+2021-06-03,United States,Wisconsin,Trempealeau,-1,0,3664,46
+2021-06-03,United States,Wisconsin,Unassigned,0,0,0,0
+2021-06-03,United States,Wisconsin,Vernon,0,0,2019,42
+2021-06-03,United States,Wisconsin,Vilas,0,0,2429,42
+2021-06-03,United States,Wisconsin,Walworth,0,0,12451,164
+2021-06-03,United States,Wisconsin,Washburn,1,0,1583,23
+2021-06-03,United States,Wisconsin,Washington,8,0,16874,175
+2021-06-03,United States,Wisconsin,Waukesha,22,0,49094,611
+2021-06-03,United States,Wisconsin,Waupaca,1,0,6072,164
+2021-06-03,United States,Wisconsin,Waushara,4,0,2567,37
+2021-06-03,United States,Wisconsin,Winnebago,14,1,21416,222
+2021-06-03,United States,Wisconsin,Wood,5,1,7669,96
+2021-06-03,United States,Wyoming,Albany,3,0,4533,15
+2021-06-03,United States,Wyoming,Big Horn,1,0,1185,34
+2021-06-03,United States,Wyoming,Campbell,2,0,5047,60
+2021-06-03,United States,Wyoming,Carbon,1,0,1613,23
+2021-06-03,United States,Wyoming,Converse,0,0,1013,17
+2021-06-03,United States,Wyoming,Crook,0,0,447,12
+2021-06-03,United States,Wyoming,Fremont,4,0,5252,84
+2021-06-03,United States,Wyoming,Goshen,0,0,1226,24
+2021-06-03,United States,Wyoming,Hot Springs,0,0,369,3
+2021-06-03,United States,Wyoming,Johnson,0,0,726,10
+2021-06-03,United States,Wyoming,Laramie,34,0,9628,114
+2021-06-03,United States,Wyoming,Lincoln,0,0,1415,12
+2021-06-03,United States,Wyoming,Natrona,3,0,8122,138
+2021-06-03,United States,Wyoming,Niobrara,0,0,164,2
+2021-06-03,United States,Wyoming,Park,9,0,2844,30
+2021-06-03,United States,Wyoming,Platte,0,0,655,11
+2021-06-03,United States,Wyoming,Sheridan,4,0,3220,31
+2021-06-03,United States,Wyoming,Sublette,0,0,797,7
+2021-06-03,United States,Wyoming,Sweetwater,4,0,4547,39
+2021-06-03,United States,Wyoming,Teton,0,0,3785,9
+2021-06-03,United States,Wyoming,Uinta,7,0,2279,13
+2021-06-03,United States,Wyoming,Unassigned,0,0,0,1
+2021-06-03,United States,Wyoming,Washakie,1,0,925,26
+2021-06-03,United States,Wyoming,Weston,0,0,655,5
