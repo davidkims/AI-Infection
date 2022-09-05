@@ -1,0 +1,2280 @@
+tDate,Country,Province1,Province2,Confirmed,Deaths,AccConfirmed,AccDeaths
+2020-03-31,Australia,Australian Capital Territory,,2,0,80,1
+2020-03-31,Australia,New South Wales,,0,0,2032,8
+2020-03-31,Australia,Northern Territory,,2,0,17,0
+2020-03-31,Australia,Queensland,,54,0,743,2
+2020-03-31,Australia,South Australia,,32,0,337,0
+2020-03-31,Australia,Tasmania,,3,1,69,1
+2020-03-31,Australia,Victoria,,96,0,917,4
+2020-03-31,Australia,Western Australia,,9,0,364,2
+2020-03-31,Austria,,,562,20,10180,128
+2020-03-31,Belgium,,,876,192,12775,705
+2020-03-31,Canada,Alberta,,29,5,690,8
+2020-03-31,Canada,British Columbia,,43,5,1013,24
+2020-03-31,Canada,Diamond Princess,,0,0,0,1
+2020-03-31,Canada,Grand Princess,,0,0,13,0
+2020-03-31,Canada,Manitoba,,7,0,103,1
+2020-03-31,Canada,New Brunswick,,2,0,70,0
+2020-03-31,Canada,Newfoundland and Labrador,,4,0,152,1
+2020-03-31,Canada,Northwest Territories,,0,0,1,0
+2020-03-31,Canada,Nova Scotia,,20,0,147,0
+2020-03-31,Canada,Nunavut,,0,0,0,0
+2020-03-31,Canada,Ontario,,260,2,1966,33
+2020-03-31,Canada,Prince Edward Island,,3,0,21,0
+2020-03-31,Canada,Quebec,,728,15,4881,82
+2020-03-31,Canada,Recovered,,0,0,0,0
+2020-03-31,Canada,Saskatchewan,,28,0,184,2
+2020-03-31,Canada,Yukon,,1,0,5,0
+2020-03-31,Chile,,,289,4,2738,12
+2020-03-31,China,Beijing,,3,0,580,8
+2020-03-31,China,Fujian,,3,0,343,1
+2020-03-31,China,Guangdong,,10,0,1494,8
+2020-03-31,China,Hong Kong,,32,0,714,4
+2020-03-31,China,Hubei,,0,1,67801,3187
+2020-03-31,China,Jiangsu,,1,0,646,0
+2020-03-31,China,Liaoning,,3,0,139,2
+2020-03-31,China,Macau,,3,0,41,0
+2020-03-31,China,Shandong,,1,0,774,7
+2020-03-31,China,Shanghai,,11,0,509,5
+2020-03-31,China,Shanxi,,1,0,137,0
+2020-03-31,China,Tianjin,,0,0,174,3
+2020-03-31,China,Unknown,,0,0,0,0
+2020-03-31,China,Yunnan,,2,0,182,2
+2020-03-31,China,Zhejiang,,2,0,1257,1
+2020-03-31,Colombia,,,108,4,906,16
+2020-03-31,Costa Rica,,,17,0,347,2
+2020-03-31,Czechia,,,307,8,3308,31
+2020-03-31,Denmark,,,283,13,2860,90
+2020-03-31,Denmark,Faroe Islands,,1,0,169,0
+2020-03-31,Denmark,Greenland,,0,0,10,0
+2020-03-31,Estonia,,,30,1,745,4
+2020-03-31,Finland,,,66,4,1418,17
+2020-03-31,France,,,7550,497,51579,3517
+2020-03-31,France,French Guiana,,0,0,43,0
+2020-03-31,France,French Polynesia,,0,0,36,0
+2020-03-31,France,Guadeloupe,,8,0,114,4
+2020-03-31,France,Martinique,,35,2,128,3
+2020-03-31,France,Mayotte,,12,1,94,1
+2020-03-31,France,New Caledonia,,1,0,16,0
+2020-03-31,France,Reunion,,23,0,247,0
+2020-03-31,France,Saint Barthelemy,,0,0,6,0
+2020-03-31,France,St Martin,,0,0,15,1
+2020-03-31,Germany,,,4923,130,71808,775
+2020-03-31,Greece,,,102,6,1314,49
+2020-03-31,Hungary,,,45,1,492,16
+2020-03-31,Iceland,,,49,0,1135,2
+2020-03-31,Ireland,,,325,17,3235,71
+2020-03-31,Israel,,,738,4,5717,21
+2020-03-31,Italy,,,4053,837,105792,12428
+2020-03-31,Japan,,,87,2,1953,56
+2020-03-31,Latvia,,,22,0,398,0
+2020-03-31,Lithuania,,,44,0,468,4
+2020-03-31,Luxembourg,,,190,1,2178,23
+2020-03-31,Mexico,,,101,8,1094,28
+2020-03-31,Netherlands,,,845,175,12595,1039
+2020-03-31,Netherlands,Aruba,,5,0,55,0
+2020-03-31,Netherlands,Curacao,,0,0,11,1
+2020-03-31,Netherlands,Sint Maarten,,0,0,6,0
+2020-03-31,New Zealand,,,58,0,647,1
+2020-03-31,New Zealand,Cook Islands,,0,0,0,0
+2020-03-31,Norway,,,196,7,4641,39
+2020-03-31,Poland,,,256,2,2311,33
+2020-03-31,Portugal,,,1035,20,7443,160
+2020-03-31,Slovakia,,,27,0,363,0
+2020-03-31,Slovenia,,,46,4,802,15
+2020-03-31,South Korea,,,125,4,9786,162
+2020-03-31,Spain,,,7967,748,95923,8464
+2020-03-31,Sweden,,,407,34,4435,180
+2020-03-31,Switzerland,,,683,74,16605,433
+2020-03-31,Taiwan,,,16,0,322,5
+2020-03-31,Turkey,,,2704,46,13531,214
+2020-03-31,United Kingdom,,,3009,381,25150,1789
+2020-03-31,United Kingdom,Anguilla,,0,0,2,0
+2020-03-31,United Kingdom,Bermuda,,5,0,32,0
+2020-03-31,United Kingdom,British Virgin Islands,,1,0,3,0
+2020-03-31,United Kingdom,Cayman Islands,,2,0,14,1
+2020-03-31,United Kingdom,Channel Islands,,0,1,141,3
+2020-03-31,United Kingdom,Gibraltar,,0,0,69,0
+2020-03-31,United Kingdom,Isle of Man,,11,0,60,0
+2020-03-31,United Kingdom,Montserrat,,0,0,5,0
+2020-03-31,United Kingdom,Saint Helena Ascension and Tristan da Cunha,,0,0,0,0
+2020-03-31,United Kingdom,Turks and Caicos Islands,,0,0,5,0
+2020-03-31,United States,Alabama,Autauga,0,0,8,0
+2020-03-31,United States,Alabama,Baldwin,1,0,23,1
+2020-03-31,United States,Alabama,Bibb,0,0,3,0
+2020-03-31,United States,Alabama,Blount,0,0,7,0
+2020-03-31,United States,Alabama,Bullock,0,0,2,0
+2020-03-31,United States,Alabama,Butler,0,0,1,0
+2020-03-31,United States,Alabama,Calhoun,1,0,10,0
+2020-03-31,United States,Alabama,Chambers,1,1,40,4
+2020-03-31,United States,Alabama,Cherokee,0,0,1,0
+2020-03-31,United States,Alabama,Chilton,1,0,11,0
+2020-03-31,United States,Alabama,Choctaw,2,0,4,0
+2020-03-31,United States,Alabama,Clay,0,0,2,0
+2020-03-31,United States,Alabama,Cleburne,0,0,5,0
+2020-03-31,United States,Alabama,Colbert,0,0,4,0
+2020-03-31,United States,Alabama,Coosa,0,0,3,0
+2020-03-31,United States,Alabama,Covington,0,0,2,0
+2020-03-31,United States,Alabama,Crenshaw,0,0,1,0
+2020-03-31,United States,Alabama,Cullman,1,0,9,0
+2020-03-31,United States,Alabama,Dallas,0,0,2,0
+2020-03-31,United States,Alabama,DeKalb,0,0,4,0
+2020-03-31,United States,Alabama,Elmore,0,0,12,0
+2020-03-31,United States,Alabama,Escambia,0,0,0,0
+2020-03-31,United States,Alabama,Etowah,2,0,9,0
+2020-03-31,United States,Alabama,Fayette,0,0,1,0
+2020-03-31,United States,Alabama,Franklin,0,0,5,0
+2020-03-31,United States,Alabama,Greene,0,0,1,0
+2020-03-31,United States,Alabama,Hale,0,0,1,0
+2020-03-31,United States,Alabama,Houston,1,0,10,0
+2020-03-31,United States,Alabama,Jackson,3,0,10,1
+2020-03-31,United States,Alabama,Jefferson,25,0,286,0
+2020-03-31,United States,Alabama,Lamar,0,0,1,0
+2020-03-31,United States,Alabama,Lauderdale,0,0,13,1
+2020-03-31,United States,Alabama,Lawrence,0,0,5,0
+2020-03-31,United States,Alabama,Lee,3,0,83,2
+2020-03-31,United States,Alabama,Limestone,2,0,19,0
+2020-03-31,United States,Alabama,Lowndes,0,0,1,0
+2020-03-31,United States,Alabama,Macon,0,0,2,0
+2020-03-31,United States,Alabama,Madison,3,0,115,1
+2020-03-31,United States,Alabama,Marengo,0,0,3,0
+2020-03-31,United States,Alabama,Marion,1,0,12,0
+2020-03-31,United States,Alabama,Marshall,0,0,5,0
+2020-03-31,United States,Alabama,Mobile,7,0,51,1
+2020-03-31,United States,Alabama,Monroe,0,0,2,0
+2020-03-31,United States,Alabama,Montgomery,2,1,32,1
+2020-03-31,United States,Alabama,Morgan,0,0,19,0
+2020-03-31,United States,Alabama,Pickens,1,0,5,0
+2020-03-31,United States,Alabama,Pike,0,0,4,0
+2020-03-31,United States,Alabama,Randolph,0,0,2,0
+2020-03-31,United States,Alabama,Russell,0,0,3,0
+2020-03-31,United States,Alabama,Shelby,0,2,97,2
+2020-03-31,United States,Alabama,St. Clair,1,0,23,0
+2020-03-31,United States,Alabama,Sumter,0,0,1,0
+2020-03-31,United States,Alabama,Talladega,1,0,8,0
+2020-03-31,United States,Alabama,Tallapoosa,1,1,12,1
+2020-03-31,United States,Alabama,Tuscaloosa,0,0,31,0
+2020-03-31,United States,Alabama,Unassigned,0,0,0,8
+2020-03-31,United States,Alabama,Walker,1,0,29,0
+2020-03-31,United States,Alabama,Washington,0,0,3,0
+2020-03-31,United States,Alabama,Wilcox,1,0,3,0
+2020-03-31,United States,Alabama,Winston,0,0,2,0
+2020-03-31,United States,Alaska,Anchorage,2,0,61,1
+2020-03-31,United States,Alaska,Fairbanks North Star,2,0,30,0
+2020-03-31,United States,Alaska,Juneau,0,0,5,0
+2020-03-31,United States,Alaska,Kenai Peninsula,0,0,7,0
+2020-03-31,United States,Alaska,Ketchikan Gateway,0,0,13,0
+2020-03-31,United States,Alaska,Matanuska-Susitna,1,0,3,0
+2020-03-31,United States,Alaska,Unassigned,0,0,0,2
+2020-03-31,United States,Arizona,Apache,-1,0,16,0
+2020-03-31,United States,Arizona,Cochise,0,0,4,0
+2020-03-31,United States,Arizona,Coconino,10,0,81,2
+2020-03-31,United States,Arizona,Gila,0,0,1,0
+2020-03-31,United States,Arizona,Graham,0,0,2,0
+2020-03-31,United States,Arizona,Greenlee,0,0,1,0
+2020-03-31,United States,Arizona,La Paz,0,0,2,0
+2020-03-31,United States,Arizona,Maricopa,98,0,788,5
+2020-03-31,United States,Arizona,Mohave,0,0,7,0
+2020-03-31,United States,Arizona,Navajo,3,0,91,0
+2020-03-31,United States,Arizona,Pima,15,0,202,4
+2020-03-31,United States,Arizona,Pinal,-2,0,62,0
+2020-03-31,United States,Arizona,Santa Cruz,0,0,2,0
+2020-03-31,United States,Arizona,Unassigned,0,4,0,13
+2020-03-31,United States,Arizona,Yavapai,6,0,21,0
+2020-03-31,United States,Arizona,Yuma,3,0,9,0
+2020-03-31,United States,Arkansas,Arkansas,0,0,1,0
+2020-03-31,United States,Arkansas,Ashley,0,0,1,0
+2020-03-31,United States,Arkansas,Baxter,0,0,1,0
+2020-03-31,United States,Arkansas,Benton,3,0,38,0
+2020-03-31,United States,Arkansas,Boone,0,0,1,0
+2020-03-31,United States,Arkansas,Bradley,0,0,4,0
+2020-03-31,United States,Arkansas,Chicot,0,0,1,0
+2020-03-31,United States,Arkansas,Clark,3,0,24,0
+2020-03-31,United States,Arkansas,Cleburne,5,0,61,1
+2020-03-31,United States,Arkansas,Cleveland,0,0,5,0
+2020-03-31,United States,Arkansas,Columbia,0,0,1,0
+2020-03-31,United States,Arkansas,Conway,0,0,1,1
+2020-03-31,United States,Arkansas,Craighead,2,0,8,0
+2020-03-31,United States,Arkansas,Crawford,0,0,1,0
+2020-03-31,United States,Arkansas,Crittenden,0,0,17,0
+2020-03-31,United States,Arkansas,Cross,0,0,1,0
+2020-03-31,United States,Arkansas,Desha,0,0,2,0
+2020-03-31,United States,Arkansas,Drew,0,0,1,0
+2020-03-31,United States,Arkansas,Faulkner,6,0,36,1
+2020-03-31,United States,Arkansas,Garland,5,0,31,0
+2020-03-31,United States,Arkansas,Grant,0,0,3,0
+2020-03-31,United States,Arkansas,Greene,0,0,1,0
+2020-03-31,United States,Arkansas,Hempstead,0,0,1,0
+2020-03-31,United States,Arkansas,Hot Spring,0,0,1,0
+2020-03-31,United States,Arkansas,Howard,0,0,1,0
+2020-03-31,United States,Arkansas,Independence,0,0,3,0
+2020-03-31,United States,Arkansas,Jefferson,7,0,33,0
+2020-03-31,United States,Arkansas,Johnson,0,0,1,0
+2020-03-31,United States,Arkansas,Lawrence,0,0,1,0
+2020-03-31,United States,Arkansas,Lincoln,0,0,6,0
+2020-03-31,United States,Arkansas,Lonoke,0,0,1,0
+2020-03-31,United States,Arkansas,Nevada,0,0,1,0
+2020-03-31,United States,Arkansas,Newton,1,0,1,0
+2020-03-31,United States,Arkansas,Perry,0,0,1,0
+2020-03-31,United States,Arkansas,Pike,0,0,1,0
+2020-03-31,United States,Arkansas,Poinsett,2,0,5,0
+2020-03-31,United States,Arkansas,Polk,0,0,1,0
+2020-03-31,United States,Arkansas,Pope,4,0,5,0
+2020-03-31,United States,Arkansas,Pulaski,8,0,102,2
+2020-03-31,United States,Arkansas,Randolph,0,0,1,0
+2020-03-31,United States,Arkansas,Saline,4,0,10,0
+2020-03-31,United States,Arkansas,Searcy,0,0,2,0
+2020-03-31,United States,Arkansas,Sebastian,2,0,7,0
+2020-03-31,United States,Arkansas,Sevier,0,0,1,0
+2020-03-31,United States,Arkansas,St. Francis,1,0,1,0
+2020-03-31,United States,Arkansas,Stone,4,0,5,0
+2020-03-31,United States,Arkansas,Unassigned,-15,1,34,3
+2020-03-31,United States,Arkansas,Union,1,0,8,0
+2020-03-31,United States,Arkansas,Van Buren,-1,0,19,0
+2020-03-31,United States,Arkansas,Washington,4,0,19,0
+2020-03-31,United States,Arkansas,White,4,0,10,0
+2020-03-31,United States,Arkansas,Woodruff,0,0,1,0
+2020-03-31,United States,California,Alameda,30,0,313,7
+2020-03-31,United States,California,Amador,0,0,2,0
+2020-03-31,United States,California,Butte,3,0,8,0
+2020-03-31,United States,California,Calaveras,0,0,3,0
+2020-03-31,United States,California,Colusa,0,0,1,0
+2020-03-31,United States,California,Contra Costa,25,0,212,3
+2020-03-31,United States,California,El Dorado,3,0,15,0
+2020-03-31,United States,California,Fresno,10,0,53,0
+2020-03-31,United States,California,Glenn,1,0,2,0
+2020-03-31,United States,California,Humboldt,3,0,21,0
+2020-03-31,United States,California,Imperial,8,0,33,0
+2020-03-31,United States,California,Inyo,0,0,8,0
+2020-03-31,United States,California,Kern,23,0,83,1
+2020-03-31,United States,California,Kings,1,0,3,0
+2020-03-31,United States,California,Los Angeles,545,10,3019,54
+2020-03-31,United States,California,Madera,3,0,21,1
+2020-03-31,United States,California,Marin,6,3,99,4
+2020-03-31,United States,California,Mendocino,0,0,4,0
+2020-03-31,United States,California,Merced,1,0,10,0
+2020-03-31,United States,California,Mono,0,0,13,0
+2020-03-31,United States,California,Monterey,4,0,40,1
+2020-03-31,United States,California,Napa,0,0,14,0
+2020-03-31,United States,California,Nevada,4,0,21,0
+2020-03-31,United States,California,Orange,38,3,502,7
+2020-03-31,United States,California,Placer,4,0,57,2
+2020-03-31,United States,California,Riverside,80,4,371,13
+2020-03-31,United States,California,Sacramento,0,0,224,7
+2020-03-31,United States,California,San Benito,3,0,17,1
+2020-03-31,United States,California,San Bernardino,14,1,125,4
+2020-03-31,United States,California,San Diego,88,0,603,7
+2020-03-31,United States,California,San Francisco,23,0,397,6
+2020-03-31,United States,California,San Joaquin,13,0,136,6
+2020-03-31,United States,California,San Luis Obispo,9,0,80,0
+2020-03-31,United States,California,San Mateo,0,4,309,10
+2020-03-31,United States,California,Santa Barbara,20,0,88,0
+2020-03-31,United States,California,Santa Clara,42,-1,890,30
+2020-03-31,United States,California,Santa Cruz,1,0,45,1
+2020-03-31,United States,California,Shasta,2,0,6,1
+2020-03-31,United States,California,Siskiyou,-1,0,3,0
+2020-03-31,United States,California,Solano,9,0,43,0
+2020-03-31,United States,California,Sonoma,15,0,73,1
+2020-03-31,United States,California,Stanislaus,2,0,33,0
+2020-03-31,United States,California,Sutter,3,0,9,0
+2020-03-31,United States,California,Tulare,8,0,43,1
+2020-03-31,United States,California,Tuolumne,2,0,2,0
+2020-03-31,United States,California,Unassigned,0,0,0,0
+2020-03-31,United States,California,Ventura,17,0,126,4
+2020-03-31,United States,California,Yolo,8,0,24,1
+2020-03-31,United States,California,Yuba,2,0,6,0
+2020-03-31,United States,Colorado,Adams,71,2,181,2
+2020-03-31,United States,Colorado,Alamosa,0,0,1,0
+2020-03-31,United States,Colorado,Arapahoe,92,3,333,6
+2020-03-31,United States,Colorado,Archuleta,1,0,1,0
+2020-03-31,United States,Colorado,Baca,2,0,3,0
+2020-03-31,United States,Colorado,Boulder,17,1,107,2
+2020-03-31,United States,Colorado,Broomfield,3,1,20,1
+2020-03-31,United States,Colorado,Chaffee,2,0,17,1
+2020-03-31,United States,Colorado,Clear Creek,1,0,4,0
+2020-03-31,United States,Colorado,Costilla,2,0,3,0
+2020-03-31,United States,Colorado,Crowley,0,0,1,1
+2020-03-31,United States,Colorado,Delta,0,0,1,0
+2020-03-31,United States,Colorado,Denver,131,2,539,7
+2020-03-31,United States,Colorado,Douglas,39,0,141,0
+2020-03-31,United States,Colorado,Eagle,40,2,227,4
+2020-03-31,United States,Colorado,El Paso,72,2,286,13
+2020-03-31,United States,Colorado,Elbert,2,0,5,0
+2020-03-31,United States,Colorado,Fremont,1,0,2,0
+2020-03-31,United States,Colorado,Garfield,8,1,33,1
+2020-03-31,United States,Colorado,Grand,2,0,4,0
+2020-03-31,United States,Colorado,Gunnison,3,0,82,1
+2020-03-31,United States,Colorado,Hinsdale,0,0,1,0
+2020-03-31,United States,Colorado,Huerfano,0,0,1,0
+2020-03-31,United States,Colorado,Jefferson,91,1,304,6
+2020-03-31,United States,Colorado,Kit Carson,1,0,2,0
+2020-03-31,United States,Colorado,La Plata,2,0,23,0
+2020-03-31,United States,Colorado,Lake,1,0,1,0
+2020-03-31,United States,Colorado,Larimer,15,3,99,6
+2020-03-31,United States,Colorado,Lincoln,0,0,1,0
+2020-03-31,United States,Colorado,Logan,1,0,6,0
+2020-03-31,United States,Colorado,Mesa,2,0,14,0
+2020-03-31,United States,Colorado,Mineral,1,0,2,0
+2020-03-31,United States,Colorado,Moffat,2,0,4,0
+2020-03-31,United States,Colorado,Montezuma,0,0,1,0
+2020-03-31,United States,Colorado,Montrose,5,0,13,0
+2020-03-31,United States,Colorado,Morgan,-1,0,4,0
+2020-03-31,United States,Colorado,Otero,0,0,3,0
+2020-03-31,United States,Colorado,Park,0,0,3,0
+2020-03-31,United States,Colorado,Phillips,1,0,1,0
+2020-03-31,United States,Colorado,Pitkin,3,0,30,2
+2020-03-31,United States,Colorado,Pueblo,11,1,21,2
+2020-03-31,United States,Colorado,Rio Grande,2,0,5,0
+2020-03-31,United States,Colorado,Routt,1,0,17,0
+2020-03-31,United States,Colorado,Saguache,1,0,1,0
+2020-03-31,United States,Colorado,San Miguel,3,0,4,0
+2020-03-31,United States,Colorado,Summit,6,0,20,0
+2020-03-31,United States,Colorado,Teller,0,0,7,1
+2020-03-31,United States,Colorado,Unassigned,-57,0,129,1
+2020-03-31,United States,Colorado,Washington,0,0,1,0
+2020-03-31,United States,Colorado,Weld,75,3,255,12
+2020-03-31,United States,Colorado,Yuma,0,0,2,0
+2020-03-31,United States,Connecticut,Fairfield,425,17,1870,38
+2020-03-31,United States,Connecticut,Hartford,63,4,393,7
+2020-03-31,United States,Connecticut,Litchfield,8,0,121,1
+2020-03-31,United States,Connecticut,Middlesex,6,0,56,1
+2020-03-31,United States,Connecticut,New Haven,144,6,517,12
+2020-03-31,United States,Connecticut,New London,3,1,27,1
+2020-03-31,United States,Connecticut,Tolland,6,3,56,7
+2020-03-31,United States,Connecticut,Unassigned,-99,2,77,2
+2020-03-31,United States,Connecticut,Windham,1,0,11,0
+2020-03-31,United States,Delaware,Kent,7,0,34,0
+2020-03-31,United States,Delaware,New Castle,41,0,197,0
+2020-03-31,United States,Delaware,Sussex,7,0,88,0
+2020-03-31,United States,Delaware,Unassigned,0,2,0,3
+2020-03-31,United States,Diamond Princess,,0,0,49,0
+2020-03-31,United States,District of Columbia,District of Columbia,94,0,495,9
+2020-03-31,United States,Florida,Alachua,8,0,87,0
+2020-03-31,United States,Florida,Baker,1,0,9,0
+2020-03-31,United States,Florida,Bay,2,0,8,0
+2020-03-31,United States,Florida,Bradford,0,0,2,0
+2020-03-31,United States,Florida,Brevard,6,0,37,0
+2020-03-31,United States,Florida,Broward,67,1,1219,12
+2020-03-31,United States,Florida,Calhoun,1,0,1,0
+2020-03-31,United States,Florida,Charlotte,6,0,24,0
+2020-03-31,United States,Florida,Citrus,2,1,19,2
+2020-03-31,United States,Florida,Clay,6,1,41,5
+2020-03-31,United States,Florida,Collier,27,0,146,1
+2020-03-31,United States,Florida,Columbia,0,0,3,0
+2020-03-31,United States,Florida,DeSoto,0,1,7,1
+2020-03-31,United States,Florida,Duval,49,1,207,4
+2020-03-31,United States,Florida,Escambia,52,0,94,0
+2020-03-31,United States,Florida,Flagler,5,0,18,0
+2020-03-31,United States,Florida,Gadsden,0,0,1,0
+2020-03-31,United States,Florida,Glades,0,1,3,1
+2020-03-31,United States,Florida,Hendry,1,0,4,0
+2020-03-31,United States,Florida,Hernando,3,0,24,0
+2020-03-31,United States,Florida,Highlands,4,0,17,1
+2020-03-31,United States,Florida,Hillsborough,52,1,305,3
+2020-03-31,United States,Florida,Holmes,1,0,1,0
+2020-03-31,United States,Florida,Indian River,9,0,33,0
+2020-03-31,United States,Florida,Jackson,0,0,2,0
+2020-03-31,United States,Florida,Lake,19,0,66,0
+2020-03-31,United States,Florida,Lee,42,2,206,8
+2020-03-31,United States,Florida,Leon,5,0,26,0
+2020-03-31,United States,Florida,Levy,0,0,2,0
+2020-03-31,United States,Florida,Manatee,14,1,53,2
+2020-03-31,United States,Florida,Marion,2,0,25,0
+2020-03-31,United States,Florida,Martin,1,0,28,0
+2020-03-31,United States,Florida,Miami-Dade,491,4,2123,7
+2020-03-31,United States,Florida,Monroe,3,0,27,0
+2020-03-31,United States,Florida,Nassau,2,0,10,0
+2020-03-31,United States,Florida,Okaloosa,4,1,39,1
+2020-03-31,United States,Florida,Orange,80,0,373,4
+2020-03-31,United States,Florida,Osceola,16,1,110,1
+2020-03-31,United States,Florida,Palm Beach,128,7,551,14
+2020-03-31,United States,Florida,Pasco,2,0,40,2
+2020-03-31,United States,Florida,Pinellas,41,0,167,5
+2020-03-31,United States,Florida,Polk,18,1,73,1
+2020-03-31,United States,Florida,Putnam,0,0,13,0
+2020-03-31,United States,Florida,Santa Rosa,14,1,44,2
+2020-03-31,United States,Florida,Sarasota,15,1,76,3
+2020-03-31,United States,Florida,Seminole,16,0,103,0
+2020-03-31,United States,Florida,St. Johns,19,0,79,2
+2020-03-31,United States,Florida,St. Lucie,9,0,38,2
+2020-03-31,United States,Florida,Sumter,5,0,51,0
+2020-03-31,United States,Florida,Suwannee,0,0,3,0
+2020-03-31,United States,Florida,Unassigned,1,-4,2,0
+2020-03-31,United States,Florida,Union,1,0,1,0
+2020-03-31,United States,Florida,Volusia,15,0,80,1
+2020-03-31,United States,Florida,Wakulla,0,0,1,0
+2020-03-31,United States,Florida,Walton,3,0,18,0
+2020-03-31,United States,Florida,Washington,0,0,1,0
+2020-03-31,United States,Georgia,Appling,2,0,2,0
+2020-03-31,United States,Georgia,Bacon,1,0,2,0
+2020-03-31,United States,Georgia,Baker,3,0,4,1
+2020-03-31,United States,Georgia,Baldwin,1,1,4,1
+2020-03-31,United States,Georgia,Banks,2,0,3,0
+2020-03-31,United States,Georgia,Barrow,11,1,18,2
+2020-03-31,United States,Georgia,Bartow,10,1,131,2
+2020-03-31,United States,Georgia,Ben Hill,1,0,3,0
+2020-03-31,United States,Georgia,Berrien,0,0,1,0
+2020-03-31,United States,Georgia,Bibb,5,0,20,0
+2020-03-31,United States,Georgia,Bleckley,1,0,1,0
+2020-03-31,United States,Georgia,Brooks,1,0,2,0
+2020-03-31,United States,Georgia,Bryan,0,0,7,0
+2020-03-31,United States,Georgia,Bulloch,1,0,2,0
+2020-03-31,United States,Georgia,Burke,4,0,8,0
+2020-03-31,United States,Georgia,Butts,1,0,6,0
+2020-03-31,United States,Georgia,Calhoun,4,0,9,0
+2020-03-31,United States,Georgia,Camden,1,0,4,0
+2020-03-31,United States,Georgia,Candler,0,0,1,0
+2020-03-31,United States,Georgia,Carroll,42,1,123,1
+2020-03-31,United States,Georgia,Catoosa,0,0,3,0
+2020-03-31,United States,Georgia,Charlton,0,0,1,0
+2020-03-31,United States,Georgia,Chatham,10,2,26,2
+2020-03-31,United States,Georgia,Chattahoochee,0,0,1,0
+2020-03-31,United States,Georgia,Chattooga,2,0,3,0
+2020-03-31,United States,Georgia,Cherokee,15,1,76,2
+2020-03-31,United States,Georgia,Clarke,9,0,50,5
+2020-03-31,United States,Georgia,Clay,4,0,4,0
+2020-03-31,United States,Georgia,Clayton,43,2,104,3
+2020-03-31,United States,Georgia,Clinch,0,0,1,0
+2020-03-31,United States,Georgia,Cobb,34,3,279,12
+2020-03-31,United States,Georgia,Coffee,1,0,11,0
+2020-03-31,United States,Georgia,Colquitt,12,1,18,1
+2020-03-31,United States,Georgia,Columbia,12,0,24,0
+2020-03-31,United States,Georgia,Cook,0,0,1,0
+2020-03-31,United States,Georgia,Coweta,13,0,41,2
+2020-03-31,United States,Georgia,Crisp,9,0,15,0
+2020-03-31,United States,Georgia,Dade,1,0,1,0
+2020-03-31,United States,Georgia,Dawson,5,0,10,0
+2020-03-31,United States,Georgia,Decatur,2,0,7,0
+2020-03-31,United States,Georgia,DeKalb,54,0,335,3
+2020-03-31,United States,Georgia,Dodge,1,0,2,0
+2020-03-31,United States,Georgia,Dooly,5,0,6,0
+2020-03-31,United States,Georgia,Dougherty,195,1,462,18
+2020-03-31,United States,Georgia,Douglas,11,0,50,1
+2020-03-31,United States,Georgia,Early,12,0,28,1
+2020-03-31,United States,Georgia,Effingham,0,0,4,0
+2020-03-31,United States,Georgia,Emanuel,1,0,1,0
+2020-03-31,United States,Georgia,Fannin,2,0,5,0
+2020-03-31,United States,Georgia,Fayette,13,1,45,4
+2020-03-31,United States,Georgia,Floyd,7,0,35,2
+2020-03-31,United States,Georgia,Forsyth,14,0,47,1
+2020-03-31,United States,Georgia,Franklin,1,0,4,0
+2020-03-31,United States,Georgia,Fulton,107,3,570,17
+2020-03-31,United States,Georgia,Gilmer,0,0,1,0
+2020-03-31,United States,Georgia,Glynn,7,0,17,0
+2020-03-31,United States,Georgia,Gordon,1,1,16,2
+2020-03-31,United States,Georgia,Grady,1,0,1,0
+2020-03-31,United States,Georgia,Greene,4,0,7,0
+2020-03-31,United States,Georgia,Gwinnett,80,1,238,2
+2020-03-31,United States,Georgia,Habersham,2,0,2,0
+2020-03-31,United States,Georgia,Hall,32,0,66,0
+2020-03-31,United States,Georgia,Haralson,1,0,4,0
+2020-03-31,United States,Georgia,Harris,0,0,4,0
+2020-03-31,United States,Georgia,Hart,2,0,4,0
+2020-03-31,United States,Georgia,Heard,0,0,1,1
+2020-03-31,United States,Georgia,Henry,20,0,78,2
+2020-03-31,United States,Georgia,Houston,13,1,29,2
+2020-03-31,United States,Georgia,Irwin,0,0,3,0
+2020-03-31,United States,Georgia,Jackson,6,0,8,0
+2020-03-31,United States,Georgia,Jasper,0,0,2,0
+2020-03-31,United States,Georgia,Jeff Davis,0,0,0,0
+2020-03-31,United States,Georgia,Jefferson,2,0,2,0
+2020-03-31,United States,Georgia,Jenkins,0,0,1,0
+2020-03-31,United States,Georgia,Johnson,1,0,1,0
+2020-03-31,United States,Georgia,Jones,1,0,3,0
+2020-03-31,United States,Georgia,Lamar,-1,0,3,0
+2020-03-31,United States,Georgia,Laurens,1,0,13,0
+2020-03-31,United States,Georgia,Lee,45,0,89,6
+2020-03-31,United States,Georgia,Liberty,1,0,5,0
+2020-03-31,United States,Georgia,Lincoln,1,0,4,0
+2020-03-31,United States,Georgia,Long,0,0,1,0
+2020-03-31,United States,Georgia,Lowndes,1,0,21,1
+2020-03-31,United States,Georgia,Lumpkin,4,0,8,0
+2020-03-31,United States,Georgia,Macon,1,0,2,0
+2020-03-31,United States,Georgia,Madison,0,1,3,1
+2020-03-31,United States,Georgia,McDuffie,2,0,3,0
+2020-03-31,United States,Georgia,McIntosh,1,0,1,0
+2020-03-31,United States,Georgia,Meriwether,0,0,6,0
+2020-03-31,United States,Georgia,Miller,0,0,4,0
+2020-03-31,United States,Georgia,Mitchell,16,1,31,1
+2020-03-31,United States,Georgia,Monroe,1,0,4,0
+2020-03-31,United States,Georgia,Morgan,1,0,2,0
+2020-03-31,United States,Georgia,Murray,1,0,4,0
+2020-03-31,United States,Georgia,Muscogee,8,0,20,0
+2020-03-31,United States,Georgia,Newton,13,0,31,0
+2020-03-31,United States,Georgia,Oconee,4,0,15,0
+2020-03-31,United States,Georgia,Oglethorpe,1,0,1,0
+2020-03-31,United States,Georgia,Paulding,6,0,30,0
+2020-03-31,United States,Georgia,Peach,0,0,7,1
+2020-03-31,United States,Georgia,Pickens,0,0,6,1
+2020-03-31,United States,Georgia,Pierce,1,0,3,0
+2020-03-31,United States,Georgia,Pike,0,0,2,0
+2020-03-31,United States,Georgia,Polk,3,0,15,0
+2020-03-31,United States,Georgia,Pulaski,0,0,3,0
+2020-03-31,United States,Georgia,Rabun,2,0,2,0
+2020-03-31,United States,Georgia,Randolph,2,0,5,0
+2020-03-31,United States,Georgia,Richmond,27,0,40,0
+2020-03-31,United States,Georgia,Rockdale,18,1,36,2
+2020-03-31,United States,Georgia,Schley,4,0,5,0
+2020-03-31,United States,Georgia,Screven,1,0,1,0
+2020-03-31,United States,Georgia,Seminole,3,0,8,0
+2020-03-31,United States,Georgia,Spalding,1,0,13,0
+2020-03-31,United States,Georgia,Stephens,1,0,4,0
+2020-03-31,United States,Georgia,Stewart,1,0,1,0
+2020-03-31,United States,Georgia,Sumter,17,1,33,2
+2020-03-31,United States,Georgia,Talbot,1,0,1,0
+2020-03-31,United States,Georgia,Tattnall,0,0,2,0
+2020-03-31,United States,Georgia,Taylor,1,0,2,0
+2020-03-31,United States,Georgia,Terrell,28,0,40,2
+2020-03-31,United States,Georgia,Thomas,2,0,9,0
+2020-03-31,United States,Georgia,Tift,0,0,19,0
+2020-03-31,United States,Georgia,Toombs,1,0,3,0
+2020-03-31,United States,Georgia,Troup,5,0,16,1
+2020-03-31,United States,Georgia,Turner,0,0,3,0
+2020-03-31,United States,Georgia,Twiggs,0,0,2,0
+2020-03-31,United States,Georgia,Unassigned,1,0,165,1
+2020-03-31,United States,Georgia,Upson,0,0,5,0
+2020-03-31,United States,Georgia,Walton,2,0,6,0
+2020-03-31,United States,Georgia,Ware,4,0,9,0
+2020-03-31,United States,Georgia,Warren,2,0,3,0
+2020-03-31,United States,Georgia,Washington,0,0,2,0
+2020-03-31,United States,Georgia,Webster,1,0,1,0
+2020-03-31,United States,Georgia,Wheeler,0,0,1,0
+2020-03-31,United States,Georgia,White,2,0,3,0
+2020-03-31,United States,Georgia,Whitfield,3,-1,10,1
+2020-03-31,United States,Georgia,Wilcox,1,0,1,0
+2020-03-31,United States,Georgia,Wilkes,1,0,2,0
+2020-03-31,United States,Georgia,Wilkinson,1,0,1,0
+2020-03-31,United States,Georgia,Worth,18,0,29,1
+2020-03-31,United States,Grand Princess,,0,0,103,3
+2020-03-31,United States,Guam,,11,1,69,2
+2020-03-31,United States,Hawaii,Hawaii,3,0,15,0
+2020-03-31,United States,Hawaii,Honolulu,16,0,139,0
+2020-03-31,United States,Hawaii,Kauai,0,0,12,0
+2020-03-31,United States,Hawaii,Maui,5,0,25,0
+2020-03-31,United States,Hawaii,Unassigned,5,0,13,0
+2020-03-31,United States,Idaho,Ada,82,1,195,3
+2020-03-31,United States,Idaho,Bannock,1,0,4,0
+2020-03-31,United States,Idaho,Bingham,1,0,2,0
+2020-03-31,United States,Idaho,Blaine,62,0,192,2
+2020-03-31,United States,Idaho,Bonner,0,0,1,0
+2020-03-31,United States,Idaho,Bonneville,0,0,2,0
+2020-03-31,United States,Idaho,Camas,1,0,1,0
+2020-03-31,United States,Idaho,Canyon,8,0,48,1
+2020-03-31,United States,Idaho,Cassia,0,0,1,0
+2020-03-31,United States,Idaho,Custer,0,0,1,0
+2020-03-31,United States,Idaho,Elmore,1,0,1,0
+2020-03-31,United States,Idaho,Fremont,0,0,1,0
+2020-03-31,United States,Idaho,Gem,1,0,4,0
+2020-03-31,United States,Idaho,Idaho,0,0,1,0
+2020-03-31,United States,Idaho,Jefferson,0,0,2,0
+2020-03-31,United States,Idaho,Jerome,2,0,2,0
+2020-03-31,United States,Idaho,Kootenai,3,0,29,0
+2020-03-31,United States,Idaho,Lincoln,1,0,2,0
+2020-03-31,United States,Idaho,Madison,3,0,5,0
+2020-03-31,United States,Idaho,Minidoka,1,0,1,0
+2020-03-31,United States,Idaho,Nez Perce,5,1,9,2
+2020-03-31,United States,Idaho,Owyhee,0,0,1,0
+2020-03-31,United States,Idaho,Payette,0,0,1,0
+2020-03-31,United States,Idaho,Teton,0,0,2,0
+2020-03-31,United States,Idaho,Twin Falls,2,0,5,0
+2020-03-31,United States,Idaho,Valley,1,0,2,0
+2020-03-31,United States,Illinois,Adams,0,0,2,0
+2020-03-31,United States,Illinois,Bond,1,0,2,0
+2020-03-31,United States,Illinois,Bureau,0,0,1,0
+2020-03-31,United States,Illinois,Carroll,1,0,2,0
+2020-03-31,United States,Illinois,Champaign,3,0,26,0
+2020-03-31,United States,Illinois,Christian,1,0,13,0
+2020-03-31,United States,Illinois,Clark,0,0,1,0
+2020-03-31,United States,Illinois,Clinton,1,0,7,0
+2020-03-31,United States,Illinois,Cook,769,17,4496,61
+2020-03-31,United States,Illinois,Crawford,0,0,1,0
+2020-03-31,United States,Illinois,Cumberland,0,0,1,0
+2020-03-31,United States,Illinois,DeKalb,5,0,9,0
+2020-03-31,United States,Illinois,Douglas,2,0,3,0
+2020-03-31,United States,Illinois,DuPage,36,2,356,10
+2020-03-31,United States,Illinois,Fayette,0,0,1,0
+2020-03-31,United States,Illinois,Ford,1,0,1,0
+2020-03-31,United States,Illinois,Franklin,0,0,1,0
+2020-03-31,United States,Illinois,Grundy,1,0,4,0
+2020-03-31,United States,Illinois,Henry,0,0,2,0
+2020-03-31,United States,Illinois,Iroquois,1,0,2,0
+2020-03-31,United States,Illinois,Jackson,1,0,4,0
+2020-03-31,United States,Illinois,Jo Daviess,0,0,1,0
+2020-03-31,United States,Illinois,Kane,15,1,128,7
+2020-03-31,United States,Illinois,Kankakee,9,0,42,0
+2020-03-31,United States,Illinois,Kendall,1,0,19,2
+2020-03-31,United States,Illinois,Knox,0,0,1,0
+2020-03-31,United States,Illinois,Lake,46,1,389,2
+2020-03-31,United States,Illinois,LaSalle,0,0,5,1
+2020-03-31,United States,Illinois,Livingston,1,0,3,0
+2020-03-31,United States,Illinois,Macon,0,0,2,0
+2020-03-31,United States,Illinois,Madison,3,0,16,0
+2020-03-31,United States,Illinois,Marion,0,0,2,0
+2020-03-31,United States,Illinois,Marshall,0,0,1,0
+2020-03-31,United States,Illinois,McHenry,11,0,63,2
+2020-03-31,United States,Illinois,McLean,2,1,19,2
+2020-03-31,United States,Illinois,Menard,0,0,1,0
+2020-03-31,United States,Illinois,Monroe,0,0,3,0
+2020-03-31,United States,Illinois,Montgomery,1,0,2,0
+2020-03-31,United States,Illinois,Morgan,0,1,4,1
+2020-03-31,United States,Illinois,Peoria,0,0,8,0
+2020-03-31,United States,Illinois,Randolph,1,0,3,0
+2020-03-31,United States,Illinois,Rock Island,3,0,11,0
+2020-03-31,United States,Illinois,Saline,0,0,1,0
+2020-03-31,United States,Illinois,Sangamon,2,0,14,1
+2020-03-31,United States,Illinois,St. Clair,7,0,43,2
+2020-03-31,United States,Illinois,Stephenson,0,0,3,0
+2020-03-31,United States,Illinois,Tazewell,0,0,4,0
+2020-03-31,United States,Illinois,Unassigned,5,0,18,0
+2020-03-31,United States,Illinois,Washington,0,0,1,0
+2020-03-31,United States,Illinois,Whiteside,1,0,5,0
+2020-03-31,United States,Illinois,Will,5,3,228,8
+2020-03-31,United States,Illinois,Williamson,0,0,1,0
+2020-03-31,United States,Illinois,Winnebago,2,0,15,0
+2020-03-31,United States,Illinois,Woodford,0,0,3,0
+2020-03-31,United States,Indiana,Adams,0,0,1,0
+2020-03-31,United States,Indiana,Allen,2,0,30,1
+2020-03-31,United States,Indiana,Bartholomew,3,0,13,0
+2020-03-31,United States,Indiana,Boone,2,0,22,0
+2020-03-31,United States,Indiana,Brown,0,0,3,0
+2020-03-31,United States,Indiana,Carroll,0,0,2,0
+2020-03-31,United States,Indiana,Cass,0,0,1,0
+2020-03-31,United States,Indiana,Clark,6,0,33,0
+2020-03-31,United States,Indiana,Clay,0,0,1,0
+2020-03-31,United States,Indiana,Clinton,0,0,1,0
+2020-03-31,United States,Indiana,Crawford,0,0,1,0
+2020-03-31,United States,Indiana,Dearborn,4,0,14,1
+2020-03-31,United States,Indiana,Decatur,5,1,47,1
+2020-03-31,United States,Indiana,DeKalb,0,0,1,0
+2020-03-31,United States,Indiana,Delaware,3,0,18,1
+2020-03-31,United States,Indiana,Dubois,1,0,3,0
+2020-03-31,United States,Indiana,Elkhart,8,1,20,1
+2020-03-31,United States,Indiana,Fayette,1,0,9,1
+2020-03-31,United States,Indiana,Floyd,1,0,21,0
+2020-03-31,United States,Indiana,Fountain,0,0,1,0
+2020-03-31,United States,Indiana,Franklin,7,0,35,4
+2020-03-31,United States,Indiana,Fulton,0,0,1,0
+2020-03-31,United States,Indiana,Gibson,0,0,4,0
+2020-03-31,United States,Indiana,Grant,0,0,7,0
+2020-03-31,United States,Indiana,Greene,1,0,2,0
+2020-03-31,United States,Indiana,Hamilton,21,0,127,0
+2020-03-31,United States,Indiana,Hancock,-2,1,26,2
+2020-03-31,United States,Indiana,Harrison,0,0,15,0
+2020-03-31,United States,Indiana,Hendricks,12,0,70,1
+2020-03-31,United States,Indiana,Henry,-1,0,1,0
+2020-03-31,United States,Indiana,Howard,2,0,16,1
+2020-03-31,United States,Indiana,Huntington,0,0,2,0
+2020-03-31,United States,Indiana,Jackson,0,0,8,0
+2020-03-31,United States,Indiana,Jasper,2,0,8,1
+2020-03-31,United States,Indiana,Jefferson,1,0,1,0
+2020-03-31,United States,Indiana,Jennings,1,0,15,0
+2020-03-31,United States,Indiana,Johnson,20,0,101,3
+2020-03-31,United States,Indiana,Knox,0,0,2,0
+2020-03-31,United States,Indiana,Kosciusko,1,0,5,0
+2020-03-31,United States,Indiana,LaGrange,0,0,2,0
+2020-03-31,United States,Indiana,Lake,49,4,146,5
+2020-03-31,United States,Indiana,LaPorte,2,0,8,0
+2020-03-31,United States,Indiana,Lawrence,0,0,9,0
+2020-03-31,United States,Indiana,Madison,9,0,38,1
+2020-03-31,United States,Indiana,Marion,160,5,964,17
+2020-03-31,United States,Indiana,Marshall,0,0,3,0
+2020-03-31,United States,Indiana,Miami,0,0,3,0
+2020-03-31,United States,Indiana,Monroe,4,0,30,0
+2020-03-31,United States,Indiana,Montgomery,0,0,6,0
+2020-03-31,United States,Indiana,Morgan,9,0,32,1
+2020-03-31,United States,Indiana,Newton,0,0,1,0
+2020-03-31,United States,Indiana,Noble,0,0,2,0
+2020-03-31,United States,Indiana,Ohio,0,0,1,0
+2020-03-31,United States,Indiana,Orange,1,0,3,0
+2020-03-31,United States,Indiana,Owen,1,0,11,0
+2020-03-31,United States,Indiana,Porter,6,0,21,0
+2020-03-31,United States,Indiana,Posey,1,0,4,0
+2020-03-31,United States,Indiana,Putnam,0,0,7,1
+2020-03-31,United States,Indiana,Randolph,2,0,3,0
+2020-03-31,United States,Indiana,Ripley,6,1,31,1
+2020-03-31,United States,Indiana,Rush,0,0,4,0
+2020-03-31,United States,Indiana,Scott,0,0,1,1
+2020-03-31,United States,Indiana,Shelby,2,0,15,0
+2020-03-31,United States,Indiana,St. Joseph,13,0,49,1
+2020-03-31,United States,Indiana,Starke,0,0,1,0
+2020-03-31,United States,Indiana,Steuben,0,0,1,0
+2020-03-31,United States,Indiana,Sullivan,1,0,2,0
+2020-03-31,United States,Indiana,Switzerland,0,0,3,0
+2020-03-31,United States,Indiana,Tippecanoe,0,0,14,1
+2020-03-31,United States,Indiana,Tipton,0,0,4,0
+2020-03-31,United States,Indiana,Vanderburgh,1,0,18,0
+2020-03-31,United States,Indiana,Vigo,1,0,8,1
+2020-03-31,United States,Indiana,Wabash,0,0,1,0
+2020-03-31,United States,Indiana,Warren,0,1,2,1
+2020-03-31,United States,Indiana,Warrick,0,0,8,0
+2020-03-31,United States,Indiana,Washington,0,0,6,0
+2020-03-31,United States,Indiana,Wayne,1,0,2,0
+2020-03-31,United States,Indiana,Wells,1,0,2,0
+2020-03-31,United States,Indiana,White,0,0,2,0
+2020-03-31,United States,Indiana,Whitley,1,0,2,0
+2020-03-31,United States,Iowa,Adair,0,0,1,0
+2020-03-31,United States,Iowa,Allamakee,0,0,7,1
+2020-03-31,United States,Iowa,Appanoose,0,0,1,0
+2020-03-31,United States,Iowa,Audubon,0,0,1,0
+2020-03-31,United States,Iowa,Benton,0,0,7,0
+2020-03-31,United States,Iowa,Black Hawk,1,0,7,0
+2020-03-31,United States,Iowa,Boone,0,0,1,0
+2020-03-31,United States,Iowa,Buchanan,0,0,2,0
+2020-03-31,United States,Iowa,Butler,0,0,1,0
+2020-03-31,United States,Iowa,Carroll,0,0,1,0
+2020-03-31,United States,Iowa,Cedar,1,0,9,0
+2020-03-31,United States,Iowa,Cerro Gordo,0,0,7,0
+2020-03-31,United States,Iowa,Clayton,0,0,1,0
+2020-03-31,United States,Iowa,Clinton,3,0,5,0
+2020-03-31,United States,Iowa,Crawford,0,0,1,0
+2020-03-31,United States,Iowa,Dallas,4,0,25,0
+2020-03-31,United States,Iowa,Des Moines,0,0,1,0
+2020-03-31,United States,Iowa,Dickinson,0,0,1,0
+2020-03-31,United States,Iowa,Dubuque,0,0,21,1
+2020-03-31,United States,Iowa,Fayette,0,0,2,0
+2020-03-31,United States,Iowa,Guthrie,0,0,1,0
+2020-03-31,United States,Iowa,Hancock,0,0,3,0
+2020-03-31,United States,Iowa,Hardin,0,0,1,0
+2020-03-31,United States,Iowa,Harrison,1,0,9,0
+2020-03-31,United States,Iowa,Henry,0,0,3,0
+2020-03-31,United States,Iowa,Iowa,1,0,4,0
+2020-03-31,United States,Iowa,Jackson,0,0,1,0
+2020-03-31,United States,Iowa,Jasper,1,0,6,0
+2020-03-31,United States,Iowa,Johnson,3,0,73,0
+2020-03-31,United States,Iowa,Jones,3,0,4,0
+2020-03-31,United States,Iowa,Keokuk,1,0,2,0
+2020-03-31,United States,Iowa,Kossuth,0,0,1,0
+2020-03-31,United States,Iowa,Linn,19,0,90,2
+2020-03-31,United States,Iowa,Mahaska,0,0,2,0
+2020-03-31,United States,Iowa,Marshall,2,0,8,0
+2020-03-31,United States,Iowa,Monona,0,0,5,0
+2020-03-31,United States,Iowa,Montgomery,0,0,1,0
+2020-03-31,United States,Iowa,Muscatine,3,0,16,0
+2020-03-31,United States,Iowa,Page,0,0,2,0
+2020-03-31,United States,Iowa,Polk,15,0,76,0
+2020-03-31,United States,Iowa,Pottawattamie,1,0,4,0
+2020-03-31,United States,Iowa,Poweshiek,0,0,5,1
+2020-03-31,United States,Iowa,Scott,2,0,18,0
+2020-03-31,United States,Iowa,Shelby,0,0,3,0
+2020-03-31,United States,Iowa,Sioux,1,0,3,0
+2020-03-31,United States,Iowa,Story,0,0,2,0
+2020-03-31,United States,Iowa,Tama,1,0,11,0
+2020-03-31,United States,Iowa,Taylor,0,0,1,0
+2020-03-31,United States,Iowa,Unassigned,0,0,2,1
+2020-03-31,United States,Iowa,Van Buren,0,0,1,0
+2020-03-31,United States,Iowa,Wapello,0,0,1,0
+2020-03-31,United States,Iowa,Warren,2,0,3,0
+2020-03-31,United States,Iowa,Washington,6,0,24,1
+2020-03-31,United States,Iowa,Webster,0,0,1,0
+2020-03-31,United States,Iowa,Winneshiek,0,0,3,0
+2020-03-31,United States,Iowa,Woodbury,0,0,4,0
+2020-03-31,United States,Iowa,Wright,0,0,1,0
+2020-03-31,United States,Kansas,Atchison,0,0,1,0
+2020-03-31,United States,Kansas,Barton,1,0,1,0
+2020-03-31,United States,Kansas,Bourbon,0,0,3,0
+2020-03-31,United States,Kansas,Butler,0,0,3,0
+2020-03-31,United States,Kansas,Chautauqua,1,0,1,0
+2020-03-31,United States,Kansas,Cherokee,1,0,3,0
+2020-03-31,United States,Kansas,Clay,0,0,1,0
+2020-03-31,United States,Kansas,Coffey,4,0,14,0
+2020-03-31,United States,Kansas,Crawford,0,1,5,1
+2020-03-31,United States,Kansas,Doniphan,0,0,1,0
+2020-03-31,United States,Kansas,Douglas,1,0,24,0
+2020-03-31,United States,Kansas,Finney,0,0,1,0
+2020-03-31,United States,Kansas,Ford,0,0,1,0
+2020-03-31,United States,Kansas,Franklin,1,0,7,0
+2020-03-31,United States,Kansas,Gove,0,0,1,0
+2020-03-31,United States,Kansas,Harvey,0,0,1,0
+2020-03-31,United States,Kansas,Jackson,0,0,1,0
+2020-03-31,United States,Kansas,Jefferson,0,0,1,0
+2020-03-31,United States,Kansas,Johnson,18,0,134,2
+2020-03-31,United States,Kansas,Labette,1,0,1,0
+2020-03-31,United States,Kansas,Leavenworth,4,0,24,0
+2020-03-31,United States,Kansas,Linn,0,0,5,0
+2020-03-31,United States,Kansas,Lyon,2,0,11,0
+2020-03-31,United States,Kansas,McPherson,0,0,3,0
+2020-03-31,United States,Kansas,Mitchell,0,0,2,0
+2020-03-31,United States,Kansas,Montgomery,1,0,5,0
+2020-03-31,United States,Kansas,Morris,0,0,2,0
+2020-03-31,United States,Kansas,Neosho,0,0,1,0
+2020-03-31,United States,Kansas,Osage,1,0,3,0
+2020-03-31,United States,Kansas,Ottawa,0,0,1,0
+2020-03-31,United States,Kansas,Pottawatomie,1,0,2,0
+2020-03-31,United States,Kansas,Reno,0,0,7,0
+2020-03-31,United States,Kansas,Riley,0,0,2,0
+2020-03-31,United States,Kansas,Saline,0,0,1,0
+2020-03-31,United States,Kansas,Sedgwick,9,0,58,1
+2020-03-31,United States,Kansas,Shawnee,3,0,17,1
+2020-03-31,United States,Kansas,Stafford,0,0,1,0
+2020-03-31,United States,Kansas,Stevens,0,0,2,0
+2020-03-31,United States,Kansas,Sumner,0,0,1,0
+2020-03-31,United States,Kansas,Woodson,1,0,2,0
+2020-03-31,United States,Kansas,Wyandotte,12,0,79,4
+2020-03-31,United States,Kentucky,Allen,1,0,2,0
+2020-03-31,United States,Kentucky,Anderson,0,0,2,1
+2020-03-31,United States,Kentucky,Barren,0,0,1,0
+2020-03-31,United States,Kentucky,Boone,3,0,8,0
+2020-03-31,United States,Kentucky,Bourbon,0,0,2,1
+2020-03-31,United States,Kentucky,Boyd,4,0,4,0
+2020-03-31,United States,Kentucky,Boyle,3,0,4,0
+2020-03-31,United States,Kentucky,Bracken,0,0,1,0
+2020-03-31,United States,Kentucky,Breathitt,0,0,2,0
+2020-03-31,United States,Kentucky,Breckinridge,0,0,2,0
+2020-03-31,United States,Kentucky,Bullitt,4,0,6,0
+2020-03-31,United States,Kentucky,Butler,0,0,1,0
+2020-03-31,United States,Kentucky,Calloway,0,0,3,0
+2020-03-31,United States,Kentucky,Campbell,4,0,8,0
+2020-03-31,United States,Kentucky,Carroll,1,0,2,0
+2020-03-31,United States,Kentucky,Christian,1,0,7,0
+2020-03-31,United States,Kentucky,Clark,2,0,8,0
+2020-03-31,United States,Kentucky,Daviess,7,0,34,0
+2020-03-31,United States,Kentucky,Edmonson,2,0,2,0
+2020-03-31,United States,Kentucky,Fayette,28,0,110,2
+2020-03-31,United States,Kentucky,Franklin,0,0,6,0
+2020-03-31,United States,Kentucky,Grant,0,0,1,0
+2020-03-31,United States,Kentucky,Grayson,0,0,2,0
+2020-03-31,United States,Kentucky,Hancock,0,0,1,0
+2020-03-31,United States,Kentucky,Hardin,1,0,6,0
+2020-03-31,United States,Kentucky,Harrison,0,0,11,0
+2020-03-31,United States,Kentucky,Henderson,2,0,5,0
+2020-03-31,United States,Kentucky,Hopkins,0,0,17,1
+2020-03-31,United States,Kentucky,Jefferson,90,0,206,3
+2020-03-31,United States,Kentucky,Jessamine,2,0,13,0
+2020-03-31,United States,Kentucky,Kenton,1,0,20,1
+2020-03-31,United States,Kentucky,Larue,0,0,1,0
+2020-03-31,United States,Kentucky,Laurel,0,0,2,0
+2020-03-31,United States,Kentucky,Lawrence,1,0,1,0
+2020-03-31,United States,Kentucky,Lewis,1,0,1,0
+2020-03-31,United States,Kentucky,Logan,1,0,3,0
+2020-03-31,United States,Kentucky,Lyon,0,0,1,0
+2020-03-31,United States,Kentucky,Madison,2,0,10,0
+2020-03-31,United States,Kentucky,Marion,1,0,1,0
+2020-03-31,United States,Kentucky,Marshall,1,0,1,0
+2020-03-31,United States,Kentucky,Martin,-1,0,1,0
+2020-03-31,United States,Kentucky,Mason,0,0,1,0
+2020-03-31,United States,Kentucky,McCracken,3,0,8,0
+2020-03-31,United States,Kentucky,McCreary,0,0,1,0
+2020-03-31,United States,Kentucky,McLean,0,0,1,0
+2020-03-31,United States,Kentucky,Menifee,0,0,2,0
+2020-03-31,United States,Kentucky,Mercer,0,0,2,0
+2020-03-31,United States,Kentucky,Montgomery,0,0,2,0
+2020-03-31,United States,Kentucky,Muhlenberg,3,0,10,0
+2020-03-31,United States,Kentucky,Nelson,0,0,3,0
+2020-03-31,United States,Kentucky,Nicholas,0,0,1,0
+2020-03-31,United States,Kentucky,Oldham,3,0,6,0
+2020-03-31,United States,Kentucky,Pendleton,1,0,1,0
+2020-03-31,United States,Kentucky,Powell,1,0,1,0
+2020-03-31,United States,Kentucky,Pulaski,1,0,8,0
+2020-03-31,United States,Kentucky,Rockcastle,1,0,1,0
+2020-03-31,United States,Kentucky,Scott,0,0,6,0
+2020-03-31,United States,Kentucky,Shelby,1,0,2,0
+2020-03-31,United States,Kentucky,Simpson,5,0,9,0
+2020-03-31,United States,Kentucky,Spencer,0,0,2,0
+2020-03-31,United States,Kentucky,Taylor,2,0,2,0
+2020-03-31,United States,Kentucky,Unassigned,-39,0,14,2
+2020-03-31,United States,Kentucky,Union,1,0,2,0
+2020-03-31,United States,Kentucky,Warren,1,0,13,0
+2020-03-31,United States,Kentucky,Washington,0,0,1,0
+2020-03-31,United States,Kentucky,Wayne,2,0,3,0
+2020-03-31,United States,Kentucky,Webster,0,0,2,0
+2020-03-31,United States,Kentucky,Woodford,2,0,5,0
+2020-03-31,United States,Louisiana,Acadia,28,0,39,1
+2020-03-31,United States,Louisiana,Allen,4,0,15,0
+2020-03-31,United States,Louisiana,Ascension,8,1,161,6
+2020-03-31,United States,Louisiana,Assumption,3,0,20,0
+2020-03-31,United States,Louisiana,Avoyelles,5,0,19,0
+2020-03-31,United States,Louisiana,Beauregard,0,0,5,0
+2020-03-31,United States,Louisiana,Bienville,1,0,6,1
+2020-03-31,United States,Louisiana,Bossier,6,1,63,1
+2020-03-31,United States,Louisiana,Caddo,20,2,242,7
+2020-03-31,United States,Louisiana,Calcasieu,23,0,65,1
+2020-03-31,United States,Louisiana,Catahoula,0,0,3,1
+2020-03-31,United States,Louisiana,Claiborne,4,0,8,0
+2020-03-31,United States,Louisiana,Concordia,3,0,3,0
+2020-03-31,United States,Louisiana,De Soto,2,0,30,1
+2020-03-31,United States,Louisiana,East Baton Rouge,40,0,228,9
+2020-03-31,United States,Louisiana,East Carroll,0,0,1,0
+2020-03-31,United States,Louisiana,East Feliciana,1,0,9,0
+2020-03-31,United States,Louisiana,Evangeline,2,0,10,0
+2020-03-31,United States,Louisiana,Franklin,0,0,5,0
+2020-03-31,United States,Louisiana,Grant,0,0,2,0
+2020-03-31,United States,Louisiana,Iberia,18,0,36,0
+2020-03-31,United States,Louisiana,Iberville,7,1,35,3
+2020-03-31,United States,Louisiana,Jackson,1,0,3,0
+2020-03-31,United States,Louisiana,Jefferson,355,20,1193,57
+2020-03-31,United States,Louisiana,Jefferson Davis,2,0,5,0
+2020-03-31,United States,Louisiana,Lafayette,36,0,118,1
+2020-03-31,United States,Louisiana,Lafourche,23,0,74,2
+2020-03-31,United States,Louisiana,LaSalle,0,0,2,0
+2020-03-31,United States,Louisiana,Lincoln,4,0,12,0
+2020-03-31,United States,Louisiana,Livingston,7,0,23,0
+2020-03-31,United States,Louisiana,Madison,0,0,1,0
+2020-03-31,United States,Louisiana,Morehouse,0,0,2,0
+2020-03-31,United States,Louisiana,Natchitoches,0,0,2,0
+2020-03-31,United States,Louisiana,Orleans,354,15,1834,101
+2020-03-31,United States,Louisiana,Ouachita,13,0,57,1
+2020-03-31,United States,Louisiana,Plaquemines,15,0,37,2
+2020-03-31,United States,Louisiana,Pointe Coupee,5,0,7,0
+2020-03-31,United States,Louisiana,Rapides,14,2,58,3
+2020-03-31,United States,Louisiana,Red River,0,0,1,0
+2020-03-31,United States,Louisiana,Richland,0,0,2,0
+2020-03-31,United States,Louisiana,Sabine,1,0,2,0
+2020-03-31,United States,Louisiana,St. Bernard,18,0,71,2
+2020-03-31,United States,Louisiana,St. Charles,35,3,71,6
+2020-03-31,United States,Louisiana,St. Helena,1,0,1,0
+2020-03-31,United States,Louisiana,St. James,12,1,77,4
+2020-03-31,United States,Louisiana,St. John the Baptist,29,4,104,12
+2020-03-31,United States,Louisiana,St. Landry,16,0,31,1
+2020-03-31,United States,Louisiana,St. Martin,12,0,32,3
+2020-03-31,United States,Louisiana,St. Mary,12,0,22,0
+2020-03-31,United States,Louisiana,St. Tammany,34,0,220,4
+2020-03-31,United States,Louisiana,Tangipahoa,7,0,25,0
+2020-03-31,United States,Louisiana,Terrebonne,6,0,40,1
+2020-03-31,United States,Louisiana,Unassigned,8,4,22,4
+2020-03-31,United States,Louisiana,Union,0,0,9,0
+2020-03-31,United States,Louisiana,Vermilion,5,0,8,1
+2020-03-31,United States,Louisiana,Vernon,0,0,3,0
+2020-03-31,United States,Louisiana,Washington,6,0,28,1
+2020-03-31,United States,Louisiana,Webster,6,0,17,1
+2020-03-31,United States,Louisiana,West Baton Rouge,1,0,13,1
+2020-03-31,United States,Louisiana,West Feliciana,0,0,4,0
+2020-03-31,United States,Louisiana,Winn,0,0,1,0
+2020-03-31,United States,Maine,Androscoggin,3,0,11,0
+2020-03-31,United States,Maine,Cumberland,15,0,169,3
+2020-03-31,United States,Maine,Franklin,0,0,2,0
+2020-03-31,United States,Maine,Kennebec,2,1,12,1
+2020-03-31,United States,Maine,Knox,1,0,5,0
+2020-03-31,United States,Maine,Lincoln,0,0,8,0
+2020-03-31,United States,Maine,Oxford,0,0,9,0
+2020-03-31,United States,Maine,Penobscot,0,0,12,0
+2020-03-31,United States,Maine,Sagadahoc,0,0,7,0
+2020-03-31,United States,Maine,Somerset,0,0,1,0
+2020-03-31,United States,Maine,Unassigned,1,0,6,0
+2020-03-31,United States,Maine,Waldo,0,0,2,0
+2020-03-31,United States,Maine,York,6,1,59,1
+2020-03-31,United States,Maryland,Anne Arundel,17,1,127,1
+2020-03-31,United States,Maryland,Baltimore,41,0,227,1
+2020-03-31,United States,Maryland,Baltimore City,35,0,187,2
+2020-03-31,United States,Maryland,Calvert,3,0,15,0
+2020-03-31,United States,Maryland,Caroline,0,0,4,0
+2020-03-31,United States,Maryland,Carroll,10,1,92,2
+2020-03-31,United States,Maryland,Cecil,1,0,14,0
+2020-03-31,United States,Maryland,Charles,7,0,40,1
+2020-03-31,United States,Maryland,Frederick,7,0,33,0
+2020-03-31,United States,Maryland,Garrett,0,0,3,0
+2020-03-31,United States,Maryland,Harford,1,0,25,0
+2020-03-31,United States,Maryland,Howard,21,1,117,2
+2020-03-31,United States,Maryland,Kent,0,0,3,0
+2020-03-31,United States,Maryland,Montgomery,47,0,388,1
+2020-03-31,United States,Maryland,Prince George`s,47,1,341,7
+2020-03-31,United States,Maryland,Queen Anne`s,0,0,4,0
+2020-03-31,United States,Maryland,Somerset,0,0,1,0
+2020-03-31,United States,Maryland,St. Mary`s,6,0,15,0
+2020-03-31,United States,Maryland,Talbot,-1,0,3,0
+2020-03-31,United States,Maryland,Washington,4,0,11,0
+2020-03-31,United States,Maryland,Wicomico,1,0,7,1
+2020-03-31,United States,Maryland,Worcester,0,0,3,0
+2020-03-31,United States,Massachusetts,Barnstable,18,0,191,2
+2020-03-31,United States,Massachusetts,Berkshire,9,1,171,4
+2020-03-31,United States,Massachusetts,Bristol,43,0,306,2
+2020-03-31,United States,Massachusetts,Dukes and Nantucket,0,0,8,0
+2020-03-31,United States,Massachusetts,Essex,131,6,784,12
+2020-03-31,United States,Massachusetts,Franklin,12,2,61,4
+2020-03-31,United States,Massachusetts,Hampden,99,7,354,11
+2020-03-31,United States,Massachusetts,Hampshire,23,1,69,1
+2020-03-31,United States,Massachusetts,Middlesex,199,9,1340,17
+2020-03-31,United States,Massachusetts,Norfolk,110,2,738,12
+2020-03-31,United States,Massachusetts,Plymouth,79,2,459,2
+2020-03-31,United States,Massachusetts,Suffolk,258,1,1373,6
+2020-03-31,United States,Massachusetts,Unassigned,-156,0,333,9
+2020-03-31,United States,Massachusetts,Worcester,43,2,433,7
+2020-03-31,United States,Michigan,Allegan,1,0,3,0
+2020-03-31,United States,Michigan,Antrim,1,0,3,0
+2020-03-31,United States,Michigan,Arenac,1,0,1,0
+2020-03-31,United States,Michigan,Barry,1,0,2,0
+2020-03-31,United States,Michigan,Bay,0,0,9,0
+2020-03-31,United States,Michigan,Berrien,3,1,35,1
+2020-03-31,United States,Michigan,Branch,2,0,2,0
+2020-03-31,United States,Michigan,Calhoun,0,0,17,0
+2020-03-31,United States,Michigan,Cass,0,1,4,1
+2020-03-31,United States,Michigan,Charlevoix,0,0,4,0
+2020-03-31,United States,Michigan,Cheboygan,0,0,1,0
+2020-03-31,United States,Michigan,Chippewa,1,0,1,0
+2020-03-31,United States,Michigan,Clare,0,0,1,0
+2020-03-31,United States,Michigan,Clinton,5,0,24,0
+2020-03-31,United States,Michigan,Crawford,0,0,1,0
+2020-03-31,United States,Michigan,Delta,0,0,1,0
+2020-03-31,United States,Michigan,Dickinson,0,0,0,0
+2020-03-31,United States,Michigan,Eaton,6,0,21,0
+2020-03-31,United States,Michigan,Emmet,1,0,5,0
+2020-03-31,United States,Michigan,Genesee,35,0,185,7
+2020-03-31,United States,Michigan,Gladwin,0,0,2,0
+2020-03-31,United States,Michigan,Gogebic,1,0,2,1
+2020-03-31,United States,Michigan,Grand Traverse,0,0,7,0
+2020-03-31,United States,Michigan,Gratiot,0,0,3,0
+2020-03-31,United States,Michigan,Hillsdale,2,0,14,1
+2020-03-31,United States,Michigan,Houghton,0,0,1,0
+2020-03-31,United States,Michigan,Huron,0,0,3,0
+2020-03-31,United States,Michigan,Ingham,18,0,91,0
+2020-03-31,United States,Michigan,Ionia,0,0,4,0
+2020-03-31,United States,Michigan,Iosco,0,0,1,0
+2020-03-31,United States,Michigan,Isabella,1,0,6,1
+2020-03-31,United States,Michigan,Jackson,10,0,47,1
+2020-03-31,United States,Michigan,Kalamazoo,0,0,24,1
+2020-03-31,United States,Michigan,Kalkaska,2,1,7,1
+2020-03-31,United States,Michigan,Kent,12,0,108,1
+2020-03-31,United States,Michigan,Lapeer,2,0,8,0
+2020-03-31,United States,Michigan,Leelanau,0,0,1,0
+2020-03-31,United States,Michigan,Lenawee,3,0,18,0
+2020-03-31,United States,Michigan,Livingston,16,0,80,2
+2020-03-31,United States,Michigan,Macomb,125,11,853,38
+2020-03-31,United States,Michigan,Manistee,0,0,1,0
+2020-03-31,United States,Michigan,Marquette,1,0,4,0
+2020-03-31,United States,Michigan,Mecosta,1,0,3,1
+2020-03-31,United States,Michigan,Midland,1,0,10,0
+2020-03-31,United States,Michigan,Missaukee,0,0,1,1
+2020-03-31,United States,Michigan,Monroe,4,0,49,0
+2020-03-31,United States,Michigan,Montcalm,1,0,5,0
+2020-03-31,United States,Michigan,Muskegon,0,0,18,2
+2020-03-31,United States,Michigan,Newaygo,0,0,1,0
+2020-03-31,United States,Michigan,Oakland,226,22,1591,70
+2020-03-31,United States,Michigan,Oceana,0,0,2,0
+2020-03-31,United States,Michigan,Ogemaw,-3,0,1,0
+2020-03-31,United States,Michigan,Osceola,0,0,2,0
+2020-03-31,United States,Michigan,Oscoda,2,0,2,0
+2020-03-31,United States,Michigan,Otsego,2,0,19,0
+2020-03-31,United States,Michigan,Ottawa,3,0,31,0
+2020-03-31,United States,Michigan,Out of MI,3,0,20,0
+2020-03-31,United States,Michigan,Roscommon,0,0,1,0
+2020-03-31,United States,Michigan,Saginaw,15,0,51,0
+2020-03-31,United States,Michigan,Sanilac,2,0,7,0
+2020-03-31,United States,Michigan,Schoolcraft,1,0,1,0
+2020-03-31,United States,Michigan,Shiawassee,0,0,8,0
+2020-03-31,United States,Michigan,St. Clair,7,0,32,0
+2020-03-31,United States,Michigan,St. Joseph,1,0,4,0
+2020-03-31,United States,Michigan,Tuscola,4,1,9,2
+2020-03-31,United States,Michigan,Unassigned,15,0,93,0
+2020-03-31,United States,Michigan,Van Buren,3,0,7,0
+2020-03-31,United States,Michigan,Washtenaw,39,1,305,7
+2020-03-31,United States,Michigan,Wayne,540,37,3735,120
+2020-03-31,United States,Michigan,Wexford,0,0,2,0
+2020-03-31,United States,Minnesota,Anoka,1,0,23,0
+2020-03-31,United States,Minnesota,Beltrami,1,0,4,0
+2020-03-31,United States,Minnesota,Benton,0,0,1,0
+2020-03-31,United States,Minnesota,Big Stone,0,0,1,0
+2020-03-31,United States,Minnesota,Blue Earth,0,0,9,0
+2020-03-31,United States,Minnesota,Brown,2,0,2,0
+2020-03-31,United States,Minnesota,Carlton,1,0,1,0
+2020-03-31,United States,Minnesota,Carver,0,0,10,0
+2020-03-31,United States,Minnesota,Cass,0,0,1,0
+2020-03-31,United States,Minnesota,Chisago,0,0,3,0
+2020-03-31,United States,Minnesota,Clay,2,0,6,0
+2020-03-31,United States,Minnesota,Clearwater,0,0,2,0
+2020-03-31,United States,Minnesota,Cottonwood,1,0,2,0
+2020-03-31,United States,Minnesota,Dakota,1,0,47,0
+2020-03-31,United States,Minnesota,Dodge,0,0,8,0
+2020-03-31,United States,Minnesota,Douglas,0,0,1,0
+2020-03-31,United States,Minnesota,Faribault,1,0,2,0
+2020-03-31,United States,Minnesota,Fillmore,1,0,8,0
+2020-03-31,United States,Minnesota,Goodhue,0,0,3,0
+2020-03-31,United States,Minnesota,Hennepin,14,0,204,5
+2020-03-31,United States,Minnesota,Isanti,0,0,2,0
+2020-03-31,United States,Minnesota,Itasca,0,0,1,0
+2020-03-31,United States,Minnesota,Jackson,0,0,1,0
+2020-03-31,United States,Minnesota,Kandiyohi,1,0,2,0
+2020-03-31,United States,Minnesota,Lac qui Parle,0,0,1,0
+2020-03-31,United States,Minnesota,Le Sueur,2,0,15,0
+2020-03-31,United States,Minnesota,Lincoln,0,0,1,0
+2020-03-31,United States,Minnesota,Lyon,1,0,1,0
+2020-03-31,United States,Minnesota,Mahnomen,0,0,1,0
+2020-03-31,United States,Minnesota,Martin,2,0,25,2
+2020-03-31,United States,Minnesota,Meeker,0,0,1,0
+2020-03-31,United States,Minnesota,Mower,1,0,13,0
+2020-03-31,United States,Minnesota,Nicollet,0,0,3,0
+2020-03-31,United States,Minnesota,Olmsted,2,0,53,0
+2020-03-31,United States,Minnesota,Otter Tail,0,0,1,0
+2020-03-31,United States,Minnesota,Ramsey,6,0,56,2
+2020-03-31,United States,Minnesota,Renville,0,0,1,0
+2020-03-31,United States,Minnesota,Rice,0,0,3,0
+2020-03-31,United States,Minnesota,Scott,0,0,10,0
+2020-03-31,United States,Minnesota,Sherburne,1,0,8,0
+2020-03-31,United States,Minnesota,Sibley,0,0,1,0
+2020-03-31,United States,Minnesota,St. Louis,0,0,12,0
+2020-03-31,United States,Minnesota,Stearns,0,0,5,0
+2020-03-31,United States,Minnesota,Steele,0,0,6,0
+2020-03-31,United States,Minnesota,Traverse,2,0,2,0
+2020-03-31,United States,Minnesota,Unassigned,0,2,0,3
+2020-03-31,United States,Minnesota,Wabasha,0,0,6,0
+2020-03-31,United States,Minnesota,Waseca,0,0,3,0
+2020-03-31,United States,Minnesota,Washington,5,0,39,0
+2020-03-31,United States,Minnesota,Watonwan,0,0,1,0
+2020-03-31,United States,Minnesota,Wilkin,0,0,1,0
+2020-03-31,United States,Minnesota,Winona,5,0,10,0
+2020-03-31,United States,Minnesota,Wright,0,0,6,0
+2020-03-31,United States,Mississippi,Adams,3,0,10,0
+2020-03-31,United States,Mississippi,Alcorn,3,0,3,0
+2020-03-31,United States,Mississippi,Amite,0,1,4,1
+2020-03-31,United States,Mississippi,Attala,1,0,10,0
+2020-03-31,United States,Mississippi,Benton,0,0,4,0
+2020-03-31,United States,Mississippi,Bolivar,11,1,22,1
+2020-03-31,United States,Mississippi,Calhoun,0,0,3,0
+2020-03-31,United States,Mississippi,Carroll,0,0,1,0
+2020-03-31,United States,Mississippi,Chickasaw,3,0,13,0
+2020-03-31,United States,Mississippi,Choctaw,1,0,6,0
+2020-03-31,United States,Mississippi,Claiborne,0,0,1,0
+2020-03-31,United States,Mississippi,Clarke,3,0,4,0
+2020-03-31,United States,Mississippi,Clay,2,0,4,0
+2020-03-31,United States,Mississippi,Coahoma,3,0,21,0
+2020-03-31,United States,Mississippi,Copiah,1,0,9,0
+2020-03-31,United States,Mississippi,Covington,1,0,2,0
+2020-03-31,United States,Mississippi,DeSoto,13,0,84,1
+2020-03-31,United States,Mississippi,Forrest,2,0,21,0
+2020-03-31,United States,Mississippi,Franklin,0,0,3,0
+2020-03-31,United States,Mississippi,George,0,0,3,0
+2020-03-31,United States,Mississippi,Grenada,0,0,3,0
+2020-03-31,United States,Mississippi,Hancock,1,0,16,1
+2020-03-31,United States,Mississippi,Harrison,2,0,45,1
+2020-03-31,United States,Mississippi,Hinds,24,0,90,0
+2020-03-31,United States,Mississippi,Holmes,2,0,15,1
+2020-03-31,United States,Mississippi,Humphreys,1,0,3,0
+2020-03-31,United States,Mississippi,Itawamba,0,0,3,0
+2020-03-31,United States,Mississippi,Jackson,6,0,40,0
+2020-03-31,United States,Mississippi,Jefferson,0,0,1,0
+2020-03-31,United States,Mississippi,Jones,1,0,6,0
+2020-03-31,United States,Mississippi,Kemper,0,0,1,0
+2020-03-31,United States,Mississippi,Lafayette,2,1,15,1
+2020-03-31,United States,Mississippi,Lamar,1,0,5,0
+2020-03-31,United States,Mississippi,Lauderdale,20,0,35,0
+2020-03-31,United States,Mississippi,Lawrence,0,0,5,0
+2020-03-31,United States,Mississippi,Leake,0,0,5,0
+2020-03-31,United States,Mississippi,Lee,3,0,24,1
+2020-03-31,United States,Mississippi,Leflore,4,1,19,1
+2020-03-31,United States,Mississippi,Lincoln,2,0,11,0
+2020-03-31,United States,Mississippi,Lowndes,1,0,11,0
+2020-03-31,United States,Mississippi,Madison,5,0,42,0
+2020-03-31,United States,Mississippi,Marion,1,0,5,0
+2020-03-31,United States,Mississippi,Marshall,1,0,14,0
+2020-03-31,United States,Mississippi,Monroe,1,0,6,0
+2020-03-31,United States,Mississippi,Montgomery,1,1,7,1
+2020-03-31,United States,Mississippi,Neshoba,0,0,4,0
+2020-03-31,United States,Mississippi,Newton,1,0,2,0
+2020-03-31,United States,Mississippi,Noxubee,1,0,3,0
+2020-03-31,United States,Mississippi,Oktibbeha,2,0,17,0
+2020-03-31,United States,Mississippi,Panola,2,1,7,1
+2020-03-31,United States,Mississippi,Pearl River,3,0,30,0
+2020-03-31,United States,Mississippi,Perry,1,0,3,1
+2020-03-31,United States,Mississippi,Pike,3,0,17,0
+2020-03-31,United States,Mississippi,Pontotoc,2,0,5,0
+2020-03-31,United States,Mississippi,Prentiss,0,0,4,0
+2020-03-31,United States,Mississippi,Quitman,-1,0,3,0
+2020-03-31,United States,Mississippi,Rankin,5,0,40,1
+2020-03-31,United States,Mississippi,Scott,3,0,10,0
+2020-03-31,United States,Mississippi,Sharkey,0,0,1,0
+2020-03-31,United States,Mississippi,Simpson,0,0,2,0
+2020-03-31,United States,Mississippi,Smith,0,0,1,0
+2020-03-31,United States,Mississippi,Sunflower,1,0,11,1
+2020-03-31,United States,Mississippi,Tallahatchie,0,0,2,0
+2020-03-31,United States,Mississippi,Tate,2,0,11,0
+2020-03-31,United States,Mississippi,Tippah,3,0,26,2
+2020-03-31,United States,Mississippi,Tishomingo,1,0,1,0
+2020-03-31,United States,Mississippi,Tunica,6,0,12,1
+2020-03-31,United States,Mississippi,Union,0,0,3,0
+2020-03-31,United States,Mississippi,Walthall,0,0,5,0
+2020-03-31,United States,Mississippi,Warren,0,0,1,0
+2020-03-31,United States,Mississippi,Washington,4,0,20,0
+2020-03-31,United States,Mississippi,Webster,2,0,5,1
+2020-03-31,United States,Mississippi,Wilkinson,2,0,14,2
+2020-03-31,United States,Mississippi,Winston,3,0,7,0
+2020-03-31,United States,Mississippi,Yalobusha,3,0,6,0
+2020-03-31,United States,Mississippi,Yazoo,4,0,9,0
+2020-03-31,United States,Missouri,Adair,1,0,2,0
+2020-03-31,United States,Missouri,Atchison,0,0,1,0
+2020-03-31,United States,Missouri,Barry,0,0,1,0
+2020-03-31,United States,Missouri,Bates,0,0,1,0
+2020-03-31,United States,Missouri,Benton,1,0,2,0
+2020-03-31,United States,Missouri,Bollinger,0,0,1,0
+2020-03-31,United States,Missouri,Boone,5,0,64,1
+2020-03-31,United States,Missouri,Buchanan,2,0,5,0
+2020-03-31,United States,Missouri,Callaway,1,0,14,0
+2020-03-31,United States,Missouri,Camden,1,0,12,1
+2020-03-31,United States,Missouri,Cape Girardeau,2,0,15,0
+2020-03-31,United States,Missouri,Carter,2,0,4,0
+2020-03-31,United States,Missouri,Cass,5,0,14,0
+2020-03-31,United States,Missouri,Cedar,0,0,5,0
+2020-03-31,United States,Missouri,Chariton,1,0,4,0
+2020-03-31,United States,Missouri,Christian,0,0,12,0
+2020-03-31,United States,Missouri,Clay,3,0,16,0
+2020-03-31,United States,Missouri,Clinton,0,0,4,0
+2020-03-31,United States,Missouri,Cole,0,0,25,0
+2020-03-31,United States,Missouri,Cooper,1,0,2,0
+2020-03-31,United States,Missouri,Crawford,0,0,1,0
+2020-03-31,United States,Missouri,Dunklin,0,0,6,0
+2020-03-31,United States,Missouri,Franklin,6,0,13,0
+2020-03-31,United States,Missouri,Greene,0,0,48,4
+2020-03-31,United States,Missouri,Harrison,1,0,1,0
+2020-03-31,United States,Missouri,Henry,0,0,1,1
+2020-03-31,United States,Missouri,Jackson,21,0,77,1
+2020-03-31,United States,Missouri,Jasper,1,0,7,0
+2020-03-31,United States,Missouri,Jefferson,12,0,30,0
+2020-03-31,United States,Missouri,Johnson,9,0,19,0
+2020-03-31,United States,Missouri,Kansas City,19,0,119,0
+2020-03-31,United States,Missouri,Lafayette,2,1,19,1
+2020-03-31,United States,Missouri,Lincoln,2,0,7,0
+2020-03-31,United States,Missouri,Livingston,0,0,1,0
+2020-03-31,United States,Missouri,Macon,2,0,3,0
+2020-03-31,United States,Missouri,Maries,0,0,1,0
+2020-03-31,United States,Missouri,McDonald,0,0,2,0
+2020-03-31,United States,Missouri,Moniteau,0,0,2,0
+2020-03-31,United States,Missouri,Montgomery,0,0,2,0
+2020-03-31,United States,Missouri,Morgan,0,0,1,0
+2020-03-31,United States,Missouri,Newton,1,0,5,0
+2020-03-31,United States,Missouri,Osage,0,0,1,0
+2020-03-31,United States,Missouri,Pemiscot,0,0,2,0
+2020-03-31,United States,Missouri,Perry,2,0,14,0
+2020-03-31,United States,Missouri,Pettis,0,0,1,0
+2020-03-31,United States,Missouri,Pike,0,0,1,0
+2020-03-31,United States,Missouri,Platte,2,0,9,0
+2020-03-31,United States,Missouri,Pulaski,0,0,7,0
+2020-03-31,United States,Missouri,Ralls,0,0,1,0
+2020-03-31,United States,Missouri,Randolph,1,0,2,0
+2020-03-31,United States,Missouri,Ray,0,0,1,0
+2020-03-31,United States,Missouri,Reynolds,0,0,2,0
+2020-03-31,United States,Missouri,Ripley,0,0,2,0
+2020-03-31,United States,Missouri,Scott,1,0,6,0
+2020-03-31,United States,Missouri,Shelby,0,0,1,0
+2020-03-31,United States,Missouri,St. Charles,15,0,71,2
+2020-03-31,United States,Missouri,St. Francois,2,0,5,0
+2020-03-31,United States,Missouri,St. Louis,126,1,492,3
+2020-03-31,United States,Missouri,St. Louis City,43,0,319,1
+2020-03-31,United States,Missouri,Ste. Genevieve,2,0,2,0
+2020-03-31,United States,Missouri,Stoddard,1,0,3,0
+2020-03-31,United States,Missouri,Stone,0,0,1,0
+2020-03-31,United States,Missouri,Taney,0,0,2,0
+2020-03-31,United States,Missouri,Texas,0,0,1,0
+2020-03-31,United States,Missouri,Unassigned,0,0,0,0
+2020-03-31,United States,Missouri,Warren,3,0,5,0
+2020-03-31,United States,Missouri,Webster,2,0,2,0
+2020-03-31,United States,Missouri,Wright,0,0,4,0
+2020-03-31,United States,Montana,Broadwater,0,0,3,0
+2020-03-31,United States,Montana,Cascade,2,0,9,0
+2020-03-31,United States,Montana,Deer Lodge,1,0,3,0
+2020-03-31,United States,Montana,Flathead,2,0,11,0
+2020-03-31,United States,Montana,Gallatin,7,0,74,0
+2020-03-31,United States,Montana,Hill,0,0,1,0
+2020-03-31,United States,Montana,Jefferson,0,0,2,0
+2020-03-31,United States,Montana,Lake,0,0,3,0
+2020-03-31,United States,Montana,Lewis and Clark,1,0,12,0
+2020-03-31,United States,Montana,Lincoln,1,0,5,1
+2020-03-31,United States,Montana,Madison,2,0,6,2
+2020-03-31,United States,Montana,Meagher,0,0,1,0
+2020-03-31,United States,Montana,Missoula,2,0,14,0
+2020-03-31,United States,Montana,Musselshell,1,0,1,0
+2020-03-31,United States,Montana,Park,1,0,3,0
+2020-03-31,United States,Montana,Ravalli,0,0,1,0
+2020-03-31,United States,Montana,Roosevelt,0,0,1,0
+2020-03-31,United States,Montana,Silver Bow,1,0,10,0
+2020-03-31,United States,Montana,Toole,1,0,7,2
+2020-03-31,United States,Montana,Yellowstone,5,0,31,0
+2020-03-31,United States,Nebraska,Adams,0,0,3,0
+2020-03-31,United States,Nebraska,Antelope,1,0,1,0
+2020-03-31,United States,Nebraska,Buffalo,0,0,6,0
+2020-03-31,United States,Nebraska,Cass,0,0,2,0
+2020-03-31,United States,Nebraska,Dawson,0,0,1,0
+2020-03-31,United States,Nebraska,Dodge,0,0,3,0
+2020-03-31,United States,Nebraska,Douglas,10,0,85,1
+2020-03-31,United States,Nebraska,Gosper,0,0,1,0
+2020-03-31,United States,Nebraska,Hall,2,0,8,1
+2020-03-31,United States,Nebraska,Kearney,0,0,1,0
+2020-03-31,United States,Nebraska,Knox,0,0,2,0
+2020-03-31,United States,Nebraska,Lancaster,0,0,8,0
+2020-03-31,United States,Nebraska,Lincoln,0,1,5,1
+2020-03-31,United States,Nebraska,Madison,0,0,2,0
+2020-03-31,United States,Nebraska,Nemaha,0,0,1,0
+2020-03-31,United States,Nebraska,Platte,0,0,1,0
+2020-03-31,United States,Nebraska,Sarpy,3,0,16,0
+2020-03-31,United States,Nebraska,Saunders,0,0,2,0
+2020-03-31,United States,Nebraska,Scotts Bluff,0,0,1,0
+2020-03-31,United States,Nebraska,Unassigned,1,0,3,0
+2020-03-31,United States,Nebraska,Washington,10,0,19,0
+2020-03-31,United States,Nebraska,York,0,0,1,0
+2020-03-31,United States,Nevada,Carson City,0,0,5,0
+2020-03-31,United States,Nevada,Clark,116,9,869,23
+2020-03-31,United States,Nevada,Douglas,1,0,6,0
+2020-03-31,United States,Nevada,Elko,2,0,5,0
+2020-03-31,United States,Nevada,Humboldt,2,0,3,0
+2020-03-31,United States,Nevada,Lyon,0,0,1,0
+2020-03-31,United States,Nevada,Nye,0,0,1,0
+2020-03-31,United States,Nevada,Unassigned,-30,0,102,0
+2020-03-31,United States,Nevada,Washoe,10,2,121,3
+2020-03-31,United States,Nevada,White Pine,1,0,1,0
+2020-03-31,United States,New Hampshire,Belknap,3,0,12,0
+2020-03-31,United States,New Hampshire,Carroll,2,0,12,0
+2020-03-31,United States,New Hampshire,Cheshire,1,0,4,0
+2020-03-31,United States,New Hampshire,Grafton,5,0,34,0
+2020-03-31,United States,New Hampshire,Hillsborough,30,0,99,2
+2020-03-31,United States,New Hampshire,Merrimack,9,0,27,0
+2020-03-31,United States,New Hampshire,Rockingham,37,0,137,1
+2020-03-31,United States,New Hampshire,Strafford,11,0,28,0
+2020-03-31,United States,New Hampshire,Sullivan,1,0,4,0
+2020-03-31,United States,New Hampshire,Unassigned,-56,0,0,0
+2020-03-31,United States,New Jersey,Atlantic,2,0,31,0
+2020-03-31,United States,New Jersey,Bergen,427,-19,2909,4
+2020-03-31,United States,New Jersey,Burlington,24,-2,202,0
+2020-03-31,United States,New Jersey,Camden,28,2,228,3
+2020-03-31,United States,New Jersey,Cape May,3,0,12,0
+2020-03-31,United States,New Jersey,Cumberland,6,0,18,1
+2020-03-31,United States,New Jersey,Essex,336,-9,1900,4
+2020-03-31,United States,New Jersey,Gloucester,25,-1,114,0
+2020-03-31,United States,New Jersey,Hudson,292,-5,1606,2
+2020-03-31,United States,New Jersey,Hunterdon,18,0,97,0
+2020-03-31,United States,New Jersey,Mercer,19,0,268,0
+2020-03-31,United States,New Jersey,Middlesex,154,-12,1277,0
+2020-03-31,United States,New Jersey,Monmouth,110,-6,1140,2
+2020-03-31,United States,New Jersey,Morris,121,-7,841,1
+2020-03-31,United States,New Jersey,Ocean,148,-5,1022,1
+2020-03-31,United States,New Jersey,Passaic,203,-9,1294,1
+2020-03-31,United States,New Jersey,Salem,9,0,12,0
+2020-03-31,United States,New Jersey,Somerset,64,-5,413,1
+2020-03-31,United States,New Jersey,Sussex,19,-1,132,0
+2020-03-31,United States,New Jersey,Unassigned,-161,156,3686,247
+2020-03-31,United States,New Jersey,Union,205,-7,1418,0
+2020-03-31,United States,New Jersey,Warren,8,-1,76,0
+2020-03-31,United States,New Mexico,Bernalillo,28,2,129,3
+2020-03-31,United States,New Mexico,Chaves,2,0,10,0
+2020-03-31,United States,New Mexico,Cibola,0,0,2,0
+2020-03-31,United States,New Mexico,Curry,0,0,3,0
+2020-03-31,United States,New Mexico,Dona Ana,18,0,18,0
+2020-03-31,United States,New Mexico,Eddy,0,0,4,1
+2020-03-31,United States,New Mexico,Lea,0,0,2,0
+2020-03-31,United States,New Mexico,McKinley,7,0,16,0
+2020-03-31,United States,New Mexico,Rio Arriba,2,0,4,0
+2020-03-31,United States,New Mexico,Roosevelt,0,0,1,0
+2020-03-31,United States,New Mexico,San Juan,10,0,32,0
+2020-03-31,United States,New Mexico,San Miguel,0,0,1,0
+2020-03-31,United States,New Mexico,Sandoval,11,0,29,0
+2020-03-31,United States,New Mexico,Santa Fe,8,0,42,0
+2020-03-31,United States,New Mexico,Socorro,1,0,3,0
+2020-03-31,United States,New Mexico,Taos,2,0,11,0
+2020-03-31,United States,New Mexico,Torrance,3,0,3,0
+2020-03-31,United States,New Mexico,Valencia,3,0,5,0
+2020-03-31,United States,New York,Albany,9,0,226,1
+2020-03-31,United States,New York,Allegany,2,1,9,1
+2020-03-31,United States,New York,Broome,3,0,38,3
+2020-03-31,United States,New York,Cattaraugus,0,0,6,0
+2020-03-31,United States,New York,Cayuga,1,0,4,0
+2020-03-31,United States,New York,Chautauqua,0,0,7,0
+2020-03-31,United States,New York,Chemung,5,0,20,0
+2020-03-31,United States,New York,Chenango,2,0,19,0
+2020-03-31,United States,New York,Clinton,4,0,21,0
+2020-03-31,United States,New York,Columbia,0,0,36,1
+2020-03-31,United States,New York,Cortland,0,0,10,0
+2020-03-31,United States,New York,Delaware,5,0,16,0
+2020-03-31,United States,New York,Dutchess,92,1,484,3
+2020-03-31,United States,New York,Erie,56,1,499,8
+2020-03-31,United States,New York,Essex,0,0,5,0
+2020-03-31,United States,New York,Franklin,0,0,6,0
+2020-03-31,United States,New York,Fulton,0,0,1,0
+2020-03-31,United States,New York,Genesee,2,1,11,1
+2020-03-31,United States,New York,Greene,0,0,10,0
+2020-03-31,United States,New York,Hamilton,0,0,2,0
+2020-03-31,United States,New York,Herkimer,0,0,12,2
+2020-03-31,United States,New York,Jefferson,0,0,11,0
+2020-03-31,United States,New York,Lewis,2,0,2,0
+2020-03-31,United States,New York,Livingston,2,0,15,0
+2020-03-31,United States,New York,Madison,7,0,49,1
+2020-03-31,United States,New York,Monroe,11,2,257,8
+2020-03-31,United States,New York,Montgomery,0,0,6,0
+2020-03-31,United States,New York,Nassau,1200,9,8544,48
+2020-03-31,United States,New York,New York City,5666,142,43119,932
+2020-03-31,United States,New York,Niagara,0,0,41,0
+2020-03-31,United States,New York,Oneida,0,0,34,0
+2020-03-31,United States,New York,Onondaga,21,0,249,1
+2020-03-31,United States,New York,Ontario,0,0,20,0
+2020-03-31,United States,New York,Orange,121,0,1556,5
+2020-03-31,United States,New York,Orleans,1,0,5,0
+2020-03-31,United States,New York,Oswego,0,0,15,0
+2020-03-31,United States,New York,Otsego,0,0,17,1
+2020-03-31,United States,New York,Putnam,0,0,167,0
+2020-03-31,United States,New York,Rensselaer,2,0,54,0
+2020-03-31,United States,New York,Rockland,352,0,2863,0
+2020-03-31,United States,New York,Saratoga,0,0,108,1
+2020-03-31,United States,New York,Schenectady,5,0,85,1
+2020-03-31,United States,New York,Schoharie,0,0,6,0
+2020-03-31,United States,New York,Schuyler,0,0,2,0
+2020-03-31,United States,New York,St. Lawrence,10,0,23,0
+2020-03-31,United States,New York,Steuben,0,0,19,0
+2020-03-31,United States,New York,Suffolk,922,4,6713,44
+2020-03-31,United States,New York,Sullivan,5,1,106,1
+2020-03-31,United States,New York,Tioga,1,0,8,0
+2020-03-31,United States,New York,Tompkins,3,0,73,0
+2020-03-31,United States,New York,Ulster,17,0,207,0
+2020-03-31,United States,New York,Unassigned,0,170,0,468
+2020-03-31,United States,New York,Warren,0,0,18,0
+2020-03-31,United States,New York,Washington,0,0,9,0
+2020-03-31,United States,New York,Wayne,0,0,15,0
+2020-03-31,United States,New York,Westchester,641,0,9967,10
+2020-03-31,United States,New York,Wyoming,0,0,8,1
+2020-03-31,United States,North Carolina,Alamance,0,0,7,0
+2020-03-31,United States,North Carolina,Alexander,1,0,2,0
+2020-03-31,United States,North Carolina,Alleghany,0,0,2,0
+2020-03-31,United States,North Carolina,Anson,1,0,1,0
+2020-03-31,United States,North Carolina,Beaufort,1,0,5,0
+2020-03-31,United States,North Carolina,Bertie,1,0,6,0
+2020-03-31,United States,North Carolina,Brunswick,2,0,16,0
+2020-03-31,United States,North Carolina,Buncombe,2,0,22,1
+2020-03-31,United States,North Carolina,Burke,1,0,6,0
+2020-03-31,United States,North Carolina,Cabarrus,9,0,47,1
+2020-03-31,United States,North Carolina,Caldwell,0,0,3,0
+2020-03-31,United States,North Carolina,Carteret,1,1,12,1
+2020-03-31,United States,North Carolina,Caswell,0,0,1,0
+2020-03-31,United States,North Carolina,Catawba,0,0,14,0
+2020-03-31,United States,North Carolina,Chatham,2,0,16,0
+2020-03-31,United States,North Carolina,Cherokee,0,1,7,1
+2020-03-31,United States,North Carolina,Clay,1,0,1,0
+2020-03-31,United States,North Carolina,Cleveland,-1,0,6,0
+2020-03-31,United States,North Carolina,Columbus,1,0,4,0
+2020-03-31,United States,North Carolina,Craven,1,0,6,0
+2020-03-31,United States,North Carolina,Cumberland,3,0,18,0
+2020-03-31,United States,North Carolina,Currituck,0,0,1,0
+2020-03-31,United States,North Carolina,Dare,1,0,2,0
+2020-03-31,United States,North Carolina,Davidson,5,0,22,0
+2020-03-31,United States,North Carolina,Davie,5,0,11,0
+2020-03-31,United States,North Carolina,Duplin,0,0,1,0
+2020-03-31,United States,North Carolina,Durham,15,0,122,0
+2020-03-31,United States,North Carolina,Edgecombe,2,0,3,0
+2020-03-31,United States,North Carolina,Forsyth,2,1,42,1
+2020-03-31,United States,North Carolina,Franklin,6,0,11,0
+2020-03-31,United States,North Carolina,Gaston,2,0,27,0
+2020-03-31,United States,North Carolina,Granville,3,0,9,0
+2020-03-31,United States,North Carolina,Greene,0,0,3,0
+2020-03-31,United States,North Carolina,Guilford,6,1,50,1
+2020-03-31,United States,North Carolina,Halifax,2,0,6,0
+2020-03-31,United States,North Carolina,Harnett,4,0,18,1
+2020-03-31,United States,North Carolina,Henderson,5,0,18,0
+2020-03-31,United States,North Carolina,Hertford,1,0,4,0
+2020-03-31,United States,North Carolina,Hoke,1,0,4,0
+2020-03-31,United States,North Carolina,Iredell,0,0,25,0
+2020-03-31,United States,North Carolina,Jackson,0,0,1,0
+2020-03-31,United States,North Carolina,Johnston,4,0,14,1
+2020-03-31,United States,North Carolina,Lee,1,0,3,0
+2020-03-31,United States,North Carolina,Lenoir,0,0,3,0
+2020-03-31,United States,North Carolina,Lincoln,1,0,4,0
+2020-03-31,United States,North Carolina,Martin,3,0,3,0
+2020-03-31,United States,North Carolina,McDowell,2,0,7,0
+2020-03-31,United States,North Carolina,Mecklenburg,38,0,420,1
+2020-03-31,United States,North Carolina,Mitchell,0,0,1,0
+2020-03-31,United States,North Carolina,Montgomery,2,0,5,0
+2020-03-31,United States,North Carolina,Moore,0,0,8,0
+2020-03-31,United States,North Carolina,Nash,5,0,9,0
+2020-03-31,United States,North Carolina,New Hanover,7,0,34,0
+2020-03-31,United States,North Carolina,Northampton,4,1,30,1
+2020-03-31,United States,North Carolina,Onslow,3,1,7,1
+2020-03-31,United States,North Carolina,Orange,4,0,34,0
+2020-03-31,United States,North Carolina,Pamlico,0,0,1,0
+2020-03-31,United States,North Carolina,Pasquotank,2,0,4,0
+2020-03-31,United States,North Carolina,Perquimans,0,0,1,0
+2020-03-31,United States,North Carolina,Person,1,0,2,0
+2020-03-31,United States,North Carolina,Pitt,7,0,27,0
+2020-03-31,United States,North Carolina,Polk,1,0,3,0
+2020-03-31,United States,North Carolina,Randolph,2,0,17,0
+2020-03-31,United States,North Carolina,Robeson,1,0,3,0
+2020-03-31,United States,North Carolina,Rockingham,2,0,2,0
+2020-03-31,United States,North Carolina,Rowan,5,0,23,1
+2020-03-31,United States,North Carolina,Rutherford,3,0,5,0
+2020-03-31,United States,North Carolina,Sampson,0,0,1,0
+2020-03-31,United States,North Carolina,Scotland,0,0,2,0
+2020-03-31,United States,North Carolina,Stanly,0,0,5,0
+2020-03-31,United States,North Carolina,Surry,0,0,2,0
+2020-03-31,United States,North Carolina,Transylvania,2,0,5,0
+2020-03-31,United States,North Carolina,Union,3,0,41,0
+2020-03-31,United States,North Carolina,Vance,1,0,4,0
+2020-03-31,United States,North Carolina,Wake,27,0,193,0
+2020-03-31,United States,North Carolina,Washington,1,0,2,0
+2020-03-31,United States,North Carolina,Watauga,0,0,5,0
+2020-03-31,United States,North Carolina,Wayne,1,0,5,0
+2020-03-31,United States,North Carolina,Wilkes,1,0,2,0
+2020-03-31,United States,North Carolina,Wilson,0,0,13,0
+2020-03-31,United States,North Carolina,Yadkin,2,0,3,0
+2020-03-31,United States,North Dakota,Barnes,0,0,2,0
+2020-03-31,United States,North Dakota,Burleigh,0,0,29,0
+2020-03-31,United States,North Dakota,Cass,8,0,32,1
+2020-03-31,United States,North Dakota,Divide,0,0,1,0
+2020-03-31,United States,North Dakota,Dunn,0,0,1,0
+2020-03-31,United States,North Dakota,Foster,0,0,1,0
+2020-03-31,United States,North Dakota,Grand Forks,0,0,2,0
+2020-03-31,United States,North Dakota,Grant,1,0,1,0
+2020-03-31,United States,North Dakota,McHenry,0,1,1,1
+2020-03-31,United States,North Dakota,McIntosh,0,0,1,0
+2020-03-31,United States,North Dakota,McLean,0,0,2,0
+2020-03-31,United States,North Dakota,Mercer,0,0,0,0
+2020-03-31,United States,North Dakota,Morton,0,1,14,1
+2020-03-31,United States,North Dakota,Mountrail,1,0,5,0
+2020-03-31,United States,North Dakota,Oliver,0,0,1,0
+2020-03-31,United States,North Dakota,Pierce,0,0,2,0
+2020-03-31,United States,North Dakota,Ramsey,0,0,3,0
+2020-03-31,United States,North Dakota,Sioux,0,0,1,0
+2020-03-31,United States,North Dakota,Stark,1,0,11,0
+2020-03-31,United States,North Dakota,Walsh,0,0,1,0
+2020-03-31,United States,North Dakota,Ward,0,0,9,0
+2020-03-31,United States,North Dakota,Williams,2,0,2,0
+2020-03-31,United States,Northern Mariana Islands,,2,0,2,0
+2020-03-31,United States,Ohio,Allen,1,0,5,0
+2020-03-31,United States,Ohio,Ashland,0,0,2,0
+2020-03-31,United States,Ohio,Ashtabula,0,0,6,0
+2020-03-31,United States,Ohio,Athens,0,0,3,1
+2020-03-31,United States,Ohio,Auglaize,0,0,2,0
+2020-03-31,United States,Ohio,Belmont,1,0,9,0
+2020-03-31,United States,Ohio,Brown,1,0,2,0
+2020-03-31,United States,Ohio,Butler,6,0,36,1
+2020-03-31,United States,Ohio,Carroll,0,0,5,0
+2020-03-31,United States,Ohio,Champaign,0,0,3,0
+2020-03-31,United States,Ohio,Clark,0,0,6,2
+2020-03-31,United States,Ohio,Clermont,1,0,10,1
+2020-03-31,United States,Ohio,Clinton,0,0,3,0
+2020-03-31,United States,Ohio,Columbiana,4,0,15,3
+2020-03-31,United States,Ohio,Coshocton,0,0,5,0
+2020-03-31,United States,Ohio,Crawford,0,0,5,0
+2020-03-31,United States,Ohio,Cuyahoga,34,2,527,11
+2020-03-31,United States,Ohio,Darke,1,0,13,1
+2020-03-31,United States,Ohio,Defiance,0,0,5,0
+2020-03-31,United States,Ohio,Delaware,4,0,42,1
+2020-03-31,United States,Ohio,Erie,0,0,5,1
+2020-03-31,United States,Ohio,Fairfield,1,0,14,0
+2020-03-31,United States,Ohio,Fayette,0,0,1,0
+2020-03-31,United States,Ohio,Franklin,44,0,325,6
+2020-03-31,United States,Ohio,Fulton,0,0,2,0
+2020-03-31,United States,Ohio,Gallia,0,0,1,1
+2020-03-31,United States,Ohio,Geauga,2,0,24,0
+2020-03-31,United States,Ohio,Greene,3,0,6,1
+2020-03-31,United States,Ohio,Hamilton,23,0,124,5
+2020-03-31,United States,Ohio,Hancock,2,0,5,0
+2020-03-31,United States,Ohio,Highland,0,0,1,0
+2020-03-31,United States,Ohio,Holmes,0,0,1,0
+2020-03-31,United States,Ohio,Huron,1,0,4,1
+2020-03-31,United States,Ohio,Jefferson,4,0,11,0
+2020-03-31,United States,Ohio,Knox,1,0,4,0
+2020-03-31,United States,Ohio,Lake,1,1,44,3
+2020-03-31,United States,Ohio,Lawrence,0,0,1,0
+2020-03-31,United States,Ohio,Licking,4,0,25,1
+2020-03-31,United States,Ohio,Logan,0,0,3,0
+2020-03-31,United States,Ohio,Lorain,4,0,82,2
+2020-03-31,United States,Ohio,Lucas,19,0,133,5
+2020-03-31,United States,Ohio,Madison,2,2,7,2
+2020-03-31,United States,Ohio,Mahoning,36,1,153,12
+2020-03-31,United States,Ohio,Marion,1,0,8,0
+2020-03-31,United States,Ohio,Medina,7,0,55,1
+2020-03-31,United States,Ohio,Mercer,0,0,2,0
+2020-03-31,United States,Ohio,Miami,6,1,52,8
+2020-03-31,United States,Ohio,Montgomery,6,0,37,4
+2020-03-31,United States,Ohio,Muskingum,0,0,2,0
+2020-03-31,United States,Ohio,Ottawa,0,0,2,0
+2020-03-31,United States,Ohio,Perry,1,0,1,0
+2020-03-31,United States,Ohio,Pickaway,7,0,12,0
+2020-03-31,United States,Ohio,Pike,0,0,1,0
+2020-03-31,United States,Ohio,Portage,6,0,38,1
+2020-03-31,United States,Ohio,Preble,0,0,1,1
+2020-03-31,United States,Ohio,Richland,1,0,6,0
+2020-03-31,United States,Ohio,Ross,1,0,2,0
+2020-03-31,United States,Ohio,Sandusky,1,0,4,0
+2020-03-31,United States,Ohio,Seneca,0,0,3,1
+2020-03-31,United States,Ohio,Shelby,1,0,5,0
+2020-03-31,United States,Ohio,Stark,1,0,45,3
+2020-03-31,United States,Ohio,Summit,13,1,131,8
+2020-03-31,United States,Ohio,Trumbull,8,0,50,3
+2020-03-31,United States,Ohio,Tuscarawas,0,0,7,0
+2020-03-31,United States,Ohio,Union,0,0,4,0
+2020-03-31,United States,Ohio,Van Wert,0,0,1,0
+2020-03-31,United States,Ohio,Warren,1,0,21,0
+2020-03-31,United States,Ohio,Washington,0,0,3,0
+2020-03-31,United States,Ohio,Wayne,2,0,9,0
+2020-03-31,United States,Ohio,Wood,2,0,15,0
+2020-03-31,United States,Ohio,Wyandot,1,0,2,0
+2020-03-31,United States,Oklahoma,Adair,0,0,4,0
+2020-03-31,United States,Oklahoma,Beckham,0,0,1,0
+2020-03-31,United States,Oklahoma,Bryan,0,0,1,0
+2020-03-31,United States,Oklahoma,Caddo,0,0,1,0
+2020-03-31,United States,Oklahoma,Canadian,4,1,19,1
+2020-03-31,United States,Oklahoma,Carter,0,0,1,0
+2020-03-31,United States,Oklahoma,Cherokee,3,0,4,0
+2020-03-31,United States,Oklahoma,Choctaw,0,0,1,0
+2020-03-31,United States,Oklahoma,Cleveland,5,1,65,6
+2020-03-31,United States,Oklahoma,Comanche,3,0,15,0
+2020-03-31,United States,Oklahoma,Cotton,0,0,1,0
+2020-03-31,United States,Oklahoma,Craig,0,0,1,0
+2020-03-31,United States,Oklahoma,Creek,3,0,21,1
+2020-03-31,United States,Oklahoma,Custer,0,0,4,0
+2020-03-31,United States,Oklahoma,Delaware,0,0,7,0
+2020-03-31,United States,Oklahoma,Garfield,0,0,2,0
+2020-03-31,United States,Oklahoma,Garvin,0,0,6,0
+2020-03-31,United States,Oklahoma,Grady,-1,0,2,0
+2020-03-31,United States,Oklahoma,Jackson,0,0,1,0
+2020-03-31,United States,Oklahoma,Kay,4,0,24,0
+2020-03-31,United States,Oklahoma,Latimer,0,0,1,0
+2020-03-31,United States,Oklahoma,Le Flore,0,0,1,0
+2020-03-31,United States,Oklahoma,Lincoln,1,0,5,0
+2020-03-31,United States,Oklahoma,Logan,0,0,4,0
+2020-03-31,United States,Oklahoma,Love,0,0,1,0
+2020-03-31,United States,Oklahoma,Mayes,0,0,4,0
+2020-03-31,United States,Oklahoma,McClain,1,0,3,0
+2020-03-31,United States,Oklahoma,Muskogee,1,1,8,1
+2020-03-31,United States,Oklahoma,Noble,1,0,4,0
+2020-03-31,United States,Oklahoma,Nowata,1,0,5,0
+2020-03-31,United States,Oklahoma,Oklahoma,21,3,155,7
+2020-03-31,United States,Oklahoma,Okmulgee,0,0,3,0
+2020-03-31,United States,Oklahoma,Osage,5,0,16,0
+2020-03-31,United States,Oklahoma,Ottawa,1,0,7,0
+2020-03-31,United States,Oklahoma,Out of OK,0,0,2,0
+2020-03-31,United States,Oklahoma,Pawnee,0,0,15,1
+2020-03-31,United States,Oklahoma,Payne,1,0,15,0
+2020-03-31,United States,Oklahoma,Pittsburg,0,0,2,0
+2020-03-31,United States,Oklahoma,Pontotoc,2,0,5,0
+2020-03-31,United States,Oklahoma,Pottawatomie,3,0,5,0
+2020-03-31,United States,Oklahoma,Rogers,2,0,3,0
+2020-03-31,United States,Oklahoma,Seminole,0,0,1,0
+2020-03-31,United States,Oklahoma,Sequoyah,0,0,2,1
+2020-03-31,United States,Oklahoma,Stephens,3,0,5,0
+2020-03-31,United States,Oklahoma,Texas,0,0,1,0
+2020-03-31,United States,Oklahoma,Tulsa,18,0,83,3
+2020-03-31,United States,Oklahoma,Wagoner,2,1,10,2
+2020-03-31,United States,Oklahoma,Washington,1,0,21,0
+2020-03-31,United States,Oregon,Benton,3,1,12,1
+2020-03-31,United States,Oregon,Clackamas,10,0,50,3
+2020-03-31,United States,Oregon,Clatsop,0,0,3,0
+2020-03-31,United States,Oregon,Columbia,0,0,1,0
+2020-03-31,United States,Oregon,Deschutes,-1,0,24,0
+2020-03-31,United States,Oregon,Douglas,1,0,9,0
+2020-03-31,United States,Oregon,Grant,0,0,1,0
+2020-03-31,United States,Oregon,Hood River,1,0,3,0
+2020-03-31,United States,Oregon,Jackson,1,0,21,0
+2020-03-31,United States,Oregon,Josephine,0,0,10,0
+2020-03-31,United States,Oregon,Klamath,1,0,5,0
+2020-03-31,United States,Oregon,Lane,4,0,16,1
+2020-03-31,United States,Oregon,Lincoln,1,0,2,0
+2020-03-31,United States,Oregon,Linn,1,0,37,2
+2020-03-31,United States,Oregon,Malheur,1,0,1,0
+2020-03-31,United States,Oregon,Marion,18,0,141,3
+2020-03-31,United States,Oregon,Morrow,0,0,1,0
+2020-03-31,United States,Oregon,Multnomah,16,0,116,2
+2020-03-31,United States,Oregon,Polk,3,0,18,0
+2020-03-31,United States,Oregon,Tillamook,0,0,3,0
+2020-03-31,United States,Oregon,Umatilla,1,0,5,0
+2020-03-31,United States,Oregon,Union,0,0,1,0
+2020-03-31,United States,Oregon,Wallowa,1,0,1,0
+2020-03-31,United States,Oregon,Wasco,2,0,7,0
+2020-03-31,United States,Oregon,Washington,18,0,186,3
+2020-03-31,United States,Oregon,Yamhill,2,1,16,3
+2020-03-31,United States,Pennsylvania,Adams,1,0,9,0
+2020-03-31,United States,Pennsylvania,Allegheny,35,0,325,2
+2020-03-31,United States,Pennsylvania,Armstrong,2,0,5,0
+2020-03-31,United States,Pennsylvania,Beaver,8,1,52,1
+2020-03-31,United States,Pennsylvania,Bedford,2,0,2,0
+2020-03-31,United States,Pennsylvania,Berks,28,0,110,0
+2020-03-31,United States,Pennsylvania,Blair,-2,0,4,0
+2020-03-31,United States,Pennsylvania,Bradford,4,0,7,0
+2020-03-31,United States,Pennsylvania,Bucks,39,-1,288,3
+2020-03-31,United States,Pennsylvania,Butler,11,0,60,2
+2020-03-31,United States,Pennsylvania,Cambria,0,0,2,0
+2020-03-31,United States,Pennsylvania,Cameron,0,0,1,0
+2020-03-31,United States,Pennsylvania,Carbon,4,1,17,1
+2020-03-31,United States,Pennsylvania,Centre,2,0,26,0
+2020-03-31,United States,Pennsylvania,Chester,13,1,159,1
+2020-03-31,United States,Pennsylvania,Clarion,2,0,3,0
+2020-03-31,United States,Pennsylvania,Clearfield,0,0,4,0
+2020-03-31,United States,Pennsylvania,Columbia,1,0,7,0
+2020-03-31,United States,Pennsylvania,Crawford,0,0,4,0
+2020-03-31,United States,Pennsylvania,Cumberland,12,0,36,1
+2020-03-31,United States,Pennsylvania,Dauphin,9,1,45,1
+2020-03-31,United States,Pennsylvania,Delaware,35,1,338,5
+2020-03-31,United States,Pennsylvania,Erie,1,0,14,0
+2020-03-31,United States,Pennsylvania,Fayette,3,0,14,0
+2020-03-31,United States,Pennsylvania,Franklin,7,0,19,0
+2020-03-31,United States,Pennsylvania,Greene,2,0,9,0
+2020-03-31,United States,Pennsylvania,Huntingdon,0,0,1,0
+2020-03-31,United States,Pennsylvania,Indiana,4,0,6,0
+2020-03-31,United States,Pennsylvania,Juniata,0,0,3,0
+2020-03-31,United States,Pennsylvania,Lackawanna,16,1,78,3
+2020-03-31,United States,Pennsylvania,Lancaster,26,1,123,3
+2020-03-31,United States,Pennsylvania,Lawrence,3,1,13,2
+2020-03-31,United States,Pennsylvania,Lebanon,1,0,28,0
+2020-03-31,United States,Pennsylvania,Lehigh,41,1,272,4
+2020-03-31,United States,Pennsylvania,Luzerne,62,1,212,4
+2020-03-31,United States,Pennsylvania,Lycoming,2,0,6,0
+2020-03-31,United States,Pennsylvania,McKean,0,0,1,0
+2020-03-31,United States,Pennsylvania,Mercer,1,0,8,0
+2020-03-31,United States,Pennsylvania,Mifflin,1,0,2,0
+2020-03-31,United States,Pennsylvania,Monroe,54,0,236,7
+2020-03-31,United States,Pennsylvania,Montgomery,30,1,570,6
+2020-03-31,United States,Pennsylvania,Montour,-1,0,9,0
+2020-03-31,United States,Pennsylvania,Northampton,61,0,245,5
+2020-03-31,United States,Pennsylvania,Northumberland,0,0,1,0
+2020-03-31,United States,Pennsylvania,Perry,0,0,1,0
+2020-03-31,United States,Pennsylvania,Philadelphia,243,2,1315,10
+2020-03-31,United States,Pennsylvania,Pike,9,0,48,1
+2020-03-31,United States,Pennsylvania,Potter,0,0,2,0
+2020-03-31,United States,Pennsylvania,Schuylkill,8,0,38,0
+2020-03-31,United States,Pennsylvania,Snyder,0,1,2,1
+2020-03-31,United States,Pennsylvania,Somerset,0,0,2,0
+2020-03-31,United States,Pennsylvania,Susquehanna,0,0,1,0
+2020-03-31,United States,Pennsylvania,Tioga,1,0,2,0
+2020-03-31,United States,Pennsylvania,Union,0,0,4,0
+2020-03-31,United States,Pennsylvania,Venango,2,0,3,0
+2020-03-31,United States,Pennsylvania,Warren,0,0,1,0
+2020-03-31,United States,Pennsylvania,Washington,7,0,33,0
+2020-03-31,United States,Pennsylvania,Wayne,0,0,10,0
+2020-03-31,United States,Pennsylvania,Westmoreland,6,0,61,0
+2020-03-31,United States,Pennsylvania,York,12,0,66,0
+2020-03-31,United States,Puerto Rico,,65,2,239,8
+2020-03-31,United States,Recovered,,0,0,0,0
+2020-03-31,United States,Rhode Island,Bristol,2,0,14,0
+2020-03-31,United States,Rhode Island,Kent,4,0,31,0
+2020-03-31,United States,Rhode Island,Newport,4,0,23,1
+2020-03-31,United States,Rhode Island,Providence,52,9,208,10
+2020-03-31,United States,Rhode Island,Unassigned,13,-7,184,0
+2020-03-31,United States,Rhode Island,Washington,5,0,28,0
+2020-03-31,United States,South Carolina,Abbeville,1,0,4,0
+2020-03-31,United States,South Carolina,Aiken,4,1,13,1
+2020-03-31,United States,South Carolina,Anderson,8,0,39,1
+2020-03-31,United States,South Carolina,Bamberg,2,0,2,0
+2020-03-31,United States,South Carolina,Barnwell,0,0,1,0
+2020-03-31,United States,South Carolina,Beaufort,17,0,91,1
+2020-03-31,United States,South Carolina,Berkeley,1,0,15,0
+2020-03-31,United States,South Carolina,Calhoun,1,1,3,1
+2020-03-31,United States,South Carolina,Charleston,19,0,142,1
+2020-03-31,United States,South Carolina,Chester,0,0,2,0
+2020-03-31,United States,South Carolina,Chesterfield,0,0,6,0
+2020-03-31,United States,South Carolina,Clarendon,7,0,25,1
+2020-03-31,United States,South Carolina,Colleton,0,0,5,0
+2020-03-31,United States,South Carolina,Darlington,0,0,11,0
+2020-03-31,United States,South Carolina,Dillon,0,0,1,0
+2020-03-31,United States,South Carolina,Dorchester,5,0,17,0
+2020-03-31,United States,South Carolina,Edgefield,0,0,2,0
+2020-03-31,United States,South Carolina,Fairfield,1,0,6,0
+2020-03-31,United States,South Carolina,Florence,4,0,19,3
+2020-03-31,United States,South Carolina,Georgetown,2,0,13,0
+2020-03-31,United States,South Carolina,Greenville,18,0,106,1
+2020-03-31,United States,South Carolina,Greenwood,2,0,5,0
+2020-03-31,United States,South Carolina,Horry,5,0,37,3
+2020-03-31,United States,South Carolina,Jasper,0,0,3,0
+2020-03-31,United States,South Carolina,Kershaw,6,0,105,2
+2020-03-31,United States,South Carolina,Lancaster,1,0,15,0
+2020-03-31,United States,South Carolina,Laurens,0,0,3,0
+2020-03-31,United States,South Carolina,Lee,0,0,5,0
+2020-03-31,United States,South Carolina,Lexington,13,0,54,1
+2020-03-31,United States,South Carolina,Marion,0,1,2,1
+2020-03-31,United States,South Carolina,Marlboro,0,0,2,0
+2020-03-31,United States,South Carolina,Newberry,0,0,2,0
+2020-03-31,United States,South Carolina,Oconee,1,0,5,0
+2020-03-31,United States,South Carolina,Orangeburg,1,0,22,0
+2020-03-31,United States,South Carolina,Pickens,1,0,14,0
+2020-03-31,United States,South Carolina,Richland,13,0,148,2
+2020-03-31,United States,South Carolina,Saluda,0,0,1,0
+2020-03-31,United States,South Carolina,Spartanburg,7,0,37,0
+2020-03-31,United States,South Carolina,Sumter,5,0,39,2
+2020-03-31,United States,South Carolina,Union,0,0,3,0
+2020-03-31,United States,South Carolina,Williamsburg,0,0,2,0
+2020-03-31,United States,South Carolina,York,13,1,56,1
+2020-03-31,United States,South Dakota,Aurora,0,0,1,0
+2020-03-31,United States,South Dakota,Beadle,0,0,20,0
+2020-03-31,United States,South Dakota,Bon Homme,0,0,1,0
+2020-03-31,United States,South Dakota,Brookings,0,0,1,0
+2020-03-31,United States,South Dakota,Brown,0,0,3,0
+2020-03-31,United States,South Dakota,Butte,-1,0,0,0
+2020-03-31,United States,South Dakota,Charles Mix,0,0,1,0
+2020-03-31,United States,South Dakota,Clark,0,0,1,0
+2020-03-31,United States,South Dakota,Clay,0,0,3,0
+2020-03-31,United States,South Dakota,Codington,0,0,5,0
+2020-03-31,United States,South Dakota,Davison,0,0,2,0
+2020-03-31,United States,South Dakota,Deuel,0,0,1,0
+2020-03-31,United States,South Dakota,Fall River,0,0,1,0
+2020-03-31,United States,South Dakota,Faulk,0,0,1,0
+2020-03-31,United States,South Dakota,Hamlin,0,0,1,0
+2020-03-31,United States,South Dakota,Hughes,0,0,1,0
+2020-03-31,United States,South Dakota,Hutchinson,0,0,2,0
+2020-03-31,United States,South Dakota,Kingsbury,1,0,1,0
+2020-03-31,United States,South Dakota,Lawrence,1,0,6,0
+2020-03-31,United States,South Dakota,Lincoln,1,0,5,0
+2020-03-31,United States,South Dakota,Lyman,0,0,1,0
+2020-03-31,United States,South Dakota,Marshall,0,0,1,0
+2020-03-31,United States,South Dakota,McCook,0,0,2,0
+2020-03-31,United States,South Dakota,Meade,0,0,1,0
+2020-03-31,United States,South Dakota,Minnehaha,3,0,31,0
+2020-03-31,United States,South Dakota,Pennington,0,0,5,1
+2020-03-31,United States,South Dakota,Roberts,0,0,1,0
+2020-03-31,United States,South Dakota,Todd,0,0,1,0
+2020-03-31,United States,South Dakota,Turner,0,0,1,0
+2020-03-31,United States,South Dakota,Union,0,0,1,0
+2020-03-31,United States,South Dakota,Yankton,2,0,6,0
+2020-03-31,United States,Tennessee,Anderson,4,0,10,0
+2020-03-31,United States,Tennessee,Bedford,1,0,2,0
+2020-03-31,United States,Tennessee,Benton,1,0,4,0
+2020-03-31,United States,Tennessee,Bledsoe,0,0,2,0
+2020-03-31,United States,Tennessee,Blount,16,0,25,0
+2020-03-31,United States,Tennessee,Bradley,2,0,10,0
+2020-03-31,United States,Tennessee,Campbell,0,0,4,0
+2020-03-31,United States,Tennessee,Cannon,0,0,3,0
+2020-03-31,United States,Tennessee,Carroll,0,0,5,0
+2020-03-31,United States,Tennessee,Carter,0,0,1,0
+2020-03-31,United States,Tennessee,Cheatham,2,0,10,0
+2020-03-31,United States,Tennessee,Chester,1,0,3,0
+2020-03-31,United States,Tennessee,Claiborne,0,0,2,0
+2020-03-31,United States,Tennessee,Cocke,0,0,1,0
+2020-03-31,United States,Tennessee,Coffee,0,0,1,0
+2020-03-31,United States,Tennessee,Cumberland,2,0,11,0
+2020-03-31,United States,Tennessee,Davidson,98,0,541,3
+2020-03-31,United States,Tennessee,Decatur,-1,0,0,0
+2020-03-31,United States,Tennessee,DeKalb,1,0,4,0
+2020-03-31,United States,Tennessee,Dickson,6,0,17,0
+2020-03-31,United States,Tennessee,Dyer,0,0,3,0
+2020-03-31,United States,Tennessee,Fayette,2,0,12,0
+2020-03-31,United States,Tennessee,Fentress,1,0,1,0
+2020-03-31,United States,Tennessee,Franklin,-1,0,5,0
+2020-03-31,United States,Tennessee,Gibson,3,0,6,0
+2020-03-31,United States,Tennessee,Giles,2,0,3,0
+2020-03-31,United States,Tennessee,Greene,3,0,12,0
+2020-03-31,United States,Tennessee,Grundy,2,0,4,0
+2020-03-31,United States,Tennessee,Hamblen,0,0,2,0
+2020-03-31,United States,Tennessee,Hamilton,15,2,50,3
+2020-03-31,United States,Tennessee,Hardeman,0,0,1,0
+2020-03-31,United States,Tennessee,Hardin,0,0,1,0
+2020-03-31,United States,Tennessee,Hawkins,2,0,4,0
+2020-03-31,United States,Tennessee,Haywood,0,0,2,0
+2020-03-31,United States,Tennessee,Henry,0,0,1,0
+2020-03-31,United States,Tennessee,Houston,-1,0,1,0
+2020-03-31,United States,Tennessee,Humphreys,2,0,2,0
+2020-03-31,United States,Tennessee,Jefferson,1,0,6,0
+2020-03-31,United States,Tennessee,Johnson,0,0,2,0
+2020-03-31,United States,Tennessee,Knox,9,0,66,1
+2020-03-31,United States,Tennessee,Lawrence,2,0,2,0
+2020-03-31,United States,Tennessee,Lewis,0,0,2,0
+2020-03-31,United States,Tennessee,Lincoln,0,0,1,0
+2020-03-31,United States,Tennessee,Loudon,0,0,8,0
+2020-03-31,United States,Tennessee,Macon,1,0,4,0
+2020-03-31,United States,Tennessee,Madison,2,0,5,0
+2020-03-31,United States,Tennessee,Marion,0,0,5,0
+2020-03-31,United States,Tennessee,Marshall,1,0,1,0
+2020-03-31,United States,Tennessee,Maury,7,0,15,0
+2020-03-31,United States,Tennessee,McMinn,0,0,3,0
+2020-03-31,United States,Tennessee,McNairy,0,0,1,0
+2020-03-31,United States,Tennessee,Meigs,0,0,1,0
+2020-03-31,United States,Tennessee,Monroe,2,0,5,0
+2020-03-31,United States,Tennessee,Montgomery,6,0,19,0
+2020-03-31,United States,Tennessee,Morgan,0,0,1,0
+2020-03-31,United States,Tennessee,Obion,0,0,1,0
+2020-03-31,United States,Tennessee,Out of TN,40,0,190,0
+2020-03-31,United States,Tennessee,Overton,0,0,2,0
+2020-03-31,United States,Tennessee,Perry,0,0,2,0
+2020-03-31,United States,Tennessee,Putnam,7,0,24,0
+2020-03-31,United States,Tennessee,Rhea,1,0,1,0
+2020-03-31,United States,Tennessee,Roane,0,0,2,0
+2020-03-31,United States,Tennessee,Robertson,3,0,28,0
+2020-03-31,United States,Tennessee,Rutherford,20,0,68,0
+2020-03-31,United States,Tennessee,Scott,0,0,2,0
+2020-03-31,United States,Tennessee,Sequatchie,1,0,1,0
+2020-03-31,United States,Tennessee,Sevier,2,0,8,0
+2020-03-31,United States,Tennessee,Shelby,32,0,428,1
+2020-03-31,United States,Tennessee,Smith,1,0,2,0
+2020-03-31,United States,Tennessee,Sullivan,5,0,13,0
+2020-03-31,United States,Tennessee,Sumner,5,0,184,4
+2020-03-31,United States,Tennessee,Tipton,6,0,21,0
+2020-03-31,United States,Tennessee,Trousdale,3,0,4,0
+2020-03-31,United States,Tennessee,Unassigned,110,7,307,11
+2020-03-31,United States,Tennessee,Unicoi,0,0,1,0
+2020-03-31,United States,Tennessee,Union,0,0,1,0
+2020-03-31,United States,Tennessee,Warren,1,0,1,0
+2020-03-31,United States,Tennessee,Washington,0,0,14,0
+2020-03-31,United States,Tennessee,Wayne,1,0,1,0
+2020-03-31,United States,Tennessee,Weakley,0,0,1,0
+2020-03-31,United States,Tennessee,White,0,0,1,0
+2020-03-31,United States,Tennessee,Williamson,30,0,131,0
+2020-03-31,United States,Tennessee,Wilson,12,0,39,0
+2020-03-31,United States,Texas,Anderson,1,0,1,0
+2020-03-31,United States,Texas,Andrews,0,0,0,0
+2020-03-31,United States,Texas,Angelina,2,0,5,0
+2020-03-31,United States,Texas,Aransas,-2,0,0,0
+2020-03-31,United States,Texas,Atascosa,0,0,2,0
+2020-03-31,United States,Texas,Austin,0,0,2,0
+2020-03-31,United States,Texas,Bastrop,0,0,6,0
+2020-03-31,United States,Texas,Bell,8,0,44,1
+2020-03-31,United States,Texas,Bexar,11,0,168,6
+2020-03-31,United States,Texas,Blanco,0,0,1,0
+2020-03-31,United States,Texas,Bowie,5,1,9,1
+2020-03-31,United States,Texas,Brazoria,27,0,95,1
+2020-03-31,United States,Texas,Brazos,7,0,53,2
+2020-03-31,United States,Texas,Brown,0,0,3,0
+2020-03-31,United States,Texas,Burleson,0,0,1,0
+2020-03-31,United States,Texas,Burnet,0,0,3,0
+2020-03-31,United States,Texas,Caldwell,0,0,1,0
+2020-03-31,United States,Texas,Calhoun,1,0,7,0
+2020-03-31,United States,Texas,Cameron,6,0,26,0
+2020-03-31,United States,Texas,Cass,0,0,2,0
+2020-03-31,United States,Texas,Castro,0,0,8,0
+2020-03-31,United States,Texas,Chambers,3,0,8,0
+2020-03-31,United States,Texas,Cherokee,1,0,2,0
+2020-03-31,United States,Texas,Collin,26,0,160,1
+2020-03-31,United States,Texas,Colorado,2,0,2,0
+2020-03-31,United States,Texas,Comal,0,0,11,2
+2020-03-31,United States,Texas,Comanche,1,0,2,0
+2020-03-31,United States,Texas,Coryell,0,0,1,0
+2020-03-31,United States,Texas,Crane,0,0,2,0
+2020-03-31,United States,Texas,Dallas,82,2,631,13
+2020-03-31,United States,Texas,Dawson,0,0,3,0
+2020-03-31,United States,Texas,Deaf Smith,0,0,2,0
+2020-03-31,United States,Texas,Denton,15,2,206,4
+2020-03-31,United States,Texas,DeWitt,3,0,6,0
+2020-03-31,United States,Texas,Donley,1,0,1,0
+2020-03-31,United States,Texas,Eastland,0,0,4,0
+2020-03-31,United States,Texas,Ector,3,0,10,0
+2020-03-31,United States,Texas,El Paso,13,0,53,0
+2020-03-31,United States,Texas,Ellis,5,0,20,0
+2020-03-31,United States,Texas,Erath,2,1,5,1
+2020-03-31,United States,Texas,Falls,0,0,1,0
+2020-03-31,United States,Texas,Fannin,0,0,1,0
+2020-03-31,United States,Texas,Fayette,1,0,2,0
+2020-03-31,United States,Texas,Fort Bend,44,1,163,2
+2020-03-31,United States,Texas,Franklin,0,0,1,0
+2020-03-31,United States,Texas,Gaines,0,0,1,0
+2020-03-31,United States,Texas,Galveston,22,0,92,0
+2020-03-31,United States,Texas,Gillespie,1,0,1,0
+2020-03-31,United States,Texas,Grayson,0,0,7,0
+2020-03-31,United States,Texas,Gregg,0,0,5,0
+2020-03-31,United States,Texas,Grimes,1,0,3,0
+2020-03-31,United States,Texas,Guadalupe,2,0,15,0
+2020-03-31,United States,Texas,Hale,0,0,1,0
+2020-03-31,United States,Texas,Hardin,3,0,12,0
+2020-03-31,United States,Texas,Harris,117,1,680,6
+2020-03-31,United States,Texas,Harrison,0,0,1,0
+2020-03-31,United States,Texas,Hays,22,0,38,0
+2020-03-31,United States,Texas,Henderson,0,0,1,0
+2020-03-31,United States,Texas,Hidalgo,10,0,38,0
+2020-03-31,United States,Texas,Hill,0,0,1,0
+2020-03-31,United States,Texas,Hockley,0,0,7,0
+2020-03-31,United States,Texas,Hood,3,0,6,0
+2020-03-31,United States,Texas,Hopkins,0,0,2,0
+2020-03-31,United States,Texas,Hunt,1,0,4,0
+2020-03-31,United States,Texas,Jackson,0,0,1,0
+2020-03-31,United States,Texas,Jasper,0,0,1,0
+2020-03-31,United States,Texas,Jefferson,0,0,18,1
+2020-03-31,United States,Texas,Johnson,0,0,8,1
+2020-03-31,United States,Texas,Karnes,0,0,2,0
+2020-03-31,United States,Texas,Kaufman,0,0,3,0
+2020-03-31,United States,Texas,Kendall,0,0,7,0
+2020-03-31,United States,Texas,Kerr,1,0,1,0
+2020-03-31,United States,Texas,Kleberg,0,0,1,0
+2020-03-31,United States,Texas,Lamar,0,0,3,0
+2020-03-31,United States,Texas,Lamb,0,0,1,0
+2020-03-31,United States,Texas,Lavaca,0,0,1,0
+2020-03-31,United States,Texas,Leon,0,0,1,0
+2020-03-31,United States,Texas,Liberty,0,0,2,0
+2020-03-31,United States,Texas,Limestone,0,0,2,0
+2020-03-31,United States,Texas,Live Oak,1,0,1,0
+2020-03-31,United States,Texas,Llano,0,0,3,0
+2020-03-31,United States,Texas,Lubbock,26,0,77,1
+2020-03-31,United States,Texas,Lynn,0,0,2,0
+2020-03-31,United States,Texas,Martin,0,0,1,0
+2020-03-31,United States,Texas,Matagorda,1,0,21,1
+2020-03-31,United States,Texas,Maverick,0,0,1,0
+2020-03-31,United States,Texas,McLennan,3,0,39,0
+2020-03-31,United States,Texas,Medina,0,0,3,0
+2020-03-31,United States,Texas,Midland,3,0,16,1
+2020-03-31,United States,Texas,Milam,0,0,2,0
+2020-03-31,United States,Texas,Montague,0,0,1,0
+2020-03-31,United States,Texas,Montgomery,12,0,93,0
+2020-03-31,United States,Texas,Moore,0,0,1,0
+2020-03-31,United States,Texas,Morris,0,0,1,0
+2020-03-31,United States,Texas,Nacogdoches,0,0,2,0
+2020-03-31,United States,Texas,Navarro,0,0,3,0
+2020-03-31,United States,Texas,Newton,1,0,1,0
+2020-03-31,United States,Texas,Nueces,12,0,34,0
+2020-03-31,United States,Texas,Oldham,0,0,2,1
+2020-03-31,United States,Texas,Orange,0,0,5,0
+2020-03-31,United States,Texas,Panola,1,0,1,0
+2020-03-31,United States,Texas,Parker,0,0,4,0
+2020-03-31,United States,Texas,Polk,3,0,4,0
+2020-03-31,United States,Texas,Potter,3,0,8,0
+2020-03-31,United States,Texas,Randall,4,0,10,0
+2020-03-31,United States,Texas,Robertson,0,0,2,0
+2020-03-31,United States,Texas,Rockwall,1,0,5,0
+2020-03-31,United States,Texas,Rusk,0,0,3,0
+2020-03-31,United States,Texas,San Augustine,1,0,1,0
+2020-03-31,United States,Texas,San Jacinto,0,0,1,0
+2020-03-31,United States,Texas,San Patricio,0,0,2,0
+2020-03-31,United States,Texas,Shelby,0,0,2,0
+2020-03-31,United States,Texas,Smith,4,0,36,1
+2020-03-31,United States,Texas,Starr,0,0,2,0
+2020-03-31,United States,Texas,Swisher,0,0,1,0
+2020-03-31,United States,Texas,Tarrant,35,0,273,1
+2020-03-31,United States,Texas,Taylor,3,0,14,0
+2020-03-31,United States,Texas,Terry,0,0,4,0
+2020-03-31,United States,Texas,Tom Green,3,0,9,0
+2020-03-31,United States,Texas,Travis,38,0,244,2
+2020-03-31,United States,Texas,Tyler,1,0,1,0
+2020-03-31,United States,Texas,Upshur,0,0,2,0
+2020-03-31,United States,Texas,Uvalde,0,0,2,0
+2020-03-31,United States,Texas,Val Verde,0,0,5,0
+2020-03-31,United States,Texas,Van Zandt,0,0,2,1
+2020-03-31,United States,Texas,Victoria,9,0,15,0
+2020-03-31,United States,Texas,Walker,0,0,3,0
+2020-03-31,United States,Texas,Waller,0,0,3,0
+2020-03-31,United States,Texas,Washington,1,0,9,0
+2020-03-31,United States,Texas,Webb,10,2,45,4
+2020-03-31,United States,Texas,Wharton,0,0,6,0
+2020-03-31,United States,Texas,Wichita,2,0,30,0
+2020-03-31,United States,Texas,Willacy,0,0,2,0
+2020-03-31,United States,Texas,Williamson,5,0,42,1
+2020-03-31,United States,Texas,Wilson,1,0,3,0
+2020-03-31,United States,Texas,Wise,0,0,1,0
+2020-03-31,United States,Texas,Wood,1,0,1,0
+2020-03-31,United States,Texas,Young,0,0,1,0
+2020-03-31,United States,Utah,Box Elder,0,0,7,0
+2020-03-31,United States,Utah,Cache,7,0,7,0
+2020-03-31,United States,Utah,Davis,7,0,84,1
+2020-03-31,United States,Utah,Garfield,1,0,1,0
+2020-03-31,United States,Utah,Grand,1,0,1,0
+2020-03-31,United States,Utah,Iron,6,0,6,0
+2020-03-31,United States,Utah,Out of UT,3,0,22,0
+2020-03-31,United States,Utah,Salt Lake,36,0,396,2
+2020-03-31,United States,Utah,San Juan,0,0,4,0
+2020-03-31,United States,Utah,Summit,5,0,172,0
+2020-03-31,United States,Utah,Tooele,3,0,12,0
+2020-03-31,United States,Utah,Uintah,1,0,1,0
+2020-03-31,United States,Utah,Utah,13,0,70,0
+2020-03-31,United States,Utah,Wasatch,6,0,50,0
+2020-03-31,United States,Utah,Washington,-1,0,14,1
+2020-03-31,United States,Utah,Weber,2,1,41,1
+2020-03-31,United States,Vermont,Addison,6,0,23,0
+2020-03-31,United States,Vermont,Bennington,2,0,18,0
+2020-03-31,United States,Vermont,Caledonia,0,0,2,0
+2020-03-31,United States,Vermont,Chittenden,35,0,152,4
+2020-03-31,United States,Vermont,Franklin,4,0,13,0
+2020-03-31,United States,Vermont,Lamoille,1,0,13,0
+2020-03-31,United States,Vermont,Orange,1,0,4,0
+2020-03-31,United States,Vermont,Orleans,2,0,7,0
+2020-03-31,United States,Vermont,Rutland,0,0,6,0
+2020-03-31,United States,Vermont,Unassigned,-17,1,11,8
+2020-03-31,United States,Vermont,Washington,3,0,15,0
+2020-03-31,United States,Vermont,Windham,0,0,11,0
+2020-03-31,United States,Vermont,Windsor,0,0,18,1
+2020-03-31,United States,Virgin Islands,,0,0,30,0
+2020-03-31,United States,Virginia,Accomack,1,0,7,0
+2020-03-31,United States,Virginia,Albemarle,2,0,21,0
+2020-03-31,United States,Virginia,Alexandria,4,0,30,0
+2020-03-31,United States,Virginia,Alleghany,0,0,1,0
+2020-03-31,United States,Virginia,Amelia,1,0,2,0
+2020-03-31,United States,Virginia,Amherst,0,0,3,0
+2020-03-31,United States,Virginia,Arlington,18,0,104,2
+2020-03-31,United States,Virginia,Bedford,0,0,2,0
+2020-03-31,United States,Virginia,Botetourt,0,0,5,0
+2020-03-31,United States,Virginia,Bristol,0,0,1,0
+2020-03-31,United States,Virginia,Brunswick,1,0,1,0
+2020-03-31,United States,Virginia,Buckingham,2,0,2,0
+2020-03-31,United States,Virginia,Campbell,1,0,1,0
+2020-03-31,United States,Virginia,Carroll,1,0,1,0
+2020-03-31,United States,Virginia,Charles City,0,0,1,0
+2020-03-31,United States,Virginia,Charlottesville,1,0,14,0
+2020-03-31,United States,Virginia,Chesapeake,5,0,23,0
+2020-03-31,United States,Virginia,Chesterfield,22,0,43,0
+2020-03-31,United States,Virginia,Culpeper,0,0,3,0
+2020-03-31,United States,Virginia,Danville,0,0,4,0
+2020-03-31,United States,Virginia,Fairfax,20,0,244,2
+2020-03-31,United States,Virginia,Fairfax City,0,0,1,0
+2020-03-31,United States,Virginia,Fauquier,1,0,7,0
+2020-03-31,United States,Virginia,Fluvanna,0,0,3,0
+2020-03-31,United States,Virginia,Franklin,0,0,5,0
+2020-03-31,United States,Virginia,Franklin City,1,0,1,0
+2020-03-31,United States,Virginia,Frederick,2,0,12,0
+2020-03-31,United States,Virginia,Fredericksburg,0,0,1,0
+2020-03-31,United States,Virginia,Galax,0,0,1,0
+2020-03-31,United States,Virginia,Gloucester,0,0,7,0
+2020-03-31,United States,Virginia,Goochland,1,0,7,0
+2020-03-31,United States,Virginia,Greene,0,0,1,0
+2020-03-31,United States,Virginia,Greensville,0,0,3,0
+2020-03-31,United States,Virginia,Halifax,0,0,1,0
+2020-03-31,United States,Virginia,Hampton,4,0,13,1
+2020-03-31,United States,Virginia,Hanover,1,0,6,0
+2020-03-31,United States,Virginia,Harrisonburg,0,0,6,0
+2020-03-31,United States,Virginia,Henrico,18,0,62,2
+2020-03-31,United States,Virginia,Henry,0,0,1,0
+2020-03-31,United States,Virginia,Hopewell,1,0,4,0
+2020-03-31,United States,Virginia,Isle of Wight,1,0,4,0
+2020-03-31,United States,Virginia,James City,16,0,89,2
+2020-03-31,United States,Virginia,King and Queen,1,0,1,0
+2020-03-31,United States,Virginia,King George,0,0,3,0
+2020-03-31,United States,Virginia,King William,0,0,1,0
+2020-03-31,United States,Virginia,Lancaster,0,0,1,0
+2020-03-31,United States,Virginia,Lee,0,0,2,0
+2020-03-31,United States,Virginia,Loudoun,26,0,87,1
+2020-03-31,United States,Virginia,Louisa,1,0,9,0
+2020-03-31,United States,Virginia,Lynchburg,1,0,5,0
+2020-03-31,United States,Virginia,Madison,0,0,3,0
+2020-03-31,United States,Virginia,Manassas,1,0,8,0
+2020-03-31,United States,Virginia,Manassas Park,0,0,1,0
+2020-03-31,United States,Virginia,Mathews,0,0,2,0
+2020-03-31,United States,Virginia,Mecklenburg,0,0,4,0
+2020-03-31,United States,Virginia,Montgomery,0,0,1,0
+2020-03-31,United States,Virginia,Nelson,0,0,2,0
+2020-03-31,United States,Virginia,New Kent,0,0,1,0
+2020-03-31,United States,Virginia,Newport News,5,0,23,1
+2020-03-31,United States,Virginia,Norfolk,10,0,27,0
+2020-03-31,United States,Virginia,Northampton,0,0,1,0
+2020-03-31,United States,Virginia,Northumberland,1,0,3,0
+2020-03-31,United States,Virginia,Nottoway,0,0,1,0
+2020-03-31,United States,Virginia,Orange,1,0,2,0
+2020-03-31,United States,Virginia,Page,1,0,1,0
+2020-03-31,United States,Virginia,Petersburg,0,0,2,0
+2020-03-31,United States,Virginia,Pittsylvania,0,0,1,0
+2020-03-31,United States,Virginia,Poquoson,0,0,2,0
+2020-03-31,United States,Virginia,Portsmouth,8,0,12,0
+2020-03-31,United States,Virginia,Powhatan,1,0,4,0
+2020-03-31,United States,Virginia,Prince Edward,0,0,2,0
+2020-03-31,United States,Virginia,Prince George,2,0,7,0
+2020-03-31,United States,Virginia,Prince William,15,0,94,1
+2020-03-31,United States,Virginia,Radford,0,0,1,0
+2020-03-31,United States,Virginia,Richmond City,1,0,26,0
+2020-03-31,United States,Virginia,Roanoke,1,0,3,0
+2020-03-31,United States,Virginia,Roanoke City,0,0,6,0
+2020-03-31,United States,Virginia,Rockbridge,0,0,2,0
+2020-03-31,United States,Virginia,Rockingham,0,0,5,0
+2020-03-31,United States,Virginia,Shenandoah,1,0,7,0
+2020-03-31,United States,Virginia,Smyth,0,0,1,0
+2020-03-31,United States,Virginia,Southampton,0,0,1,0
+2020-03-31,United States,Virginia,Spotsylvania,1,0,7,0
+2020-03-31,United States,Virginia,Stafford,4,0,24,0
+2020-03-31,United States,Virginia,Suffolk,1,0,4,0
+2020-03-31,United States,Virginia,Surry,1,0,1,0
+2020-03-31,United States,Virginia,Tazewell,0,0,2,0
+2020-03-31,United States,Virginia,Unassigned,0,7,0,12
+2020-03-31,United States,Virginia,Virginia Beach,13,0,65,1
+2020-03-31,United States,Virginia,Warren,1,0,3,0
+2020-03-31,United States,Virginia,Washington,0,0,2,0
+2020-03-31,United States,Virginia,Waynesboro,2,0,2,0
+2020-03-31,United States,Virginia,Williamsburg,1,0,8,1
+2020-03-31,United States,Virginia,Winchester,0,0,3,0
+2020-03-31,United States,Virginia,Wythe,0,0,1,0
+2020-03-31,United States,Virginia,York,3,0,14,1
+2020-03-31,United States,Washington,Adams,6,0,13,0
+2020-03-31,United States,Washington,Benton,-13,1,89,6
+2020-03-31,United States,Washington,Chelan,2,1,16,2
+2020-03-31,United States,Washington,Clallam,2,0,8,0
+2020-03-31,United States,Washington,Clark,26,0,116,6
+2020-03-31,United States,Washington,Columbia,0,0,1,0
+2020-03-31,United States,Washington,Cowlitz,0,0,14,0
+2020-03-31,United States,Washington,Douglas,0,0,5,0
+2020-03-31,United States,Washington,Ferry,0,0,1,0
+2020-03-31,United States,Washington,Franklin,-4,0,33,0
+2020-03-31,United States,Washington,Grant,4,0,63,1
+2020-03-31,United States,Washington,Grays Harbor,1,0,2,0
+2020-03-31,United States,Washington,Island,1,2,106,3
+2020-03-31,United States,Washington,Jefferson,2,0,16,0
+2020-03-31,United States,Washington,King,169,6,2330,150
+2020-03-31,United States,Washington,Kitsap,18,0,74,0
+2020-03-31,United States,Washington,Kittitas,0,0,9,0
+2020-03-31,United States,Washington,Klickitat,1,0,9,1
+2020-03-31,United States,Washington,Lewis,0,0,10,0
+2020-03-31,United States,Washington,Lincoln,0,0,1,0
+2020-03-31,United States,Washington,Mason,3,0,5,0
+2020-03-31,United States,Washington,Okanogan,0,0,3,0
+2020-03-31,United States,Washington,Pierce,60,0,377,6
+2020-03-31,United States,Washington,San Juan,0,0,4,0
+2020-03-31,United States,Washington,Skagit,20,0,121,3
+2020-03-31,United States,Washington,Skamania,0,0,1,0
+2020-03-31,United States,Washington,Snohomish,161,10,1229,33
+2020-03-31,United States,Washington,Spokane,0,0,136,4
+2020-03-31,United States,Washington,Stevens,1,0,4,0
+2020-03-31,United States,Washington,Thurston,12,0,48,0
+2020-03-31,United States,Washington,Unassigned,0,0,274,0
+2020-03-31,United States,Washington,Walla Walla,0,0,6,0
+2020-03-31,United States,Washington,Whatcom,23,0,139,7
+2020-03-31,United States,Washington,Whitman,0,0,8,0
+2020-03-31,United States,Washington,Yakima,14,0,161,3
+2020-03-31,United States,West Virginia,Berkeley,2,0,16,0
+2020-03-31,United States,West Virginia,Cabell,0,0,1,0
+2020-03-31,United States,West Virginia,Greenbrier,0,0,3,0
+2020-03-31,United States,West Virginia,Hancock,0,0,3,0
+2020-03-31,United States,West Virginia,Hardy,1,0,1,0
+2020-03-31,United States,West Virginia,Harrison,1,0,11,0
+2020-03-31,United States,West Virginia,Jackson,1,0,9,0
+2020-03-31,United States,West Virginia,Jefferson,2,0,8,0
+2020-03-31,United States,West Virginia,Kanawha,8,0,31,0
+2020-03-31,United States,West Virginia,Logan,0,0,2,0
+2020-03-31,United States,West Virginia,Marion,0,0,5,1
+2020-03-31,United States,West Virginia,Marshall,0,0,4,0
+2020-03-31,United States,West Virginia,Mason,0,0,3,0
+2020-03-31,United States,West Virginia,Mercer,0,0,2,0
+2020-03-31,United States,West Virginia,Monongalia,0,0,31,0
+2020-03-31,United States,West Virginia,Morgan,0,0,1,0
+2020-03-31,United States,West Virginia,Ohio,1,0,10,0
+2020-03-31,United States,West Virginia,Pleasants,0,0,1,0
+2020-03-31,United States,West Virginia,Preston,1,0,3,0
+2020-03-31,United States,West Virginia,Putnam,0,0,4,0
+2020-03-31,United States,West Virginia,Raleigh,0,0,3,0
+2020-03-31,United States,West Virginia,Randolph,0,0,1,0
+2020-03-31,United States,West Virginia,Roane,0,0,2,0
+2020-03-31,United States,West Virginia,Tucker,0,0,2,0
+2020-03-31,United States,West Virginia,Upshur,0,0,1,0
+2020-03-31,United States,West Virginia,Wetzel,0,0,1,0
+2020-03-31,United States,West Virginia,Wirt,0,0,1,0
+2020-03-31,United States,West Virginia,Wood,0,0,2,0
+2020-03-31,United States,Wisconsin,Ashland,1,0,1,0
+2020-03-31,United States,Wisconsin,Bayfield,0,0,2,0
+2020-03-31,United States,Wisconsin,Brown,2,0,9,0
+2020-03-31,United States,Wisconsin,Buffalo,1,0,1,0
+2020-03-31,United States,Wisconsin,Calumet,0,0,1,0
+2020-03-31,United States,Wisconsin,Chippewa,1,0,8,0
+2020-03-31,United States,Wisconsin,Clark,0,0,3,0
+2020-03-31,United States,Wisconsin,Columbia,5,0,14,0
+2020-03-31,United States,Wisconsin,Dane,22,0,214,2
+2020-03-31,United States,Wisconsin,Dodge,2,0,10,0
+2020-03-31,United States,Wisconsin,Door,1,0,1,0
+2020-03-31,United States,Wisconsin,Douglas,0,0,6,0
+2020-03-31,United States,Wisconsin,Dunn,0,0,3,0
+2020-03-31,United States,Wisconsin,Eau Claire,1,0,11,0
+2020-03-31,United States,Wisconsin,Fond du Lac,1,0,22,2
+2020-03-31,United States,Wisconsin,Grant,1,0,2,0
+2020-03-31,United States,Wisconsin,Green,1,0,6,0
+2020-03-31,United States,Wisconsin,Iowa,0,0,3,0
+2020-03-31,United States,Wisconsin,Iron,0,0,1,1
+2020-03-31,United States,Wisconsin,Jackson,0,0,2,0
+2020-03-31,United States,Wisconsin,Jefferson,1,0,11,0
+2020-03-31,United States,Wisconsin,Juneau,0,0,3,0
+2020-03-31,United States,Wisconsin,Kenosha,7,0,37,0
+2020-03-31,United States,Wisconsin,La Crosse,3,0,19,0
+2020-03-31,United States,Wisconsin,Marathon,1,0,3,0
+2020-03-31,United States,Wisconsin,Marinette,0,0,1,0
+2020-03-31,United States,Wisconsin,Marquette,0,0,2,0
+2020-03-31,United States,Wisconsin,Milwaukee,93,1,710,11
+2020-03-31,United States,Wisconsin,Monroe,1,0,2,0
+2020-03-31,United States,Wisconsin,Oconto,1,0,1,0
+2020-03-31,United States,Wisconsin,Oneida,0,0,3,0
+2020-03-31,United States,Wisconsin,Outagamie,3,0,12,0
+2020-03-31,United States,Wisconsin,Ozaukee,7,2,43,5
+2020-03-31,United States,Wisconsin,Pierce,1,0,7,0
+2020-03-31,United States,Wisconsin,Portage,0,0,1,0
+2020-03-31,United States,Wisconsin,Racine,5,0,26,0
+2020-03-31,United States,Wisconsin,Richland,0,0,2,0
+2020-03-31,United States,Wisconsin,Rock,1,0,16,0
+2020-03-31,United States,Wisconsin,Sauk,0,0,13,1
+2020-03-31,United States,Wisconsin,Sheboygan,3,0,11,0
+2020-03-31,United States,Wisconsin,St. Croix,1,0,5,0
+2020-03-31,United States,Wisconsin,Unassigned,0,0,0,0
+2020-03-31,United States,Wisconsin,Vilas,0,0,3,0
+2020-03-31,United States,Wisconsin,Walworth,0,0,6,0
+2020-03-31,United States,Wisconsin,Washington,6,1,40,1
+2020-03-31,United States,Wisconsin,Waukesha,8,1,101,1
+2020-03-31,United States,Wisconsin,Waupaca,0,0,1,1
+2020-03-31,United States,Wisconsin,Winnebago,1,0,11,0
+2020-03-31,United States,Wisconsin,Wood,0,0,2,0
+2020-03-31,United States,Wyoming,Albany,0,0,1,0
+2020-03-31,United States,Wyoming,Campbell,1,0,2,0
+2020-03-31,United States,Wyoming,Carbon,0,0,3,0
+2020-03-31,United States,Wyoming,Converse,0,0,1,0
+2020-03-31,United States,Wyoming,Fremont,1,0,25,0
+2020-03-31,United States,Wyoming,Goshen,0,0,1,0
+2020-03-31,United States,Wyoming,Johnson,2,0,7,0
+2020-03-31,United States,Wyoming,Laramie,2,0,22,0
+2020-03-31,United States,Wyoming,Natrona,2,0,12,0
+2020-03-31,United States,Wyoming,Park,0,0,1,0
+2020-03-31,United States,Wyoming,Sheridan,2,0,10,0
+2020-03-31,United States,Wyoming,Sublette,0,0,1,0
+2020-03-31,United States,Wyoming,Sweetwater,1,0,2,0
+2020-03-31,United States,Wyoming,Teton,4,0,20,0
+2020-03-31,United States,Wyoming,Washakie,0,0,1,0
