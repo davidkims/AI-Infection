@@ -1,0 +1,2830 @@
+tDate,Country,Province1,Province2,Confirmed,Deaths,AccConfirmed,AccDeaths
+2020-04-12,Australia,Australian Capital Territory,,0,0,103,2
+2020-04-12,Australia,New South Wales,,0,1,2857,24
+2020-04-12,Australia,Northern Territory,,0,0,28,0
+2020-04-12,Australia,Queensland,,9,0,983,5
+2020-04-12,Australia,South Australia,,0,1,429,4
+2020-04-12,Australia,Tasmania,,0,1,133,5
+2020-04-12,Australia,Victoria,,3,0,1268,14
+2020-04-12,Australia,Western Australia,,0,0,514,6
+2020-04-12,Austria,,,139,13,13945,350
+2020-04-12,Belgium,,,1629,254,29647,3600
+2020-04-12,Canada,Alberta,,0,0,1567,40
+2020-04-12,Canada,British Columbia,,0,0,1445,58
+2020-04-12,Canada,Grand Princess,,0,0,13,0
+2020-04-12,Canada,Manitoba,,-1,0,242,4
+2020-04-12,Canada,New Brunswick,,2,0,114,0
+2020-04-12,Canada,Newfoundland and Labrador,,1,0,242,3
+2020-04-12,Canada,Northwest Territories,,0,0,5,0
+2020-04-12,Canada,Nova Scotia,,17,0,445,2
+2020-04-12,Canada,Nunavut,,0,0,0,0
+2020-04-12,Canada,Ontario,,401,21,7049,274
+2020-04-12,Canada,Prince Edward Island,,0,0,25,0
+2020-04-12,Canada,Quebec,,790,88,13850,709
+2020-04-12,Canada,Recovered,,0,0,0,0
+2020-04-12,Canada,Saskatchewan,,9,0,298,4
+2020-04-12,Canada,Yukon,,0,0,8,0
+2020-04-12,Chile,,,286,7,7213,80
+2020-04-12,China,Beijing,,0,0,589,8
+2020-04-12,China,Fujian,,1,0,352,1
+2020-04-12,China,Guangdong,,4,0,1552,8
+2020-04-12,China,Heilongjiang,,23,0,684,13
+2020-04-12,China,Henan,,0,0,1276,22
+2020-04-12,China,Hong Kong,,4,0,1004,4
+2020-04-12,China,Hubei,,0,0,67803,3219
+2020-04-12,China,Inner Mongolia,,34,0,189,1
+2020-04-12,China,Jiangsu,,1,0,653,0
+2020-04-12,China,Jilin,,1,0,99,1
+2020-04-12,China,Liaoning,,0,0,145,2
+2020-04-12,China,Macau,,0,0,45,0
+2020-04-12,China,Shanghai,,52,0,607,7
+2020-04-12,China,Tianjin,,0,0,183,3
+2020-04-12,China,Unknown,,0,0,0,0
+2020-04-12,China,Zhejiang,,0,0,1267,1
+2020-04-12,Colombia,,,67,9,2776,109
+2020-04-12,Costa Rica,,,18,0,595,3
+2020-04-12,Czechia,,,160,9,5991,138
+2020-04-12,Denmark,,,178,13,6174,273
+2020-04-12,Denmark,Faroe Islands,,0,0,184,0
+2020-04-12,Denmark,Greenland,,0,0,11,0
+2020-04-12,Estonia,,,5,1,1309,25
+2020-04-12,Finland,,,69,7,2974,56
+2020-04-12,France,,,26834,561,119670,14377
+2020-04-12,France,French Guiana,,3,0,86,0
+2020-04-12,France,French Polynesia,,2,0,53,0
+2020-04-12,France,Guadeloupe,,0,0,143,8
+2020-04-12,France,Martinique,,0,0,155,6
+2020-04-12,France,Mayotte,,0,0,196,3
+2020-04-12,France,New Caledonia,,0,0,18,0
+2020-04-12,France,Reunion,,1,0,389,0
+2020-04-12,France,Saint Barthelemy,,0,0,6,0
+2020-04-12,France,Saint Pierre and Miquelon,,0,0,1,0
+2020-04-12,France,St Martin,,0,0,32,2
+2020-04-12,Germany,,,2946,286,127854,3022
+2020-04-12,Greece,,,33,5,2114,98
+2020-04-12,Hungary,,,100,14,1410,99
+2020-04-12,Iceland,,,12,0,1701,8
+2020-04-12,Ireland,,,727,14,9655,334
+2020-04-12,Israel,,,552,6,11504,109
+2020-04-12,Italy,,,4092,431,156363,19899
+2020-04-12,Japan,,,743,9,6748,108
+2020-04-12,Latvia,,,21,2,651,5
+2020-04-12,Lithuania,,,26,1,952,14
+2020-04-12,Luxembourg,,,11,4,3281,66
+2020-04-12,Mexico,,,375,40,4219,273
+2020-04-12,Netherlands,,,1174,94,25587,2737
+2020-04-12,Netherlands,Aruba,,0,0,92,0
+2020-04-12,Netherlands,Bonaire Sint Eustatius and Saba,,1,0,3,0
+2020-04-12,Netherlands,Curacao,,0,0,14,1
+2020-04-12,Netherlands,Sint Maarten,,0,0,50,9
+2020-04-12,New Zealand,,,18,0,1330,4
+2020-04-12,New Zealand,Cook Islands,,0,0,0,0
+2020-04-12,Norway,,,116,9,6525,128
+2020-04-12,Poland,,,318,24,6674,232
+2020-04-12,Portugal,,,598,34,16585,504
+2020-04-12,Slovakia,,,14,0,742,2
+2020-04-12,Slovenia,,,17,3,1205,53
+2020-04-12,South Korea,,,32,3,10512,214
+2020-04-12,Spain,,,3804,603,166831,17209
+2020-04-12,Sweden,,,332,12,10483,899
+2020-04-12,Switzerland,,,308,70,25415,1106
+2020-04-12,Taiwan,,,3,0,388,6
+2020-04-12,Turkey,,,4789,97,56956,1198
+2020-04-12,United Kingdom,,,5288,737,84279,10612
+2020-04-12,United Kingdom,Anguilla,,0,0,3,0
+2020-04-12,United Kingdom,Bermuda,,9,0,57,4
+2020-04-12,United Kingdom,British Virgin Islands,,0,0,3,0
+2020-04-12,United Kingdom,Cayman Islands,,8,0,53,1
+2020-04-12,United Kingdom,Channel Islands,,24,0,431,9
+2020-04-12,United Kingdom,Falkland Islands (Malvinas),,0,0,5,0
+2020-04-12,United Kingdom,Gibraltar,,0,0,129,0
+2020-04-12,United Kingdom,Isle of Man,,2,0,228,2
+2020-04-12,United Kingdom,Montserrat,,0,0,9,0
+2020-04-12,United Kingdom,Saint Helena Ascension and Tristan da Cunha,,0,0,0,0
+2020-04-12,United Kingdom,Turks and Caicos Islands,,1,0,9,1
+2020-04-12,United States,Alabama,Autauga,0,0,19,1
+2020-04-12,United States,Alabama,Baldwin,5,0,75,1
+2020-04-12,United States,Alabama,Barbour,0,0,10,0
+2020-04-12,United States,Alabama,Bibb,3,0,16,0
+2020-04-12,United States,Alabama,Blount,2,0,17,0
+2020-04-12,United States,Alabama,Bullock,0,0,4,0
+2020-04-12,United States,Alabama,Butler,1,0,7,0
+2020-04-12,United States,Alabama,Calhoun,4,0,63,0
+2020-04-12,United States,Alabama,Chambers,17,0,206,8
+2020-04-12,United States,Alabama,Cherokee,2,0,9,0
+2020-04-12,United States,Alabama,Chilton,0,0,31,0
+2020-04-12,United States,Alabama,Choctaw,1,0,12,0
+2020-04-12,United States,Alabama,Clarke,3,0,18,0
+2020-04-12,United States,Alabama,Clay,2,0,14,0
+2020-04-12,United States,Alabama,Cleburne,0,0,12,0
+2020-04-12,United States,Alabama,Coffee,11,0,33,0
+2020-04-12,United States,Alabama,Colbert,1,0,14,1
+2020-04-12,United States,Alabama,Conecuh,2,0,5,0
+2020-04-12,United States,Alabama,Coosa,7,0,17,0
+2020-04-12,United States,Alabama,Covington,2,0,14,0
+2020-04-12,United States,Alabama,Crenshaw,1,0,4,0
+2020-04-12,United States,Alabama,Cullman,9,0,40,1
+2020-04-12,United States,Alabama,Dale,4,0,12,0
+2020-04-12,United States,Alabama,Dallas,3,0,12,0
+2020-04-12,United States,Alabama,DeKalb,6,0,27,0
+2020-04-12,United States,Alabama,Elmore,3,0,34,0
+2020-04-12,United States,Alabama,Escambia,0,0,7,0
+2020-04-12,United States,Alabama,Etowah,4,1,77,7
+2020-04-12,United States,Alabama,Fayette,1,0,6,0
+2020-04-12,United States,Alabama,Franklin,2,0,13,0
+2020-04-12,United States,Alabama,Geneva,1,0,1,0
+2020-04-12,United States,Alabama,Greene,3,0,15,0
+2020-04-12,United States,Alabama,Hale,4,0,15,0
+2020-04-12,United States,Alabama,Henry,1,0,11,0
+2020-04-12,United States,Alabama,Houston,9,0,47,1
+2020-04-12,United States,Alabama,Jackson,3,0,25,2
+2020-04-12,United States,Alabama,Jefferson,3,0,605,15
+2020-04-12,United States,Alabama,Lamar,0,0,6,0
+2020-04-12,United States,Alabama,Lauderdale,0,0,21,4
+2020-04-12,United States,Alabama,Lawrence,0,0,10,0
+2020-04-12,United States,Alabama,Lee,17,0,244,8
+2020-04-12,United States,Alabama,Limestone,1,0,36,0
+2020-04-12,United States,Alabama,Lowndes,0,0,13,0
+2020-04-12,United States,Alabama,Macon,1,0,13,1
+2020-04-12,United States,Alabama,Madison,1,0,195,3
+2020-04-12,United States,Alabama,Marengo,2,0,18,1
+2020-04-12,United States,Alabama,Marion,11,0,57,3
+2020-04-12,United States,Alabama,Marshall,15,0,101,2
+2020-04-12,United States,Alabama,Mobile,23,0,441,15
+2020-04-12,United States,Alabama,Monroe,0,0,7,1
+2020-04-12,United States,Alabama,Montgomery,13,0,120,4
+2020-04-12,United States,Alabama,Morgan,3,0,40,0
+2020-04-12,United States,Alabama,Perry,2,0,6,0
+2020-04-12,United States,Alabama,Pickens,1,0,22,0
+2020-04-12,United States,Alabama,Pike,2,0,19,0
+2020-04-12,United States,Alabama,Randolph,11,0,38,4
+2020-04-12,United States,Alabama,Russell,3,0,25,0
+2020-04-12,United States,Alabama,Shelby,23,0,228,5
+2020-04-12,United States,Alabama,St. Clair,3,0,49,0
+2020-04-12,United States,Alabama,Sumter,2,0,20,0
+2020-04-12,United States,Alabama,Talladega,1,0,37,0
+2020-04-12,United States,Alabama,Tallapoosa,39,0,101,4
+2020-04-12,United States,Alabama,Tuscaloosa,19,0,124,0
+2020-04-12,United States,Alabama,Unassigned,0,0,0,0
+2020-04-12,United States,Alabama,Walker,3,0,81,0
+2020-04-12,United States,Alabama,Washington,0,0,12,1
+2020-04-12,United States,Alabama,Wilcox,5,0,31,0
+2020-04-12,United States,Alabama,Winston,0,0,5,0
+2020-04-12,United States,Alaska,Anchorage,6,0,127,4
+2020-04-12,United States,Alaska,Bethel,0,0,1,0
+2020-04-12,United States,Alaska,Fairbanks North Star,3,0,79,1
+2020-04-12,United States,Alaska,Juneau,1,0,16,0
+2020-04-12,United States,Alaska,Kenai Peninsula,0,0,15,0
+2020-04-12,United States,Alaska,Ketchikan Gateway,1,0,15,0
+2020-04-12,United States,Alaska,Matanuska-Susitna,4,0,14,0
+2020-04-12,United States,Alaska,Petersburg,0,0,2,0
+2020-04-12,United States,Alaska,Prince of Wales-Hyder,0,0,1,0
+2020-04-12,United States,Alaska,Southeast Fairbanks,0,0,1,0
+2020-04-12,United States,Alaska,Unassigned,0,0,0,3
+2020-04-12,United States,Alaska,Yukon-Koyukuk,0,0,1,0
+2020-04-12,United States,Arizona,Apache,6,0,72,0
+2020-04-12,United States,Arizona,Cochise,2,0,15,0
+2020-04-12,United States,Arizona,Coconino,5,0,243,15
+2020-04-12,United States,Arizona,Gila,0,0,3,0
+2020-04-12,United States,Arizona,Graham,0,0,2,0
+2020-04-12,United States,Arizona,Greenlee,0,0,2,0
+2020-04-12,United States,Arizona,La Paz,0,0,4,0
+2020-04-12,United States,Arizona,Maricopa,69,0,1960,47
+2020-04-12,United States,Arizona,Mohave,0,0,30,0
+2020-04-12,United States,Arizona,Navajo,14,0,335,1
+2020-04-12,United States,Arizona,Pima,31,13,622,29
+2020-04-12,United States,Arizona,Pinal,17,0,163,0
+2020-04-12,United States,Arizona,Santa Cruz,0,0,8,0
+2020-04-12,United States,Arizona,Unassigned,0,-7,0,22
+2020-04-12,United States,Arizona,Yavapai,0,1,63,1
+2020-04-12,United States,Arizona,Yuma,5,0,20,0
+2020-04-12,United States,Arkansas,Arkansas,0,0,2,0
+2020-04-12,United States,Arkansas,Ashley,0,0,10,0
+2020-04-12,United States,Arkansas,Baxter,0,0,4,0
+2020-04-12,United States,Arkansas,Benton,1,0,48,0
+2020-04-12,United States,Arkansas,Boone,0,0,3,0
+2020-04-12,United States,Arkansas,Bradley,1,0,7,0
+2020-04-12,United States,Arkansas,Carroll,0,0,2,0
+2020-04-12,United States,Arkansas,Chicot,0,0,5,0
+2020-04-12,United States,Arkansas,Clark,0,0,27,0
+2020-04-12,United States,Arkansas,Clay,0,0,1,0
+2020-04-12,United States,Arkansas,Cleburne,1,0,70,4
+2020-04-12,United States,Arkansas,Cleveland,0,0,8,0
+2020-04-12,United States,Arkansas,Columbia,0,0,3,0
+2020-04-12,United States,Arkansas,Conway,0,0,4,1
+2020-04-12,United States,Arkansas,Craighead,0,0,31,0
+2020-04-12,United States,Arkansas,Crawford,0,0,3,0
+2020-04-12,United States,Arkansas,Crittenden,4,0,93,2
+2020-04-12,United States,Arkansas,Cross,0,0,6,0
+2020-04-12,United States,Arkansas,Dallas,0,0,1,0
+2020-04-12,United States,Arkansas,Desha,0,0,6,0
+2020-04-12,United States,Arkansas,Drew,0,0,6,1
+2020-04-12,United States,Arkansas,Faulkner,2,0,59,1
+2020-04-12,United States,Arkansas,Franklin,0,0,1,0
+2020-04-12,United States,Arkansas,Garland,9,0,81,0
+2020-04-12,United States,Arkansas,Grant,1,0,10,0
+2020-04-12,United States,Arkansas,Greene,0,0,6,0
+2020-04-12,United States,Arkansas,Hempstead,1,0,5,1
+2020-04-12,United States,Arkansas,Hot Spring,0,0,8,0
+2020-04-12,United States,Arkansas,Howard,2,0,8,0
+2020-04-12,United States,Arkansas,Independence,0,0,5,0
+2020-04-12,United States,Arkansas,Izard,0,0,1,0
+2020-04-12,United States,Arkansas,Jefferson,4,1,95,3
+2020-04-12,United States,Arkansas,Johnson,0,0,13,0
+2020-04-12,United States,Arkansas,Lafayette,0,0,2,0
+2020-04-12,United States,Arkansas,Lawrence,1,0,11,1
+2020-04-12,United States,Arkansas,Lee,0,0,2,0
+2020-04-12,United States,Arkansas,Lincoln,1,0,11,0
+2020-04-12,United States,Arkansas,Logan,0,0,2,0
+2020-04-12,United States,Arkansas,Lonoke,3,0,30,0
+2020-04-12,United States,Arkansas,Madison,0,0,1,0
+2020-04-12,United States,Arkansas,Marion,0,0,1,0
+2020-04-12,United States,Arkansas,Miller,0,0,22,0
+2020-04-12,United States,Arkansas,Mississippi,0,0,7,0
+2020-04-12,United States,Arkansas,Monroe,1,0,2,0
+2020-04-12,United States,Arkansas,Nevada,0,0,1,0
+2020-04-12,United States,Arkansas,Newton,0,0,1,0
+2020-04-12,United States,Arkansas,Ouachita,0,0,5,0
+2020-04-12,United States,Arkansas,Perry,0,0,2,0
+2020-04-12,United States,Arkansas,Phillips,0,1,3,1
+2020-04-12,United States,Arkansas,Pike,0,0,2,0
+2020-04-12,United States,Arkansas,Poinsett,0,0,7,0
+2020-04-12,United States,Arkansas,Polk,0,0,6,0
+2020-04-12,United States,Arkansas,Pope,4,0,30,0
+2020-04-12,United States,Arkansas,Prairie,0,0,2,0
+2020-04-12,United States,Arkansas,Pulaski,7,0,256,9
+2020-04-12,United States,Arkansas,Randolph,0,0,8,0
+2020-04-12,United States,Arkansas,Saline,0,0,32,1
+2020-04-12,United States,Arkansas,Scott,0,0,1,0
+2020-04-12,United States,Arkansas,Searcy,0,0,6,0
+2020-04-12,United States,Arkansas,Sebastian,0,0,10,0
+2020-04-12,United States,Arkansas,Sevier,2,0,8,0
+2020-04-12,United States,Arkansas,Sharp,0,0,2,0
+2020-04-12,United States,Arkansas,St. Francis,1,0,32,0
+2020-04-12,United States,Arkansas,Stone,0,0,7,0
+2020-04-12,United States,Arkansas,Unassigned,6,0,25,0
+2020-04-12,United States,Arkansas,Union,0,0,18,0
+2020-04-12,United States,Arkansas,Van Buren,0,0,26,2
+2020-04-12,United States,Arkansas,Washington,0,0,37,0
+2020-04-12,United States,Arkansas,White,0,0,28,0
+2020-04-12,United States,Arkansas,Woodruff,0,0,1,0
+2020-04-12,United States,Arkansas,Yell,0,0,1,0
+2020-04-12,United States,California,Alameda,39,0,845,23
+2020-04-12,United States,California,Alpine,0,0,2,0
+2020-04-12,United States,California,Amador,0,0,7,0
+2020-04-12,United States,California,Butte,0,0,14,0
+2020-04-12,United States,California,Calaveras,0,0,8,0
+2020-04-12,United States,California,Colusa,0,0,3,0
+2020-04-12,United States,California,Contra Costa,9,0,539,11
+2020-04-12,United States,California,Del Norte,0,0,2,0
+2020-04-12,United States,California,El Dorado,0,0,32,0
+2020-04-12,United States,California,Fresno,10,0,201,5
+2020-04-12,United States,California,Glenn,0,0,3,0
+2020-04-12,United States,California,Humboldt,0,0,50,0
+2020-04-12,United States,California,Imperial,8,0,87,3
+2020-04-12,United States,California,Inyo,0,0,12,0
+2020-04-12,United States,California,Kern,27,0,396,3
+2020-04-12,United States,California,Kings,1,1,10,1
+2020-04-12,United States,California,Lake,0,0,4,0
+2020-04-12,United States,California,Los Angeles,441,25,8894,269
+2020-04-12,United States,California,Madera,0,0,32,2
+2020-04-12,United States,California,Marin,-1,0,153,10
+2020-04-12,United States,California,Mendocino,0,0,4,0
+2020-04-12,United States,California,Merced,6,0,65,3
+2020-04-12,United States,California,Mono,0,0,21,1
+2020-04-12,United States,California,Monterey,3,0,82,3
+2020-04-12,United States,California,Napa,2,0,34,2
+2020-04-12,United States,California,Nevada,0,0,34,1
+2020-04-12,United States,California,Orange,56,1,1277,19
+2020-04-12,United States,California,Placer,1,0,124,4
+2020-04-12,United States,California,Plumas,0,0,4,0
+2020-04-12,United States,California,Riverside,188,0,1619,41
+2020-04-12,United States,California,Sacramento,54,2,707,26
+2020-04-12,United States,California,San Benito,0,0,35,2
+2020-04-12,United States,California,San Bernardino,0,1,810,28
+2020-04-12,United States,California,San Diego,68,1,1761,45
+2020-04-12,United States,California,San Francisco,15,1,872,14
+2020-04-12,United States,California,San Joaquin,9,1,266,15
+2020-04-12,United States,California,San Luis Obispo,4,0,114,1
+2020-04-12,United States,California,San Mateo,0,0,652,21
+2020-04-12,United States,California,Santa Barbara,4,0,264,2
+2020-04-12,United States,California,Santa Clara,82,2,1566,53
+2020-04-12,United States,California,Santa Cruz,8,0,88,1
+2020-04-12,United States,California,Shasta,0,0,24,3
+2020-04-12,United States,California,Siskiyou,0,0,5,0
+2020-04-12,United States,California,Solano,0,0,121,2
+2020-04-12,United States,California,Sonoma,0,0,145,2
+2020-04-12,United States,California,Stanislaus,10,1,131,2
+2020-04-12,United States,California,Sutter,0,0,37,2
+2020-04-12,United States,California,Tehama,0,0,1,0
+2020-04-12,United States,California,Tulare,24,0,227,11
+2020-04-12,United States,California,Tuolumne,0,0,1,0
+2020-04-12,United States,California,Unassigned,4,0,8,0
+2020-04-12,United States,California,Ventura,11,0,309,10
+2020-04-12,United States,California,Yolo,13,0,88,3
+2020-04-12,United States,California,Yuba,0,0,15,1
+2020-04-12,United States,Colorado,Adams,104,3,647,26
+2020-04-12,United States,Colorado,Alamosa,0,0,7,2
+2020-04-12,United States,Colorado,Arapahoe,152,8,1083,38
+2020-04-12,United States,Colorado,Archuleta,0,0,6,0
+2020-04-12,United States,Colorado,Baca,1,0,10,0
+2020-04-12,United States,Colorado,Boulder,30,4,264,11
+2020-04-12,United States,Colorado,Broomfield,13,0,81,2
+2020-04-12,United States,Colorado,Chaffee,1,0,28,3
+2020-04-12,United States,Colorado,Clear Creek,0,0,11,0
+2020-04-12,United States,Colorado,Costilla,0,0,3,0
+2020-04-12,United States,Colorado,Crowley,1,0,2,1
+2020-04-12,United States,Colorado,Custer,0,0,2,0
+2020-04-12,United States,Colorado,Delta,0,0,6,1
+2020-04-12,United States,Colorado,Denver,134,4,1247,46
+2020-04-12,United States,Colorado,Douglas,16,0,298,10
+2020-04-12,United States,Colorado,Eagle,26,0,452,5
+2020-04-12,United States,Colorado,El Paso,63,4,613,37
+2020-04-12,United States,Colorado,Elbert,3,0,16,1
+2020-04-12,United States,Colorado,Fremont,2,0,7,0
+2020-04-12,United States,Colorado,Garfield,3,0,55,2
+2020-04-12,United States,Colorado,Gilpin,0,0,1,0
+2020-04-12,United States,Colorado,Grand,0,0,4,0
+2020-04-12,United States,Colorado,Gunnison,0,2,101,3
+2020-04-12,United States,Colorado,Hinsdale,1,0,2,0
+2020-04-12,United States,Colorado,Huerfano,0,0,1,0
+2020-04-12,United States,Colorado,Jefferson,80,4,763,29
+2020-04-12,United States,Colorado,Kit Carson,2,0,8,0
+2020-04-12,United States,Colorado,La Plata,0,0,44,0
+2020-04-12,United States,Colorado,Lake,0,0,4,0
+2020-04-12,United States,Colorado,Larimer,10,0,187,9
+2020-04-12,United States,Colorado,Las Animas,0,0,2,0
+2020-04-12,United States,Colorado,Lincoln,0,0,1,0
+2020-04-12,United States,Colorado,Logan,0,0,13,0
+2020-04-12,United States,Colorado,Mesa,1,0,35,0
+2020-04-12,United States,Colorado,Mineral,0,0,2,0
+2020-04-12,United States,Colorado,Moffat,0,0,3,0
+2020-04-12,United States,Colorado,Montezuma,0,1,12,2
+2020-04-12,United States,Colorado,Montrose,19,1,57,4
+2020-04-12,United States,Colorado,Morgan,8,0,59,0
+2020-04-12,United States,Colorado,Otero,0,0,5,0
+2020-04-12,United States,Colorado,Ouray,0,0,4,1
+2020-04-12,United States,Colorado,Park,0,0,6,0
+2020-04-12,United States,Colorado,Phillips,0,0,4,0
+2020-04-12,United States,Colorado,Pitkin,2,0,49,2
+2020-04-12,United States,Colorado,Prowers,0,0,1,0
+2020-04-12,United States,Colorado,Pueblo,8,1,58,3
+2020-04-12,United States,Colorado,Rio Blanco,0,0,1,0
+2020-04-12,United States,Colorado,Rio Grande,0,0,5,0
+2020-04-12,United States,Colorado,Routt,1,0,36,0
+2020-04-12,United States,Colorado,Saguache,0,0,3,0
+2020-04-12,United States,Colorado,San Miguel,1,0,12,0
+2020-04-12,United States,Colorado,Summit,8,1,72,1
+2020-04-12,United States,Colorado,Teller,4,0,16,2
+2020-04-12,United States,Colorado,Unassigned,11,-1,156,0
+2020-04-12,United States,Colorado,Washington,0,0,2,0
+2020-04-12,United States,Colorado,Weld,89,8,738,48
+2020-04-12,United States,Colorado,Yuma,0,0,2,0
+2020-04-12,United States,Connecticut,Fairfield,127,28,5534,248
+2020-04-12,United States,Connecticut,Hartford,82,15,1914,116
+2020-04-12,United States,Connecticut,Litchfield,15,4,403,24
+2020-04-12,United States,Connecticut,Middlesex,9,0,299,18
+2020-04-12,United States,Connecticut,New Haven,231,12,2946,119
+2020-04-12,United States,Connecticut,New London,5,0,190,7
+2020-04-12,United States,Connecticut,Tolland,11,2,182,17
+2020-04-12,United States,Connecticut,Unassigned,45,-1,501,4
+2020-04-12,United States,Connecticut,Windham,0,0,66,1
+2020-04-12,United States,Delaware,Kent,26,0,281,0
+2020-04-12,United States,Delaware,New Castle,73,2,880,23
+2020-04-12,United States,Delaware,Sussex,60,2,464,21
+2020-04-12,United States,Delaware,Unassigned,-13,1,0,5
+2020-04-12,United States,Diamond Princess,,0,0,49,0
+2020-04-12,United States,District of Columbia,District of Columbia,97,3,1875,50
+2020-04-12,United States,Florida,Alachua,41,0,215,0
+2020-04-12,United States,Florida,Baker,0,0,17,2
+2020-04-12,United States,Florida,Bay,1,0,37,1
+2020-04-12,United States,Florida,Bradford,5,1,29,1
+2020-04-12,United States,Florida,Brevard,13,2,133,4
+2020-04-12,United States,Florida,Broward,139,0,2945,76
+2020-04-12,United States,Florida,Calhoun,0,0,5,0
+2020-04-12,United States,Florida,Charlotte,6,0,113,5
+2020-04-12,United States,Florida,Citrus,5,0,71,6
+2020-04-12,United States,Florida,Clay,5,0,163,8
+2020-04-12,United States,Florida,Collier,17,0,361,4
+2020-04-12,United States,Florida,Columbia,2,0,26,0
+2020-04-12,United States,Florida,DeSoto,0,0,20,3
+2020-04-12,United States,Florida,Dixie,0,0,2,0
+2020-04-12,United States,Florida,Duval,33,2,668,13
+2020-04-12,United States,Florida,Escambia,18,0,224,3
+2020-04-12,United States,Florida,Flagler,1,1,45,2
+2020-04-12,United States,Florida,Franklin,0,0,2,0
+2020-04-12,United States,Florida,Gadsden,3,0,17,0
+2020-04-12,United States,Florida,Gilchrist,0,0,4,0
+2020-04-12,United States,Florida,Glades,0,0,4,1
+2020-04-12,United States,Florida,Gulf,0,0,1,0
+2020-04-12,United States,Florida,Hamilton,0,0,2,0
+2020-04-12,United States,Florida,Hardee,0,0,3,0
+2020-04-12,United States,Florida,Hendry,4,0,20,0
+2020-04-12,United States,Florida,Hernando,6,0,71,2
+2020-04-12,United States,Florida,Highlands,5,1,56,5
+2020-04-12,United States,Florida,Hillsborough,69,2,759,16
+2020-04-12,United States,Florida,Holmes,0,0,2,0
+2020-04-12,United States,Florida,Indian River,4,0,74,1
+2020-04-12,United States,Florida,Jackson,1,0,6,0
+2020-04-12,United States,Florida,Jefferson,3,1,12,1
+2020-04-12,United States,Florida,Lafayette,0,0,1,0
+2020-04-12,United States,Florida,Lake,1,0,150,4
+2020-04-12,United States,Florida,Lee,33,0,617,16
+2020-04-12,United States,Florida,Leon,8,0,120,0
+2020-04-12,United States,Florida,Levy,2,0,8,0
+2020-04-12,United States,Florida,Liberty,0,0,1,0
+2020-04-12,United States,Florida,Madison,0,0,14,0
+2020-04-12,United States,Florida,Manatee,33,0,236,13
+2020-04-12,United States,Florida,Marion,10,1,93,3
+2020-04-12,United States,Florida,Martin,7,0,122,3
+2020-04-12,United States,Florida,Miami-Dade,571,6,7058,97
+2020-04-12,United States,Florida,Monroe,1,0,59,3
+2020-04-12,United States,Florida,Nassau,1,0,34,0
+2020-04-12,United States,Florida,Okaloosa,10,0,101,1
+2020-04-12,United States,Florida,Okeechobee,0,0,5,0
+2020-04-12,United States,Florida,Orange,35,0,949,13
+2020-04-12,United States,Florida,Osceola,6,0,323,5
+2020-04-12,United States,Florida,Palm Beach,205,1,1646,81
+2020-04-12,United States,Florida,Pasco,12,1,160,3
+2020-04-12,United States,Florida,Pinellas,11,1,455,13
+2020-04-12,United States,Florida,Polk,12,0,254,8
+2020-04-12,United States,Florida,Putnam,14,0,43,1
+2020-04-12,United States,Florida,Santa Rosa,4,1,109,4
+2020-04-12,United States,Florida,Sarasota,7,0,226,12
+2020-04-12,United States,Florida,Seminole,13,0,255,2
+2020-04-12,United States,Florida,St. Johns,6,0,173,2
+2020-04-12,United States,Florida,St. Lucie,4,0,152,6
+2020-04-12,United States,Florida,Sumter,3,0,110,9
+2020-04-12,United States,Florida,Suwannee,1,0,67,0
+2020-04-12,United States,Florida,Taylor,0,0,1,0
+2020-04-12,United States,Florida,Unassigned,0,0,2,0
+2020-04-12,United States,Florida,Union,0,0,2,0
+2020-04-12,United States,Florida,Volusia,6,1,201,7
+2020-04-12,United States,Florida,Wakulla,1,1,8,1
+2020-04-12,United States,Florida,Walton,2,0,29,0
+2020-04-12,United States,Florida,Washington,1,0,4,0
+2020-04-12,United States,Georgia,Appling,0,0,9,0
+2020-04-12,United States,Georgia,Atkinson,0,0,2,0
+2020-04-12,United States,Georgia,Bacon,0,0,14,0
+2020-04-12,United States,Georgia,Baker,2,0,14,2
+2020-04-12,United States,Georgia,Baldwin,8,0,52,1
+2020-04-12,United States,Georgia,Banks,0,0,7,0
+2020-04-12,United States,Georgia,Barrow,4,0,55,3
+2020-04-12,United States,Georgia,Bartow,3,0,212,15
+2020-04-12,United States,Georgia,Ben Hill,0,0,8,0
+2020-04-12,United States,Georgia,Berrien,0,0,6,0
+2020-04-12,United States,Georgia,Bibb,4,0,67,1
+2020-04-12,United States,Georgia,Bleckley,0,0,1,0
+2020-04-12,United States,Georgia,Brantley,1,0,8,1
+2020-04-12,United States,Georgia,Brooks,0,0,18,1
+2020-04-12,United States,Georgia,Bryan,1,0,29,1
+2020-04-12,United States,Georgia,Bulloch,0,0,16,1
+2020-04-12,United States,Georgia,Burke,0,0,28,1
+2020-04-12,United States,Georgia,Butts,1,0,28,0
+2020-04-12,United States,Georgia,Calhoun,2,0,43,2
+2020-04-12,United States,Georgia,Camden,0,0,20,0
+2020-04-12,United States,Georgia,Candler,0,0,4,0
+2020-04-12,United States,Georgia,Carroll,3,0,204,5
+2020-04-12,United States,Georgia,Catoosa,0,0,12,0
+2020-04-12,United States,Georgia,Charlton,1,0,3,0
+2020-04-12,United States,Georgia,Chatham,5,0,147,5
+2020-04-12,United States,Georgia,Chattahoochee,0,0,3,0
+2020-04-12,United States,Georgia,Chattooga,1,0,6,1
+2020-04-12,United States,Georgia,Cherokee,4,0,186,7
+2020-04-12,United States,Georgia,Clarke,1,0,83,11
+2020-04-12,United States,Georgia,Clay,0,0,15,1
+2020-04-12,United States,Georgia,Clayton,31,0,362,11
+2020-04-12,United States,Georgia,Clinch,0,0,3,0
+2020-04-12,United States,Georgia,Cobb,18,0,714,33
+2020-04-12,United States,Georgia,Coffee,3,0,56,2
+2020-04-12,United States,Georgia,Colquitt,7,0,87,5
+2020-04-12,United States,Georgia,Columbia,2,0,68,0
+2020-04-12,United States,Georgia,Cook,1,0,7,0
+2020-04-12,United States,Georgia,Coweta,2,0,103,2
+2020-04-12,United States,Georgia,Crawford,0,0,3,0
+2020-04-12,United States,Georgia,Crisp,3,0,70,0
+2020-04-12,United States,Georgia,Dade,0,0,2,1
+2020-04-12,United States,Georgia,Dawson,1,0,26,2
+2020-04-12,United States,Georgia,Decatur,2,0,29,0
+2020-04-12,United States,Georgia,DeKalb,34,1,869,14
+2020-04-12,United States,Georgia,Dodge,4,0,13,0
+2020-04-12,United States,Georgia,Dooly,0,0,40,1
+2020-04-12,United States,Georgia,Dougherty,78,3,1154,72
+2020-04-12,United States,Georgia,Douglas,6,0,153,5
+2020-04-12,United States,Georgia,Early,15,0,121,6
+2020-04-12,United States,Georgia,Echols,0,0,2,0
+2020-04-12,United States,Georgia,Effingham,2,0,22,1
+2020-04-12,United States,Georgia,Elbert,0,0,3,0
+2020-04-12,United States,Georgia,Emanuel,1,0,8,0
+2020-04-12,United States,Georgia,Fannin,0,0,9,0
+2020-04-12,United States,Georgia,Fayette,5,0,99,4
+2020-04-12,United States,Georgia,Floyd,3,0,108,5
+2020-04-12,United States,Georgia,Forsyth,9,0,130,4
+2020-04-12,United States,Georgia,Franklin,0,0,4,0
+2020-04-12,United States,Georgia,Fulton,45,0,1467,50
+2020-04-12,United States,Georgia,Gilmer,1,0,7,0
+2020-04-12,United States,Georgia,Glynn,0,0,33,0
+2020-04-12,United States,Georgia,Gordon,6,0,35,3
+2020-04-12,United States,Georgia,Grady,0,0,15,0
+2020-04-12,United States,Georgia,Greene,0,0,25,1
+2020-04-12,United States,Georgia,Gwinnett,15,0,690,18
+2020-04-12,United States,Georgia,Habersham,0,0,14,1
+2020-04-12,United States,Georgia,Hall,4,0,279,0
+2020-04-12,United States,Georgia,Hancock,0,0,3,0
+2020-04-12,United States,Georgia,Haralson,1,0,16,0
+2020-04-12,United States,Georgia,Harris,0,0,19,1
+2020-04-12,United States,Georgia,Hart,0,0,3,0
+2020-04-12,United States,Georgia,Heard,1,0,4,1
+2020-04-12,United States,Georgia,Henry,11,0,260,3
+2020-04-12,United States,Georgia,Houston,2,0,115,7
+2020-04-12,United States,Georgia,Irwin,0,0,11,0
+2020-04-12,United States,Georgia,Jackson,1,0,27,1
+2020-04-12,United States,Georgia,Jasper,0,0,6,0
+2020-04-12,United States,Georgia,Jeff Davis,0,0,1,0
+2020-04-12,United States,Georgia,Jefferson,0,0,6,1
+2020-04-12,United States,Georgia,Jenkins,0,0,9,1
+2020-04-12,United States,Georgia,Johnson,4,0,19,1
+2020-04-12,United States,Georgia,Jones,0,0,11,0
+2020-04-12,United States,Georgia,Lamar,1,0,16,0
+2020-04-12,United States,Georgia,Lanier,0,0,5,0
+2020-04-12,United States,Georgia,Laurens,4,0,32,1
+2020-04-12,United States,Georgia,Lee,5,0,239,15
+2020-04-12,United States,Georgia,Liberty,1,0,17,0
+2020-04-12,United States,Georgia,Lincoln,0,0,8,0
+2020-04-12,United States,Georgia,Long,0,0,1,0
+2020-04-12,United States,Georgia,Lowndes,0,0,59,2
+2020-04-12,United States,Georgia,Lumpkin,0,0,9,0
+2020-04-12,United States,Georgia,Macon,2,0,21,0
+2020-04-12,United States,Georgia,Madison,0,0,10,1
+2020-04-12,United States,Georgia,Marion,0,0,10,0
+2020-04-12,United States,Georgia,McDuffie,2,0,22,2
+2020-04-12,United States,Georgia,McIntosh,0,0,3,0
+2020-04-12,United States,Georgia,Meriwether,1,0,23,0
+2020-04-12,United States,Georgia,Miller,0,0,10,0
+2020-04-12,United States,Georgia,Mitchell,1,0,136,13
+2020-04-12,United States,Georgia,Monroe,0,0,12,1
+2020-04-12,United States,Georgia,Montgomery,0,0,2,0
+2020-04-12,United States,Georgia,Morgan,0,0,14,0
+2020-04-12,United States,Georgia,Murray,0,0,14,0
+2020-04-12,United States,Georgia,Muscogee,2,0,146,4
+2020-04-12,United States,Georgia,Newton,2,0,79,3
+2020-04-12,United States,Georgia,Oconee,2,0,38,1
+2020-04-12,United States,Georgia,Oglethorpe,0,0,12,1
+2020-04-12,United States,Georgia,Paulding,4,0,80,2
+2020-04-12,United States,Georgia,Peach,1,0,22,2
+2020-04-12,United States,Georgia,Pickens,2,0,12,2
+2020-04-12,United States,Georgia,Pierce,0,0,45,2
+2020-04-12,United States,Georgia,Pike,1,0,16,0
+2020-04-12,United States,Georgia,Polk,1,0,22,0
+2020-04-12,United States,Georgia,Pulaski,0,0,9,0
+2020-04-12,United States,Georgia,Putnam,1,0,6,0
+2020-04-12,United States,Georgia,Quitman,0,0,3,0
+2020-04-12,United States,Georgia,Rabun,0,0,6,0
+2020-04-12,United States,Georgia,Randolph,2,0,105,5
+2020-04-12,United States,Georgia,Richmond,2,0,140,3
+2020-04-12,United States,Georgia,Rockdale,4,0,95,2
+2020-04-12,United States,Georgia,Schley,0,0,12,1
+2020-04-12,United States,Georgia,Screven,2,0,7,0
+2020-04-12,United States,Georgia,Seminole,1,0,15,0
+2020-04-12,United States,Georgia,Spalding,6,0,71,4
+2020-04-12,United States,Georgia,Stephens,0,0,17,0
+2020-04-12,United States,Georgia,Stewart,0,0,6,0
+2020-04-12,United States,Georgia,Sumter,5,0,227,9
+2020-04-12,United States,Georgia,Talbot,0,0,9,1
+2020-04-12,United States,Georgia,Tattnall,2,0,5,0
+2020-04-12,United States,Georgia,Taylor,0,0,7,2
+2020-04-12,United States,Georgia,Telfair,0,0,9,0
+2020-04-12,United States,Georgia,Terrell,3,0,107,10
+2020-04-12,United States,Georgia,Thomas,3,0,77,3
+2020-04-12,United States,Georgia,Tift,2,0,59,1
+2020-04-12,United States,Georgia,Toombs,0,0,11,1
+2020-04-12,United States,Georgia,Towns,0,0,3,0
+2020-04-12,United States,Georgia,Treutlen,0,0,1,0
+2020-04-12,United States,Georgia,Troup,2,0,57,3
+2020-04-12,United States,Georgia,Turner,9,0,38,0
+2020-04-12,United States,Georgia,Twiggs,0,0,2,0
+2020-04-12,United States,Georgia,Unassigned,-179,0,1218,4
+2020-04-12,United States,Georgia,Union,0,0,7,1
+2020-04-12,United States,Georgia,Upson,4,0,55,1
+2020-04-12,United States,Georgia,Walker,0,0,6,0
+2020-04-12,United States,Georgia,Walton,3,0,39,2
+2020-04-12,United States,Georgia,Ware,3,0,53,4
+2020-04-12,United States,Georgia,Warren,0,0,6,0
+2020-04-12,United States,Georgia,Washington,1,0,22,0
+2020-04-12,United States,Georgia,Wayne,0,0,4,0
+2020-04-12,United States,Georgia,Webster,0,0,3,0
+2020-04-12,United States,Georgia,Wheeler,0,0,2,0
+2020-04-12,United States,Georgia,White,0,0,11,0
+2020-04-12,United States,Georgia,Whitfield,0,0,24,3
+2020-04-12,United States,Georgia,Wilcox,17,0,22,0
+2020-04-12,United States,Georgia,Wilkes,0,0,6,0
+2020-04-12,United States,Georgia,Wilkinson,1,0,11,1
+2020-04-12,United States,Georgia,Worth,6,0,84,4
+2020-04-12,United States,Grand Princess,,0,-3,103,0
+2020-04-12,United States,Guam,,0,0,133,5
+2020-04-12,United States,Hawaii,Hawaii,8,0,39,0
+2020-04-12,United States,Hawaii,Honolulu,7,1,350,6
+2020-04-12,United States,Hawaii,Kauai,2,0,21,0
+2020-04-12,United States,Hawaii,Maui,18,0,84,3
+2020-04-12,United States,Hawaii,Out of HI,0,0,2,0
+2020-04-12,United States,Hawaii,Unassigned,-1,0,3,0
+2020-04-12,United States,Idaho,Ada,4,0,517,6
+2020-04-12,United States,Idaho,Adams,0,0,1,0
+2020-04-12,United States,Idaho,Bannock,0,0,5,0
+2020-04-12,United States,Idaho,Bingham,0,0,2,0
+2020-04-12,United States,Idaho,Blaine,2,0,454,5
+2020-04-12,United States,Idaho,Bonner,0,0,4,0
+2020-04-12,United States,Idaho,Bonneville,1,0,12,0
+2020-04-12,United States,Idaho,Camas,0,0,1,0
+2020-04-12,United States,Idaho,Canyon,1,0,146,5
+2020-04-12,United States,Idaho,Caribou,0,0,1,0
+2020-04-12,United States,Idaho,Cassia,0,0,7,1
+2020-04-12,United States,Idaho,Custer,0,0,2,0
+2020-04-12,United States,Idaho,Elmore,0,0,16,0
+2020-04-12,United States,Idaho,Fremont,0,0,2,0
+2020-04-12,United States,Idaho,Gem,0,0,9,0
+2020-04-12,United States,Idaho,Gooding,0,0,5,0
+2020-04-12,United States,Idaho,Idaho,0,0,3,0
+2020-04-12,United States,Idaho,Jefferson,0,0,4,0
+2020-04-12,United States,Idaho,Jerome,1,0,29,2
+2020-04-12,United States,Idaho,Kootenai,0,0,44,0
+2020-04-12,United States,Idaho,Latah,0,0,3,0
+2020-04-12,United States,Idaho,Lewis,0,0,0,0
+2020-04-12,United States,Idaho,Lincoln,0,0,14,0
+2020-04-12,United States,Idaho,Madison,0,0,5,0
+2020-04-12,United States,Idaho,Minidoka,0,0,4,0
+2020-04-12,United States,Idaho,Nez Perce,0,0,19,5
+2020-04-12,United States,Idaho,Owyhee,0,0,4,0
+2020-04-12,United States,Idaho,Payette,0,1,8,1
+2020-04-12,United States,Idaho,Power,0,0,2,0
+2020-04-12,United States,Idaho,Teton,0,0,6,0
+2020-04-12,United States,Idaho,Twin Falls,2,1,75,2
+2020-04-12,United States,Idaho,Unassigned,0,0,0,0
+2020-04-12,United States,Idaho,Valley,0,0,2,0
+2020-04-12,United States,Idaho,Washington,0,0,1,0
+2020-04-12,United States,Illinois,Adams,0,0,25,0
+2020-04-12,United States,Illinois,Bond,0,0,4,0
+2020-04-12,United States,Illinois,Boone,0,0,7,1
+2020-04-12,United States,Illinois,Bureau,0,0,5,0
+2020-04-12,United States,Illinois,Calhoun,0,0,1,0
+2020-04-12,United States,Illinois,Carroll,0,0,5,1
+2020-04-12,United States,Illinois,Champaign,1,0,86,2
+2020-04-12,United States,Illinois,Christian,0,0,24,3
+2020-04-12,United States,Illinois,Clark,0,0,3,0
+2020-04-12,United States,Illinois,Clinton,0,0,37,0
+2020-04-12,United States,Illinois,Coles,1,0,6,0
+2020-04-12,United States,Illinois,Cook,1168,30,14585,485
+2020-04-12,United States,Illinois,Crawford,0,0,4,0
+2020-04-12,United States,Illinois,Cumberland,0,0,2,0
+2020-04-12,United States,Illinois,De Witt,0,0,1,0
+2020-04-12,United States,Illinois,DeKalb,1,0,34,1
+2020-04-12,United States,Illinois,Douglas,0,0,11,0
+2020-04-12,United States,Illinois,DuPage,114,4,1162,50
+2020-04-12,United States,Illinois,Effingham,0,0,3,1
+2020-04-12,United States,Illinois,Fayette,2,0,11,0
+2020-04-12,United States,Illinois,Ford,0,0,4,1
+2020-04-12,United States,Illinois,Franklin,1,0,4,0
+2020-04-12,United States,Illinois,Fulton,0,0,1,0
+2020-04-12,United States,Illinois,Gallatin,0,0,1,0
+2020-04-12,United States,Illinois,Greene,0,0,1,0
+2020-04-12,United States,Illinois,Grundy,4,0,21,0
+2020-04-12,United States,Illinois,Hancock,0,0,1,0
+2020-04-12,United States,Illinois,Henry,0,0,22,0
+2020-04-12,United States,Illinois,Iroquois,1,0,9,0
+2020-04-12,United States,Illinois,Jackson,1,0,31,2
+2020-04-12,United States,Illinois,Jasper,0,0,3,0
+2020-04-12,United States,Illinois,Jefferson,1,0,7,0
+2020-04-12,United States,Illinois,Jersey,0,0,6,0
+2020-04-12,United States,Illinois,Jo Daviess,1,0,11,0
+2020-04-12,United States,Illinois,Kane,27,1,403,23
+2020-04-12,United States,Illinois,Kankakee,19,0,204,9
+2020-04-12,United States,Illinois,Kendall,2,0,105,2
+2020-04-12,United States,Illinois,Knox,0,0,2,0
+2020-04-12,United States,Illinois,Lake,114,3,1445,42
+2020-04-12,United States,Illinois,LaSalle,2,0,20,1
+2020-04-12,United States,Illinois,Lawrence,0,0,2,0
+2020-04-12,United States,Illinois,Lee,1,0,13,0
+2020-04-12,United States,Illinois,Livingston,1,0,16,0
+2020-04-12,United States,Illinois,Logan,0,0,3,0
+2020-04-12,United States,Illinois,Macon,12,0,35,1
+2020-04-12,United States,Illinois,Macoupin,2,0,16,0
+2020-04-12,United States,Illinois,Madison,7,0,110,2
+2020-04-12,United States,Illinois,Marion,0,0,13,0
+2020-04-12,United States,Illinois,Marshall,0,0,1,0
+2020-04-12,United States,Illinois,Mason,0,0,3,0
+2020-04-12,United States,Illinois,Massac,0,0,2,0
+2020-04-12,United States,Illinois,McDonough,0,0,1,0
+2020-04-12,United States,Illinois,McHenry,15,0,235,6
+2020-04-12,United States,Illinois,McLean,2,0,77,2
+2020-04-12,United States,Illinois,Menard,0,0,2,0
+2020-04-12,United States,Illinois,Mercer,0,0,2,0
+2020-04-12,United States,Illinois,Monroe,3,0,46,1
+2020-04-12,United States,Illinois,Montgomery,0,0,8,1
+2020-04-12,United States,Illinois,Morgan,0,0,10,1
+2020-04-12,United States,Illinois,Moultrie,-1,0,2,0
+2020-04-12,United States,Illinois,Ogle,2,0,18,0
+2020-04-12,United States,Illinois,Peoria,4,0,27,1
+2020-04-12,United States,Illinois,Perry,0,0,1,0
+2020-04-12,United States,Illinois,Piatt,0,0,6,0
+2020-04-12,United States,Illinois,Pike,0,0,1,0
+2020-04-12,United States,Illinois,Pulaski,1,0,5,0
+2020-04-12,United States,Illinois,Randolph,3,0,40,0
+2020-04-12,United States,Illinois,Richland,0,0,1,0
+2020-04-12,United States,Illinois,Rock Island,7,0,91,3
+2020-04-12,United States,Illinois,Saline,0,0,3,0
+2020-04-12,United States,Illinois,Sangamon,0,0,43,2
+2020-04-12,United States,Illinois,Schuyler,0,0,1,0
+2020-04-12,United States,Illinois,Shelby,1,0,4,0
+2020-04-12,United States,Illinois,St. Clair,16,1,189,8
+2020-04-12,United States,Illinois,Stark,0,0,1,0
+2020-04-12,United States,Illinois,Stephenson,0,0,8,0
+2020-04-12,United States,Illinois,Tazewell,1,0,19,2
+2020-04-12,United States,Illinois,Unassigned,16,1,101,1
+2020-04-12,United States,Illinois,Vermilion,1,0,8,0
+2020-04-12,United States,Illinois,Wabash,0,0,2,0
+2020-04-12,United States,Illinois,Warren,1,0,2,0
+2020-04-12,United States,Illinois,Washington,0,0,2,0
+2020-04-12,United States,Illinois,Whiteside,1,0,26,1
+2020-04-12,United States,Illinois,Will,102,3,1228,60
+2020-04-12,United States,Illinois,Williamson,0,0,10,0
+2020-04-12,United States,Illinois,Winnebago,14,0,94,4
+2020-04-12,United States,Illinois,Woodford,0,0,7,0
+2020-04-12,United States,Indiana,Adams,1,1,5,1
+2020-04-12,United States,Indiana,Allen,11,0,147,10
+2020-04-12,United States,Indiana,Bartholomew,2,0,110,4
+2020-04-12,United States,Indiana,Benton,2,0,2,0
+2020-04-12,United States,Indiana,Blackford,0,0,5,0
+2020-04-12,United States,Indiana,Boone,6,0,109,2
+2020-04-12,United States,Indiana,Brown,0,0,12,1
+2020-04-12,United States,Indiana,Carroll,0,0,5,0
+2020-04-12,United States,Indiana,Cass,-1,0,22,1
+2020-04-12,United States,Indiana,Clark,6,0,112,8
+2020-04-12,United States,Indiana,Clay,0,0,11,0
+2020-04-12,United States,Indiana,Clinton,0,0,11,1
+2020-04-12,United States,Indiana,Crawford,0,0,12,0
+2020-04-12,United States,Indiana,Daviess,1,0,10,1
+2020-04-12,United States,Indiana,Dearborn,1,0,60,3
+2020-04-12,United States,Indiana,Decatur,4,0,127,10
+2020-04-12,United States,Indiana,DeKalb,0,0,5,0
+2020-04-12,United States,Indiana,Delaware,3,0,66,2
+2020-04-12,United States,Indiana,Dubois,2,0,13,0
+2020-04-12,United States,Indiana,Elkhart,12,0,83,3
+2020-04-12,United States,Indiana,Fayette,0,0,20,3
+2020-04-12,United States,Indiana,Floyd,2,0,107,4
+2020-04-12,United States,Indiana,Fountain,0,0,3,1
+2020-04-12,United States,Indiana,Franklin,2,0,69,7
+2020-04-12,United States,Indiana,Fulton,0,0,3,0
+2020-04-12,United States,Indiana,Gibson,0,0,4,0
+2020-04-12,United States,Indiana,Grant,1,0,36,2
+2020-04-12,United States,Indiana,Greene,5,0,19,1
+2020-04-12,United States,Indiana,Hamilton,35,1,478,23
+2020-04-12,United States,Indiana,Hancock,6,0,118,6
+2020-04-12,United States,Indiana,Harrison,1,0,55,2
+2020-04-12,United States,Indiana,Hendricks,14,1,315,10
+2020-04-12,United States,Indiana,Henry,1,0,23,0
+2020-04-12,United States,Indiana,Howard,2,0,48,4
+2020-04-12,United States,Indiana,Huntington,1,0,7,1
+2020-04-12,United States,Indiana,Jackson,6,0,70,0
+2020-04-12,United States,Indiana,Jasper,1,0,17,1
+2020-04-12,United States,Indiana,Jay,0,0,4,0
+2020-04-12,United States,Indiana,Jefferson,-1,0,12,0
+2020-04-12,United States,Indiana,Jennings,2,0,56,0
+2020-04-12,United States,Indiana,Johnson,30,1,317,20
+2020-04-12,United States,Indiana,Knox,2,0,15,0
+2020-04-12,United States,Indiana,Kosciusko,1,0,18,1
+2020-04-12,United States,Indiana,LaGrange,2,0,12,1
+2020-04-12,United States,Indiana,Lake,68,0,744,25
+2020-04-12,United States,Indiana,LaPorte,2,0,33,3
+2020-04-12,United States,Indiana,Lawrence,5,0,68,7
+2020-04-12,United States,Indiana,Madison,19,1,254,14
+2020-04-12,United States,Indiana,Marion,145,5,2887,123
+2020-04-12,United States,Indiana,Marshall,5,0,19,0
+2020-04-12,United States,Indiana,Martin,3,0,5,0
+2020-04-12,United States,Indiana,Miami,1,0,16,0
+2020-04-12,United States,Indiana,Monroe,8,1,83,1
+2020-04-12,United States,Indiana,Montgomery,1,0,22,0
+2020-04-12,United States,Indiana,Morgan,7,0,101,3
+2020-04-12,United States,Indiana,Newton,17,0,26,1
+2020-04-12,United States,Indiana,Noble,0,0,14,1
+2020-04-12,United States,Indiana,Ohio,0,0,1,0
+2020-04-12,United States,Indiana,Orange,1,0,17,3
+2020-04-12,United States,Indiana,Owen,1,0,19,1
+2020-04-12,United States,Indiana,Parke,0,0,7,0
+2020-04-12,United States,Indiana,Perry,0,0,3,0
+2020-04-12,United States,Indiana,Pike,0,0,1,0
+2020-04-12,United States,Indiana,Porter,11,1,118,2
+2020-04-12,United States,Indiana,Posey,0,0,5,0
+2020-04-12,United States,Indiana,Pulaski,0,0,1,0
+2020-04-12,United States,Indiana,Putnam,0,1,32,3
+2020-04-12,United States,Indiana,Randolph,2,0,10,1
+2020-04-12,United States,Indiana,Ripley,3,0,84,3
+2020-04-12,United States,Indiana,Rush,2,0,15,1
+2020-04-12,United States,Indiana,Scott,3,0,17,2
+2020-04-12,United States,Indiana,Shelby,3,0,71,2
+2020-04-12,United States,Indiana,Spencer,1,0,3,0
+2020-04-12,United States,Indiana,St. Joseph,6,0,192,3
+2020-04-12,United States,Indiana,Starke,1,0,9,0
+2020-04-12,United States,Indiana,Steuben,0,0,12,1
+2020-04-12,United States,Indiana,Sullivan,1,0,6,0
+2020-04-12,United States,Indiana,Switzerland,0,0,13,0
+2020-04-12,United States,Indiana,Tippecanoe,2,0,45,1
+2020-04-12,United States,Indiana,Tipton,0,0,9,0
+2020-04-12,United States,Indiana,Unassigned,0,16,0,105
+2020-04-12,United States,Indiana,Union,0,0,5,0
+2020-04-12,United States,Indiana,Vanderburgh,3,0,56,1
+2020-04-12,United States,Indiana,Vermillion,0,0,3,0
+2020-04-12,United States,Indiana,Vigo,1,0,42,2
+2020-04-12,United States,Indiana,Wabash,0,0,7,0
+2020-04-12,United States,Indiana,Warren,1,0,3,1
+2020-04-12,United States,Indiana,Warrick,2,0,36,2
+2020-04-12,United States,Indiana,Washington,2,0,25,0
+2020-04-12,United States,Indiana,Wayne,0,0,17,1
+2020-04-12,United States,Indiana,Wells,1,0,4,0
+2020-04-12,United States,Indiana,White,0,0,3,0
+2020-04-12,United States,Indiana,Whitley,1,0,12,1
+2020-04-12,United States,Iowa,Adair,0,0,1,0
+2020-04-12,United States,Iowa,Allamakee,0,0,21,1
+2020-04-12,United States,Iowa,Appanoose,0,0,1,1
+2020-04-12,United States,Iowa,Audubon,0,0,1,0
+2020-04-12,United States,Iowa,Benton,1,0,17,1
+2020-04-12,United States,Iowa,Black Hawk,6,0,47,0
+2020-04-12,United States,Iowa,Boone,0,0,4,0
+2020-04-12,United States,Iowa,Bremer,0,0,3,0
+2020-04-12,United States,Iowa,Buchanan,1,0,7,0
+2020-04-12,United States,Iowa,Buena Vista,0,0,2,0
+2020-04-12,United States,Iowa,Butler,0,0,1,0
+2020-04-12,United States,Iowa,Carroll,0,0,1,0
+2020-04-12,United States,Iowa,Cedar,0,0,20,0
+2020-04-12,United States,Iowa,Cerro Gordo,0,0,13,0
+2020-04-12,United States,Iowa,Chickasaw,0,0,2,0
+2020-04-12,United States,Iowa,Clarke,0,0,2,0
+2020-04-12,United States,Iowa,Clay,0,0,2,0
+2020-04-12,United States,Iowa,Clayton,0,0,7,0
+2020-04-12,United States,Iowa,Clinton,1,0,29,0
+2020-04-12,United States,Iowa,Crawford,0,0,6,0
+2020-04-12,United States,Iowa,Dallas,0,0,37,0
+2020-04-12,United States,Iowa,Delaware,0,0,2,0
+2020-04-12,United States,Iowa,Des Moines,1,0,4,0
+2020-04-12,United States,Iowa,Dickinson,0,0,1,0
+2020-04-12,United States,Iowa,Dubuque,3,0,35,1
+2020-04-12,United States,Iowa,Fayette,0,0,4,0
+2020-04-12,United States,Iowa,Franklin,0,0,1,0
+2020-04-12,United States,Iowa,Greene,0,0,1,0
+2020-04-12,United States,Iowa,Grundy,0,0,1,0
+2020-04-12,United States,Iowa,Guthrie,0,0,1,0
+2020-04-12,United States,Iowa,Hamilton,0,0,2,0
+2020-04-12,United States,Iowa,Hancock,0,0,3,0
+2020-04-12,United States,Iowa,Hardin,0,0,1,0
+2020-04-12,United States,Iowa,Harrison,0,0,12,0
+2020-04-12,United States,Iowa,Henry,0,0,19,1
+2020-04-12,United States,Iowa,Howard,0,0,1,0
+2020-04-12,United States,Iowa,Iowa,0,0,7,0
+2020-04-12,United States,Iowa,Jackson,0,0,4,0
+2020-04-12,United States,Iowa,Jasper,1,0,11,0
+2020-04-12,United States,Iowa,Jefferson,0,0,4,0
+2020-04-12,United States,Iowa,Johnson,9,0,203,1
+2020-04-12,United States,Iowa,Jones,0,0,8,0
+2020-04-12,United States,Iowa,Keokuk,0,0,2,0
+2020-04-12,United States,Iowa,Kossuth,0,0,1,0
+2020-04-12,United States,Iowa,Lee,0,0,1,0
+2020-04-12,United States,Iowa,Linn,8,6,243,16
+2020-04-12,United States,Iowa,Louisa,6,0,76,0
+2020-04-12,United States,Iowa,Lyon,1,0,3,0
+2020-04-12,United States,Iowa,Madison,0,0,2,0
+2020-04-12,United States,Iowa,Mahaska,0,0,4,0
+2020-04-12,United States,Iowa,Marion,0,0,3,0
+2020-04-12,United States,Iowa,Marshall,3,0,31,0
+2020-04-12,United States,Iowa,Mills,0,0,1,0
+2020-04-12,United States,Iowa,Mitchell,0,0,2,0
+2020-04-12,United States,Iowa,Monona,0,0,6,0
+2020-04-12,United States,Iowa,Montgomery,0,0,1,0
+2020-04-12,United States,Iowa,Muscatine,5,0,96,1
+2020-04-12,United States,Iowa,O`Brien,0,0,3,0
+2020-04-12,United States,Iowa,Osceola,1,0,2,0
+2020-04-12,United States,Iowa,Page,0,0,3,0
+2020-04-12,United States,Iowa,Plymouth,0,0,4,0
+2020-04-12,United States,Iowa,Polk,14,0,177,4
+2020-04-12,United States,Iowa,Pottawattamie,0,0,12,0
+2020-04-12,United States,Iowa,Poweshiek,0,0,6,1
+2020-04-12,United States,Iowa,Scott,4,0,115,1
+2020-04-12,United States,Iowa,Shelby,0,0,6,0
+2020-04-12,United States,Iowa,Sioux,0,0,7,0
+2020-04-12,United States,Iowa,Story,0,0,7,0
+2020-04-12,United States,Iowa,Tama,9,0,86,2
+2020-04-12,United States,Iowa,Taylor,0,0,1,0
+2020-04-12,United States,Iowa,Unassigned,0,0,0,6
+2020-04-12,United States,Iowa,Union,0,0,1,0
+2020-04-12,United States,Iowa,Van Buren,0,0,6,0
+2020-04-12,United States,Iowa,Wapello,0,0,4,0
+2020-04-12,United States,Iowa,Warren,1,0,16,0
+2020-04-12,United States,Iowa,Washington,2,1,81,4
+2020-04-12,United States,Iowa,Webster,0,0,2,0
+2020-04-12,United States,Iowa,Winnebago,0,0,2,0
+2020-04-12,United States,Iowa,Winneshiek,0,0,5,0
+2020-04-12,United States,Iowa,Woodbury,0,0,18,0
+2020-04-12,United States,Iowa,Worth,0,0,1,0
+2020-04-12,United States,Iowa,Wright,0,0,1,0
+2020-04-12,United States,Kansas,Anderson,0,0,1,0
+2020-04-12,United States,Kansas,Atchison,0,0,3,0
+2020-04-12,United States,Kansas,Barber,0,0,1,0
+2020-04-12,United States,Kansas,Barton,0,0,4,0
+2020-04-12,United States,Kansas,Bourbon,0,0,7,1
+2020-04-12,United States,Kansas,Butler,0,0,8,0
+2020-04-12,United States,Kansas,Chautauqua,0,0,3,0
+2020-04-12,United States,Kansas,Cherokee,0,0,6,0
+2020-04-12,United States,Kansas,Clay,0,0,1,0
+2020-04-12,United States,Kansas,Cloud,0,0,3,0
+2020-04-12,United States,Kansas,Coffey,0,0,38,1
+2020-04-12,United States,Kansas,Cowley,0,0,1,1
+2020-04-12,United States,Kansas,Crawford,0,0,6,1
+2020-04-12,United States,Kansas,Doniphan,0,0,1,0
+2020-04-12,United States,Kansas,Douglas,0,0,39,0
+2020-04-12,United States,Kansas,Ellis,0,0,1,0
+2020-04-12,United States,Kansas,Finney,0,0,15,0
+2020-04-12,United States,Kansas,Ford,8,0,13,0
+2020-04-12,United States,Kansas,Franklin,0,0,12,0
+2020-04-12,United States,Kansas,Geary,0,0,5,0
+2020-04-12,United States,Kansas,Gove,0,0,1,0
+2020-04-12,United States,Kansas,Greenwood,0,0,1,0
+2020-04-12,United States,Kansas,Hamilton,0,0,1,0
+2020-04-12,United States,Kansas,Harvey,0,0,4,0
+2020-04-12,United States,Kansas,Jackson,0,0,1,0
+2020-04-12,United States,Kansas,Jefferson,0,0,5,0
+2020-04-12,United States,Kansas,Jewell,1,0,3,0
+2020-04-12,United States,Kansas,Johnson,21,2,304,14
+2020-04-12,United States,Kansas,Kearny,0,0,1,0
+2020-04-12,United States,Kansas,Labette,0,0,18,0
+2020-04-12,United States,Kansas,Leavenworth,10,0,85,1
+2020-04-12,United States,Kansas,Linn,0,0,5,0
+2020-04-12,United States,Kansas,Lyon,0,0,27,0
+2020-04-12,United States,Kansas,Marion,0,0,3,0
+2020-04-12,United States,Kansas,McPherson,0,0,13,0
+2020-04-12,United States,Kansas,Miami,0,0,3,0
+2020-04-12,United States,Kansas,Mitchell,0,0,2,0
+2020-04-12,United States,Kansas,Montgomery,0,2,14,2
+2020-04-12,United States,Kansas,Morris,0,0,2,0
+2020-04-12,United States,Kansas,Morton,0,0,1,0
+2020-04-12,United States,Kansas,Neosho,0,0,2,0
+2020-04-12,United States,Kansas,Osage,1,0,4,0
+2020-04-12,United States,Kansas,Osborne,0,0,2,0
+2020-04-12,United States,Kansas,Ottawa,0,0,3,0
+2020-04-12,United States,Kansas,Phillips,0,0,1,0
+2020-04-12,United States,Kansas,Pottawatomie,0,0,5,0
+2020-04-12,United States,Kansas,Pratt,0,0,1,0
+2020-04-12,United States,Kansas,Reno,0,0,11,0
+2020-04-12,United States,Kansas,Republic,0,0,4,0
+2020-04-12,United States,Kansas,Riley,0,0,20,0
+2020-04-12,United States,Kansas,Rooks,0,0,2,0
+2020-04-12,United States,Kansas,Saline,1,0,9,1
+2020-04-12,United States,Kansas,Scott,0,0,1,0
+2020-04-12,United States,Kansas,Sedgwick,5,0,196,2
+2020-04-12,United States,Kansas,Seward,2,0,5,0
+2020-04-12,United States,Kansas,Shawnee,1,0,74,3
+2020-04-12,United States,Kansas,Stafford,0,0,1,0
+2020-04-12,United States,Kansas,Stanton,0,0,1,0
+2020-04-12,United States,Kansas,Stevens,0,0,2,0
+2020-04-12,United States,Kansas,Sumner,0,0,2,1
+2020-04-12,United States,Kansas,Unassigned,0,3,0,11
+2020-04-12,United States,Kansas,Wabaunsee,0,0,1,0
+2020-04-12,United States,Kansas,Woodson,0,0,3,0
+2020-04-12,United States,Kansas,Wyandotte,17,4,332,24
+2020-04-12,United States,Kentucky,Adair,5,0,11,0
+2020-04-12,United States,Kentucky,Allen,1,0,4,0
+2020-04-12,United States,Kentucky,Anderson,0,0,3,1
+2020-04-12,United States,Kentucky,Ballard,0,0,1,0
+2020-04-12,United States,Kentucky,Barren,4,0,5,0
+2020-04-12,United States,Kentucky,Bath,1,0,2,0
+2020-04-12,United States,Kentucky,Boone,25,0,48,1
+2020-04-12,United States,Kentucky,Bourbon,0,0,4,1
+2020-04-12,United States,Kentucky,Boyd,9,0,26,2
+2020-04-12,United States,Kentucky,Boyle,4,0,13,0
+2020-04-12,United States,Kentucky,Bracken,5,0,6,0
+2020-04-12,United States,Kentucky,Breathitt,1,0,2,0
+2020-04-12,United States,Kentucky,Breckinridge,0,0,3,0
+2020-04-12,United States,Kentucky,Bullitt,13,0,27,2
+2020-04-12,United States,Kentucky,Butler,9,0,11,0
+2020-04-12,United States,Kentucky,Caldwell,5,0,10,0
+2020-04-12,United States,Kentucky,Calloway,6,0,14,1
+2020-04-12,United States,Kentucky,Campbell,18,0,47,3
+2020-04-12,United States,Kentucky,Carroll,0,0,2,0
+2020-04-12,United States,Kentucky,Carter,0,0,1,0
+2020-04-12,United States,Kentucky,Christian,17,0,62,3
+2020-04-12,United States,Kentucky,Clark,6,0,17,0
+2020-04-12,United States,Kentucky,Clinton,2,0,3,0
+2020-04-12,United States,Kentucky,Crittenden,0,0,3,0
+2020-04-12,United States,Kentucky,Cumberland,2,0,3,0
+2020-04-12,United States,Kentucky,Daviess,2,0,81,2
+2020-04-12,United States,Kentucky,Edmonson,1,0,6,0
+2020-04-12,United States,Kentucky,Fayette,31,0,179,8
+2020-04-12,United States,Kentucky,Fleming,0,0,1,0
+2020-04-12,United States,Kentucky,Floyd,0,0,1,0
+2020-04-12,United States,Kentucky,Franklin,0,0,10,0
+2020-04-12,United States,Kentucky,Gallatin,0,0,1,0
+2020-04-12,United States,Kentucky,Grant,10,0,13,1
+2020-04-12,United States,Kentucky,Graves,4,0,9,0
+2020-04-12,United States,Kentucky,Grayson,2,0,4,0
+2020-04-12,United States,Kentucky,Green,1,0,2,0
+2020-04-12,United States,Kentucky,Greenup,3,0,5,0
+2020-04-12,United States,Kentucky,Hancock,0,0,2,0
+2020-04-12,United States,Kentucky,Hardin,12,0,21,0
+2020-04-12,United States,Kentucky,Harrison,0,0,14,0
+2020-04-12,United States,Kentucky,Hart,0,0,1,0
+2020-04-12,United States,Kentucky,Henderson,6,0,29,0
+2020-04-12,United States,Kentucky,Henry,1,0,4,0
+2020-04-12,United States,Kentucky,Hopkins,30,0,87,4
+2020-04-12,United States,Kentucky,Jackson,2,0,5,0
+2020-04-12,United States,Kentucky,Jefferson,115,0,495,26
+2020-04-12,United States,Kentucky,Jessamine,8,0,26,0
+2020-04-12,United States,Kentucky,Johnson,0,0,1,0
+2020-04-12,United States,Kentucky,Kenton,37,0,91,8
+2020-04-12,United States,Kentucky,Knott,0,0,1,0
+2020-04-12,United States,Kentucky,Knox,0,0,1,0
+2020-04-12,United States,Kentucky,Larue,0,0,3,0
+2020-04-12,United States,Kentucky,Laurel,4,0,9,0
+2020-04-12,United States,Kentucky,Lawrence,0,0,1,0
+2020-04-12,United States,Kentucky,Leslie,0,0,1,0
+2020-04-12,United States,Kentucky,Letcher,0,0,1,0
+2020-04-12,United States,Kentucky,Lewis,0,0,2,0
+2020-04-12,United States,Kentucky,Lincoln,0,0,1,0
+2020-04-12,United States,Kentucky,Logan,0,0,5,0
+2020-04-12,United States,Kentucky,Lyon,6,0,12,0
+2020-04-12,United States,Kentucky,Madison,4,0,18,1
+2020-04-12,United States,Kentucky,Marion,7,0,11,0
+2020-04-12,United States,Kentucky,Marshall,3,0,11,0
+2020-04-12,United States,Kentucky,Martin,3,0,4,0
+2020-04-12,United States,Kentucky,Mason,2,0,5,0
+2020-04-12,United States,Kentucky,McCracken,5,0,21,1
+2020-04-12,United States,Kentucky,McCreary,5,0,8,0
+2020-04-12,United States,Kentucky,McLean,2,0,7,1
+2020-04-12,United States,Kentucky,Meade,0,0,2,0
+2020-04-12,United States,Kentucky,Menifee,0,0,3,0
+2020-04-12,United States,Kentucky,Mercer,5,0,9,0
+2020-04-12,United States,Kentucky,Monroe,0,0,2,0
+2020-04-12,United States,Kentucky,Montgomery,1,0,8,0
+2020-04-12,United States,Kentucky,Muhlenberg,2,0,28,0
+2020-04-12,United States,Kentucky,Nelson,3,0,10,0
+2020-04-12,United States,Kentucky,Nicholas,0,0,1,0
+2020-04-12,United States,Kentucky,Ohio,0,0,8,0
+2020-04-12,United States,Kentucky,Oldham,5,0,16,0
+2020-04-12,United States,Kentucky,Pendleton,0,0,3,0
+2020-04-12,United States,Kentucky,Perry,0,0,3,0
+2020-04-12,United States,Kentucky,Pike,3,0,4,0
+2020-04-12,United States,Kentucky,Powell,1,0,2,0
+2020-04-12,United States,Kentucky,Pulaski,7,0,33,1
+2020-04-12,United States,Kentucky,Rockcastle,2,0,8,0
+2020-04-12,United States,Kentucky,Rowan,0,0,1,0
+2020-04-12,United States,Kentucky,Russell,4,0,8,0
+2020-04-12,United States,Kentucky,Scott,7,0,22,0
+2020-04-12,United States,Kentucky,Shelby,7,0,18,0
+2020-04-12,United States,Kentucky,Simpson,3,0,17,1
+2020-04-12,United States,Kentucky,Spencer,3,0,6,0
+2020-04-12,United States,Kentucky,Taylor,0,0,3,0
+2020-04-12,United States,Kentucky,Todd,3,0,6,0
+2020-04-12,United States,Kentucky,Trimble,0,0,2,0
+2020-04-12,United States,Kentucky,Unassigned,-273,7,112,28
+2020-04-12,United States,Kentucky,Union,2,0,5,0
+2020-04-12,United States,Kentucky,Warren,25,0,49,0
+2020-04-12,United States,Kentucky,Washington,0,0,3,0
+2020-04-12,United States,Kentucky,Wayne,0,0,4,0
+2020-04-12,United States,Kentucky,Webster,1,0,8,0
+2020-04-12,United States,Kentucky,Whitley,3,0,4,0
+2020-04-12,United States,Kentucky,Woodford,8,0,17,1
+2020-04-12,United States,Louisiana,Acadia,1,1,99,5
+2020-04-12,United States,Louisiana,Allen,2,0,73,7
+2020-04-12,United States,Louisiana,Ascension,13,3,428,23
+2020-04-12,United States,Louisiana,Assumption,7,0,116,1
+2020-04-12,United States,Louisiana,Avoyelles,0,0,61,1
+2020-04-12,United States,Louisiana,Beauregard,0,0,27,1
+2020-04-12,United States,Louisiana,Bienville,3,0,33,1
+2020-04-12,United States,Louisiana,Bossier,8,0,186,9
+2020-04-12,United States,Louisiana,Caddo,44,0,1018,39
+2020-04-12,United States,Louisiana,Calcasieu,11,4,259,12
+2020-04-12,United States,Louisiana,Caldwell,0,0,18,0
+2020-04-12,United States,Louisiana,Cameron,0,0,2,0
+2020-04-12,United States,Louisiana,Catahoula,1,0,21,1
+2020-04-12,United States,Louisiana,Claiborne,0,0,41,3
+2020-04-12,United States,Louisiana,Concordia,1,0,18,1
+2020-04-12,United States,Louisiana,De Soto,10,0,124,7
+2020-04-12,United States,Louisiana,East Baton Rouge,65,4,1223,49
+2020-04-12,United States,Louisiana,East Carroll,0,0,1,0
+2020-04-12,United States,Louisiana,East Feliciana,4,0,71,2
+2020-04-12,United States,Louisiana,Evangeline,2,0,36,0
+2020-04-12,United States,Louisiana,Franklin,1,0,48,1
+2020-04-12,United States,Louisiana,Grant,0,0,11,0
+2020-04-12,United States,Louisiana,Iberia,8,0,136,5
+2020-04-12,United States,Louisiana,Iberville,18,2,232,14
+2020-04-12,United States,Louisiana,Jackson,0,0,8,0
+2020-04-12,United States,Louisiana,Jefferson,113,7,4990,173
+2020-04-12,United States,Louisiana,Jefferson Davis,9,-4,44,3
+2020-04-12,United States,Louisiana,Lafayette,17,1,354,13
+2020-04-12,United States,Louisiana,Lafourche,14,0,468,13
+2020-04-12,United States,Louisiana,LaSalle,1,0,11,0
+2020-04-12,United States,Louisiana,Lincoln,2,0,39,0
+2020-04-12,United States,Louisiana,Livingston,11,0,120,1
+2020-04-12,United States,Louisiana,Madison,0,0,2,0
+2020-04-12,United States,Louisiana,Morehouse,0,0,31,2
+2020-04-12,United States,Louisiana,Natchitoches,8,0,41,0
+2020-04-12,United States,Louisiana,Orleans,65,3,5600,235
+2020-04-12,United States,Louisiana,Ouachita,17,0,367,5
+2020-04-12,United States,Louisiana,Plaquemines,1,-1,137,10
+2020-04-12,United States,Louisiana,Pointe Coupee,3,0,43,2
+2020-04-12,United States,Louisiana,Rapides,6,0,165,5
+2020-04-12,United States,Louisiana,Red River,2,1,11,2
+2020-04-12,United States,Louisiana,Richland,0,0,19,0
+2020-04-12,United States,Louisiana,Sabine,1,0,9,0
+2020-04-12,United States,Louisiana,St. Bernard,3,0,361,10
+2020-04-12,United States,Louisiana,St. Charles,3,1,404,25
+2020-04-12,United States,Louisiana,St. Helena,0,0,13,0
+2020-04-12,United States,Louisiana,St. James,7,1,204,10
+2020-04-12,United States,Louisiana,St. John the Baptist,7,0,545,38
+2020-04-12,United States,Louisiana,St. Landry,4,2,113,13
+2020-04-12,United States,Louisiana,St. Martin,11,1,157,8
+2020-04-12,United States,Louisiana,St. Mary,8,0,113,2
+2020-04-12,United States,Louisiana,St. Tammany,19,7,864,39
+2020-04-12,United States,Louisiana,Tangipahoa,26,1,344,8
+2020-04-12,United States,Louisiana,Tensas,0,0,1,0
+2020-04-12,United States,Louisiana,Terrebonne,7,0,255,14
+2020-04-12,United States,Louisiana,Unassigned,0,0,54,3
+2020-04-12,United States,Louisiana,Union,2,0,47,3
+2020-04-12,United States,Louisiana,Vermilion,2,0,26,1
+2020-04-12,United States,Louisiana,Vernon,0,0,14,0
+2020-04-12,United States,Louisiana,Washington,5,0,147,7
+2020-04-12,United States,Louisiana,Webster,2,0,62,2
+2020-04-12,United States,Louisiana,West Baton Rouge,2,0,68,9
+2020-04-12,United States,Louisiana,West Carroll,0,0,4,0
+2020-04-12,United States,Louisiana,West Feliciana,1,0,46,0
+2020-04-12,United States,Louisiana,Winn,3,0,12,2
+2020-04-12,United States,Maine,Androscoggin,1,0,28,0
+2020-04-12,United States,Maine,Aroostook,0,0,2,0
+2020-04-12,United States,Maine,Cumberland,8,0,292,12
+2020-04-12,United States,Maine,Franklin,1,0,8,0
+2020-04-12,United States,Maine,Hancock,1,0,5,0
+2020-04-12,United States,Maine,Kennebec,1,0,32,1
+2020-04-12,United States,Maine,Knox,0,0,10,0
+2020-04-12,United States,Maine,Lincoln,0,0,9,0
+2020-04-12,United States,Maine,Oxford,0,0,13,0
+2020-04-12,United States,Maine,Penobscot,0,0,34,0
+2020-04-12,United States,Maine,Sagadahoc,0,0,15,1
+2020-04-12,United States,Maine,Somerset,2,0,8,0
+2020-04-12,United States,Maine,Unassigned,0,0,3,0
+2020-04-12,United States,Maine,Waldo,2,0,29,2
+2020-04-12,United States,Maine,Washington,0,0,1,0
+2020-04-12,United States,Maine,York,1,0,144,3
+2020-04-12,United States,Maryland,Allegany,2,0,13,0
+2020-04-12,United States,Maryland,Anne Arundel,44,8,659,27
+2020-04-12,United States,Maryland,Baltimore,84,4,1257,30
+2020-04-12,United States,Maryland,Baltimore City,56,2,812,24
+2020-04-12,United States,Maryland,Calvert,8,0,90,1
+2020-04-12,United States,Maryland,Caroline,2,0,17,0
+2020-04-12,United States,Maryland,Carroll,22,0,236,25
+2020-04-12,United States,Maryland,Cecil,8,0,74,1
+2020-04-12,United States,Maryland,Charles,18,4,253,9
+2020-04-12,United States,Maryland,Dorchester,1,0,9,0
+2020-04-12,United States,Maryland,Frederick,27,1,368,12
+2020-04-12,United States,Maryland,Garrett,0,0,4,0
+2020-04-12,United States,Maryland,Harford,9,0,129,1
+2020-04-12,United States,Maryland,Howard,20,0,371,6
+2020-04-12,United States,Maryland,Kent,1,0,11,0
+2020-04-12,United States,Maryland,Montgomery,94,6,1631,42
+2020-04-12,United States,Maryland,Prince George`s,112,5,2035,55
+2020-04-12,United States,Maryland,Queen Anne`s,0,0,19,0
+2020-04-12,United States,Maryland,Somerset,0,0,4,0
+2020-04-12,United States,Maryland,St. Mary`s,9,0,82,0
+2020-04-12,United States,Maryland,Talbot,1,0,14,1
+2020-04-12,United States,Maryland,Washington,3,0,75,1
+2020-04-12,United States,Maryland,Wicomico,9,0,42,1
+2020-04-12,United States,Maryland,Worcester,1,0,20,0
+2020-04-12,United States,Massachusetts,Barnstable,21,1,501,16
+2020-04-12,United States,Massachusetts,Berkshire,14,0,350,20
+2020-04-12,United States,Massachusetts,Bristol,136,4,1327,43
+2020-04-12,United States,Massachusetts,Dukes and Nantucket,0,0,21,1
+2020-04-12,United States,Massachusetts,Essex,274,10,3170,101
+2020-04-12,United States,Massachusetts,Franklin,5,2,143,25
+2020-04-12,United States,Massachusetts,Hampden,102,10,1647,102
+2020-04-12,United States,Massachusetts,Hampshire,15,1,219,6
+2020-04-12,United States,Massachusetts,Middlesex,788,12,5660,149
+2020-04-12,United States,Massachusetts,Norfolk,254,12,2649,91
+2020-04-12,United States,Massachusetts,Plymouth,215,4,2024,55
+2020-04-12,United States,Massachusetts,Suffolk,433,7,5359,86
+2020-04-12,United States,Massachusetts,Unassigned,148,-1,373,12
+2020-04-12,United States,Massachusetts,Worcester,210,8,2032,49
+2020-04-12,United States,Michigan,Allegan,2,0,21,0
+2020-04-12,United States,Michigan,Alpena,0,0,1,0
+2020-04-12,United States,Michigan,Antrim,1,0,8,0
+2020-04-12,United States,Michigan,Arenac,1,0,5,0
+2020-04-12,United States,Michigan,Barry,0,0,8,0
+2020-04-12,United States,Michigan,Bay,1,2,54,2
+2020-04-12,United States,Michigan,Benzie,0,0,0,0
+2020-04-12,United States,Michigan,Berrien,10,1,104,4
+2020-04-12,United States,Michigan,Branch,1,0,27,2
+2020-04-12,United States,Michigan,Calhoun,3,0,74,1
+2020-04-12,United States,Michigan,Cass,-1,0,11,1
+2020-04-12,United States,Michigan,Charlevoix,0,0,11,0
+2020-04-12,United States,Michigan,Cheboygan,-1,0,10,1
+2020-04-12,United States,Michigan,Chippewa,0,0,0,0
+2020-04-12,United States,Michigan,Clare,0,0,4,1
+2020-04-12,United States,Michigan,Clinton,1,0,91,3
+2020-04-12,United States,Michigan,Crawford,4,0,12,1
+2020-04-12,United States,Michigan,Delta,0,0,9,1
+2020-04-12,United States,Michigan,Dickinson,0,0,3,2
+2020-04-12,United States,Michigan,Eaton,3,0,74,4
+2020-04-12,United States,Michigan,Emmet,0,0,21,2
+2020-04-12,United States,Michigan,Genesee,36,6,955,68
+2020-04-12,United States,Michigan,Gladwin,0,0,4,0
+2020-04-12,United States,Michigan,Gogebic,0,0,4,1
+2020-04-12,United States,Michigan,Grand Traverse,0,0,17,3
+2020-04-12,United States,Michigan,Gratiot,0,0,7,0
+2020-04-12,United States,Michigan,Hillsdale,0,0,75,6
+2020-04-12,United States,Michigan,Houghton,0,0,1,0
+2020-04-12,United States,Michigan,Huron,1,0,6,0
+2020-04-12,United States,Michigan,Ingham,9,0,250,3
+2020-04-12,United States,Michigan,Ionia,0,0,14,2
+2020-04-12,United States,Michigan,Iosco,-1,0,4,1
+2020-04-12,United States,Michigan,Isabella,1,0,39,3
+2020-04-12,United States,Michigan,Jackson,19,0,171,4
+2020-04-12,United States,Michigan,Kalamazoo,5,0,84,7
+2020-04-12,United States,Michigan,Kalkaska,0,0,13,2
+2020-04-12,United States,Michigan,Kent,17,0,287,13
+2020-04-12,United States,Michigan,Lake,0,0,1,0
+2020-04-12,United States,Michigan,Lapeer,6,0,101,6
+2020-04-12,United States,Michigan,Leelanau,0,0,4,0
+2020-04-12,United States,Michigan,Lenawee,4,0,47,0
+2020-04-12,United States,Michigan,Livingston,3,1,209,4
+2020-04-12,United States,Michigan,Luce,0,0,1,0
+2020-04-12,United States,Michigan,Mackinac,0,0,4,0
+2020-04-12,United States,Michigan,Macomb,90,8,3254,217
+2020-04-12,United States,Michigan,Manistee,1,0,10,0
+2020-04-12,United States,Michigan,Marquette,1,2,22,4
+2020-04-12,United States,Michigan,Mason,0,0,2,0
+2020-04-12,United States,Michigan,Mecosta,0,0,11,1
+2020-04-12,United States,Michigan,Menominee,0,0,1,0
+2020-04-12,United States,Michigan,Midland,1,0,31,1
+2020-04-12,United States,Michigan,Missaukee,0,0,1,1
+2020-04-12,United States,Michigan,Monroe,0,1,183,6
+2020-04-12,United States,Michigan,Montcalm,1,0,22,1
+2020-04-12,United States,Michigan,Muskegon,2,0,59,4
+2020-04-12,United States,Michigan,Newaygo,0,0,6,0
+2020-04-12,United States,Michigan,Oakland,113,13,4915,329
+2020-04-12,United States,Michigan,Oceana,0,0,3,1
+2020-04-12,United States,Michigan,Ogemaw,0,0,4,0
+2020-04-12,United States,Michigan,Ontonagon,0,0,0,0
+2020-04-12,United States,Michigan,Osceola,0,0,4,0
+2020-04-12,United States,Michigan,Oscoda,0,0,4,0
+2020-04-12,United States,Michigan,Otsego,2,0,33,2
+2020-04-12,United States,Michigan,Ottawa,2,0,66,2
+2020-04-12,United States,Michigan,Out of MI,4,0,144,1
+2020-04-12,United States,Michigan,Presque Isle,0,0,2,0
+2020-04-12,United States,Michigan,Roscommon,1,0,9,0
+2020-04-12,United States,Michigan,Saginaw,20,0,274,9
+2020-04-12,United States,Michigan,Sanilac,0,0,23,2
+2020-04-12,United States,Michigan,Schoolcraft,0,0,2,0
+2020-04-12,United States,Michigan,Shiawassee,17,1,54,1
+2020-04-12,United States,Michigan,St. Clair,9,2,199,6
+2020-04-12,United States,Michigan,St. Joseph,1,0,21,0
+2020-04-12,United States,Michigan,Tuscola,5,1,45,7
+2020-04-12,United States,Michigan,Unassigned,0,5,86,12
+2020-04-12,United States,Michigan,Van Buren,0,0,21,1
+2020-04-12,United States,Michigan,Washtenaw,31,0,716,18
+2020-04-12,United States,Michigan,Wayne,213,52,11164,704
+2020-04-12,United States,Michigan,Wexford,0,0,7,1
+2020-04-12,United States,Minnesota,Anoka,10,0,68,0
+2020-04-12,United States,Minnesota,Becker,0,0,2,0
+2020-04-12,United States,Minnesota,Beltrami,0,0,5,0
+2020-04-12,United States,Minnesota,Benton,0,0,1,0
+2020-04-12,United States,Minnesota,Big Stone,0,0,1,0
+2020-04-12,United States,Minnesota,Blue Earth,0,0,22,0
+2020-04-12,United States,Minnesota,Brown,0,0,7,1
+2020-04-12,United States,Minnesota,Carlton,6,0,25,0
+2020-04-12,United States,Minnesota,Carver,1,0,13,0
+2020-04-12,United States,Minnesota,Cass,1,0,4,0
+2020-04-12,United States,Minnesota,Chisago,1,0,7,1
+2020-04-12,United States,Minnesota,Clay,11,0,40,0
+2020-04-12,United States,Minnesota,Clearwater,0,0,2,0
+2020-04-12,United States,Minnesota,Cottonwood,1,0,6,0
+2020-04-12,United States,Minnesota,Crow Wing,3,0,16,0
+2020-04-12,United States,Minnesota,Dakota,8,0,95,4
+2020-04-12,United States,Minnesota,Dodge,1,0,16,0
+2020-04-12,United States,Minnesota,Douglas,0,0,1,0
+2020-04-12,United States,Minnesota,Faribault,0,0,4,0
+2020-04-12,United States,Minnesota,Fillmore,0,0,10,0
+2020-04-12,United States,Minnesota,Freeborn,2,0,24,0
+2020-04-12,United States,Minnesota,Goodhue,1,0,17,0
+2020-04-12,United States,Minnesota,Hennepin,93,4,557,34
+2020-04-12,United States,Minnesota,Houston,0,0,1,0
+2020-04-12,United States,Minnesota,Isanti,0,0,4,0
+2020-04-12,United States,Minnesota,Itasca,0,0,2,0
+2020-04-12,United States,Minnesota,Jackson,0,0,1,0
+2020-04-12,United States,Minnesota,Kandiyohi,0,0,2,0
+2020-04-12,United States,Minnesota,Koochiching,0,0,1,0
+2020-04-12,United States,Minnesota,Lac qui Parle,0,0,1,0
+2020-04-12,United States,Minnesota,Le Sueur,1,0,21,0
+2020-04-12,United States,Minnesota,Lincoln,0,0,2,0
+2020-04-12,United States,Minnesota,Lyon,0,0,5,0
+2020-04-12,United States,Minnesota,Mahnomen,0,0,1,0
+2020-04-12,United States,Minnesota,Martin,1,0,38,4
+2020-04-12,United States,Minnesota,McLeod,0,0,2,0
+2020-04-12,United States,Minnesota,Meeker,0,0,2,0
+2020-04-12,United States,Minnesota,Mower,2,0,25,0
+2020-04-12,United States,Minnesota,Murray,0,0,1,0
+2020-04-12,United States,Minnesota,Nicollet,0,0,6,1
+2020-04-12,United States,Minnesota,Nobles,0,0,1,0
+2020-04-12,United States,Minnesota,Olmsted,11,0,143,2
+2020-04-12,United States,Minnesota,Otter Tail,0,0,4,0
+2020-04-12,United States,Minnesota,Pine,2,0,5,0
+2020-04-12,United States,Minnesota,Pipestone,0,0,1,0
+2020-04-12,United States,Minnesota,Polk,0,0,1,0
+2020-04-12,United States,Minnesota,Ramsey,20,0,152,6
+2020-04-12,United States,Minnesota,Red Lake,0,0,1,0
+2020-04-12,United States,Minnesota,Redwood,0,0,1,0
+2020-04-12,United States,Minnesota,Renville,0,0,3,0
+2020-04-12,United States,Minnesota,Rice,0,0,4,0
+2020-04-12,United States,Minnesota,Rock,0,0,2,0
+2020-04-12,United States,Minnesota,Roseau,0,0,1,0
+2020-04-12,United States,Minnesota,Scott,0,0,20,1
+2020-04-12,United States,Minnesota,Sherburne,0,0,9,0
+2020-04-12,United States,Minnesota,Sibley,0,0,1,0
+2020-04-12,United States,Minnesota,St. Louis,1,1,38,5
+2020-04-12,United States,Minnesota,Stearns,0,0,7,0
+2020-04-12,United States,Minnesota,Steele,0,0,9,0
+2020-04-12,United States,Minnesota,Swift,0,0,1,0
+2020-04-12,United States,Minnesota,Todd,0,0,2,0
+2020-04-12,United States,Minnesota,Traverse,0,0,2,0
+2020-04-12,United States,Minnesota,Unassigned,1,-1,5,0
+2020-04-12,United States,Minnesota,Wabasha,0,0,6,0
+2020-04-12,United States,Minnesota,Waseca,0,0,3,0
+2020-04-12,United States,Minnesota,Washington,3,1,80,3
+2020-04-12,United States,Minnesota,Watonwan,0,0,4,0
+2020-04-12,United States,Minnesota,Wilkin,0,0,7,1
+2020-04-12,United States,Minnesota,Winona,4,1,30,6
+2020-04-12,United States,Minnesota,Wright,1,0,17,1
+2020-04-12,United States,Minnesota,Yellow Medicine,1,0,3,0
+2020-04-12,United States,Mississippi,Adams,2,0,51,1
+2020-04-12,United States,Mississippi,Alcorn,0,0,7,0
+2020-04-12,United States,Mississippi,Amite,1,0,12,1
+2020-04-12,United States,Mississippi,Attala,2,0,20,0
+2020-04-12,United States,Mississippi,Benton,0,0,5,0
+2020-04-12,United States,Mississippi,Bolivar,3,0,68,3
+2020-04-12,United States,Mississippi,Calhoun,4,0,18,0
+2020-04-12,United States,Mississippi,Carroll,0,0,7,0
+2020-04-12,United States,Mississippi,Chickasaw,2,0,24,2
+2020-04-12,United States,Mississippi,Choctaw,0,0,10,1
+2020-04-12,United States,Mississippi,Claiborne,1,0,6,0
+2020-04-12,United States,Mississippi,Clarke,0,0,13,1
+2020-04-12,United States,Mississippi,Clay,1,0,18,0
+2020-04-12,United States,Mississippi,Coahoma,0,0,38,1
+2020-04-12,United States,Mississippi,Copiah,3,0,31,0
+2020-04-12,United States,Mississippi,Covington,2,0,14,0
+2020-04-12,United States,Mississippi,DeSoto,8,0,171,2
+2020-04-12,United States,Mississippi,Forrest,9,0,95,2
+2020-04-12,United States,Mississippi,Franklin,0,0,10,0
+2020-04-12,United States,Mississippi,George,0,0,7,0
+2020-04-12,United States,Mississippi,Greene,0,0,2,0
+2020-04-12,United States,Mississippi,Grenada,0,0,10,0
+2020-04-12,United States,Mississippi,Hancock,2,0,40,5
+2020-04-12,United States,Mississippi,Harrison,3,0,110,5
+2020-04-12,United States,Mississippi,Hinds,13,0,247,2
+2020-04-12,United States,Mississippi,Holmes,2,0,44,3
+2020-04-12,United States,Mississippi,Humphreys,0,0,9,1
+2020-04-12,United States,Mississippi,Itawamba,0,0,9,0
+2020-04-12,United States,Mississippi,Jackson,1,0,140,5
+2020-04-12,United States,Mississippi,Jasper,2,0,14,0
+2020-04-12,United States,Mississippi,Jefferson,0,0,4,0
+2020-04-12,United States,Mississippi,Jefferson Davis,0,0,5,0
+2020-04-12,United States,Mississippi,Jones,3,0,33,0
+2020-04-12,United States,Mississippi,Kemper,0,0,14,0
+2020-04-12,United States,Mississippi,Lafayette,0,0,29,1
+2020-04-12,United States,Mississippi,Lamar,1,0,32,1
+2020-04-12,United States,Mississippi,Lauderdale,2,0,135,8
+2020-04-12,United States,Mississippi,Lawrence,0,0,6,0
+2020-04-12,United States,Mississippi,Leake,0,0,27,0
+2020-04-12,United States,Mississippi,Lee,1,1,43,4
+2020-04-12,United States,Mississippi,Leflore,1,0,45,4
+2020-04-12,United States,Mississippi,Lincoln,5,1,46,4
+2020-04-12,United States,Mississippi,Lowndes,2,0,24,0
+2020-04-12,United States,Mississippi,Madison,4,0,103,2
+2020-04-12,United States,Mississippi,Marion,4,0,21,0
+2020-04-12,United States,Mississippi,Marshall,3,0,33,2
+2020-04-12,United States,Mississippi,Monroe,5,0,36,2
+2020-04-12,United States,Mississippi,Montgomery,0,0,14,1
+2020-04-12,United States,Mississippi,Neshoba,5,0,31,0
+2020-04-12,United States,Mississippi,Newton,-2,0,10,0
+2020-04-12,United States,Mississippi,Noxubee,0,0,6,0
+2020-04-12,United States,Mississippi,Oktibbeha,1,0,37,1
+2020-04-12,United States,Mississippi,Panola,0,0,22,2
+2020-04-12,United States,Mississippi,Pearl River,1,1,83,7
+2020-04-12,United States,Mississippi,Perry,2,0,18,1
+2020-04-12,United States,Mississippi,Pike,7,0,54,1
+2020-04-12,United States,Mississippi,Pontotoc,1,0,15,1
+2020-04-12,United States,Mississippi,Prentiss,1,0,13,0
+2020-04-12,United States,Mississippi,Quitman,0,0,12,0
+2020-04-12,United States,Mississippi,Rankin,5,0,99,2
+2020-04-12,United States,Mississippi,Scott,2,0,54,0
+2020-04-12,United States,Mississippi,Sharkey,0,0,3,0
+2020-04-12,United States,Mississippi,Simpson,0,0,7,0
+2020-04-12,United States,Mississippi,Smith,1,0,24,1
+2020-04-12,United States,Mississippi,Stone,1,0,10,0
+2020-04-12,United States,Mississippi,Sunflower,0,0,35,1
+2020-04-12,United States,Mississippi,Tallahatchie,0,0,3,0
+2020-04-12,United States,Mississippi,Tate,1,0,24,0
+2020-04-12,United States,Mississippi,Tippah,0,0,43,6
+2020-04-12,United States,Mississippi,Tishomingo,0,0,2,0
+2020-04-12,United States,Mississippi,Tunica,2,0,21,1
+2020-04-12,United States,Mississippi,Unassigned,0,0,0,0
+2020-04-12,United States,Mississippi,Union,0,0,7,1
+2020-04-12,United States,Mississippi,Walthall,2,0,18,0
+2020-04-12,United States,Mississippi,Warren,3,0,14,0
+2020-04-12,United States,Mississippi,Washington,4,0,53,2
+2020-04-12,United States,Mississippi,Wayne,0,0,8,0
+2020-04-12,United States,Mississippi,Webster,0,0,14,1
+2020-04-12,United States,Mississippi,Wilkinson,3,0,45,3
+2020-04-12,United States,Mississippi,Winston,1,0,19,0
+2020-04-12,United States,Mississippi,Yalobusha,1,0,14,0
+2020-04-12,United States,Mississippi,Yazoo,5,0,63,1
+2020-04-12,United States,Missouri,Adair,0,0,11,0
+2020-04-12,United States,Missouri,Andrew,0,0,1,0
+2020-04-12,United States,Missouri,Atchison,0,0,1,0
+2020-04-12,United States,Missouri,Barry,0,0,2,0
+2020-04-12,United States,Missouri,Bates,0,0,6,0
+2020-04-12,United States,Missouri,Benton,0,0,3,0
+2020-04-12,United States,Missouri,Bollinger,0,0,3,0
+2020-04-12,United States,Missouri,Boone,1,0,80,1
+2020-04-12,United States,Missouri,Buchanan,0,0,20,1
+2020-04-12,United States,Missouri,Butler,0,0,13,0
+2020-04-12,United States,Missouri,Caldwell,0,0,1,0
+2020-04-12,United States,Missouri,Callaway,-1,0,20,1
+2020-04-12,United States,Missouri,Camden,0,0,26,1
+2020-04-12,United States,Missouri,Cape Girardeau,0,0,28,1
+2020-04-12,United States,Missouri,Carter,0,0,3,1
+2020-04-12,United States,Missouri,Cass,3,0,37,2
+2020-04-12,United States,Missouri,Cedar,0,0,5,0
+2020-04-12,United States,Missouri,Chariton,0,0,4,0
+2020-04-12,United States,Missouri,Christian,0,0,17,0
+2020-04-12,United States,Missouri,Clark,0,0,1,0
+2020-04-12,United States,Missouri,Clay,2,1,48,2
+2020-04-12,United States,Missouri,Clinton,0,0,11,0
+2020-04-12,United States,Missouri,Cole,0,0,36,1
+2020-04-12,United States,Missouri,Cooper,0,0,4,0
+2020-04-12,United States,Missouri,Crawford,0,0,4,0
+2020-04-12,United States,Missouri,Dallas,0,0,2,0
+2020-04-12,United States,Missouri,DeKalb,0,0,3,0
+2020-04-12,United States,Missouri,Dunklin,1,0,14,0
+2020-04-12,United States,Missouri,Franklin,0,0,83,3
+2020-04-12,United States,Missouri,Gasconade,0,0,2,0
+2020-04-12,United States,Missouri,Gentry,0,0,1,0
+2020-04-12,United States,Missouri,Greene,2,0,79,8
+2020-04-12,United States,Missouri,Harrison,0,0,6,0
+2020-04-12,United States,Missouri,Henry,0,0,4,1
+2020-04-12,United States,Missouri,Howard,0,0,1,0
+2020-04-12,United States,Missouri,Howell,0,0,4,0
+2020-04-12,United States,Missouri,Iron,0,0,1,0
+2020-04-12,United States,Missouri,Jackson,8,0,225,7
+2020-04-12,United States,Missouri,Jasper,-4,0,18,0
+2020-04-12,United States,Missouri,Jefferson,7,0,124,3
+2020-04-12,United States,Missouri,Johnson,-4,0,37,0
+2020-04-12,United States,Missouri,Kansas City,8,0,308,8
+2020-04-12,United States,Missouri,Lafayette,0,0,28,1
+2020-04-12,United States,Missouri,Lincoln,0,0,26,1
+2020-04-12,United States,Missouri,Linn,0,0,3,0
+2020-04-12,United States,Missouri,Livingston,0,0,1,0
+2020-04-12,United States,Missouri,Macon,0,0,2,0
+2020-04-12,United States,Missouri,Madison,0,0,1,0
+2020-04-12,United States,Missouri,Maries,0,0,2,0
+2020-04-12,United States,Missouri,McDonald,-1,0,3,0
+2020-04-12,United States,Missouri,Moniteau,0,0,4,0
+2020-04-12,United States,Missouri,Montgomery,0,0,6,0
+2020-04-12,United States,Missouri,Morgan,0,0,1,0
+2020-04-12,United States,Missouri,New Madrid,2,0,8,0
+2020-04-12,United States,Missouri,Newton,0,0,8,0
+2020-04-12,United States,Missouri,Nodaway,0,0,2,0
+2020-04-12,United States,Missouri,Oregon,0,0,1,0
+2020-04-12,United States,Missouri,Osage,0,0,4,0
+2020-04-12,United States,Missouri,Pemiscot,0,0,4,0
+2020-04-12,United States,Missouri,Perry,1,0,35,0
+2020-04-12,United States,Missouri,Pettis,-1,0,3,0
+2020-04-12,United States,Missouri,Phelps,0,0,1,0
+2020-04-12,United States,Missouri,Pike,0,0,6,0
+2020-04-12,United States,Missouri,Platte,0,0,25,0
+2020-04-12,United States,Missouri,Polk,0,0,1,0
+2020-04-12,United States,Missouri,Pulaski,0,0,11,1
+2020-04-12,United States,Missouri,Ralls,0,0,1,0
+2020-04-12,United States,Missouri,Randolph,0,0,8,0
+2020-04-12,United States,Missouri,Ray,0,0,7,0
+2020-04-12,United States,Missouri,Reynolds,0,0,2,0
+2020-04-12,United States,Missouri,Ripley,0,0,3,0
+2020-04-12,United States,Missouri,Saline,0,0,22,0
+2020-04-12,United States,Missouri,Scotland,0,0,3,0
+2020-04-12,United States,Missouri,Scott,1,0,15,0
+2020-04-12,United States,Missouri,Shelby,0,0,1,0
+2020-04-12,United States,Missouri,St. Charles,18,0,366,11
+2020-04-12,United States,Missouri,St. Clair,0,0,2,0
+2020-04-12,United States,Missouri,St. Francois,2,0,23,1
+2020-04-12,United States,Missouri,St. Louis,65,0,1633,42
+2020-04-12,United States,Missouri,St. Louis City,22,2,728,19
+2020-04-12,United States,Missouri,Ste. Genevieve,1,0,7,1
+2020-04-12,United States,Missouri,Stoddard,0,0,9,0
+2020-04-12,United States,Missouri,Stone,-1,0,3,0
+2020-04-12,United States,Missouri,Taney,0,0,7,1
+2020-04-12,United States,Missouri,Texas,0,0,0,0
+2020-04-12,United States,Missouri,Unassigned,0,1,0,1
+2020-04-12,United States,Missouri,Vernon,0,0,3,0
+2020-04-12,United States,Missouri,Warren,0,0,13,0
+2020-04-12,United States,Missouri,Washington,0,0,1,0
+2020-04-12,United States,Missouri,Webster,0,0,4,0
+2020-04-12,United States,Missouri,Worth,0,0,1,0
+2020-04-12,United States,Missouri,Wright,0,0,7,0
+2020-04-12,United States,Montana,Beaverhead,0,0,1,0
+2020-04-12,United States,Montana,Big Horn,0,0,1,0
+2020-04-12,United States,Montana,Broadwater,0,0,4,0
+2020-04-12,United States,Montana,Carbon,0,0,6,0
+2020-04-12,United States,Montana,Cascade,0,0,13,0
+2020-04-12,United States,Montana,Deer Lodge,0,0,3,0
+2020-04-12,United States,Montana,Flathead,0,0,34,0
+2020-04-12,United States,Montana,Gallatin,3,0,138,0
+2020-04-12,United States,Montana,Glacier,0,0,3,0
+2020-04-12,United States,Montana,Golden Valley,0,0,1,0
+2020-04-12,United States,Montana,Hill,0,0,1,0
+2020-04-12,United States,Montana,Jefferson,0,0,2,0
+2020-04-12,United States,Montana,Lake,0,0,5,0
+2020-04-12,United States,Montana,Lewis and Clark,0,0,16,0
+2020-04-12,United States,Montana,Liberty,0,0,1,0
+2020-04-12,United States,Montana,Lincoln,0,0,7,1
+2020-04-12,United States,Montana,Madison,0,0,8,1
+2020-04-12,United States,Montana,Meagher,0,0,1,0
+2020-04-12,United States,Montana,Missoula,1,0,30,1
+2020-04-12,United States,Montana,Musselshell,0,0,1,0
+2020-04-12,United States,Montana,Park,0,0,7,0
+2020-04-12,United States,Montana,Ravalli,0,0,3,0
+2020-04-12,United States,Montana,Richland,0,0,3,0
+2020-04-12,United States,Montana,Roosevelt,0,0,3,0
+2020-04-12,United States,Montana,Silver Bow,0,0,11,0
+2020-04-12,United States,Montana,Stillwater,0,0,1,0
+2020-04-12,United States,Montana,Toole,5,0,25,3
+2020-04-12,United States,Montana,Unassigned,0,0,0,0
+2020-04-12,United States,Montana,Yellowstone,1,0,58,0
+2020-04-12,United States,Nebraska,Adams,9,0,54,0
+2020-04-12,United States,Nebraska,Antelope,0,0,1,0
+2020-04-12,United States,Nebraska,Box Butte,0,0,1,0
+2020-04-12,United States,Nebraska,Buffalo,2,0,35,1
+2020-04-12,United States,Nebraska,Burt,0,0,1,0
+2020-04-12,United States,Nebraska,Cass,0,0,3,0
+2020-04-12,United States,Nebraska,Cedar,0,0,0,0
+2020-04-12,United States,Nebraska,Cherry,0,0,1,0
+2020-04-12,United States,Nebraska,Cheyenne,1,0,3,0
+2020-04-12,United States,Nebraska,Clay,0,0,2,0
+2020-04-12,United States,Nebraska,Colfax,0,0,4,0
+2020-04-12,United States,Nebraska,Cuming,0,0,2,0
+2020-04-12,United States,Nebraska,Custer,0,0,13,0
+2020-04-12,United States,Nebraska,Dakota,0,0,0,0
+2020-04-12,United States,Nebraska,Dawson,9,0,12,0
+2020-04-12,United States,Nebraska,Dodge,2,0,9,0
+2020-04-12,United States,Nebraska,Douglas,11,0,239,5
+2020-04-12,United States,Nebraska,Franklin,0,0,2,0
+2020-04-12,United States,Nebraska,Gage,0,0,25,1
+2020-04-12,United States,Nebraska,Gosper,0,0,1,0
+2020-04-12,United States,Nebraska,Hall,30,0,159,4
+2020-04-12,United States,Nebraska,Hamilton,1,0,11,0
+2020-04-12,United States,Nebraska,Johnson,0,0,1,0
+2020-04-12,United States,Nebraska,Kearney,0,0,3,0
+2020-04-12,United States,Nebraska,Kimball,0,0,9,0
+2020-04-12,United States,Nebraska,Knox,0,0,2,0
+2020-04-12,United States,Nebraska,Lancaster,2,0,52,1
+2020-04-12,United States,Nebraska,Lincoln,0,0,17,1
+2020-04-12,United States,Nebraska,Logan,0,0,0,0
+2020-04-12,United States,Nebraska,Madison,0,0,6,2
+2020-04-12,United States,Nebraska,Merrick,0,0,2,0
+2020-04-12,United States,Nebraska,Nemaha,0,0,1,0
+2020-04-12,United States,Nebraska,Otoe,0,0,1,0
+2020-04-12,United States,Nebraska,Phelps,0,0,1,0
+2020-04-12,United States,Nebraska,Pierce,0,0,1,0
+2020-04-12,United States,Nebraska,Platte,0,0,6,0
+2020-04-12,United States,Nebraska,Polk,0,0,1,0
+2020-04-12,United States,Nebraska,Sarpy,0,0,41,0
+2020-04-12,United States,Nebraska,Saunders,0,0,5,0
+2020-04-12,United States,Nebraska,Scotts Bluff,2,0,14,0
+2020-04-12,United States,Nebraska,Seward,0,0,1,0
+2020-04-12,United States,Nebraska,Stanton,0,0,1,0
+2020-04-12,United States,Nebraska,Unassigned,23,0,23,2
+2020-04-12,United States,Nebraska,Washington,0,0,20,0
+2020-04-12,United States,Nebraska,Wayne,0,0,1,0
+2020-04-12,United States,Nebraska,Webster,0,0,1,0
+2020-04-12,United States,Nebraska,York,0,0,3,0
+2020-04-12,United States,Nevada,Carson City,0,0,16,0
+2020-04-12,United States,Nevada,Clark,180,25,2324,100
+2020-04-12,United States,Nevada,Douglas,0,0,10,0
+2020-04-12,United States,Nevada,Elko,0,0,11,1
+2020-04-12,United States,Nevada,Humboldt,0,0,18,0
+2020-04-12,United States,Nevada,Lincoln,0,0,1,0
+2020-04-12,United States,Nevada,Lyon,1,0,7,0
+2020-04-12,United States,Nevada,Nye,0,0,10,0
+2020-04-12,United States,Nevada,Unassigned,-73,-16,23,0
+2020-04-12,United States,Nevada,Washoe,26,1,415,11
+2020-04-12,United States,Nevada,White Pine,0,0,1,0
+2020-04-12,United States,New Hampshire,Belknap,0,0,21,0
+2020-04-12,United States,New Hampshire,Carroll,0,0,28,0
+2020-04-12,United States,New Hampshire,Cheshire,1,0,18,0
+2020-04-12,United States,New Hampshire,Coos,0,0,2,0
+2020-04-12,United States,New Hampshire,Grafton,0,0,43,0
+2020-04-12,United States,New Hampshire,Hillsborough,23,0,367,2
+2020-04-12,United States,New Hampshire,Merrimack,5,0,71,0
+2020-04-12,United States,New Hampshire,Rockingham,9,0,314,1
+2020-04-12,United States,New Hampshire,Strafford,5,0,58,0
+2020-04-12,United States,New Hampshire,Sullivan,0,0,6,0
+2020-04-12,United States,New Hampshire,Unassigned,1,1,1,20
+2020-04-12,United States,New Jersey,Atlantic,23,1,253,8
+2020-04-12,United States,New Jersey,Bergen,422,18,9784,453
+2020-04-12,United States,New Jersey,Burlington,64,1,1095,23
+2020-04-12,United States,New Jersey,Camden,90,3,1270,32
+2020-04-12,United States,New Jersey,Cape May,16,4,145,9
+2020-04-12,United States,New Jersey,Cumberland,11,0,165,3
+2020-04-12,United States,New Jersey,Essex,403,16,7410,428
+2020-04-12,United States,New Jersey,Gloucester,45,0,532,9
+2020-04-12,United States,New Jersey,Hudson,618,43,7469,226
+2020-04-12,United States,New Jersey,Hunterdon,13,0,314,11
+2020-04-12,United States,New Jersey,Mercer,133,1,1567,50
+2020-04-12,United States,New Jersey,Middlesex,287,16,5693,193
+2020-04-12,United States,New Jersey,Monmouth,134,8,3785,123
+2020-04-12,United States,New Jersey,Morris,174,10,3099,162
+2020-04-12,United States,New Jersey,Ocean,151,6,3554,138
+2020-04-12,United States,New Jersey,Passaic,295,12,5590,131
+2020-04-12,United States,New Jersey,Salem,5,1,61,4
+2020-04-12,United States,New Jersey,Somerset,90,1,1732,79
+2020-04-12,United States,New Jersey,Sussex,27,8,483,35
+2020-04-12,United States,New Jersey,Unassigned,350,0,1274,2
+2020-04-12,United States,New Jersey,Union,315,14,6180,209
+2020-04-12,United States,New Jersey,Warren,33,4,395,22
+2020-04-12,United States,New Mexico,Bernalillo,33,3,440,16
+2020-04-12,United States,New Mexico,Catron,0,0,1,0
+2020-04-12,United States,New Mexico,Chaves,1,0,19,0
+2020-04-12,United States,New Mexico,Cibola,1,1,25,1
+2020-04-12,United States,New Mexico,Colfax,0,0,1,0
+2020-04-12,United States,New Mexico,Curry,1,0,10,0
+2020-04-12,United States,New Mexico,Dona Ana,5,1,49,1
+2020-04-12,United States,New Mexico,Eddy,1,0,7,1
+2020-04-12,United States,New Mexico,Grant,2,0,9,0
+2020-04-12,United States,New Mexico,Hidalgo,-1,0,0,0
+2020-04-12,United States,New Mexico,Lea,0,0,2,0
+2020-04-12,United States,New Mexico,Lincoln,0,0,1,0
+2020-04-12,United States,New Mexico,Los Alamos,1,0,5,0
+2020-04-12,United States,New Mexico,Luna,0,0,2,0
+2020-04-12,United States,New Mexico,McKinley,31,0,144,2
+2020-04-12,United States,New Mexico,Otero,1,0,4,0
+2020-04-12,United States,New Mexico,Quay,0,0,1,0
+2020-04-12,United States,New Mexico,Rio Arriba,0,0,7,0
+2020-04-12,United States,New Mexico,Roosevelt,0,0,1,0
+2020-04-12,United States,New Mexico,San Juan,9,2,151,2
+2020-04-12,United States,New Mexico,San Miguel,0,0,1,0
+2020-04-12,United States,New Mexico,Sandoval,58,0,235,3
+2020-04-12,United States,New Mexico,Santa Fe,3,0,75,0
+2020-04-12,United States,New Mexico,Socorro,2,0,12,0
+2020-04-12,United States,New Mexico,Taos,0,0,15,0
+2020-04-12,United States,New Mexico,Torrance,1,0,10,0
+2020-04-12,United States,New Mexico,Unassigned,0,0,0,0
+2020-04-12,United States,New Mexico,Valencia,4,0,18,0
+2020-04-12,United States,New York,Albany,32,0,478,12
+2020-04-12,United States,New York,Allegany,0,0,26,1
+2020-04-12,United States,New York,Broome,9,0,126,6
+2020-04-12,United States,New York,Cattaraugus,9,0,28,0
+2020-04-12,United States,New York,Cayuga,3,0,31,1
+2020-04-12,United States,New York,Chautauqua,1,0,23,3
+2020-04-12,United States,New York,Chemung,0,0,60,1
+2020-04-12,United States,New York,Chenango,2,0,63,0
+2020-04-12,United States,New York,Clinton,0,0,43,2
+2020-04-12,United States,New York,Columbia,0,0,87,7
+2020-04-12,United States,New York,Cortland,4,0,21,0
+2020-04-12,United States,New York,Delaware,0,1,39,3
+2020-04-12,United States,New York,Dutchess,94,1,1838,12
+2020-04-12,United States,New York,Erie,65,4,1571,57
+2020-04-12,United States,New York,Essex,0,0,12,0
+2020-04-12,United States,New York,Franklin,1,0,12,0
+2020-04-12,United States,New York,Fulton,0,0,21,0
+2020-04-12,United States,New York,Genesee,3,0,70,1
+2020-04-12,United States,New York,Greene,7,0,44,0
+2020-04-12,United States,New York,Hamilton,0,0,3,0
+2020-04-12,United States,New York,Herkimer,0,0,37,3
+2020-04-12,United States,New York,Jefferson,2,0,46,0
+2020-04-12,United States,New York,Lewis,0,0,6,0
+2020-04-12,United States,New York,Livingston,4,0,34,2
+2020-04-12,United States,New York,Madison,3,0,105,3
+2020-04-12,United States,New York,Monroe,31,0,798,40
+2020-04-12,United States,New York,Montgomery,0,0,29,1
+2020-04-12,United States,New York,Nassau,969,54,23553,846
+2020-04-12,United States,New York,New York City,4900,531,103208,6898
+2020-04-12,United States,New York,Niagara,27,0,194,4
+2020-04-12,United States,New York,Oneida,14,0,195,3
+2020-04-12,United States,New York,Onondaga,38,1,494,9
+2020-04-12,United States,New York,Ontario,1,0,57,0
+2020-04-12,United States,New York,Orange,180,13,5027,145
+2020-04-12,United States,New York,Orleans,1,0,25,0
+2020-04-12,United States,New York,Oswego,5,0,42,2
+2020-04-12,United States,New York,Otsego,0,0,43,1
+2020-04-12,United States,New York,Putnam,13,0,507,7
+2020-04-12,United States,New York,Rensselaer,0,0,102,5
+2020-04-12,United States,New York,Rockland,244,18,7721,197
+2020-04-12,United States,New York,Saratoga,9,0,196,4
+2020-04-12,United States,New York,Schenectady,5,0,199,7
+2020-04-12,United States,New York,Schoharie,0,0,12,0
+2020-04-12,United States,New York,Schuyler,0,0,5,0
+2020-04-12,United States,New York,Seneca,0,0,16,0
+2020-04-12,United States,New York,St. Lawrence,6,0,88,0
+2020-04-12,United States,New York,Steuben,30,4,147,10
+2020-04-12,United States,New York,Suffolk,613,60,20934,518
+2020-04-12,United States,New York,Sullivan,18,0,358,7
+2020-04-12,United States,New York,Tioga,4,0,23,0
+2020-04-12,United States,New York,Tompkins,5,0,113,0
+2020-04-12,United States,New York,Ulster,66,3,655,11
+2020-04-12,United States,New York,Unassigned,0,36,0,40
+2020-04-12,United States,New York,Warren,2,0,46,0
+2020-04-12,United States,New York,Washington,3,0,34,1
+2020-04-12,United States,New York,Wayne,0,0,42,0
+2020-04-12,United States,New York,Westchester,584,50,19313,511
+2020-04-12,United States,New York,Wyoming,0,0,31,1
+2020-04-12,United States,New York,Yates,0,0,2,0
+2020-04-12,United States,North Carolina,Alamance,2,0,36,0
+2020-04-12,United States,North Carolina,Alexander,0,0,2,0
+2020-04-12,United States,North Carolina,Alleghany,0,0,2,0
+2020-04-12,United States,North Carolina,Anson,0,0,10,0
+2020-04-12,United States,North Carolina,Ashe,0,0,4,0
+2020-04-12,United States,North Carolina,Beaufort,0,0,13,0
+2020-04-12,United States,North Carolina,Bertie,0,0,12,1
+2020-04-12,United States,North Carolina,Bladen,0,0,1,0
+2020-04-12,United States,North Carolina,Brunswick,0,0,34,1
+2020-04-12,United States,North Carolina,Buncombe,0,0,37,2
+2020-04-12,United States,North Carolina,Burke,0,0,61,2
+2020-04-12,United States,North Carolina,Cabarrus,10,0,117,1
+2020-04-12,United States,North Carolina,Caldwell,0,0,17,0
+2020-04-12,United States,North Carolina,Carteret,0,0,21,1
+2020-04-12,United States,North Carolina,Caswell,0,0,3,0
+2020-04-12,United States,North Carolina,Catawba,0,0,33,1
+2020-04-12,United States,North Carolina,Chatham,26,0,63,0
+2020-04-12,United States,North Carolina,Cherokee,0,0,11,1
+2020-04-12,United States,North Carolina,Chowan,0,0,3,0
+2020-04-12,United States,North Carolina,Clay,0,0,4,0
+2020-04-12,United States,North Carolina,Cleveland,3,0,38,0
+2020-04-12,United States,North Carolina,Columbus,0,0,31,1
+2020-04-12,United States,North Carolina,Craven,1,0,25,1
+2020-04-12,United States,North Carolina,Cumberland,2,0,84,1
+2020-04-12,United States,North Carolina,Currituck,0,0,3,0
+2020-04-12,United States,North Carolina,Dare,0,0,13,1
+2020-04-12,United States,North Carolina,Davidson,0,0,85,2
+2020-04-12,United States,North Carolina,Davie,0,0,22,2
+2020-04-12,United States,North Carolina,Duplin,0,0,15,0
+2020-04-12,United States,North Carolina,Durham,3,0,278,1
+2020-04-12,United States,North Carolina,Edgecombe,1,0,23,1
+2020-04-12,United States,North Carolina,Forsyth,0,0,115,4
+2020-04-12,United States,North Carolina,Franklin,37,0,64,0
+2020-04-12,United States,North Carolina,Gaston,1,0,81,3
+2020-04-12,United States,North Carolina,Gates,0,0,4,0
+2020-04-12,United States,North Carolina,Granville,0,0,89,0
+2020-04-12,United States,North Carolina,Greene,0,0,10,0
+2020-04-12,United States,North Carolina,Guilford,1,0,135,9
+2020-04-12,United States,North Carolina,Halifax,0,0,21,0
+2020-04-12,United States,North Carolina,Harnett,3,0,41,2
+2020-04-12,United States,North Carolina,Haywood,0,0,3,0
+2020-04-12,United States,North Carolina,Henderson,8,0,76,5
+2020-04-12,United States,North Carolina,Hertford,1,0,5,1
+2020-04-12,United States,North Carolina,Hoke,0,0,18,0
+2020-04-12,United States,North Carolina,Iredell,0,0,71,1
+2020-04-12,United States,North Carolina,Jackson,0,0,2,0
+2020-04-12,United States,North Carolina,Johnston,5,0,97,5
+2020-04-12,United States,North Carolina,Jones,1,0,7,1
+2020-04-12,United States,North Carolina,Lee,7,0,15,0
+2020-04-12,United States,North Carolina,Lenoir,0,0,14,0
+2020-04-12,United States,North Carolina,Lincoln,0,0,15,0
+2020-04-12,United States,North Carolina,Macon,0,0,2,1
+2020-04-12,United States,North Carolina,Martin,1,0,6,0
+2020-04-12,United States,North Carolina,McDowell,0,0,16,0
+2020-04-12,United States,North Carolina,Mecklenburg,19,0,954,12
+2020-04-12,United States,North Carolina,Mitchell,0,0,4,0
+2020-04-12,United States,North Carolina,Montgomery,0,0,13,1
+2020-04-12,United States,North Carolina,Moore,0,0,84,2
+2020-04-12,United States,North Carolina,Nash,1,0,33,1
+2020-04-12,United States,North Carolina,New Hanover,4,0,59,0
+2020-04-12,United States,North Carolina,Northampton,0,0,61,1
+2020-04-12,United States,North Carolina,Onslow,0,0,34,1
+2020-04-12,United States,North Carolina,Orange,9,0,150,2
+2020-04-12,United States,North Carolina,Pamlico,1,0,6,0
+2020-04-12,United States,North Carolina,Pasquotank,0,0,15,0
+2020-04-12,United States,North Carolina,Pender,0,0,5,0
+2020-04-12,United States,North Carolina,Perquimans,0,0,4,0
+2020-04-12,United States,North Carolina,Person,0,0,8,0
+2020-04-12,United States,North Carolina,Pitt,1,0,63,1
+2020-04-12,United States,North Carolina,Polk,0,0,9,0
+2020-04-12,United States,North Carolina,Randolph,0,0,51,2
+2020-04-12,United States,North Carolina,Richmond,3,0,10,1
+2020-04-12,United States,North Carolina,Robeson,1,0,8,0
+2020-04-12,United States,North Carolina,Rockingham,0,0,14,2
+2020-04-12,United States,North Carolina,Rowan,6,0,111,2
+2020-04-12,United States,North Carolina,Rutherford,0,0,37,1
+2020-04-12,United States,North Carolina,Sampson,0,0,11,0
+2020-04-12,United States,North Carolina,Scotland,0,0,9,0
+2020-04-12,United States,North Carolina,Stanly,2,0,16,1
+2020-04-12,United States,North Carolina,Stokes,0,0,10,0
+2020-04-12,United States,North Carolina,Surry,0,0,10,0
+2020-04-12,United States,North Carolina,Transylvania,0,0,6,0
+2020-04-12,United States,North Carolina,Union,0,0,101,1
+2020-04-12,United States,North Carolina,Vance,0,0,19,0
+2020-04-12,United States,North Carolina,Wake,46,0,470,0
+2020-04-12,United States,North Carolina,Warren,0,0,3,0
+2020-04-12,United States,North Carolina,Washington,0,0,15,1
+2020-04-12,United States,North Carolina,Watauga,0,0,8,0
+2020-04-12,United States,North Carolina,Wayne,0,0,69,1
+2020-04-12,United States,North Carolina,Wilkes,0,0,4,1
+2020-04-12,United States,North Carolina,Wilson,6,0,64,3
+2020-04-12,United States,North Carolina,Yadkin,4,0,14,0
+2020-04-12,United States,North Dakota,Barnes,0,0,2,0
+2020-04-12,United States,North Dakota,Bowman,0,0,1,0
+2020-04-12,United States,North Dakota,Burke,0,0,2,0
+2020-04-12,United States,North Dakota,Burleigh,1,0,50,0
+2020-04-12,United States,North Dakota,Cass,12,0,107,2
+2020-04-12,United States,North Dakota,Divide,0,0,1,0
+2020-04-12,United States,North Dakota,Dunn,0,0,2,0
+2020-04-12,United States,North Dakota,Eddy,0,0,1,0
+2020-04-12,United States,North Dakota,Emmons,0,0,1,1
+2020-04-12,United States,North Dakota,Foster,0,0,1,0
+2020-04-12,United States,North Dakota,Grand Forks,0,0,11,0
+2020-04-12,United States,North Dakota,Grant,0,0,1,0
+2020-04-12,United States,North Dakota,McHenry,0,0,1,1
+2020-04-12,United States,North Dakota,McIntosh,0,0,1,0
+2020-04-12,United States,North Dakota,McKenzie,0,0,6,0
+2020-04-12,United States,North Dakota,McLean,0,0,2,0
+2020-04-12,United States,North Dakota,Mercer,0,0,0,0
+2020-04-12,United States,North Dakota,Morton,0,0,19,1
+2020-04-12,United States,North Dakota,Mountrail,0,0,21,0
+2020-04-12,United States,North Dakota,Oliver,0,0,1,0
+2020-04-12,United States,North Dakota,Pierce,0,0,2,0
+2020-04-12,United States,North Dakota,Ramsey,0,0,3,0
+2020-04-12,United States,North Dakota,Richland,0,0,2,0
+2020-04-12,United States,North Dakota,Rolette,0,0,1,0
+2020-04-12,United States,North Dakota,Sargent,0,0,1,0
+2020-04-12,United States,North Dakota,Sioux,0,0,1,0
+2020-04-12,United States,North Dakota,Slope,0,0,3,0
+2020-04-12,United States,North Dakota,Stark,2,0,32,2
+2020-04-12,United States,North Dakota,Stutsman,0,0,1,0
+2020-04-12,United States,North Dakota,Walsh,0,0,3,0
+2020-04-12,United States,North Dakota,Ward,0,0,20,0
+2020-04-12,United States,North Dakota,Williams,0,0,8,0
+2020-04-12,United States,Northern Mariana Islands,,0,0,11,2
+2020-04-12,United States,Ohio,Adams,0,0,3,0
+2020-04-12,United States,Ohio,Allen,6,1,33,3
+2020-04-12,United States,Ohio,Ashland,0,0,5,0
+2020-04-12,United States,Ohio,Ashtabula,2,0,26,3
+2020-04-12,United States,Ohio,Athens,0,0,3,1
+2020-04-12,United States,Ohio,Auglaize,0,0,14,1
+2020-04-12,United States,Ohio,Belmont,1,0,50,3
+2020-04-12,United States,Ohio,Brown,1,0,6,0
+2020-04-12,United States,Ohio,Butler,2,0,117,4
+2020-04-12,United States,Ohio,Carroll,2,0,13,1
+2020-04-12,United States,Ohio,Champaign,0,0,6,1
+2020-04-12,United States,Ohio,Clark,2,0,20,2
+2020-04-12,United States,Ohio,Clermont,0,0,41,2
+2020-04-12,United States,Ohio,Clinton,0,0,15,0
+2020-04-12,United States,Ohio,Columbiana,9,0,105,7
+2020-04-12,United States,Ohio,Coshocton,1,0,16,0
+2020-04-12,United States,Ohio,Crawford,3,0,16,0
+2020-04-12,United States,Ohio,Cuyahoga,39,2,1152,41
+2020-04-12,United States,Ohio,Darke,3,0,45,6
+2020-04-12,United States,Ohio,Defiance,0,0,11,0
+2020-04-12,United States,Ohio,Delaware,5,0,94,2
+2020-04-12,United States,Ohio,Erie,0,0,10,1
+2020-04-12,United States,Ohio,Fairfield,3,1,81,1
+2020-04-12,United States,Ohio,Fayette,2,0,9,0
+2020-04-12,United States,Ohio,Franklin,49,3,943,29
+2020-04-12,United States,Ohio,Fulton,1,0,7,1
+2020-04-12,United States,Ohio,Gallia,1,0,5,1
+2020-04-12,United States,Ohio,Geauga,8,0,61,2
+2020-04-12,United States,Ohio,Greene,4,0,28,2
+2020-04-12,United States,Ohio,Guernsey,1,0,6,0
+2020-04-12,United States,Ohio,Hamilton,6,0,535,25
+2020-04-12,United States,Ohio,Hancock,-1,0,19,1
+2020-04-12,United States,Ohio,Hardin,1,0,5,0
+2020-04-12,United States,Ohio,Henry,0,0,1,0
+2020-04-12,United States,Ohio,Highland,0,0,6,0
+2020-04-12,United States,Ohio,Hocking,0,0,2,0
+2020-04-12,United States,Ohio,Holmes,0,0,3,0
+2020-04-12,United States,Ohio,Huron,-1,0,14,1
+2020-04-12,United States,Ohio,Jackson,0,0,2,0
+2020-04-12,United States,Ohio,Jefferson,1,0,24,0
+2020-04-12,United States,Ohio,Knox,1,0,10,1
+2020-04-12,United States,Ohio,Lake,2,0,114,5
+2020-04-12,United States,Ohio,Lawrence,1,0,16,0
+2020-04-12,United States,Ohio,Licking,3,0,83,2
+2020-04-12,United States,Ohio,Logan,0,0,7,1
+2020-04-12,United States,Ohio,Lorain,15,1,176,7
+2020-04-12,United States,Ohio,Lucas,13,3,503,36
+2020-04-12,United States,Ohio,Madison,0,0,23,3
+2020-04-12,United States,Ohio,Mahoning,42,1,417,39
+2020-04-12,United States,Ohio,Marion,4,0,53,0
+2020-04-12,United States,Ohio,Medina,3,3,110,10
+2020-04-12,United States,Ohio,Meigs,0,1,1,1
+2020-04-12,United States,Ohio,Mercer,1,0,13,1
+2020-04-12,United States,Ohio,Miami,1,1,117,17
+2020-04-12,United States,Ohio,Monroe,0,0,2,0
+2020-04-12,United States,Ohio,Montgomery,23,2,198,10
+2020-04-12,United States,Ohio,Morgan,0,0,2,0
+2020-04-12,United States,Ohio,Morrow,0,0,8,0
+2020-04-12,United States,Ohio,Muskingum,0,0,8,0
+2020-04-12,United States,Ohio,Noble,0,0,1,0
+2020-04-12,United States,Ohio,Ottawa,0,0,10,0
+2020-04-12,United States,Ohio,Paulding,2,0,5,0
+2020-04-12,United States,Ohio,Perry,0,0,8,0
+2020-04-12,United States,Ohio,Pickaway,7,0,58,1
+2020-04-12,United States,Ohio,Pike,0,0,1,0
+2020-04-12,United States,Ohio,Portage,3,3,137,14
+2020-04-12,United States,Ohio,Preble,4,0,15,2
+2020-04-12,United States,Ohio,Putnam,0,0,0,0
+2020-04-12,United States,Ohio,Richland,2,0,36,1
+2020-04-12,United States,Ohio,Ross,4,0,17,0
+2020-04-12,United States,Ohio,Sandusky,1,0,11,2
+2020-04-12,United States,Ohio,Scioto,0,0,4,0
+2020-04-12,United States,Ohio,Seneca,1,0,9,1
+2020-04-12,United States,Ohio,Shelby,2,0,27,0
+2020-04-12,United States,Ohio,Stark,21,5,154,18
+2020-04-12,United States,Ohio,Summit,14,0,257,18
+2020-04-12,United States,Ohio,Trumbull,13,0,168,12
+2020-04-12,United States,Ohio,Tuscarawas,1,0,27,0
+2020-04-12,United States,Ohio,Unassigned,2,0,2,0
+2020-04-12,United States,Ohio,Union,0,0,10,0
+2020-04-12,United States,Ohio,Van Wert,0,0,2,0
+2020-04-12,United States,Ohio,Warren,1,0,75,1
+2020-04-12,United States,Ohio,Washington,3,2,39,3
+2020-04-12,United States,Ohio,Wayne,10,0,50,9
+2020-04-12,United States,Ohio,Williams,0,0,3,0
+2020-04-12,United States,Ohio,Wood,2,2,54,4
+2020-04-12,United States,Ohio,Wyandot,1,0,11,2
+2020-04-12,United States,Oklahoma,Adair,0,0,27,2
+2020-04-12,United States,Oklahoma,Atoka,0,0,1,0
+2020-04-12,United States,Oklahoma,Beaver,0,0,1,0
+2020-04-12,United States,Oklahoma,Beckham,0,0,1,0
+2020-04-12,United States,Oklahoma,Bryan,0,0,3,0
+2020-04-12,United States,Oklahoma,Caddo,0,0,9,0
+2020-04-12,United States,Oklahoma,Canadian,0,0,56,1
+2020-04-12,United States,Oklahoma,Carter,0,0,1,0
+2020-04-12,United States,Oklahoma,Cherokee,0,0,18,1
+2020-04-12,United States,Oklahoma,Choctaw,0,0,2,0
+2020-04-12,United States,Oklahoma,Cleveland,17,0,264,17
+2020-04-12,United States,Oklahoma,Comanche,0,0,49,0
+2020-04-12,United States,Oklahoma,Cotton,0,0,4,0
+2020-04-12,United States,Oklahoma,Craig,1,0,7,0
+2020-04-12,United States,Oklahoma,Creek,1,0,55,3
+2020-04-12,United States,Oklahoma,Custer,0,0,5,0
+2020-04-12,United States,Oklahoma,Delaware,26,0,50,0
+2020-04-12,United States,Oklahoma,Dewey,0,0,1,0
+2020-04-12,United States,Oklahoma,Garfield,0,0,6,1
+2020-04-12,United States,Oklahoma,Garvin,0,0,10,0
+2020-04-12,United States,Oklahoma,Grady,0,0,11,0
+2020-04-12,United States,Oklahoma,Grant,0,0,2,0
+2020-04-12,United States,Oklahoma,Greer,1,0,49,4
+2020-04-12,United States,Oklahoma,Jackson,0,0,7,0
+2020-04-12,United States,Oklahoma,Jefferson,0,0,1,0
+2020-04-12,United States,Oklahoma,Kay,1,0,43,3
+2020-04-12,United States,Oklahoma,Kingfisher,0,0,5,0
+2020-04-12,United States,Oklahoma,Kiowa,0,0,1,0
+2020-04-12,United States,Oklahoma,Latimer,0,0,4,1
+2020-04-12,United States,Oklahoma,Le Flore,0,0,3,0
+2020-04-12,United States,Oklahoma,Lincoln,0,0,11,0
+2020-04-12,United States,Oklahoma,Logan,0,0,7,0
+2020-04-12,United States,Oklahoma,Love,0,0,2,0
+2020-04-12,United States,Oklahoma,Major,0,0,1,0
+2020-04-12,United States,Oklahoma,Marshall,0,0,1,0
+2020-04-12,United States,Oklahoma,Mayes,1,0,14,2
+2020-04-12,United States,Oklahoma,McClain,0,0,18,0
+2020-04-12,United States,Oklahoma,McCurtain,1,0,3,0
+2020-04-12,United States,Oklahoma,McIntosh,0,0,1,0
+2020-04-12,United States,Oklahoma,Muskogee,0,0,21,2
+2020-04-12,United States,Oklahoma,Noble,0,0,6,0
+2020-04-12,United States,Oklahoma,Nowata,0,0,10,0
+2020-04-12,United States,Oklahoma,Okfuskee,0,0,1,0
+2020-04-12,United States,Oklahoma,Oklahoma,10,0,435,19
+2020-04-12,United States,Oklahoma,Okmulgee,0,0,13,0
+2020-04-12,United States,Oklahoma,Osage,5,0,50,7
+2020-04-12,United States,Oklahoma,Ottawa,2,0,18,0
+2020-04-12,United States,Oklahoma,Out of OK,0,0,0,0
+2020-04-12,United States,Oklahoma,Pawnee,0,0,26,2
+2020-04-12,United States,Oklahoma,Payne,0,0,28,0
+2020-04-12,United States,Oklahoma,Pittsburg,0,0,8,0
+2020-04-12,United States,Oklahoma,Pontotoc,0,0,9,0
+2020-04-12,United States,Oklahoma,Pottawatomie,1,0,26,3
+2020-04-12,United States,Oklahoma,Rogers,1,0,25,0
+2020-04-12,United States,Oklahoma,Seminole,1,0,7,1
+2020-04-12,United States,Oklahoma,Sequoyah,0,0,9,2
+2020-04-12,United States,Oklahoma,Stephens,1,0,14,1
+2020-04-12,United States,Oklahoma,Texas,0,0,3,0
+2020-04-12,United States,Oklahoma,Tillman,0,0,1,0
+2020-04-12,United States,Oklahoma,Tulsa,9,2,332,18
+2020-04-12,United States,Oklahoma,Unassigned,0,0,0,0
+2020-04-12,United States,Oklahoma,Wagoner,2,0,69,4
+2020-04-12,United States,Oklahoma,Washington,21,0,104,2
+2020-04-12,United States,Oklahoma,Woodward,0,0,1,0
+2020-04-12,United States,Oregon,Benton,2,0,23,2
+2020-04-12,United States,Oregon,Clackamas,9,0,125,3
+2020-04-12,United States,Oregon,Clatsop,0,0,6,0
+2020-04-12,United States,Oregon,Columbia,0,0,10,0
+2020-04-12,United States,Oregon,Crook,0,0,1,0
+2020-04-12,United States,Oregon,Curry,0,0,3,0
+2020-04-12,United States,Oregon,Deschutes,3,0,54,0
+2020-04-12,United States,Oregon,Douglas,2,0,14,0
+2020-04-12,United States,Oregon,Grant,0,0,1,0
+2020-04-12,United States,Oregon,Hood River,0,0,4,0
+2020-04-12,United States,Oregon,Jackson,2,0,46,0
+2020-04-12,United States,Oregon,Josephine,1,1,18,1
+2020-04-12,United States,Oregon,Klamath,1,0,25,0
+2020-04-12,United States,Oregon,Lane,3,0,37,1
+2020-04-12,United States,Oregon,Lincoln,0,0,4,0
+2020-04-12,United States,Oregon,Linn,3,0,52,4
+2020-04-12,United States,Oregon,Malheur,2,0,4,0
+2020-04-12,United States,Oregon,Marion,30,0,276,9
+2020-04-12,United States,Oregon,Morrow,0,0,5,0
+2020-04-12,United States,Oregon,Multnomah,57,2,374,19
+2020-04-12,United States,Oregon,Polk,1,0,30,1
+2020-04-12,United States,Oregon,Sherman,0,0,1,0
+2020-04-12,United States,Oregon,Tillamook,0,0,4,0
+2020-04-12,United States,Oregon,Umatilla,5,0,16,0
+2020-04-12,United States,Oregon,Unassigned,1,-1,1,0
+2020-04-12,United States,Oregon,Union,1,0,4,0
+2020-04-12,United States,Oregon,Wallowa,0,0,1,0
+2020-04-12,United States,Oregon,Wasco,3,0,10,0
+2020-04-12,United States,Oregon,Washington,28,0,348,6
+2020-04-12,United States,Oregon,Yamhill,2,1,30,6
+2020-04-12,United States,Pennsylvania,Adams,4,0,48,1
+2020-04-12,United States,Pennsylvania,Allegheny,21,0,857,19
+2020-04-12,United States,Pennsylvania,Armstrong,1,0,27,1
+2020-04-12,United States,Pennsylvania,Beaver,2,0,145,13
+2020-04-12,United States,Pennsylvania,Bedford,0,0,5,1
+2020-04-12,United States,Pennsylvania,Berks,105,1,1035,20
+2020-04-12,United States,Pennsylvania,Blair,0,0,10,0
+2020-04-12,United States,Pennsylvania,Bradford,0,0,18,0
+2020-04-12,United States,Pennsylvania,Bucks,63,3,1170,35
+2020-04-12,United States,Pennsylvania,Butler,5,1,133,4
+2020-04-12,United States,Pennsylvania,Cambria,0,0,13,1
+2020-04-12,United States,Pennsylvania,Cameron,0,0,1,0
+2020-04-12,United States,Pennsylvania,Carbon,4,0,102,3
+2020-04-12,United States,Pennsylvania,Centre,1,0,70,0
+2020-04-12,United States,Pennsylvania,Chester,29,3,607,32
+2020-04-12,United States,Pennsylvania,Clarion,0,0,15,0
+2020-04-12,United States,Pennsylvania,Clearfield,0,0,9,0
+2020-04-12,United States,Pennsylvania,Clinton,1,0,8,0
+2020-04-12,United States,Pennsylvania,Columbia,7,1,106,3
+2020-04-12,United States,Pennsylvania,Crawford,0,0,15,0
+2020-04-12,United States,Pennsylvania,Cumberland,5,0,110,3
+2020-04-12,United States,Pennsylvania,Dauphin,16,1,229,4
+2020-04-12,United States,Pennsylvania,Delaware,84,0,1594,39
+2020-04-12,United States,Pennsylvania,Elk,0,0,2,0
+2020-04-12,United States,Pennsylvania,Erie,0,0,39,0
+2020-04-12,United States,Pennsylvania,Fayette,4,0,54,3
+2020-04-12,United States,Pennsylvania,Forest,0,0,5,0
+2020-04-12,United States,Pennsylvania,Franklin,5,0,64,0
+2020-04-12,United States,Pennsylvania,Fulton,0,0,1,0
+2020-04-12,United States,Pennsylvania,Greene,0,0,23,0
+2020-04-12,United States,Pennsylvania,Huntingdon,0,0,10,0
+2020-04-12,United States,Pennsylvania,Indiana,0,0,40,0
+2020-04-12,United States,Pennsylvania,Jefferson,1,0,2,0
+2020-04-12,United States,Pennsylvania,Juniata,0,0,38,0
+2020-04-12,United States,Pennsylvania,Lackawanna,35,0,427,20
+2020-04-12,United States,Pennsylvania,Lancaster,74,1,772,24
+2020-04-12,United States,Pennsylvania,Lawrence,3,0,49,4
+2020-04-12,United States,Pennsylvania,Lebanon,38,0,270,1
+2020-04-12,United States,Pennsylvania,Lehigh,64,2,1684,18
+2020-04-12,United States,Pennsylvania,Luzerne,39,0,1411,17
+2020-04-12,United States,Pennsylvania,Lycoming,3,0,23,0
+2020-04-12,United States,Pennsylvania,McKean,0,0,2,0
+2020-04-12,United States,Pennsylvania,Mercer,2,0,40,0
+2020-04-12,United States,Pennsylvania,Mifflin,2,0,12,0
+2020-04-12,United States,Pennsylvania,Monroe,21,1,795,23
+2020-04-12,United States,Pennsylvania,Montgomery,111,3,2164,63
+2020-04-12,United States,Pennsylvania,Montour,0,0,37,0
+2020-04-12,United States,Pennsylvania,Northampton,43,0,1082,23
+2020-04-12,United States,Pennsylvania,Northumberland,6,0,37,0
+2020-04-12,United States,Pennsylvania,Perry,0,0,16,1
+2020-04-12,United States,Pennsylvania,Philadelphia,364,39,6386,176
+2020-04-12,United States,Pennsylvania,Pike,4,0,212,6
+2020-04-12,United States,Pennsylvania,Potter,0,0,4,0
+2020-04-12,United States,Pennsylvania,Schuylkill,9,0,188,2
+2020-04-12,United States,Pennsylvania,Snyder,4,0,20,1
+2020-04-12,United States,Pennsylvania,Somerset,2,0,12,0
+2020-04-12,United States,Pennsylvania,Sullivan,0,0,1,0
+2020-04-12,United States,Pennsylvania,Susquehanna,2,-1,25,1
+2020-04-12,United States,Pennsylvania,Tioga,1,0,13,1
+2020-04-12,United States,Pennsylvania,Unassigned,0,0,0,0
+2020-04-12,United States,Pennsylvania,Union,5,0,19,0
+2020-04-12,United States,Pennsylvania,Venango,0,0,6,0
+2020-04-12,United States,Pennsylvania,Warren,0,0,1,0
+2020-04-12,United States,Pennsylvania,Washington,2,0,68,0
+2020-04-12,United States,Pennsylvania,Wayne,6,0,63,0
+2020-04-12,United States,Pennsylvania,Westmoreland,5,0,223,6
+2020-04-12,United States,Pennsylvania,Wyoming,1,0,9,0
+2020-04-12,United States,Pennsylvania,York,14,0,307,3
+2020-04-12,United States,Puerto Rico,,109,2,897,44
+2020-04-12,United States,Recovered,,0,0,0,0
+2020-04-12,United States,Rhode Island,Bristol,0,0,39,0
+2020-04-12,United States,Rhode Island,Kent,0,0,169,0
+2020-04-12,United States,Rhode Island,Newport,0,0,74,2
+2020-04-12,United States,Rhode Island,Providence,0,0,1278,61
+2020-04-12,United States,Rhode Island,Unassigned,316,9,965,28
+2020-04-12,United States,Rhode Island,Washington,0,0,140,0
+2020-04-12,United States,South Carolina,Abbeville,0,0,9,0
+2020-04-12,United States,South Carolina,Aiken,0,0,50,1
+2020-04-12,United States,South Carolina,Allendale,1,0,5,0
+2020-04-12,United States,South Carolina,Anderson,4,0,106,5
+2020-04-12,United States,South Carolina,Bamberg,0,0,7,0
+2020-04-12,United States,South Carolina,Barnwell,0,0,5,0
+2020-04-12,United States,South Carolina,Beaufort,3,0,194,6
+2020-04-12,United States,South Carolina,Berkeley,16,0,83,1
+2020-04-12,United States,South Carolina,Calhoun,0,0,6,1
+2020-04-12,United States,South Carolina,Charleston,8,1,339,2
+2020-04-12,United States,South Carolina,Cherokee,0,0,8,0
+2020-04-12,United States,South Carolina,Chester,1,0,19,0
+2020-04-12,United States,South Carolina,Chesterfield,0,0,22,0
+2020-04-12,United States,South Carolina,Clarendon,0,0,85,4
+2020-04-12,United States,South Carolina,Colleton,1,0,16,0
+2020-04-12,United States,South Carolina,Darlington,2,0,39,0
+2020-04-12,United States,South Carolina,Dillon,0,0,5,0
+2020-04-12,United States,South Carolina,Dorchester,4,0,71,1
+2020-04-12,United States,South Carolina,Edgefield,0,0,10,0
+2020-04-12,United States,South Carolina,Fairfield,0,0,21,0
+2020-04-12,United States,South Carolina,Florence,6,0,72,7
+2020-04-12,United States,South Carolina,Georgetown,-1,0,31,1
+2020-04-12,United States,South Carolina,Greenville,14,1,339,8
+2020-04-12,United States,South Carolina,Greenwood,0,0,17,0
+2020-04-12,United States,South Carolina,Hampton,1,0,7,0
+2020-04-12,United States,South Carolina,Horry,2,0,134,7
+2020-04-12,United States,South Carolina,Jasper,0,0,12,0
+2020-04-12,United States,South Carolina,Kershaw,1,0,179,4
+2020-04-12,United States,South Carolina,Lancaster,3,0,65,0
+2020-04-12,United States,South Carolina,Laurens,1,0,14,1
+2020-04-12,United States,South Carolina,Lee,2,0,29,3
+2020-04-12,United States,South Carolina,Lexington,10,0,212,6
+2020-04-12,United States,South Carolina,Marion,1,0,7,1
+2020-04-12,United States,South Carolina,Marlboro,1,0,14,0
+2020-04-12,United States,South Carolina,McCormick,0,0,3,1
+2020-04-12,United States,South Carolina,Newberry,0,0,13,1
+2020-04-12,United States,South Carolina,Oconee,1,0,14,0
+2020-04-12,United States,South Carolina,Orangeburg,0,0,37,0
+2020-04-12,United States,South Carolina,Pickens,0,0,28,0
+2020-04-12,United States,South Carolina,Richland,15,0,494,10
+2020-04-12,United States,South Carolina,Saluda,-1,0,6,0
+2020-04-12,United States,South Carolina,Spartanburg,4,0,174,4
+2020-04-12,United States,South Carolina,Sumter,2,0,148,4
+2020-04-12,United States,South Carolina,Union,0,0,22,0
+2020-04-12,United States,South Carolina,Williamsburg,0,0,15,0
+2020-04-12,United States,South Carolina,York,7,0,134,3
+2020-04-12,United States,South Dakota,Aurora,0,0,1,0
+2020-04-12,United States,South Dakota,Beadle,0,0,21,2
+2020-04-12,United States,South Dakota,Bon Homme,1,0,4,0
+2020-04-12,United States,South Dakota,Brookings,2,0,8,0
+2020-04-12,United States,South Dakota,Brown,0,0,14,0
+2020-04-12,United States,South Dakota,Brule,0,0,1,0
+2020-04-12,United States,South Dakota,Butte,0,0,0,0
+2020-04-12,United States,South Dakota,Charles Mix,1,0,4,0
+2020-04-12,United States,South Dakota,Clark,0,0,1,0
+2020-04-12,United States,South Dakota,Clay,0,0,6,0
+2020-04-12,United States,South Dakota,Codington,0,0,12,0
+2020-04-12,United States,South Dakota,Corson,0,0,1,0
+2020-04-12,United States,South Dakota,Davison,0,0,3,0
+2020-04-12,United States,South Dakota,Deuel,0,0,1,0
+2020-04-12,United States,South Dakota,Fall River,0,0,1,0
+2020-04-12,United States,South Dakota,Faulk,0,0,1,0
+2020-04-12,United States,South Dakota,Hamlin,0,0,1,0
+2020-04-12,United States,South Dakota,Hughes,1,0,5,0
+2020-04-12,United States,South Dakota,Hutchinson,0,0,2,0
+2020-04-12,United States,South Dakota,Jerauld,0,0,3,0
+2020-04-12,United States,South Dakota,Kingsbury,0,0,0,0
+2020-04-12,United States,South Dakota,Lake,0,0,2,0
+2020-04-12,United States,South Dakota,Lawrence,0,0,9,0
+2020-04-12,United States,South Dakota,Lincoln,7,0,46,0
+2020-04-12,United States,South Dakota,Lyman,0,0,2,0
+2020-04-12,United States,South Dakota,Marshall,0,0,1,0
+2020-04-12,United States,South Dakota,McCook,0,0,2,1
+2020-04-12,United States,South Dakota,Meade,0,0,1,0
+2020-04-12,United States,South Dakota,Miner,0,0,1,0
+2020-04-12,United States,South Dakota,Minnehaha,89,0,527,2
+2020-04-12,United States,South Dakota,Oglala Lakota,0,0,1,0
+2020-04-12,United States,South Dakota,Pennington,0,0,8,1
+2020-04-12,United States,South Dakota,Roberts,0,0,4,0
+2020-04-12,United States,South Dakota,Sanborn,0,0,1,0
+2020-04-12,United States,South Dakota,Spink,0,0,3,0
+2020-04-12,United States,South Dakota,Sully,0,0,1,0
+2020-04-12,United States,South Dakota,Todd,0,0,1,0
+2020-04-12,United States,South Dakota,Turner,0,0,5,0
+2020-04-12,United States,South Dakota,Unassigned,0,0,0,0
+2020-04-12,United States,South Dakota,Union,0,0,4,0
+2020-04-12,United States,South Dakota,Walworth,0,0,1,0
+2020-04-12,United States,South Dakota,Yankton,0,0,20,0
+2020-04-12,United States,Tennessee,Anderson,0,0,12,1
+2020-04-12,United States,Tennessee,Bedford,3,0,20,1
+2020-04-12,United States,Tennessee,Benton,0,0,4,0
+2020-04-12,United States,Tennessee,Bledsoe,0,0,3,0
+2020-04-12,United States,Tennessee,Blount,0,0,46,3
+2020-04-12,United States,Tennessee,Bradley,0,0,31,0
+2020-04-12,United States,Tennessee,Campbell,0,0,10,0
+2020-04-12,United States,Tennessee,Cannon,0,0,7,0
+2020-04-12,United States,Tennessee,Carroll,1,0,11,0
+2020-04-12,United States,Tennessee,Carter,0,0,3,0
+2020-04-12,United States,Tennessee,Cheatham,1,0,18,0
+2020-04-12,United States,Tennessee,Chester,0,0,6,0
+2020-04-12,United States,Tennessee,Claiborne,2,0,5,0
+2020-04-12,United States,Tennessee,Clay,0,0,2,0
+2020-04-12,United States,Tennessee,Cocke,0,0,3,0
+2020-04-12,United States,Tennessee,Coffee,0,0,11,0
+2020-04-12,United States,Tennessee,Crockett,0,0,0,0
+2020-04-12,United States,Tennessee,Cumberland,2,0,42,0
+2020-04-12,United States,Tennessee,Davidson,238,0,1349,13
+2020-04-12,United States,Tennessee,Decatur,1,0,2,0
+2020-04-12,United States,Tennessee,DeKalb,0,0,9,0
+2020-04-12,United States,Tennessee,Dickson,0,0,30,0
+2020-04-12,United States,Tennessee,Dyer,1,0,19,0
+2020-04-12,United States,Tennessee,Fayette,2,0,32,0
+2020-04-12,United States,Tennessee,Fentress,0,0,2,0
+2020-04-12,United States,Tennessee,Franklin,0,0,22,1
+2020-04-12,United States,Tennessee,Gibson,1,0,20,0
+2020-04-12,United States,Tennessee,Giles,0,0,3,0
+2020-04-12,United States,Tennessee,Grainger,0,0,4,0
+2020-04-12,United States,Tennessee,Greene,0,0,26,1
+2020-04-12,United States,Tennessee,Grundy,2,0,23,0
+2020-04-12,United States,Tennessee,Hamblen,1,0,5,1
+2020-04-12,United States,Tennessee,Hamilton,2,0,107,10
+2020-04-12,United States,Tennessee,Hancock,0,0,0,0
+2020-04-12,United States,Tennessee,Hardeman,0,0,7,0
+2020-04-12,United States,Tennessee,Hardin,0,0,2,0
+2020-04-12,United States,Tennessee,Hawkins,1,0,23,2
+2020-04-12,United States,Tennessee,Haywood,0,0,13,1
+2020-04-12,United States,Tennessee,Henderson,0,0,2,0
+2020-04-12,United States,Tennessee,Henry,0,0,6,0
+2020-04-12,United States,Tennessee,Hickman,0,0,2,0
+2020-04-12,United States,Tennessee,Houston,0,0,3,0
+2020-04-12,United States,Tennessee,Humphreys,0,0,4,0
+2020-04-12,United States,Tennessee,Jackson,0,0,5,0
+2020-04-12,United States,Tennessee,Jefferson,1,0,15,0
+2020-04-12,United States,Tennessee,Johnson,0,0,2,0
+2020-04-12,United States,Tennessee,Knox,0,0,169,3
+2020-04-12,United States,Tennessee,Lake,0,0,0,0
+2020-04-12,United States,Tennessee,Lauderdale,0,0,8,0
+2020-04-12,United States,Tennessee,Lawrence,0,0,12,0
+2020-04-12,United States,Tennessee,Lewis,0,0,2,0
+2020-04-12,United States,Tennessee,Lincoln,0,0,8,0
+2020-04-12,United States,Tennessee,Loudon,0,0,16,0
+2020-04-12,United States,Tennessee,Macon,1,0,24,2
+2020-04-12,United States,Tennessee,Madison,3,0,59,0
+2020-04-12,United States,Tennessee,Marion,1,0,25,1
+2020-04-12,United States,Tennessee,Marshall,0,0,9,1
+2020-04-12,United States,Tennessee,Maury,0,0,32,0
+2020-04-12,United States,Tennessee,McMinn,0,0,4,0
+2020-04-12,United States,Tennessee,McNairy,0,0,9,0
+2020-04-12,United States,Tennessee,Meigs,0,0,3,0
+2020-04-12,United States,Tennessee,Monroe,0,0,8,0
+2020-04-12,United States,Tennessee,Montgomery,9,0,97,2
+2020-04-12,United States,Tennessee,Moore,0,0,0,0
+2020-04-12,United States,Tennessee,Morgan,0,0,5,0
+2020-04-12,United States,Tennessee,Obion,0,0,7,1
+2020-04-12,United States,Tennessee,Out of TN,0,0,276,1
+2020-04-12,United States,Tennessee,Overton,0,0,5,0
+2020-04-12,United States,Tennessee,Perry,0,0,3,0
+2020-04-12,United States,Tennessee,Polk,0,0,5,0
+2020-04-12,United States,Tennessee,Putnam,2,0,87,0
+2020-04-12,United States,Tennessee,Rhea,0,0,0,0
+2020-04-12,United States,Tennessee,Roane,0,0,5,0
+2020-04-12,United States,Tennessee,Robertson,3,0,84,0
+2020-04-12,United States,Tennessee,Rutherford,8,0,243,6
+2020-04-12,United States,Tennessee,Scott,0,0,8,0
+2020-04-12,United States,Tennessee,Sequatchie,0,0,1,0
+2020-04-12,United States,Tennessee,Sevier,0,0,21,0
+2020-04-12,United States,Tennessee,Shelby,68,0,1215,26
+2020-04-12,United States,Tennessee,Smith,3,0,10,0
+2020-04-12,United States,Tennessee,Stewart,0,0,4,0
+2020-04-12,United States,Tennessee,Sullivan,0,0,37,1
+2020-04-12,United States,Tennessee,Sumner,10,0,445,22
+2020-04-12,United States,Tennessee,Tipton,5,0,49,0
+2020-04-12,United States,Tennessee,Trousdale,0,0,17,1
+2020-04-12,United States,Tennessee,Unassigned,-7,0,12,0
+2020-04-12,United States,Tennessee,Unicoi,0,0,1,0
+2020-04-12,United States,Tennessee,Union,0,0,3,0
+2020-04-12,United States,Tennessee,Van Buren,0,0,0,0
+2020-04-12,United States,Tennessee,Warren,0,0,4,0
+2020-04-12,United States,Tennessee,Washington,5,0,42,0
+2020-04-12,United States,Tennessee,Wayne,0,0,2,0
+2020-04-12,United States,Tennessee,Weakley,0,0,5,0
+2020-04-12,United States,Tennessee,White,0,0,3,0
+2020-04-12,United States,Tennessee,Williamson,6,0,318,4
+2020-04-12,United States,Tennessee,Wilson,0,0,135,1
+2020-04-12,United States,Texas,Anderson,0,0,3,0
+2020-04-12,United States,Texas,Andrews,1,0,12,0
+2020-04-12,United States,Texas,Angelina,0,0,16,0
+2020-04-12,United States,Texas,Aransas,0,0,2,0
+2020-04-12,United States,Texas,Atascosa,1,0,9,0
+2020-04-12,United States,Texas,Austin,2,0,10,0
+2020-04-12,United States,Texas,Bandera,0,0,2,0
+2020-04-12,United States,Texas,Bastrop,0,0,26,1
+2020-04-12,United States,Texas,Bee,0,0,2,0
+2020-04-12,United States,Texas,Bell,10,0,101,3
+2020-04-12,United States,Texas,Bexar,58,3,723,27
+2020-04-12,United States,Texas,Blanco,0,0,4,0
+2020-04-12,United States,Texas,Bowie,2,0,32,1
+2020-04-12,United States,Texas,Brazoria,9,0,225,2
+2020-04-12,United States,Texas,Brazos,5,0,140,10
+2020-04-12,United States,Texas,Brown,0,0,10,0
+2020-04-12,United States,Texas,Burleson,0,0,6,0
+2020-04-12,United States,Texas,Burnet,0,0,6,0
+2020-04-12,United States,Texas,Caldwell,0,0,6,0
+2020-04-12,United States,Texas,Calhoun,1,0,15,0
+2020-04-12,United States,Texas,Callahan,0,0,1,0
+2020-04-12,United States,Texas,Cameron,36,0,195,3
+2020-04-12,United States,Texas,Camp,0,0,3,0
+2020-04-12,United States,Texas,Cass,1,0,5,0
+2020-04-12,United States,Texas,Castro,0,0,11,1
+2020-04-12,United States,Texas,Chambers,5,0,29,0
+2020-04-12,United States,Texas,Cherokee,0,0,6,0
+2020-04-12,United States,Texas,Clay,0,0,2,0
+2020-04-12,United States,Texas,Collin,28,0,453,7
+2020-04-12,United States,Texas,Colorado,0,0,7,0
+2020-04-12,United States,Texas,Comal,0,0,37,4
+2020-04-12,United States,Texas,Comanche,0,0,3,0
+2020-04-12,United States,Texas,Concho,0,0,1,0
+2020-04-12,United States,Texas,Cooke,0,0,1,0
+2020-04-12,United States,Texas,Coryell,0,0,34,0
+2020-04-12,United States,Texas,Crane,0,0,2,0
+2020-04-12,United States,Texas,Crosby,0,0,1,0
+2020-04-12,United States,Texas,Dallam,0,0,1,0
+2020-04-12,United States,Texas,Dallas,79,3,1723,48
+2020-04-12,United States,Texas,Dawson,0,0,7,1
+2020-04-12,United States,Texas,Deaf Smith,0,0,7,0
+2020-04-12,United States,Texas,Delta,0,0,1,0
+2020-04-12,United States,Texas,Denton,8,3,482,13
+2020-04-12,United States,Texas,DeWitt,0,0,9,0
+2020-04-12,United States,Texas,Dickens,0,0,2,0
+2020-04-12,United States,Texas,Dimmit,0,0,1,0
+2020-04-12,United States,Texas,Donley,-1,0,22,0
+2020-04-12,United States,Texas,Eastland,0,0,3,0
+2020-04-12,United States,Texas,Ector,3,1,43,2
+2020-04-12,United States,Texas,El Paso,17,0,269,2
+2020-04-12,United States,Texas,Ellis,0,0,66,2
+2020-04-12,United States,Texas,Erath,0,0,13,1
+2020-04-12,United States,Texas,Falls,0,0,1,0
+2020-04-12,United States,Texas,Fannin,0,0,5,0
+2020-04-12,United States,Texas,Fayette,1,0,10,0
+2020-04-12,United States,Texas,Floyd,0,0,1,0
+2020-04-12,United States,Texas,Fort Bend,18,0,536,11
+2020-04-12,United States,Texas,Franklin,0,0,1,0
+2020-04-12,United States,Texas,Frio,0,0,1,0
+2020-04-12,United States,Texas,Gaines,0,0,1,0
+2020-04-12,United States,Texas,Galveston,14,0,355,8
+2020-04-12,United States,Texas,Gillespie,0,0,1,0
+2020-04-12,United States,Texas,Goliad,0,0,4,0
+2020-04-12,United States,Texas,Gonzales,0,0,2,0
+2020-04-12,United States,Texas,Gray,0,0,13,0
+2020-04-12,United States,Texas,Grayson,0,0,17,0
+2020-04-12,United States,Texas,Gregg,0,0,40,0
+2020-04-12,United States,Texas,Grimes,1,0,7,0
+2020-04-12,United States,Texas,Guadalupe,2,0,49,0
+2020-04-12,United States,Texas,Hale,0,0,11,2
+2020-04-12,United States,Texas,Hamilton,0,0,3,0
+2020-04-12,United States,Texas,Hansford,0,0,1,0
+2020-04-12,United States,Texas,Hardin,14,0,61,2
+2020-04-12,United States,Texas,Harris,68,3,3629,44
+2020-04-12,United States,Texas,Harrison,2,0,16,1
+2020-04-12,United States,Texas,Hays,0,0,82,0
+2020-04-12,United States,Texas,Hemphill,0,0,1,0
+2020-04-12,United States,Texas,Henderson,0,0,10,0
+2020-04-12,United States,Texas,Hidalgo,9,0,190,1
+2020-04-12,United States,Texas,Hill,0,0,8,0
+2020-04-12,United States,Texas,Hockley,1,0,14,1
+2020-04-12,United States,Texas,Hood,0,0,13,1
+2020-04-12,United States,Texas,Hopkins,0,0,4,0
+2020-04-12,United States,Texas,Howard,0,0,1,1
+2020-04-12,United States,Texas,Hunt,2,0,18,0
+2020-04-12,United States,Texas,Hutchinson,0,0,2,0
+2020-04-12,United States,Texas,Jack,0,0,1,0
+2020-04-12,United States,Texas,Jackson,0,0,4,0
+2020-04-12,United States,Texas,Jasper,0,0,7,1
+2020-04-12,United States,Texas,Jefferson,0,0,100,5
+2020-04-12,United States,Texas,Jim Wells,0,0,2,0
+2020-04-12,United States,Texas,Johnson,0,0,28,1
+2020-04-12,United States,Texas,Jones,0,0,2,0
+2020-04-12,United States,Texas,Karnes,0,0,2,0
+2020-04-12,United States,Texas,Kaufman,0,0,26,0
+2020-04-12,United States,Texas,Kendall,1,0,11,0
+2020-04-12,United States,Texas,Kerr,0,0,2,0
+2020-04-12,United States,Texas,Kleberg,0,0,2,0
+2020-04-12,United States,Texas,Knox,0,0,1,0
+2020-04-12,United States,Texas,Lamar,0,0,8,0
+2020-04-12,United States,Texas,Lamb,0,0,1,0
+2020-04-12,United States,Texas,Lampasas,0,0,2,0
+2020-04-12,United States,Texas,Lavaca,0,0,4,0
+2020-04-12,United States,Texas,Lee,0,0,2,0
+2020-04-12,United States,Texas,Leon,0,0,3,0
+2020-04-12,United States,Texas,Liberty,2,0,19,0
+2020-04-12,United States,Texas,Limestone,0,0,11,1
+2020-04-12,United States,Texas,Live Oak,0,0,3,0
+2020-04-12,United States,Texas,Llano,0,0,3,0
+2020-04-12,United States,Texas,Lubbock,21,1,270,14
+2020-04-12,United States,Texas,Lynn,0,0,5,0
+2020-04-12,United States,Texas,Madison,0,0,1,0
+2020-04-12,United States,Texas,Martin,0,0,2,0
+2020-04-12,United States,Texas,Mason,0,0,1,0
+2020-04-12,United States,Texas,Matagorda,0,0,49,3
+2020-04-12,United States,Texas,Maverick,0,0,9,0
+2020-04-12,United States,Texas,McCulloch,0,0,3,0
+2020-04-12,United States,Texas,McLennan,1,0,69,2
+2020-04-12,United States,Texas,Medina,1,0,13,1
+2020-04-12,United States,Texas,Midland,1,1,32,2
+2020-04-12,United States,Texas,Milam,0,0,7,0
+2020-04-12,United States,Texas,Mitchell,0,0,1,0
+2020-04-12,United States,Texas,Montague,0,0,2,0
+2020-04-12,United States,Texas,Montgomery,0,0,251,5
+2020-04-12,United States,Texas,Moore,1,0,22,0
+2020-04-12,United States,Texas,Morris,0,0,3,0
+2020-04-12,United States,Texas,Nacogdoches,16,0,47,3
+2020-04-12,United States,Texas,Navarro,0,0,12,2
+2020-04-12,United States,Texas,Newton,0,0,2,0
+2020-04-12,United States,Texas,Nueces,4,0,76,0
+2020-04-12,United States,Texas,Oldham,0,0,3,1
+2020-04-12,United States,Texas,Orange,11,0,44,0
+2020-04-12,United States,Texas,Palo Pinto,0,0,4,1
+2020-04-12,United States,Texas,Panola,0,0,13,1
+2020-04-12,United States,Texas,Parker,0,0,13,0
+2020-04-12,United States,Texas,Pecos,2,0,3,0
+2020-04-12,United States,Texas,Polk,0,0,9,0
+2020-04-12,United States,Texas,Potter,4,0,70,2
+2020-04-12,United States,Texas,Rains,0,0,1,0
+2020-04-12,United States,Texas,Randall,4,0,64,2
+2020-04-12,United States,Texas,Reeves,1,0,2,0
+2020-04-12,United States,Texas,Robertson,0,0,2,0
+2020-04-12,United States,Texas,Rockwall,0,0,20,0
+2020-04-12,United States,Texas,Rusk,2,0,16,0
+2020-04-12,United States,Texas,San Augustine,0,0,9,1
+2020-04-12,United States,Texas,San Jacinto,0,0,5,0
+2020-04-12,United States,Texas,San Patricio,0,0,7,0
+2020-04-12,United States,Texas,Scurry,0,0,0,0
+2020-04-12,United States,Texas,Shelby,0,0,34,0
+2020-04-12,United States,Texas,Smith,3,0,96,2
+2020-04-12,United States,Texas,Starr,0,0,7,0
+2020-04-12,United States,Texas,Stephens,0,0,1,0
+2020-04-12,United States,Texas,Swisher,1,0,4,0
+2020-04-12,United States,Texas,Tarrant,70,2,876,29
+2020-04-12,United States,Texas,Taylor,4,0,59,1
+2020-04-12,United States,Texas,Terry,0,0,7,0
+2020-04-12,United States,Texas,Titus,0,0,6,0
+2020-04-12,United States,Texas,Tom Green,0,0,35,1
+2020-04-12,United States,Texas,Travis,54,0,744,9
+2020-04-12,United States,Texas,Trinity,0,0,3,0
+2020-04-12,United States,Texas,Tyler,0,0,4,0
+2020-04-12,United States,Texas,Upshur,2,0,8,0
+2020-04-12,United States,Texas,Uvalde,0,0,6,0
+2020-04-12,United States,Texas,Val Verde,1,0,11,0
+2020-04-12,United States,Texas,Van Zandt,0,0,10,1
+2020-04-12,United States,Texas,Victoria,1,0,77,0
+2020-04-12,United States,Texas,Walker,0,0,17,0
+2020-04-12,United States,Texas,Waller,1,0,15,0
+2020-04-12,United States,Texas,Washington,1,1,37,2
+2020-04-12,United States,Texas,Webb,20,0,191,8
+2020-04-12,United States,Texas,Wharton,2,0,26,0
+2020-04-12,United States,Texas,Wichita,2,0,56,0
+2020-04-12,United States,Texas,Willacy,0,0,5,1
+2020-04-12,United States,Texas,Williamson,3,0,113,4
+2020-04-12,United States,Texas,Wilson,1,0,11,0
+2020-04-12,United States,Texas,Winkler,0,0,1,0
+2020-04-12,United States,Texas,Wise,0,0,5,0
+2020-04-12,United States,Texas,Wood,0,0,5,0
+2020-04-12,United States,Texas,Young,0,0,3,0
+2020-04-12,United States,Texas,Zapata,0,0,3,0
+2020-04-12,United States,Utah,Box Elder,1,0,13,0
+2020-04-12,United States,Utah,Cache,-1,0,33,0
+2020-04-12,United States,Utah,Carbon,0,0,2,0
+2020-04-12,United States,Utah,Davis,6,0,199,2
+2020-04-12,United States,Utah,Duchesne,0,0,3,0
+2020-04-12,United States,Utah,Emery,0,0,2,0
+2020-04-12,United States,Utah,Garfield,0,0,1,0
+2020-04-12,United States,Utah,Grand,0,0,1,0
+2020-04-12,United States,Utah,Iron,0,0,13,0
+2020-04-12,United States,Utah,Kane,0,0,3,0
+2020-04-12,United States,Utah,Salt Lake,55,0,1126,7
+2020-04-12,United States,Utah,San Juan,0,0,8,0
+2020-04-12,United States,Utah,Summit,4,0,304,0
+2020-04-12,United States,Utah,Tooele,0,0,31,0
+2020-04-12,United States,Utah,Uintah,0,0,6,0
+2020-04-12,United States,Utah,unassigned,4,0,4,5
+2020-04-12,United States,Utah,Utah,18,0,313,2
+2020-04-12,United States,Utah,Wasatch,5,0,103,0
+2020-04-12,United States,Utah,Washington,1,0,42,1
+2020-04-12,United States,Utah,Weber,3,0,96,1
+2020-04-12,United States,Vermont,Addison,1,1,55,1
+2020-04-12,United States,Vermont,Bennington,0,0,31,1
+2020-04-12,United States,Vermont,Caledonia,0,0,8,0
+2020-04-12,United States,Vermont,Chittenden,13,1,364,17
+2020-04-12,United States,Vermont,Essex,0,0,1,0
+2020-04-12,United States,Vermont,Franklin,1,0,81,3
+2020-04-12,United States,Vermont,Grand Isle,0,0,3,0
+2020-04-12,United States,Vermont,Lamoille,0,0,21,2
+2020-04-12,United States,Vermont,Orange,0,0,5,0
+2020-04-12,United States,Vermont,Orleans,0,0,8,0
+2020-04-12,United States,Vermont,Rutland,1,0,36,0
+2020-04-12,United States,Vermont,Unassigned,-4,0,7,0
+2020-04-12,United States,Vermont,Washington,0,0,28,0
+2020-04-12,United States,Vermont,Windham,4,0,54,1
+2020-04-12,United States,Vermont,Windsor,0,0,25,2
+2020-04-12,United States,Virgin Islands,,0,0,51,1
+2020-04-12,United States,Virginia,Accomack,0,0,15,0
+2020-04-12,United States,Virginia,Albemarle,0,0,46,0
+2020-04-12,United States,Virginia,Alexandria,10,0,198,1
+2020-04-12,United States,Virginia,Alleghany,0,0,4,0
+2020-04-12,United States,Virginia,Amelia,0,0,9,0
+2020-04-12,United States,Virginia,Amherst,0,0,10,0
+2020-04-12,United States,Virginia,Appomattox,0,0,7,0
+2020-04-12,United States,Virginia,Arlington,17,0,366,2
+2020-04-12,United States,Virginia,Augusta,0,0,17,0
+2020-04-12,United States,Virginia,Bath,0,0,0,0
+2020-04-12,United States,Virginia,Bedford,0,0,15,0
+2020-04-12,United States,Virginia,Bland,0,0,0,0
+2020-04-12,United States,Virginia,Botetourt,1,0,23,0
+2020-04-12,United States,Virginia,Bristol,0,0,1,0
+2020-04-12,United States,Virginia,Brunswick,0,0,3,0
+2020-04-12,United States,Virginia,Buchanan,0,0,2,0
+2020-04-12,United States,Virginia,Buckingham,0,0,14,0
+2020-04-12,United States,Virginia,Buena Vista,0,0,4,0
+2020-04-12,United States,Virginia,Campbell,0,0,9,0
+2020-04-12,United States,Virginia,Caroline,0,0,6,0
+2020-04-12,United States,Virginia,Carroll,0,0,3,0
+2020-04-12,United States,Virginia,Charles City,1,0,9,0
+2020-04-12,United States,Virginia,Charlotte,2,0,4,0
+2020-04-12,United States,Virginia,Charlottesville,0,0,31,1
+2020-04-12,United States,Virginia,Chesapeake,6,0,121,0
+2020-04-12,United States,Virginia,Chesterfield,6,0,209,0
+2020-04-12,United States,Virginia,Clarke,0,0,3,0
+2020-04-12,United States,Virginia,Colonial Heights,0,0,6,0
+2020-04-12,United States,Virginia,Covington,0,0,1,0
+2020-04-12,United States,Virginia,Craig,0,0,2,0
+2020-04-12,United States,Virginia,Culpeper,2,0,19,0
+2020-04-12,United States,Virginia,Cumberland,0,0,8,0
+2020-04-12,United States,Virginia,Danville,0,0,20,0
+2020-04-12,United States,Virginia,Dickenson,0,0,0,0
+2020-04-12,United States,Virginia,Dinwiddie,0,0,6,0
+2020-04-12,United States,Virginia,Emporia,0,0,7,0
+2020-04-12,United States,Virginia,Essex,0,0,0,0
+2020-04-12,United States,Virginia,Fairfax,62,0,1008,20
+2020-04-12,United States,Virginia,Fairfax City,0,0,1,0
+2020-04-12,United States,Virginia,Falls Church,2,0,2,0
+2020-04-12,United States,Virginia,Fauquier,0,0,25,0
+2020-04-12,United States,Virginia,Floyd,0,0,1,0
+2020-04-12,United States,Virginia,Fluvanna,2,0,21,0
+2020-04-12,United States,Virginia,Franklin,0,0,14,0
+2020-04-12,United States,Virginia,Franklin City,0,0,6,0
+2020-04-12,United States,Virginia,Frederick,2,0,65,0
+2020-04-12,United States,Virginia,Fredericksburg,1,0,12,0
+2020-04-12,United States,Virginia,Galax,0,0,1,0
+2020-04-12,United States,Virginia,Giles,1,0,3,0
+2020-04-12,United States,Virginia,Gloucester,0,0,20,0
+2020-04-12,United States,Virginia,Goochland,6,0,32,0
+2020-04-12,United States,Virginia,Grayson,0,0,0,0
+2020-04-12,United States,Virginia,Greene,0,0,4,0
+2020-04-12,United States,Virginia,Greensville,0,0,8,0
+2020-04-12,United States,Virginia,Halifax,0,0,7,0
+2020-04-12,United States,Virginia,Hampton,1,0,65,1
+2020-04-12,United States,Virginia,Hanover,0,0,38,0
+2020-04-12,United States,Virginia,Harrisonburg,2,0,81,0
+2020-04-12,United States,Virginia,Henrico,11,40,379,42
+2020-04-12,United States,Virginia,Henry,0,0,8,0
+2020-04-12,United States,Virginia,Highland,0,0,0,0
+2020-04-12,United States,Virginia,Hopewell,0,0,14,0
+2020-04-12,United States,Virginia,Isle of Wight,3,0,31,0
+2020-04-12,United States,Virginia,James City,0,0,126,2
+2020-04-12,United States,Virginia,King and Queen,0,0,2,0
+2020-04-12,United States,Virginia,King George,1,0,14,0
+2020-04-12,United States,Virginia,King William,0,0,2,0
+2020-04-12,United States,Virginia,Lancaster,0,0,1,0
+2020-04-12,United States,Virginia,Lee,0,0,6,0
+2020-04-12,United States,Virginia,Lexington,0,0,3,0
+2020-04-12,United States,Virginia,Loudoun,13,0,309,5
+2020-04-12,United States,Virginia,Louisa,0,0,25,0
+2020-04-12,United States,Virginia,Lunenburg,0,0,3,0
+2020-04-12,United States,Virginia,Lynchburg,0,0,31,0
+2020-04-12,United States,Virginia,Madison,0,0,6,0
+2020-04-12,United States,Virginia,Manassas,0,0,34,0
+2020-04-12,United States,Virginia,Manassas Park,0,0,10,0
+2020-04-12,United States,Virginia,Martinsville,0,0,0,0
+2020-04-12,United States,Virginia,Mathews,0,0,2,0
+2020-04-12,United States,Virginia,Mecklenburg,2,0,55,0
+2020-04-12,United States,Virginia,Middlesex,0,0,3,0
+2020-04-12,United States,Virginia,Montgomery,1,0,32,0
+2020-04-12,United States,Virginia,Nelson,1,0,5,0
+2020-04-12,United States,Virginia,New Kent,0,0,12,0
+2020-04-12,United States,Virginia,Newport News,3,0,78,1
+2020-04-12,United States,Virginia,Norfolk,0,0,90,0
+2020-04-12,United States,Virginia,Northampton,0,0,4,0
+2020-04-12,United States,Virginia,Northumberland,0,0,4,0
+2020-04-12,United States,Virginia,Norton,0,0,0,0
+2020-04-12,United States,Virginia,Nottoway,1,0,5,0
+2020-04-12,United States,Virginia,Orange,0,0,13,0
+2020-04-12,United States,Virginia,Page,0,0,6,0
+2020-04-12,United States,Virginia,Patrick,0,0,0,0
+2020-04-12,United States,Virginia,Petersburg,0,0,17,0
+2020-04-12,United States,Virginia,Pittsylvania,0,0,4,0
+2020-04-12,United States,Virginia,Poquoson,0,0,6,0
+2020-04-12,United States,Virginia,Portsmouth,2,0,51,0
+2020-04-12,United States,Virginia,Powhatan,0,0,5,0
+2020-04-12,United States,Virginia,Prince Edward,1,0,9,0
+2020-04-12,United States,Virginia,Prince George,0,0,26,0
+2020-04-12,United States,Virginia,Prince William,-1,0,389,1
+2020-04-12,United States,Virginia,Pulaski,0,0,4,0
+2020-04-12,United States,Virginia,Radford,0,0,1,0
+2020-04-12,United States,Virginia,Rappahannock,0,0,1,0
+2020-04-12,United States,Virginia,Richmond,0,0,5,0
+2020-04-12,United States,Virginia,Richmond City,6,0,154,0
+2020-04-12,United States,Virginia,Roanoke,1,0,14,0
+2020-04-12,United States,Virginia,Roanoke City,3,0,20,0
+2020-04-12,United States,Virginia,Rockbridge,0,0,3,0
+2020-04-12,United States,Virginia,Rockingham,-1,0,43,0
+2020-04-12,United States,Virginia,Russell,0,0,1,0
+2020-04-12,United States,Virginia,Salem,0,0,1,0
+2020-04-12,United States,Virginia,Scott,0,0,3,0
+2020-04-12,United States,Virginia,Shenandoah,1,0,17,0
+2020-04-12,United States,Virginia,Smyth,0,0,9,0
+2020-04-12,United States,Virginia,Southampton,0,0,5,0
+2020-04-12,United States,Virginia,Spotsylvania,3,0,50,0
+2020-04-12,United States,Virginia,Stafford,5,0,72,0
+2020-04-12,United States,Virginia,Staunton,0,0,1,0
+2020-04-12,United States,Virginia,Suffolk,8,0,48,0
+2020-04-12,United States,Virginia,Surry,0,0,3,0
+2020-04-12,United States,Virginia,Sussex,0,0,8,0
+2020-04-12,United States,Virginia,Tazewell,0,0,4,0
+2020-04-12,United States,Virginia,Unassigned,0,-29,0,62
+2020-04-12,United States,Virginia,Virginia Beach,7,0,243,1
+2020-04-12,United States,Virginia,Warren,0,0,15,0
+2020-04-12,United States,Virginia,Washington,0,0,24,0
+2020-04-12,United States,Virginia,Waynesboro,0,0,5,0
+2020-04-12,United States,Virginia,Westmoreland,0,0,8,0
+2020-04-12,United States,Virginia,Williamsburg,0,0,17,1
+2020-04-12,United States,Virginia,Winchester,0,0,19,0
+2020-04-12,United States,Virginia,Wise,0,0,8,0
+2020-04-12,United States,Virginia,Wythe,0,0,7,0
+2020-04-12,United States,Virginia,York,2,0,29,1
+2020-04-12,United States,Washington,Adams,6,0,36,0
+2020-04-12,United States,Washington,Asotin,1,0,5,0
+2020-04-12,United States,Washington,Benton,5,0,249,33
+2020-04-12,United States,Washington,Chelan,2,0,55,5
+2020-04-12,United States,Washington,Clallam,1,0,12,0
+2020-04-12,United States,Washington,Clark,0,0,220,15
+2020-04-12,United States,Washington,Columbia,0,0,1,0
+2020-04-12,United States,Washington,Cowlitz,0,0,23,0
+2020-04-12,United States,Washington,Douglas,0,1,16,1
+2020-04-12,United States,Washington,Ferry,0,0,1,0
+2020-04-12,United States,Washington,Franklin,5,1,112,3
+2020-04-12,United States,Washington,Grant,4,0,114,2
+2020-04-12,United States,Washington,Grays Harbor,3,0,11,0
+2020-04-12,United States,Washington,Island,1,1,158,7
+2020-04-12,United States,Washington,Jefferson,0,0,28,0
+2020-04-12,United States,Washington,King,164,5,4426,318
+2020-04-12,United States,Washington,Kitsap,4,0,132,1
+2020-04-12,United States,Washington,Kittitas,-2,0,13,0
+2020-04-12,United States,Washington,Klickitat,2,0,14,1
+2020-04-12,United States,Washington,Lewis,-1,0,17,2
+2020-04-12,United States,Washington,Lincoln,0,0,2,0
+2020-04-12,United States,Washington,Mason,1,0,19,0
+2020-04-12,United States,Washington,Okanogan,1,0,15,0
+2020-04-12,United States,Washington,Pacific,0,0,1,0
+2020-04-12,United States,Washington,Pend Oreille,0,0,1,0
+2020-04-12,United States,Washington,Pierce,9,1,931,27
+2020-04-12,United States,Washington,San Juan,0,0,13,0
+2020-04-12,United States,Washington,Skagit,2,1,187,7
+2020-04-12,United States,Washington,Skamania,0,0,3,0
+2020-04-12,United States,Washington,Snohomish,32,2,1867,76
+2020-04-12,United States,Washington,Spokane,23,1,274,15
+2020-04-12,United States,Washington,Stevens,1,1,7,1
+2020-04-12,United States,Washington,Thurston,0,0,81,1
+2020-04-12,United States,Washington,Unassigned,-116,0,732,0
+2020-04-12,United States,Washington,Wahkiakum,0,0,2,0
+2020-04-12,United States,Washington,Walla Walla,1,0,21,0
+2020-04-12,United States,Washington,Whatcom,2,0,263,23
+2020-04-12,United States,Washington,Whitman,0,0,12,0
+2020-04-12,United States,Washington,Yakima,24,1,535,24
+2020-04-12,United States,West Virginia,Barbour,0,0,4,0
+2020-04-12,United States,West Virginia,Berkeley,3,0,92,0
+2020-04-12,United States,West Virginia,Boone,0,0,1,0
+2020-04-12,United States,West Virginia,Braxton,0,0,1,0
+2020-04-12,United States,West Virginia,Brooke,0,0,3,0
+2020-04-12,United States,West Virginia,Cabell,1,0,22,0
+2020-04-12,United States,West Virginia,Fayette,0,0,2,0
+2020-04-12,United States,West Virginia,Greenbrier,0,0,3,0
+2020-04-12,United States,West Virginia,Hampshire,0,0,4,0
+2020-04-12,United States,West Virginia,Hancock,0,0,7,0
+2020-04-12,United States,West Virginia,Hardy,0,0,2,0
+2020-04-12,United States,West Virginia,Harrison,0,0,28,1
+2020-04-12,United States,West Virginia,Jackson,0,0,23,1
+2020-04-12,United States,West Virginia,Jefferson,3,0,49,0
+2020-04-12,United States,West Virginia,Kanawha,1,0,83,0
+2020-04-12,United States,West Virginia,Lewis,0,0,2,0
+2020-04-12,United States,West Virginia,Logan,0,0,8,0
+2020-04-12,United States,West Virginia,Marion,0,0,32,1
+2020-04-12,United States,West Virginia,Marshall,0,0,6,0
+2020-04-12,United States,West Virginia,Mason,1,0,8,0
+2020-04-12,United States,West Virginia,McDowell,1,0,5,0
+2020-04-12,United States,West Virginia,Mercer,0,0,8,0
+2020-04-12,United States,West Virginia,Mineral,0,0,4,0
+2020-04-12,United States,West Virginia,Monongalia,3,0,81,1
+2020-04-12,United States,West Virginia,Monroe,0,0,1,0
+2020-04-12,United States,West Virginia,Morgan,0,0,6,0
+2020-04-12,United States,West Virginia,Nicholas,0,0,2,0
+2020-04-12,United States,West Virginia,Ohio,0,0,21,0
+2020-04-12,United States,West Virginia,Pendleton,0,0,1,0
+2020-04-12,United States,West Virginia,Pleasants,0,0,1,0
+2020-04-12,United States,West Virginia,Preston,0,0,6,0
+2020-04-12,United States,West Virginia,Putnam,1,0,11,0
+2020-04-12,United States,West Virginia,Raleigh,0,0,5,0
+2020-04-12,United States,West Virginia,Randolph,0,0,4,0
+2020-04-12,United States,West Virginia,Roane,0,0,2,0
+2020-04-12,United States,West Virginia,Summers,0,0,1,0
+2020-04-12,United States,West Virginia,Taylor,0,0,3,0
+2020-04-12,United States,West Virginia,Tucker,1,0,4,0
+2020-04-12,United States,West Virginia,Tyler,0,0,3,0
+2020-04-12,United States,West Virginia,Unassigned,0,1,0,2
+2020-04-12,United States,West Virginia,Upshur,0,0,3,0
+2020-04-12,United States,West Virginia,Wayne,0,0,17,0
+2020-04-12,United States,West Virginia,Wetzel,0,0,3,0
+2020-04-12,United States,West Virginia,Wirt,0,0,2,0
+2020-04-12,United States,West Virginia,Wood,0,0,18,0
+2020-04-12,United States,West Virginia,Wyoming,0,0,1,0
+2020-04-12,United States,Wisconsin,Adams,0,0,2,0
+2020-04-12,United States,Wisconsin,Ashland,1,0,2,0
+2020-04-12,United States,Wisconsin,Barron,0,0,6,0
+2020-04-12,United States,Wisconsin,Bayfield,0,0,3,0
+2020-04-12,United States,Wisconsin,Brown,8,0,68,1
+2020-04-12,United States,Wisconsin,Buffalo,0,0,3,1
+2020-04-12,United States,Wisconsin,Calumet,0,0,4,0
+2020-04-12,United States,Wisconsin,Chippewa,2,0,20,0
+2020-04-12,United States,Wisconsin,Clark,1,0,8,0
+2020-04-12,United States,Wisconsin,Columbia,0,0,24,1
+2020-04-12,United States,Wisconsin,Crawford,0,0,3,0
+2020-04-12,United States,Wisconsin,Dane,7,0,334,12
+2020-04-12,United States,Wisconsin,Dodge,1,0,19,0
+2020-04-12,United States,Wisconsin,Door,0,0,9,0
+2020-04-12,United States,Wisconsin,Douglas,0,0,7,0
+2020-04-12,United States,Wisconsin,Dunn,0,0,9,0
+2020-04-12,United States,Wisconsin,Eau Claire,0,0,21,0
+2020-04-12,United States,Wisconsin,Florence,0,0,2,0
+2020-04-12,United States,Wisconsin,Fond du Lac,2,0,54,2
+2020-04-12,United States,Wisconsin,Grant,1,0,6,1
+2020-04-12,United States,Wisconsin,Green,0,0,9,0
+2020-04-12,United States,Wisconsin,Iowa,1,0,5,0
+2020-04-12,United States,Wisconsin,Iron,0,0,2,1
+2020-04-12,United States,Wisconsin,Jackson,0,0,10,0
+2020-04-12,United States,Wisconsin,Jefferson,1,0,23,0
+2020-04-12,United States,Wisconsin,Juneau,1,0,6,0
+2020-04-12,United States,Wisconsin,Kenosha,10,1,173,2
+2020-04-12,United States,Wisconsin,Kewaunee,2,0,3,0
+2020-04-12,United States,Wisconsin,La Crosse,0,0,25,0
+2020-04-12,United States,Wisconsin,Lafayette,0,0,3,0
+2020-04-12,United States,Wisconsin,Manitowoc,0,0,3,0
+2020-04-12,United States,Wisconsin,Marathon,0,1,13,1
+2020-04-12,United States,Wisconsin,Marinette,0,0,3,0
+2020-04-12,United States,Wisconsin,Marquette,0,0,2,0
+2020-04-12,United States,Wisconsin,Menominee,0,0,1,0
+2020-04-12,United States,Wisconsin,Milwaukee,57,3,1710,88
+2020-04-12,United States,Wisconsin,Monroe,0,0,8,0
+2020-04-12,United States,Wisconsin,Oconto,0,0,3,0
+2020-04-12,United States,Wisconsin,Oneida,1,0,6,0
+2020-04-12,United States,Wisconsin,Outagamie,0,0,29,2
+2020-04-12,United States,Wisconsin,Ozaukee,0,0,72,9
+2020-04-12,United States,Wisconsin,Pepin,0,0,0,0
+2020-04-12,United States,Wisconsin,Pierce,0,0,7,0
+2020-04-12,United States,Wisconsin,Polk,2,0,3,0
+2020-04-12,United States,Wisconsin,Portage,0,0,4,0
+2020-04-12,United States,Wisconsin,Price,0,0,1,0
+2020-04-12,United States,Wisconsin,Racine,12,0,117,3
+2020-04-12,United States,Wisconsin,Richland,0,0,5,0
+2020-04-12,United States,Wisconsin,Rock,3,1,56,4
+2020-04-12,United States,Wisconsin,Rusk,0,0,3,0
+2020-04-12,United States,Wisconsin,Sauk,1,0,26,2
+2020-04-12,United States,Wisconsin,Sawyer,0,0,1,0
+2020-04-12,United States,Wisconsin,Shawano,0,0,5,0
+2020-04-12,United States,Wisconsin,Sheboygan,0,0,34,2
+2020-04-12,United States,Wisconsin,St. Croix,1,0,9,0
+2020-04-12,United States,Wisconsin,Trempealeau,0,0,1,0
+2020-04-12,United States,Wisconsin,Unassigned,0,0,0,0
+2020-04-12,United States,Wisconsin,Vilas,0,0,4,0
+2020-04-12,United States,Wisconsin,Walworth,2,0,37,0
+2020-04-12,United States,Wisconsin,Washington,0,0,71,3
+2020-04-12,United States,Wisconsin,Waukesha,8,1,209,7
+2020-04-12,United States,Wisconsin,Waupaca,1,0,4,1
+2020-04-12,United States,Wisconsin,Waushara,0,0,2,0
+2020-04-12,United States,Wisconsin,Winnebago,2,0,27,1
+2020-04-12,United States,Wisconsin,Wood,0,0,2,0
+2020-04-12,United States,Wyoming,Albany,0,0,5,0
+2020-04-12,United States,Wyoming,Big Horn,0,0,1,0
+2020-04-12,United States,Wyoming,Campbell,0,0,11,0
+2020-04-12,United States,Wyoming,Carbon,0,0,4,0
+2020-04-12,United States,Wyoming,Converse,2,0,8,0
+2020-04-12,United States,Wyoming,Crook,0,0,3,0
+2020-04-12,United States,Wyoming,Fremont,1,0,40,0
+2020-04-12,United States,Wyoming,Goshen,0,0,3,0
+2020-04-12,United States,Wyoming,Hot Springs,0,0,1,0
+2020-04-12,United States,Wyoming,Johnson,1,0,11,0
+2020-04-12,United States,Wyoming,Laramie,0,0,58,0
+2020-04-12,United States,Wyoming,Lincoln,0,0,5,0
+2020-04-12,United States,Wyoming,Natrona,1,0,33,0
+2020-04-12,United States,Wyoming,Niobrara,0,0,1,0
+2020-04-12,United States,Wyoming,Park,0,0,1,0
+2020-04-12,United States,Wyoming,Platte,0,0,0,0
+2020-04-12,United States,Wyoming,Sheridan,0,0,12,0
+2020-04-12,United States,Wyoming,Sublette,0,0,1,0
+2020-04-12,United States,Wyoming,Sweetwater,0,0,7,0
+2020-04-12,United States,Wyoming,Teton,3,0,56,0
+2020-04-12,United States,Wyoming,Uinta,0,0,4,0
+2020-04-12,United States,Wyoming,Unassigned,0,0,0,0
+2020-04-12,United States,Wyoming,Washakie,0,0,5,0
