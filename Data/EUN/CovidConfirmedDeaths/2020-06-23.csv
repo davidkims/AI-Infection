@@ -1,0 +1,3414 @@
+tDate,Country,Province1,Province2,Confirmed,Deaths,AccConfirmed,AccDeaths
+2020-06-23,Australia,Australian Capital Territory,,0,0,108,3
+2020-06-23,Australia,New South Wales,,-1,0,3150,48
+2020-06-23,Australia,Northern Territory,,0,0,29,0
+2020-06-23,Australia,Queensland,,0,0,1066,6
+2020-06-23,Australia,South Australia,,0,0,440,4
+2020-06-23,Australia,Tasmania,,0,0,228,13
+2020-06-23,Australia,Victoria,,17,0,1864,19
+2020-06-23,Australia,Western Australia,,2,0,607,9
+2020-06-23,Austria,,,39,0,17380,690
+2020-06-23,Belgium,,,0,0,60550,9696
+2020-06-23,Canada,Alberta,,32,1,7736,153
+2020-06-23,Canada,British Columbia,,32,1,2822,169
+2020-06-23,Canada,Diamond Princess,,0,0,0,1
+2020-06-23,Canada,Grand Princess,,0,0,13,0
+2020-06-23,Canada,Manitoba,,1,0,314,7
+2020-06-23,Canada,New Brunswick,,0,0,164,2
+2020-06-23,Canada,Newfoundland and Labrador,,0,0,261,3
+2020-06-23,Canada,Northwest Territories,,0,0,5,0
+2020-06-23,Canada,Nova Scotia,,0,1,1061,63
+2020-06-23,Canada,Nunavut,,0,0,0,0
+2020-06-23,Canada,Ontario,,201,9,35418,2666
+2020-06-23,Canada,Prince Edward Island,,0,0,27,0
+2020-06-23,Canada,Quebec,,85,8,54730,5569
+2020-06-23,Canada,Saskatchewan,,5,0,751,13
+2020-06-23,Canada,Yukon,,0,0,11,0
+2020-06-23,Chile,Antofagasta,,247,0,6708,100
+2020-06-23,Chile,Araucania,,40,0,3009,39
+2020-06-23,Chile,Arica y Parinacota,,49,0,1420,12
+2020-06-23,Chile,Atacama,,35,0,718,2
+2020-06-23,Chile,Aysen,,0,0,28,0
+2020-06-23,Chile,Biobio,,247,1,5158,35
+2020-06-23,Chile,Coquimbo,,69,0,2428,17
+2020-06-23,Chile,Los Lagos,,52,0,1437,17
+2020-06-23,Chile,Los Rios,,11,0,621,10
+2020-06-23,Chile,Magallanes,,17,0,1352,15
+2020-06-23,Chile,Maule,,145,0,4355,33
+2020-06-23,Chile,Metropolitana,,3026,22,198392,3892
+2020-06-23,Chile,Nuble,,22,0,2181,28
+2020-06-23,Chile,OHiggins,,234,0,4186,52
+2020-06-23,Chile,Tarapaca,,97,0,5355,80
+2020-06-23,Chile,Unknown,,0,0,0,0
+2020-06-23,Chile,Valparaiso,,317,0,9615,170
+2020-06-23,China,Anhui,,0,0,991,6
+2020-06-23,China,Beijing,,13,0,843,9
+2020-06-23,China,Chongqing,,0,0,582,6
+2020-06-23,China,Fujian,,0,0,363,1
+2020-06-23,China,Gansu,,7,0,158,2
+2020-06-23,China,Guangdong,,0,0,1634,8
+2020-06-23,China,Guangxi,,0,0,254,2
+2020-06-23,China,Guizhou,,0,0,147,2
+2020-06-23,China,Hainan,,0,0,171,6
+2020-06-23,China,Hebei,,0,0,346,6
+2020-06-23,China,Heilongjiang,,0,0,947,13
+2020-06-23,China,Henan,,0,0,1276,22
+2020-06-23,China,Hong Kong,,30,0,1161,5
+2020-06-23,China,Hubei,,0,0,68135,4512
+2020-06-23,China,Hunan,,0,0,1019,4
+2020-06-23,China,Inner Mongolia,,0,0,238,1
+2020-06-23,China,Jiangsu,,1,0,654,0
+2020-06-23,China,Jiangxi,,0,0,932,1
+2020-06-23,China,Jilin,,0,0,155,2
+2020-06-23,China,Liaoning,,0,0,154,2
+2020-06-23,China,Macau,,0,0,45,0
+2020-06-23,China,Ningxia,,0,0,75,0
+2020-06-23,China,Qinghai,,0,0,18,0
+2020-06-23,China,Shaanxi,,0,0,317,3
+2020-06-23,China,Shandong,,0,0,792,7
+2020-06-23,China,Shanghai,,0,0,701,7
+2020-06-23,China,Shanxi,,0,0,198,0
+2020-06-23,China,Sichuan,,0,0,589,3
+2020-06-23,China,Tianjin,,1,0,198,3
+2020-06-23,China,Tibet,,0,0,1,0
+2020-06-23,China,Unknown,,0,0,0,0
+2020-06-23,China,Xinjiang,,0,0,76,3
+2020-06-23,China,Yunnan,,0,0,185,2
+2020-06-23,China,Zhejiang,,0,0,1269,1
+2020-06-23,Colombia,Amazonas,,0,0,2204,85
+2020-06-23,Colombia,Antioquia,,88,0,3009,16
+2020-06-23,Colombia,Arauca,,9,0,70,0
+2020-06-23,Colombia,Atlantico,,750,39,16229,714
+2020-06-23,Colombia,Bolivar,,314,7,7067,276
+2020-06-23,Colombia,Boyaca,,6,0,307,16
+2020-06-23,Colombia,Caldas,,13,0,231,8
+2020-06-23,Colombia,Capital District,,832,8,21541,518
+2020-06-23,Colombia,Caqueta,,0,0,30,2
+2020-06-23,Colombia,Casanare,,2,0,57,0
+2020-06-23,Colombia,Cauca,,6,0,258,10
+2020-06-23,Colombia,Cesar,,28,0,730,22
+2020-06-23,Colombia,Choco,,28,0,1010,32
+2020-06-23,Colombia,Cordoba,,17,1,458,28
+2020-06-23,Colombia,Cundinamarca,,40,1,2128,51
+2020-06-23,Colombia,Guainia,,0,0,14,1
+2020-06-23,Colombia,Guaviare,,0,0,10,0
+2020-06-23,Colombia,Huila,,3,0,310,13
+2020-06-23,Colombia,La Guajira,,9,2,223,11
+2020-06-23,Colombia,Magdalena,,21,2,1298,88
+2020-06-23,Colombia,Meta,,5,0,1105,14
+2020-06-23,Colombia,Narino,,57,2,2682,95
+2020-06-23,Colombia,Norte de Santander,,4,1,248,17
+2020-06-23,Colombia,Putumayo,,0,0,17,4
+2020-06-23,Colombia,Quindio,,3,0,150,5
+2020-06-23,Colombia,Risaralda,,3,0,424,11
+2020-06-23,Colombia,San Andres y Providencia,,0,0,23,1
+2020-06-23,Colombia,Santander,,28,1,490,11
+2020-06-23,Colombia,Sucre,,52,1,588,22
+2020-06-23,Colombia,Tolima,,77,0,675,19
+2020-06-23,Colombia,Unknown,,0,0,92,0
+2020-06-23,Colombia,Valle del Cauca,,135,8,7660,336
+2020-06-23,Colombia,Vaupes,,1,0,28,0
+2020-06-23,Colombia,Vichada,,0,0,1,0
+2020-06-23,Costa Rica,,,64,0,2277,12
+2020-06-23,Czechia,,,25,0,10523,336
+2020-06-23,Denmark,,,136,2,12527,602
+2020-06-23,Denmark,Faroe Islands,,0,0,187,0
+2020-06-23,Denmark,Greenland,,0,0,13,0
+2020-06-23,Estonia,,,0,0,1981,69
+2020-06-23,Finland,,,1,1,7144,327
+2020-06-23,France,,,94,22,194065,29597
+2020-06-23,France,French Guiana,,17,2,2458,8
+2020-06-23,France,French Polynesia,,0,0,60,0
+2020-06-23,France,Guadeloupe,,0,0,174,14
+2020-06-23,France,Martinique,,0,0,236,14
+2020-06-23,France,Mayotte,,30,0,2434,31
+2020-06-23,France,New Caledonia,,0,0,21,0
+2020-06-23,France,Reunion,,1,0,507,1
+2020-06-23,France,Saint Barthelemy,,0,0,6,0
+2020-06-23,France,Saint Pierre and Miquelon,,0,0,1,0
+2020-06-23,France,St Martin,,0,0,42,3
+2020-06-23,Germany,Baden-Wurttemberg,,93,2,35375,1826
+2020-06-23,Germany,Bayern,,24,1,47867,2567
+2020-06-23,Germany,Berlin,,83,0,7915,211
+2020-06-23,Germany,Brandenburg,,3,0,3402,170
+2020-06-23,Germany,Bremen,,6,0,1657,49
+2020-06-23,Germany,Hamburg,,1,0,5170,259
+2020-06-23,Germany,Hessen,,3,1,10578,501
+2020-06-23,Germany,Mecklenburg-Vorpommern,,0,0,792,20
+2020-06-23,Germany,Niedersachsen,,40,0,13283,620
+2020-06-23,Germany,Nordrhein-Westfalen,,297,0,41218,1663
+2020-06-23,Germany,Rheinland-Pfalz,,8,0,6917,234
+2020-06-23,Germany,Saarland,,0,0,2778,171
+2020-06-23,Germany,Sachsen,,15,0,5423,221
+2020-06-23,Germany,Sachsen-Anhalt,,10,0,1852,57
+2020-06-23,Germany,Schleswig-Holstein,,2,0,3136,152
+2020-06-23,Germany,Thuringen,,7,0,3221,178
+2020-06-23,Germany,Unknown,,-96,0,1184,0
+2020-06-23,Greece,,,21,0,3287,190
+2020-06-23,Hungary,,,8,2,4102,572
+2020-06-23,Iceland,,,0,0,1823,10
+2020-06-23,Ireland,,,4,2,25383,1717
+2020-06-23,Israel,,,345,1,21194,309
+2020-06-23,Italy,Abruzzo,,1,1,3282,460
+2020-06-23,Italy,Basilicata,,0,0,401,27
+2020-06-23,Italy,Calabria,,1,0,1174,97
+2020-06-23,Italy,Campania,,7,0,4624,431
+2020-06-23,Italy,Emilia-Romagna,,22,4,28243,4235
+2020-06-23,Italy,Friuli Venezia Giulia,,0,0,3305,344
+2020-06-23,Italy,Lazio,,8,3,8025,830
+2020-06-23,Italy,Liguria,,8,3,9935,1552
+2020-06-23,Italy,Lombardia,,143,3,93111,16573
+2020-06-23,Italy,Marche,,6,0,6774,994
+2020-06-23,Italy,Molise,,3,0,444,23
+2020-06-23,Italy,P.A. Bolzano,,11,0,2633,292
+2020-06-23,Italy,P.A. Trento,,1,0,4464,466
+2020-06-23,Italy,Piemonte,,7,4,31248,4055
+2020-06-23,Italy,Puglia,,0,0,4527,540
+2020-06-23,Italy,Sardegna,,0,0,1369,132
+2020-06-23,Italy,Sicilia,,0,0,3072,280
+2020-06-23,Italy,Toscana,,1,4,10211,1099
+2020-06-23,Italy,Umbria,,0,0,1438,78
+2020-06-23,Italy,Valle d`Aosta,,0,0,1193,146
+2020-06-23,Italy,Veneto,,2,1,19247,2003
+2020-06-23,Japan,Aichi,,0,0,521,34
+2020-06-23,Japan,Akita,,0,0,16,0
+2020-06-23,Japan,Aomori,,0,0,30,1
+2020-06-23,Japan,Chiba,,2,0,934,45
+2020-06-23,Japan,Ehime,,0,0,82,4
+2020-06-23,Japan,Fukui,,0,0,122,8
+2020-06-23,Japan,Fukuoka,,0,0,835,28
+2020-06-23,Japan,Fukushima,,0,0,82,0
+2020-06-23,Japan,Gifu,,0,0,156,7
+2020-06-23,Japan,Gunma,,0,0,151,19
+2020-06-23,Japan,Hiroshima,,0,0,165,3
+2020-06-23,Japan,Hokkaido,,2,0,1190,95
+2020-06-23,Japan,Hyogo,,0,0,702,43
+2020-06-23,Japan,Ibaraki,,0,0,170,10
+2020-06-23,Japan,Ishikawa,,1,0,300,27
+2020-06-23,Japan,Kagawa,,0,0,28,0
+2020-06-23,Japan,Kagoshima,,0,0,11,0
+2020-06-23,Japan,Kanagawa,,0,0,1432,94
+2020-06-23,Japan,Kochi,,0,0,74,3
+2020-06-23,Japan,Kumamoto,,1,0,48,3
+2020-06-23,Japan,Kyoto,,0,0,365,18
+2020-06-23,Japan,Mie,,0,0,45,1
+2020-06-23,Japan,Miyagi,,1,0,90,1
+2020-06-23,Japan,Miyazaki,,0,0,17,0
+2020-06-23,Japan,Nagano,,0,0,76,0
+2020-06-23,Japan,Nagasaki,,0,0,17,1
+2020-06-23,Japan,Nara,,0,0,92,2
+2020-06-23,Japan,Niigata,,0,0,83,0
+2020-06-23,Japan,Oita,,0,0,60,1
+2020-06-23,Japan,Okayama,,0,0,25,0
+2020-06-23,Japan,Okinawa,,0,0,145,7
+2020-06-23,Japan,Osaka,,0,0,1809,86
+2020-06-23,Japan,Port Quarantine,,3,0,289,0
+2020-06-23,Japan,Saga,,0,0,45,0
+2020-06-23,Japan,Saitama,,1,0,1039,65
+2020-06-23,Japan,Shiga,,0,0,101,1
+2020-06-23,Japan,Shimane,,0,0,24,0
+2020-06-23,Japan,Shizuoka,,0,0,81,1
+2020-06-23,Japan,Tochigi,,0,0,66,0
+2020-06-23,Japan,Tokushima,,0,0,5,1
+2020-06-23,Japan,Tokyo,,29,0,5818,320
+2020-06-23,Japan,Tottori,,0,0,3,0
+2020-06-23,Japan,Toyama,,0,0,227,22
+2020-06-23,Japan,Unknown,,0,0,8,0
+2020-06-23,Japan,Wakayama,,0,0,63,3
+2020-06-23,Japan,Yamagata,,0,0,69,0
+2020-06-23,Japan,Yamaguchi,,0,0,37,0
+2020-06-23,Japan,Yamanashi,,0,0,72,1
+2020-06-23,Latvia,,,0,0,1111,30
+2020-06-23,Lithuania,,,3,0,1796,60
+2020-06-23,Luxembourg,,,1,0,4121,110
+2020-06-23,Mexico,Aguascalientes,,30,2,1906,112
+2020-06-23,Mexico,Baja California,,108,27,7898,1768
+2020-06-23,Mexico,Baja California Sur,,33,0,1254,65
+2020-06-23,Mexico,Campeche,,59,5,1383,162
+2020-06-23,Mexico,Chiapas,,72,15,3850,389
+2020-06-23,Mexico,Chihuahua,,16,6,2638,563
+2020-06-23,Mexico,Ciudad de Mexico,,424,64,42903,5515
+2020-06-23,Mexico,Coahuila,,43,6,2912,163
+2020-06-23,Mexico,Colima,,15,3,400,47
+2020-06-23,Mexico,Durango,,10,0,1374,106
+2020-06-23,Mexico,Guanajuato,,83,7,5014,257
+2020-06-23,Mexico,Guerrero,,135,22,4423,743
+2020-06-23,Mexico,Hidalgo,,52,6,3300,557
+2020-06-23,Mexico,Jalisco,,127,11,5217,472
+2020-06-23,Mexico,Mexico,,919,323,29424,3415
+2020-06-23,Mexico,Michoacan,,163,12,4659,376
+2020-06-23,Mexico,Morelos,,129,93,2420,625
+2020-06-23,Mexico,Nayarit,,12,2,1344,153
+2020-06-23,Mexico,Nuevo Leon,,152,8,3902,247
+2020-06-23,Mexico,Oaxaca,,91,19,4140,468
+2020-06-23,Mexico,Puebla,,227,25,7870,966
+2020-06-23,Mexico,Queretaro,,30,11,1743,238
+2020-06-23,Mexico,Quintana Roo,,24,3,2970,517
+2020-06-23,Mexico,San Luis Potosi,,161,6,2392,107
+2020-06-23,Mexico,Sinaloa,,88,12,6771,1032
+2020-06-23,Mexico,Sonora,,422,16,5520,388
+2020-06-23,Mexico,Tabasco,,326,12,8715,909
+2020-06-23,Mexico,Tamaulipas,,234,3,4348,278
+2020-06-23,Mexico,Tlaxcala,,9,14,2067,273
+2020-06-23,Mexico,Veracruz,,291,19,8420,1267
+2020-06-23,Mexico,Yucatan,,81,4,3239,331
+2020-06-23,Mexico,Zacatecas,,11,3,706,75
+2020-06-23,Netherlands,,,65,0,49658,6090
+2020-06-23,Netherlands,Aruba,,0,0,101,3
+2020-06-23,Netherlands,Bonaire Sint Eustatius and Saba,,0,0,7,0
+2020-06-23,Netherlands,Curacao,,0,0,23,1
+2020-06-23,Netherlands,Sint Maarten,,0,0,77,15
+2020-06-23,New Zealand,,,2,0,1515,22
+2020-06-23,New Zealand,Cook Islands,,0,0,0,0
+2020-06-23,Norway,,,6,4,8751,248
+2020-06-23,Poland,,,296,3,32227,1359
+2020-06-23,Portugal,,,259,4,39392,1534
+2020-06-23,Slovakia,,,1,0,1588,28
+2020-06-23,Slovenia,,,1,0,1521,109
+2020-06-23,South Korea,,,46,1,12484,281
+2020-06-23,Spain,Andalusia,,8,0,12892,1426
+2020-06-23,Spain,Aragon,,33,0,5964,911
+2020-06-23,Spain,Asturias,,0,0,2435,333
+2020-06-23,Spain,Baleares,,8,0,2187,224
+2020-06-23,Spain,C. Valenciana,,7,0,11486,1431
+2020-06-23,Spain,Canarias,,0,0,2414,162
+2020-06-23,Spain,Cantabria,,0,0,2344,216
+2020-06-23,Spain,Castilla - La Mancha,,22,0,17987,3022
+2020-06-23,Spain,Castilla y Leon,,17,1,19516,2778
+2020-06-23,Spain,Catalonia,,69,0,60714,5666
+2020-06-23,Spain,Ceuta,,0,0,163,4
+2020-06-23,Spain,Extremadura,,4,0,3010,519
+2020-06-23,Spain,Galicia,,0,0,9174,619
+2020-06-23,Spain,La Rioja,,0,0,4073,365
+2020-06-23,Spain,Madrid,,25,0,71248,8416
+2020-06-23,Spain,Melilla,,3,0,127,2
+2020-06-23,Spain,Murcia,,8,0,1653,147
+2020-06-23,Spain,Navarra,,21,0,5402,528
+2020-06-23,Spain,Pais Vasco,,7,0,13715,1555
+2020-06-23,Spain,Unknown,,0,0,0,0
+2020-06-23,Sweden,Blekinge,,12,1,414,10
+2020-06-23,Sweden,Dalarna,,47,3,1457,156
+2020-06-23,Sweden,Gavleborg,,74,1,2007,122
+2020-06-23,Sweden,Gotland,,9,0,131,6
+2020-06-23,Sweden,Halland,,36,1,1190,63
+2020-06-23,Sweden,Jamtland Harjedalen,,26,1,977,44
+2020-06-23,Sweden,Jonkoping,,405,7,3176,162
+2020-06-23,Sweden,Kalmar,,28,5,542,47
+2020-06-23,Sweden,Kronoberg,,12,1,1033,87
+2020-06-23,Sweden,Norrbotten,,66,0,919,60
+2020-06-23,Sweden,Orebro,,31,1,2214,158
+2020-06-23,Sweden,Ostergotland,,87,4,2749,219
+2020-06-23,Sweden,Skane,,175,0,2707,224
+2020-06-23,Sweden,Sormland,,69,1,1884,237
+2020-06-23,Sweden,Stockholm,,407,20,17285,2272
+2020-06-23,Sweden,Uppsala,,181,0,2798,205
+2020-06-23,Sweden,Varmland,,42,3,842,61
+2020-06-23,Sweden,Vasterbotten,,32,0,631,30
+2020-06-23,Sweden,Vasternorrland,,72,1,1166,103
+2020-06-23,Sweden,Vastmanland,,53,0,1957,158
+2020-06-23,Sweden,Vastra Gotaland,,1025,19,12853,698
+2020-06-23,Switzerland,,,18,0,31310,1956
+2020-06-23,Taiwan,,,0,0,446,7
+2020-06-23,Turkey,,,1212,24,188897,4974
+2020-06-23,United Kingdom,Anguilla,,0,0,3,0
+2020-06-23,United Kingdom,Bermuda,,0,0,146,9
+2020-06-23,United Kingdom,British Virgin Islands,,0,0,8,1
+2020-06-23,United Kingdom,Cayman Islands,,0,0,195,1
+2020-06-23,United Kingdom,Channel Islands,,0,-1,570,47
+2020-06-23,United Kingdom,England,,178,14,159118,38152
+2020-06-23,United Kingdom,Falkland Islands (Malvinas),,0,0,13,0
+2020-06-23,United Kingdom,Gibraltar,,0,0,176,0
+2020-06-23,United Kingdom,Isle of Man,,0,0,336,24
+2020-06-23,United Kingdom,Montserrat,,0,0,11,1
+2020-06-23,United Kingdom,Northern Ireland,,1,0,4871,545
+2020-06-23,United Kingdom,Saint Helena Ascension and Tristan da Cunha,,0,0,0,0
+2020-06-23,United Kingdom,Scotland,,10,0,15784,2472
+2020-06-23,United Kingdom,Turks and Caicos Islands,,0,0,14,1
+2020-06-23,United Kingdom,Unknown,,698,0,110319,0
+2020-06-23,United Kingdom,Wales,,71,1,15197,1478
+2020-06-23,United States,Alabama,Autauga,11,0,458,8
+2020-06-23,United States,Alabama,Baldwin,13,0,439,9
+2020-06-23,United States,Alabama,Barbour,3,0,280,1
+2020-06-23,United States,Alabama,Bibb,6,0,134,1
+2020-06-23,United States,Alabama,Blount,7,0,162,1
+2020-06-23,United States,Alabama,Bullock,2,0,327,9
+2020-06-23,United States,Alabama,Butler,3,0,572,26
+2020-06-23,United States,Alabama,Calhoun,1,0,214,4
+2020-06-23,United States,Alabama,Chambers,6,0,533,27
+2020-06-23,United States,Alabama,Cherokee,0,0,57,6
+2020-06-23,United States,Alabama,Chilton,6,0,176,2
+2020-06-23,United States,Alabama,Choctaw,0,0,183,12
+2020-06-23,United States,Alabama,Clarke,3,1,217,5
+2020-06-23,United States,Alabama,Clay,1,0,31,2
+2020-06-23,United States,Alabama,Cleburne,1,0,22,1
+2020-06-23,United States,Alabama,Coffee,2,0,310,1
+2020-06-23,United States,Alabama,Colbert,5,0,304,5
+2020-06-23,United States,Alabama,Conecuh,4,0,147,1
+2020-06-23,United States,Alabama,Coosa,2,0,51,1
+2020-06-23,United States,Alabama,Covington,15,1,238,2
+2020-06-23,United States,Alabama,Crenshaw,1,0,124,3
+2020-06-23,United States,Alabama,Cullman,7,0,317,1
+2020-06-23,United States,Alabama,Dale,4,0,206,0
+2020-06-23,United States,Alabama,Dallas,17,0,654,6
+2020-06-23,United States,Alabama,DeKalb,11,0,432,5
+2020-06-23,United States,Alabama,Elmore,13,0,678,11
+2020-06-23,United States,Alabama,Escambia,7,0,167,6
+2020-06-23,United States,Alabama,Etowah,14,0,430,12
+2020-06-23,United States,Alabama,Fayette,1,0,62,1
+2020-06-23,United States,Alabama,Franklin,5,0,791,10
+2020-06-23,United States,Alabama,Geneva,0,0,55,0
+2020-06-23,United States,Alabama,Greene,3,0,162,5
+2020-06-23,United States,Alabama,Hale,2,0,267,18
+2020-06-23,United States,Alabama,Henry,2,0,121,3
+2020-06-23,United States,Alabama,Houston,8,0,357,4
+2020-06-23,United States,Alabama,Jackson,6,0,151,3
+2020-06-23,United States,Alabama,Jefferson,79,0,3127,125
+2020-06-23,United States,Alabama,Lamar,2,0,56,0
+2020-06-23,United States,Alabama,Lauderdale,9,0,296,4
+2020-06-23,United States,Alabama,Lawrence,1,0,84,0
+2020-06-23,United States,Alabama,Lee,37,0,913,35
+2020-06-23,United States,Alabama,Limestone,10,0,313,0
+2020-06-23,United States,Alabama,Lowndes,3,0,427,14
+2020-06-23,United States,Alabama,Macon,0,0,149,6
+2020-06-23,United States,Alabama,Madison,15,0,672,6
+2020-06-23,United States,Alabama,Marengo,5,0,231,11
+2020-06-23,United States,Alabama,Marion,3,0,175,12
+2020-06-23,United States,Alabama,Marshall,45,0,1141,9
+2020-06-23,United States,Alabama,Mobile,47,0,3063,132
+2020-06-23,United States,Alabama,Monroe,6,0,162,2
+2020-06-23,United States,Alabama,Montgomery,51,0,3315,79
+2020-06-23,United States,Alabama,Morgan,16,0,804,2
+2020-06-23,United States,Alabama,Perry,3,0,90,0
+2020-06-23,United States,Alabama,Pickens,2,0,171,6
+2020-06-23,United States,Alabama,Pike,8,0,370,3
+2020-06-23,United States,Alabama,Randolph,2,0,147,8
+2020-06-23,United States,Alabama,Russell,9,0,372,0
+2020-06-23,United States,Alabama,Shelby,30,0,811,22
+2020-06-23,United States,Alabama,St. Clair,6,0,216,2
+2020-06-23,United States,Alabama,Sumter,1,0,267,12
+2020-06-23,United States,Alabama,Talladega,4,0,191,6
+2020-06-23,United States,Alabama,Tallapoosa,4,0,521,69
+2020-06-23,United States,Alabama,Tuscaloosa,36,0,1616,31
+2020-06-23,United States,Alabama,Unassigned,0,0,0,10
+2020-06-23,United States,Alabama,Walker,17,0,717,8
+2020-06-23,United States,Alabama,Washington,0,0,100,6
+2020-06-23,United States,Alabama,Wilcox,5,0,252,8
+2020-06-23,United States,Alabama,Winston,1,0,173,1
+2020-06-23,United States,Alaska,Anchorage,3,0,355,6
+2020-06-23,United States,Alaska,Bethel,0,0,6,0
+2020-06-23,United States,Alaska,Fairbanks North Star,0,0,117,2
+2020-06-23,United States,Alaska,Haines,0,0,2,0
+2020-06-23,United States,Alaska,Juneau,0,0,39,0
+2020-06-23,United States,Alaska,Kenai Peninsula,0,0,120,2
+2020-06-23,United States,Alaska,Ketchikan Gateway,0,0,21,0
+2020-06-23,United States,Alaska,Kodiak Island,0,0,3,0
+2020-06-23,United States,Alaska,Matanuska-Susitna,2,0,57,1
+2020-06-23,United States,Alaska,Nome,0,0,5,0
+2020-06-23,United States,Alaska,North Slope,1,0,4,0
+2020-06-23,United States,Alaska,Northwest Arctic,0,0,4,0
+2020-06-23,United States,Alaska,Petersburg,0,0,4,1
+2020-06-23,United States,Alaska,Prince of Wales-Hyder,0,0,2,0
+2020-06-23,United States,Alaska,Sitka,0,0,11,0
+2020-06-23,United States,Alaska,Southeast Fairbanks,0,0,3,0
+2020-06-23,United States,Alaska,Unassigned,0,0,0,0
+2020-06-23,United States,Alaska,Wrangell,0,0,3,0
+2020-06-23,United States,Alaska,Yukon-Koyukuk,0,0,2,0
+2020-06-23,United States,Arizona,Apache,4,0,2121,66
+2020-06-23,United States,Arizona,Cochise,9,0,372,6
+2020-06-23,United States,Arizona,Coconino,5,0,1541,90
+2020-06-23,United States,Arizona,Gila,16,0,176,4
+2020-06-23,United States,Arizona,Graham,2,0,65,1
+2020-06-23,United States,Arizona,Greenlee,0,0,13,1
+2020-06-23,United States,Arizona,La Paz,6,0,279,3
+2020-06-23,United States,Arizona,Maricopa,1514,2,31650,634
+2020-06-23,United States,Arizona,Mohave,2,0,723,73
+2020-06-23,United States,Arizona,Navajo,28,0,3037,95
+2020-06-23,United States,Arizona,Pima,217,0,5587,242
+2020-06-23,United States,Arizona,Pinal,102,0,2459,50
+2020-06-23,United States,Arizona,Santa Cruz,69,0,1482,13
+2020-06-23,United States,Arizona,Unassigned,0,0,0,1
+2020-06-23,United States,Arizona,Yavapai,34,0,490,7
+2020-06-23,United States,Arizona,Yuma,0,0,4604,65
+2020-06-23,United States,Arkansas,Arkansas,0,0,19,0
+2020-06-23,United States,Arkansas,Ashley,3,0,56,1
+2020-06-23,United States,Arkansas,Baxter,1,0,15,0
+2020-06-23,United States,Arkansas,Benton,84,0,2087,13
+2020-06-23,United States,Arkansas,Boone,2,0,13,0
+2020-06-23,United States,Arkansas,Bradley,0,0,38,2
+2020-06-23,United States,Arkansas,Carroll,7,0,136,4
+2020-06-23,United States,Arkansas,Chicot,7,0,88,2
+2020-06-23,United States,Arkansas,Clark,2,0,53,0
+2020-06-23,United States,Arkansas,Clay,6,0,46,2
+2020-06-23,United States,Arkansas,Cleburne,0,0,77,4
+2020-06-23,United States,Arkansas,Cleveland,0,0,25,0
+2020-06-23,United States,Arkansas,Columbia,5,0,43,2
+2020-06-23,United States,Arkansas,Conway,0,0,34,3
+2020-06-23,United States,Arkansas,Craighead,5,0,401,5
+2020-06-23,United States,Arkansas,Crawford,1,0,98,0
+2020-06-23,United States,Arkansas,Crittenden,12,0,600,10
+2020-06-23,United States,Arkansas,Cross,0,0,82,1
+2020-06-23,United States,Arkansas,Dallas,0,0,6,0
+2020-06-23,United States,Arkansas,Desha,0,0,29,0
+2020-06-23,United States,Arkansas,Drew,2,0,39,1
+2020-06-23,United States,Arkansas,Faulkner,21,0,290,3
+2020-06-23,United States,Arkansas,Franklin,1,0,13,0
+2020-06-23,United States,Arkansas,Fulton,1,0,10,0
+2020-06-23,United States,Arkansas,Garland,3,0,180,1
+2020-06-23,United States,Arkansas,Grant,1,0,27,0
+2020-06-23,United States,Arkansas,Greene,1,0,94,0
+2020-06-23,United States,Arkansas,Hempstead,1,0,45,1
+2020-06-23,United States,Arkansas,Hot Spring,85,0,138,0
+2020-06-23,United States,Arkansas,Howard,0,0,68,0
+2020-06-23,United States,Arkansas,Independence,0,0,46,0
+2020-06-23,United States,Arkansas,Izard,0,0,20,1
+2020-06-23,United States,Arkansas,Jackson,3,0,24,0
+2020-06-23,United States,Arkansas,Jefferson,7,0,657,28
+2020-06-23,United States,Arkansas,Johnson,12,0,158,0
+2020-06-23,United States,Arkansas,Lafayette,0,0,13,1
+2020-06-23,United States,Arkansas,Lawrence,1,0,94,9
+2020-06-23,United States,Arkansas,Lee,2,0,576,1
+2020-06-23,United States,Arkansas,Lincoln,0,0,1036,11
+2020-06-23,United States,Arkansas,Little River,0,0,35,0
+2020-06-23,United States,Arkansas,Logan,4,0,32,0
+2020-06-23,United States,Arkansas,Lonoke,1,0,89,0
+2020-06-23,United States,Arkansas,Madison,8,0,154,0
+2020-06-23,United States,Arkansas,Marion,0,0,2,0
+2020-06-23,United States,Arkansas,Miller,1,0,92,2
+2020-06-23,United States,Arkansas,Mississippi,1,0,115,3
+2020-06-23,United States,Arkansas,Monroe,0,0,7,0
+2020-06-23,United States,Arkansas,Montgomery,0,0,2,0
+2020-06-23,United States,Arkansas,Nevada,7,0,94,2
+2020-06-23,United States,Arkansas,Newton,0,0,4,0
+2020-06-23,United States,Arkansas,Ouachita,0,0,17,0
+2020-06-23,United States,Arkansas,Perry,1,0,21,0
+2020-06-23,United States,Arkansas,Phillips,8,0,87,2
+2020-06-23,United States,Arkansas,Pike,0,0,7,0
+2020-06-23,United States,Arkansas,Poinsett,0,0,53,3
+2020-06-23,United States,Arkansas,Polk,3,0,67,0
+2020-06-23,United States,Arkansas,Pope,7,0,333,2
+2020-06-23,United States,Arkansas,Prairie,3,0,16,0
+2020-06-23,United States,Arkansas,Pulaski,17,0,1531,52
+2020-06-23,United States,Arkansas,Randolph,5,0,39,1
+2020-06-23,United States,Arkansas,Saline,1,0,210,2
+2020-06-23,United States,Arkansas,Scott,0,0,8,0
+2020-06-23,United States,Arkansas,Searcy,0,0,7,0
+2020-06-23,United States,Arkansas,Sebastian,6,0,250,2
+2020-06-23,United States,Arkansas,Sevier,4,1,592,6
+2020-06-23,United States,Arkansas,Sharp,1,0,51,4
+2020-06-23,United States,Arkansas,St. Francis,1,0,792,3
+2020-06-23,United States,Arkansas,Stone,2,0,13,0
+2020-06-23,United States,Arkansas,Unassigned,13,0,584,0
+2020-06-23,United States,Arkansas,Union,3,0,227,13
+2020-06-23,United States,Arkansas,Van Buren,0,0,30,2
+2020-06-23,United States,Arkansas,Washington,127,0,2531,18
+2020-06-23,United States,Arkansas,White,3,0,76,1
+2020-06-23,United States,Arkansas,Woodruff,0,0,6,0
+2020-06-23,United States,Arkansas,Yell,19,1,435,3
+2020-06-23,United States,California,Alameda,83,0,5007,121
+2020-06-23,United States,California,Alpine,0,0,2,0
+2020-06-23,United States,California,Amador,9,0,22,0
+2020-06-23,United States,California,Butte,17,0,111,1
+2020-06-23,United States,California,Calaveras,0,0,28,0
+2020-06-23,United States,California,Colusa,0,0,7,0
+2020-06-23,United States,California,Contra Costa,75,0,2369,62
+2020-06-23,United States,California,Del Norte,0,0,48,1
+2020-06-23,United States,California,El Dorado,15,0,145,0
+2020-06-23,United States,California,Fresno,240,1,3485,67
+2020-06-23,United States,California,Glenn,0,0,42,0
+2020-06-23,United States,California,Humboldt,2,0,112,4
+2020-06-23,United States,California,Imperial,0,0,4800,64
+2020-06-23,United States,California,Inyo,1,0,25,1
+2020-06-23,United States,California,Kern,75,0,3965,60
+2020-06-23,United States,California,Kings,67,3,2158,18
+2020-06-23,United States,California,Lake,5,0,40,0
+2020-06-23,United States,California,Lassen,0,0,11,0
+2020-06-23,United States,California,Los Angeles,2603,16,86017,3137
+2020-06-23,United States,California,Madera,20,1,334,5
+2020-06-23,United States,California,Marin,140,0,1250,18
+2020-06-23,United States,California,Mariposa,0,0,18,1
+2020-06-23,United States,California,Mendocino,8,0,62,0
+2020-06-23,United States,California,Merced,45,0,661,9
+2020-06-23,United States,California,Mono,3,0,40,1
+2020-06-23,United States,California,Monterey,66,0,1291,12
+2020-06-23,United States,California,Napa,15,0,239,4
+2020-06-23,United States,California,Nevada,7,0,82,1
+2020-06-23,United States,California,Orange,876,0,14778,269
+2020-06-23,United States,California,Placer,17,0,519,9
+2020-06-23,United States,California,Plumas,0,0,6,0
+2020-06-23,United States,California,Riverside,1022,14,13800,424
+2020-06-23,United States,California,Sacramento,83,-1,2243,66
+2020-06-23,United States,California,San Benito,11,0,181,2
+2020-06-23,United States,California,San Bernardino,205,0,9361,229
+2020-06-23,United States,California,San Diego,302,0,11096,338
+2020-06-23,United States,California,San Francisco,127,1,3185,48
+2020-06-23,United States,California,San Joaquin,-119,0,2400,48
+2020-06-23,United States,California,San Luis Obispo,38,0,442,1
+2020-06-23,United States,California,San Mateo,104,0,2825,103
+2020-06-23,United States,California,Santa Barbara,127,5,2446,27
+2020-06-23,United States,California,Santa Clara,59,1,3606,155
+2020-06-23,United States,California,Santa Cruz,0,0,296,2
+2020-06-23,United States,California,Shasta,5,0,86,4
+2020-06-23,United States,California,Sierra,0,0,1,0
+2020-06-23,United States,California,Siskiyou,1,0,24,0
+2020-06-23,United States,California,Solano,73,0,933,23
+2020-06-23,United States,California,Sonoma,32,1,885,5
+2020-06-23,United States,California,Stanislaus,40,2,1639,37
+2020-06-23,United States,California,Sutter,60,1,161,4
+2020-06-23,United States,California,Tehama,19,0,53,1
+2020-06-23,United States,California,Trinity,0,0,2,0
+2020-06-23,United States,California,Tulare,131,2,3177,113
+2020-06-23,United States,California,Tuolumne,0,0,12,0
+2020-06-23,United States,California,Unassigned,0,0,0,0
+2020-06-23,United States,California,Ventura,195,1,2030,43
+2020-06-23,United States,California,Yolo,17,0,347,24
+2020-06-23,United States,California,Yuba,1,0,43,1
+2020-06-23,United States,Colorado,Adams,23,1,3932,153
+2020-06-23,United States,Colorado,Alamosa,1,0,169,3
+2020-06-23,United States,Colorado,Arapahoe,34,0,4975,339
+2020-06-23,United States,Colorado,Archuleta,0,0,8,0
+2020-06-23,United States,Colorado,Baca,0,0,12,0
+2020-06-23,United States,Colorado,Bent,1,0,4,0
+2020-06-23,United States,Colorado,Boulder,16,0,1259,71
+2020-06-23,United States,Colorado,Broomfield,2,0,280,28
+2020-06-23,United States,Colorado,Chaffee,0,0,78,20
+2020-06-23,United States,Colorado,Cheyenne,0,0,5,0
+2020-06-23,United States,Colorado,Clear Creek,0,0,18,1
+2020-06-23,United States,Colorado,Conejos,0,0,12,0
+2020-06-23,United States,Colorado,Costilla,0,0,17,0
+2020-06-23,United States,Colorado,Crowley,1,0,69,1
+2020-06-23,United States,Colorado,Custer,0,0,2,0
+2020-06-23,United States,Colorado,Delta,0,0,80,1
+2020-06-23,United States,Colorado,Denver,33,0,6663,367
+2020-06-23,United States,Colorado,Douglas,12,0,864,51
+2020-06-23,United States,Colorado,Eagle,7,0,656,8
+2020-06-23,United States,Colorado,El Paso,12,0,2113,116
+2020-06-23,United States,Colorado,Elbert,0,0,54,2
+2020-06-23,United States,Colorado,Fremont,0,0,31,0
+2020-06-23,United States,Colorado,Garfield,2,0,224,2
+2020-06-23,United States,Colorado,Gilpin,0,0,6,0
+2020-06-23,United States,Colorado,Grand,-1,0,18,0
+2020-06-23,United States,Colorado,Gunnison,0,0,182,6
+2020-06-23,United States,Colorado,Hinsdale,0,0,3,0
+2020-06-23,United States,Colorado,Huerfano,0,0,4,0
+2020-06-23,United States,Colorado,Jefferson,11,2,2543,205
+2020-06-23,United States,Colorado,Kit Carson,0,0,31,3
+2020-06-23,United States,Colorado,La Plata,0,0,86,1
+2020-06-23,United States,Colorado,Lake,0,0,48,0
+2020-06-23,United States,Colorado,Larimer,0,0,680,29
+2020-06-23,United States,Colorado,Las Animas,0,0,8,0
+2020-06-23,United States,Colorado,Lincoln,0,0,4,0
+2020-06-23,United States,Colorado,Logan,0,0,635,5
+2020-06-23,United States,Colorado,Mesa,1,0,80,0
+2020-06-23,United States,Colorado,Mineral,0,0,2,0
+2020-06-23,United States,Colorado,Moffat,0,0,9,0
+2020-06-23,United States,Colorado,Montezuma,1,0,68,3
+2020-06-23,United States,Colorado,Montrose,1,0,201,12
+2020-06-23,United States,Colorado,Morgan,0,0,649,46
+2020-06-23,United States,Colorado,Otero,0,0,22,1
+2020-06-23,United States,Colorado,Ouray,0,0,10,1
+2020-06-23,United States,Colorado,Park,1,0,25,0
+2020-06-23,United States,Colorado,Phillips,0,0,15,0
+2020-06-23,United States,Colorado,Pitkin,0,0,80,2
+2020-06-23,United States,Colorado,Prowers,0,0,16,0
+2020-06-23,United States,Colorado,Pueblo,1,1,358,24
+2020-06-23,United States,Colorado,Rio Blanco,0,0,2,0
+2020-06-23,United States,Colorado,Rio Grande,1,0,65,1
+2020-06-23,United States,Colorado,Routt,1,0,65,6
+2020-06-23,United States,Colorado,Saguache,-1,0,99,2
+2020-06-23,United States,Colorado,San Juan,0,0,1,0
+2020-06-23,United States,Colorado,San Miguel,0,0,28,0
+2020-06-23,United States,Colorado,Summit,1,0,263,3
+2020-06-23,United States,Colorado,Teller,1,0,40,2
+2020-06-23,United States,Colorado,Unassigned,1,0,16,0
+2020-06-23,United States,Colorado,Washington,0,0,44,0
+2020-06-23,United States,Colorado,Weld,3,0,2724,136
+2020-06-23,United States,Colorado,Yuma,0,0,50,0
+2020-06-23,United States,Connecticut,Fairfield,8,1,16483,1362
+2020-06-23,United States,Connecticut,Hartford,9,0,11414,1350
+2020-06-23,United States,Connecticut,Litchfield,0,0,1467,135
+2020-06-23,United States,Connecticut,Middlesex,0,0,1259,174
+2020-06-23,United States,Connecticut,New Haven,11,2,12196,1063
+2020-06-23,United States,Connecticut,New London,-3,0,1214,101
+2020-06-23,United States,Connecticut,Tolland,0,0,895,64
+2020-06-23,United States,Connecticut,Unassigned,-3,0,270,0
+2020-06-23,United States,Connecticut,Windham,5,0,584,14
+2020-06-23,United States,Delaware,Kent,7,1,1620,96
+2020-06-23,United States,Delaware,New Castle,35,0,4682,275
+2020-06-23,United States,Delaware,Sussex,6,1,4501,186
+2020-06-23,United States,Delaware,Unassigned,-3,0,17,0
+2020-06-23,United States,Diamond Princess,,0,0,49,0
+2020-06-23,United States,District of Columbia,District of Columbia,38,2,10058,535
+2020-06-23,United States,Florida,Alachua,22,0,738,11
+2020-06-23,United States,Florida,Baker,3,0,44,4
+2020-06-23,United States,Florida,Bay,15,0,205,4
+2020-06-23,United States,Florida,Bradford,2,0,63,2
+2020-06-23,United States,Florida,Brevard,28,0,878,16
+2020-06-23,United States,Florida,Broward,172,0,11327,373
+2020-06-23,United States,Florida,Calhoun,0,0,69,6
+2020-06-23,United States,Florida,Charlotte,10,0,597,75
+2020-06-23,United States,Florida,Citrus,10,0,199,12
+2020-06-23,United States,Florida,Clay,25,0,519,32
+2020-06-23,United States,Florida,Collier,47,0,3206,64
+2020-06-23,United States,Florida,Columbia,5,0,232,3
+2020-06-23,United States,Florida,DeSoto,18,0,468,10
+2020-06-23,United States,Florida,Dixie,0,0,61,3
+2020-06-23,United States,Florida,Duval,183,0,3085,60
+2020-06-23,United States,Florida,Escambia,4,0,1202,41
+2020-06-23,United States,Florida,Flagler,11,0,237,5
+2020-06-23,United States,Florida,Franklin,2,0,4,0
+2020-06-23,United States,Florida,Gadsden,4,0,326,6
+2020-06-23,United States,Florida,Gilchrist,11,0,86,0
+2020-06-23,United States,Florida,Glades,0,0,142,1
+2020-06-23,United States,Florida,Gulf,0,0,11,0
+2020-06-23,United States,Florida,Hamilton,13,0,302,2
+2020-06-23,United States,Florida,Hardee,16,0,305,1
+2020-06-23,United States,Florida,Hendry,4,0,763,22
+2020-06-23,United States,Florida,Hernando,15,0,200,5
+2020-06-23,United States,Florida,Highlands,12,0,238,10
+2020-06-23,United States,Florida,Hillsborough,393,1,5973,115
+2020-06-23,United States,Florida,Holmes,11,0,58,0
+2020-06-23,United States,Florida,Indian River,20,0,409,15
+2020-06-23,United States,Florida,Jackson,5,0,338,2
+2020-06-23,United States,Florida,Jefferson,0,0,36,4
+2020-06-23,United States,Florida,Lafayette,1,0,20,0
+2020-06-23,United States,Florida,Lake,30,1,763,20
+2020-06-23,United States,Florida,Lee,39,6,3666,149
+2020-06-23,United States,Florida,Leon,14,0,587,8
+2020-06-23,United States,Florida,Levy,8,0,147,1
+2020-06-23,United States,Florida,Liberty,0,0,221,1
+2020-06-23,United States,Florida,Madison,19,0,142,3
+2020-06-23,United States,Florida,Manatee,87,0,1977,126
+2020-06-23,United States,Florida,Marion,17,0,412,10
+2020-06-23,United States,Florida,Martin,57,0,1582,20
+2020-06-23,United States,Florida,Miami-Dade,449,0,26239,884
+2020-06-23,United States,Florida,Monroe,3,0,165,4
+2020-06-23,United States,Florida,Nassau,5,0,120,1
+2020-06-23,United States,Florida,Okaloosa,21,0,421,6
+2020-06-23,United States,Florida,Okeechobee,5,0,250,0
+2020-06-23,United States,Florida,Orange,243,1,5157,49
+2020-06-23,United States,Florida,Osceola,28,0,1080,23
+2020-06-23,United States,Florida,Palm Beach,189,0,10943,468
+2020-06-23,United States,Florida,Pasco,63,0,872,17
+2020-06-23,United States,Florida,Pinellas,187,2,3854,117
+2020-06-23,United States,Florida,Polk,183,0,2225,78
+2020-06-23,United States,Florida,Putnam,1,0,238,6
+2020-06-23,United States,Florida,Santa Rosa,6,0,350,9
+2020-06-23,United States,Florida,Sarasota,30,0,992,94
+2020-06-23,United States,Florida,Seminole,96,1,1361,16
+2020-06-23,United States,Florida,St. Johns,35,0,496,7
+2020-06-23,United States,Florida,St. Lucie,12,0,1226,41
+2020-06-23,United States,Florida,Sumter,2,0,286,17
+2020-06-23,United States,Florida,Suwannee,-20,0,290,18
+2020-06-23,United States,Florida,Taylor,3,0,68,0
+2020-06-23,United States,Florida,Unassigned,1,0,119,0
+2020-06-23,United States,Florida,Union,1,0,42,2
+2020-06-23,United States,Florida,Volusia,45,0,1263,53
+2020-06-23,United States,Florida,Wakulla,0,0,40,1
+2020-06-23,United States,Florida,Walton,5,0,186,9
+2020-06-23,United States,Florida,Washington,0,0,96,11
+2020-06-23,United States,Georgia,Appling,3,0,220,13
+2020-06-23,United States,Georgia,Atkinson,6,0,97,2
+2020-06-23,United States,Georgia,Bacon,8,0,204,4
+2020-06-23,United States,Georgia,Baker,0,0,36,3
+2020-06-23,United States,Georgia,Baldwin,6,0,450,33
+2020-06-23,United States,Georgia,Banks,0,0,114,0
+2020-06-23,United States,Georgia,Barrow,7,0,423,25
+2020-06-23,United States,Georgia,Bartow,8,0,604,39
+2020-06-23,United States,Georgia,Ben Hill,3,0,125,1
+2020-06-23,United States,Georgia,Berrien,4,0,95,0
+2020-06-23,United States,Georgia,Bibb,8,0,609,37
+2020-06-23,United States,Georgia,Bleckley,0,0,54,1
+2020-06-23,United States,Georgia,Brantley,3,0,76,2
+2020-06-23,United States,Georgia,Brooks,4,0,119,11
+2020-06-23,United States,Georgia,Bryan,6,0,101,5
+2020-06-23,United States,Georgia,Bulloch,13,0,164,3
+2020-06-23,United States,Georgia,Burke,2,0,135,6
+2020-06-23,United States,Georgia,Butts,1,0,247,32
+2020-06-23,United States,Georgia,Calhoun,1,0,159,6
+2020-06-23,United States,Georgia,Camden,3,0,99,1
+2020-06-23,United States,Georgia,Candler,0,0,21,0
+2020-06-23,United States,Georgia,Carroll,10,0,635,39
+2020-06-23,United States,Georgia,Catoosa,1,0,276,6
+2020-06-23,United States,Georgia,Charlton,3,0,41,2
+2020-06-23,United States,Georgia,Chatham,28,1,807,33
+2020-06-23,United States,Georgia,Chattahoochee,2,0,317,1
+2020-06-23,United States,Georgia,Chattooga,0,0,49,2
+2020-06-23,United States,Georgia,Cherokee,15,0,1114,39
+2020-06-23,United States,Georgia,Clarke,10,0,391,15
+2020-06-23,United States,Georgia,Clay,0,0,56,2
+2020-06-23,United States,Georgia,Clayton,33,0,1631,76
+2020-06-23,United States,Georgia,Clinch,1,0,86,2
+2020-06-23,United States,Georgia,Cobb,76,-1,3969,229
+2020-06-23,United States,Georgia,Coffee,10,0,418,15
+2020-06-23,United States,Georgia,Colquitt,14,0,748,17
+2020-06-23,United States,Georgia,Columbia,3,0,345,8
+2020-06-23,United States,Georgia,Cook,6,0,97,1
+2020-06-23,United States,Georgia,Coweta,4,0,554,14
+2020-06-23,United States,Georgia,Crawford,0,0,36,0
+2020-06-23,United States,Georgia,Crisp,1,0,258,11
+2020-06-23,United States,Georgia,Dade,1,0,60,1
+2020-06-23,United States,Georgia,Dawson,0,0,124,3
+2020-06-23,United States,Georgia,Decatur,1,0,244,8
+2020-06-23,United States,Georgia,DeKalb,97,0,4791,165
+2020-06-23,United States,Georgia,Dodge,0,0,67,2
+2020-06-23,United States,Georgia,Dooly,0,0,194,12
+2020-06-23,United States,Georgia,Dougherty,6,1,1854,152
+2020-06-23,United States,Georgia,Douglas,16,1,740,36
+2020-06-23,United States,Georgia,Early,-1,0,255,31
+2020-06-23,United States,Georgia,Echols,4,0,177,0
+2020-06-23,United States,Georgia,Effingham,3,0,101,1
+2020-06-23,United States,Georgia,Elbert,0,0,92,0
+2020-06-23,United States,Georgia,Emanuel,2,0,66,2
+2020-06-23,United States,Georgia,Evans,1,0,17,0
+2020-06-23,United States,Georgia,Fannin,4,0,79,1
+2020-06-23,United States,Georgia,Fayette,12,0,292,16
+2020-06-23,United States,Georgia,Floyd,12,0,426,15
+2020-06-23,United States,Georgia,Forsyth,10,0,660,14
+2020-06-23,United States,Georgia,Franklin,2,0,158,1
+2020-06-23,United States,Georgia,Fulton,209,0,5705,304
+2020-06-23,United States,Georgia,Gilmer,0,0,178,2
+2020-06-23,United States,Georgia,Glascock,0,0,3,0
+2020-06-23,United States,Georgia,Glynn,3,0,308,3
+2020-06-23,United States,Georgia,Gordon,7,0,298,18
+2020-06-23,United States,Georgia,Grady,1,0,164,4
+2020-06-23,United States,Georgia,Greene,1,0,89,9
+2020-06-23,United States,Georgia,Gwinnett,256,0,6407,162
+2020-06-23,United States,Georgia,Habersham,2,0,639,34
+2020-06-23,United States,Georgia,Hall,11,0,2946,58
+2020-06-23,United States,Georgia,Hancock,2,0,208,32
+2020-06-23,United States,Georgia,Haralson,1,0,65,4
+2020-06-23,United States,Georgia,Harris,9,0,252,8
+2020-06-23,United States,Georgia,Hart,2,0,50,0
+2020-06-23,United States,Georgia,Heard,1,0,46,3
+2020-06-23,United States,Georgia,Henry,19,0,964,31
+2020-06-23,United States,Georgia,Houston,14,0,513,20
+2020-06-23,United States,Georgia,Irwin,1,0,46,1
+2020-06-23,United States,Georgia,Jackson,5,0,305,7
+2020-06-23,United States,Georgia,Jasper,2,0,63,1
+2020-06-23,United States,Georgia,Jeff Davis,2,0,75,2
+2020-06-23,United States,Georgia,Jefferson,3,0,70,1
+2020-06-23,United States,Georgia,Jenkins,2,0,75,9
+2020-06-23,United States,Georgia,Johnson,0,0,80,2
+2020-06-23,United States,Georgia,Jones,0,0,51,0
+2020-06-23,United States,Georgia,Lamar,4,0,91,6
+2020-06-23,United States,Georgia,Lanier,2,0,116,2
+2020-06-23,United States,Georgia,Laurens,2,0,133,1
+2020-06-23,United States,Georgia,Lee,3,0,381,22
+2020-06-23,United States,Georgia,Liberty,1,0,102,1
+2020-06-23,United States,Georgia,Lincoln,2,0,24,1
+2020-06-23,United States,Georgia,Long,3,0,32,1
+2020-06-23,United States,Georgia,Lowndes,28,0,939,4
+2020-06-23,United States,Georgia,Lumpkin,2,1,120,3
+2020-06-23,United States,Georgia,Macon,0,0,112,9
+2020-06-23,United States,Georgia,Madison,0,0,78,4
+2020-06-23,United States,Georgia,Marion,1,0,75,3
+2020-06-23,United States,Georgia,McDuffie,0,0,78,5
+2020-06-23,United States,Georgia,McIntosh,0,0,25,1
+2020-06-23,United States,Georgia,Meriwether,5,0,154,2
+2020-06-23,United States,Georgia,Miller,0,0,45,0
+2020-06-23,United States,Georgia,Mitchell,2,0,436,38
+2020-06-23,United States,Georgia,Monroe,2,0,137,15
+2020-06-23,United States,Georgia,Montgomery,1,0,27,0
+2020-06-23,United States,Georgia,Morgan,0,0,45,0
+2020-06-23,United States,Georgia,Murray,4,0,168,1
+2020-06-23,United States,Georgia,Muscogee,44,0,1213,34
+2020-06-23,United States,Georgia,Newton,19,0,493,11
+2020-06-23,United States,Georgia,Oconee,1,0,134,10
+2020-06-23,United States,Georgia,Oglethorpe,0,0,81,7
+2020-06-23,United States,Georgia,Out of GA,15,1,3223,41
+2020-06-23,United States,Georgia,Paulding,4,-1,470,13
+2020-06-23,United States,Georgia,Peach,0,0,93,9
+2020-06-23,United States,Georgia,Pickens,0,0,80,5
+2020-06-23,United States,Georgia,Pierce,3,0,140,4
+2020-06-23,United States,Georgia,Pike,0,0,81,3
+2020-06-23,United States,Georgia,Polk,6,0,184,1
+2020-06-23,United States,Georgia,Pulaski,0,0,46,2
+2020-06-23,United States,Georgia,Putnam,0,0,120,11
+2020-06-23,United States,Georgia,Quitman,0,0,15,1
+2020-06-23,United States,Georgia,Rabun,0,0,35,4
+2020-06-23,United States,Georgia,Randolph,1,0,195,23
+2020-06-23,United States,Georgia,Richmond,9,0,755,42
+2020-06-23,United States,Georgia,Rockdale,8,0,379,9
+2020-06-23,United States,Georgia,Schley,1,0,22,1
+2020-06-23,United States,Georgia,Screven,4,0,79,4
+2020-06-23,United States,Georgia,Seminole,-1,0,48,2
+2020-06-23,United States,Georgia,Spalding,3,0,343,31
+2020-06-23,United States,Georgia,Stephens,0,0,165,5
+2020-06-23,United States,Georgia,Stewart,2,0,84,1
+2020-06-23,United States,Georgia,Sumter,4,0,536,49
+2020-06-23,United States,Georgia,Talbot,4,0,62,2
+2020-06-23,United States,Georgia,Taliaferro,0,0,2,0
+2020-06-23,United States,Georgia,Tattnall,8,0,88,0
+2020-06-23,United States,Georgia,Taylor,-1,0,26,2
+2020-06-23,United States,Georgia,Telfair,0,0,64,2
+2020-06-23,United States,Georgia,Terrell,0,0,218,27
+2020-06-23,United States,Georgia,Thomas,1,0,372,33
+2020-06-23,United States,Georgia,Tift,24,0,549,25
+2020-06-23,United States,Georgia,Toombs,16,0,163,5
+2020-06-23,United States,Georgia,Towns,0,0,36,1
+2020-06-23,United States,Georgia,Treutlen,0,0,19,1
+2020-06-23,United States,Georgia,Troup,49,2,1027,28
+2020-06-23,United States,Georgia,Turner,3,0,170,16
+2020-06-23,United States,Georgia,Twiggs,0,0,23,1
+2020-06-23,United States,Georgia,Unassigned,-166,0,1792,1
+2020-06-23,United States,Georgia,Union,0,0,56,3
+2020-06-23,United States,Georgia,Upson,4,0,323,43
+2020-06-23,United States,Georgia,Walker,3,0,287,5
+2020-06-23,United States,Georgia,Walton,2,0,346,25
+2020-06-23,United States,Georgia,Ware,14,0,331,15
+2020-06-23,United States,Georgia,Warren,0,0,19,0
+2020-06-23,United States,Georgia,Washington,2,0,81,1
+2020-06-23,United States,Georgia,Wayne,2,0,48,0
+2020-06-23,United States,Georgia,Webster,0,0,17,1
+2020-06-23,United States,Georgia,Wheeler,3,0,38,0
+2020-06-23,United States,Georgia,White,0,0,129,4
+2020-06-23,United States,Georgia,Whitfield,37,0,800,10
+2020-06-23,United States,Georgia,Wilcox,1,0,122,15
+2020-06-23,United States,Georgia,Wilkes,6,0,49,1
+2020-06-23,United States,Georgia,Wilkinson,1,0,74,7
+2020-06-23,United States,Georgia,Worth,3,0,288,21
+2020-06-23,United States,Grand Princess,,0,0,103,3
+2020-06-23,United States,Guam,,0,0,222,5
+2020-06-23,United States,Hawaii,Hawaii,0,0,85,0
+2020-06-23,United States,Hawaii,Honolulu,2,0,568,11
+2020-06-23,United States,Hawaii,Kauai,0,0,29,0
+2020-06-23,United States,Hawaii,Maui,0,0,122,6
+2020-06-23,United States,Hawaii,Out of HI,0,0,12,0
+2020-06-23,United States,Hawaii,Unassigned,0,0,0,0
+2020-06-23,United States,Idaho,Ada,141,0,1307,22
+2020-06-23,United States,Idaho,Adams,1,0,10,0
+2020-06-23,United States,Idaho,Bannock,3,0,82,1
+2020-06-23,United States,Idaho,Benewah,0,0,21,0
+2020-06-23,United States,Idaho,Bingham,2,0,32,0
+2020-06-23,United States,Idaho,Blaine,1,0,520,5
+2020-06-23,United States,Idaho,Bonner,3,0,15,0
+2020-06-23,United States,Idaho,Bonneville,2,0,95,1
+2020-06-23,United States,Idaho,Boundary,0,0,0,0
+2020-06-23,United States,Idaho,Camas,0,0,1,0
+2020-06-23,United States,Idaho,Canyon,37,0,470,6
+2020-06-23,United States,Idaho,Caribou,0,0,8,0
+2020-06-23,United States,Idaho,Cassia,6,0,173,1
+2020-06-23,United States,Idaho,Custer,0,0,2,0
+2020-06-23,United States,Idaho,Elmore,3,0,42,2
+2020-06-23,United States,Idaho,Franklin,0,0,19,0
+2020-06-23,United States,Idaho,Fremont,0,0,4,0
+2020-06-23,United States,Idaho,Gem,1,0,19,0
+2020-06-23,United States,Idaho,Gooding,0,0,61,1
+2020-06-23,United States,Idaho,Idaho,0,0,3,0
+2020-06-23,United States,Idaho,Jefferson,3,0,15,0
+2020-06-23,United States,Idaho,Jerome,9,0,225,3
+2020-06-23,United States,Idaho,Kootenai,7,0,129,1
+2020-06-23,United States,Idaho,Latah,1,0,9,0
+2020-06-23,United States,Idaho,Lemhi,0,0,2,0
+2020-06-23,United States,Idaho,Lewis,0,0,0,0
+2020-06-23,United States,Idaho,Lincoln,0,0,35,0
+2020-06-23,United States,Idaho,Madison,1,0,31,0
+2020-06-23,United States,Idaho,Minidoka,9,0,124,0
+2020-06-23,United States,Idaho,Nez Perce,5,0,89,19
+2020-06-23,United States,Idaho,Owyhee,1,0,28,0
+2020-06-23,United States,Idaho,Payette,0,0,43,2
+2020-06-23,United States,Idaho,Power,2,0,16,0
+2020-06-23,United States,Idaho,Teton,0,0,14,0
+2020-06-23,United States,Idaho,Twin Falls,7,0,518,25
+2020-06-23,United States,Idaho,Unassigned,-2,0,0,0
+2020-06-23,United States,Idaho,Valley,0,0,3,0
+2020-06-23,United States,Idaho,Washington,5,0,89,0
+2020-06-23,United States,Illinois,Adams,2,0,57,1
+2020-06-23,United States,Illinois,Alexander,0,0,20,0
+2020-06-23,United States,Illinois,Bond,0,0,12,1
+2020-06-23,United States,Illinois,Boone,1,0,556,20
+2020-06-23,United States,Illinois,Brown,0,0,10,0
+2020-06-23,United States,Illinois,Bureau,0,0,24,1
+2020-06-23,United States,Illinois,Calhoun,0,0,1,0
+2020-06-23,United States,Illinois,Carroll,0,0,19,2
+2020-06-23,United States,Illinois,Cass,0,0,100,0
+2020-06-23,United States,Illinois,Champaign,6,0,781,12
+2020-06-23,United States,Illinois,Christian,0,0,42,4
+2020-06-23,United States,Illinois,Clark,1,0,14,0
+2020-06-23,United States,Illinois,Clay,0,0,2,0
+2020-06-23,United States,Illinois,Clinton,0,0,224,17
+2020-06-23,United States,Illinois,Coles,0,0,151,17
+2020-06-23,United States,Illinois,Cook,247,19,87424,4423
+2020-06-23,United States,Illinois,Crawford,0,0,18,0
+2020-06-23,United States,Illinois,Cumberland,0,0,10,0
+2020-06-23,United States,Illinois,De Witt,0,0,4,0
+2020-06-23,United States,Illinois,DeKalb,1,0,524,18
+2020-06-23,United States,Illinois,Douglas,0,0,42,0
+2020-06-23,United States,Illinois,DuPage,33,1,8715,449
+2020-06-23,United States,Illinois,Edgar,1,0,7,0
+2020-06-23,United States,Illinois,Edwards,0,0,2,0
+2020-06-23,United States,Illinois,Effingham,0,0,12,1
+2020-06-23,United States,Illinois,Fayette,0,0,23,3
+2020-06-23,United States,Illinois,Ford,3,0,25,1
+2020-06-23,United States,Illinois,Franklin,0,0,12,0
+2020-06-23,United States,Illinois,Fulton,0,0,12,0
+2020-06-23,United States,Illinois,Gallatin,0,0,2,0
+2020-06-23,United States,Illinois,Greene,0,0,8,0
+2020-06-23,United States,Illinois,Grundy,0,0,142,3
+2020-06-23,United States,Illinois,Hamilton,0,0,2,0
+2020-06-23,United States,Illinois,Hancock,0,0,18,1
+2020-06-23,United States,Illinois,Hardin,0,0,1,0
+2020-06-23,United States,Illinois,Henderson,0,0,8,0
+2020-06-23,United States,Illinois,Henry,1,0,75,1
+2020-06-23,United States,Illinois,Iroquois,0,0,143,5
+2020-06-23,United States,Illinois,Jackson,1,0,324,18
+2020-06-23,United States,Illinois,Jasper,0,0,46,7
+2020-06-23,United States,Illinois,Jefferson,0,0,104,16
+2020-06-23,United States,Illinois,Jersey,2,0,33,1
+2020-06-23,United States,Illinois,Jo Daviess,0,0,38,1
+2020-06-23,United States,Illinois,Johnson,0,0,20,0
+2020-06-23,United States,Illinois,Kane,31,1,7430,252
+2020-06-23,United States,Illinois,Kankakee,4,0,1149,61
+2020-06-23,United States,Illinois,Kendall,6,0,918,20
+2020-06-23,United States,Illinois,Knox,0,0,117,0
+2020-06-23,United States,Illinois,Lake,30,0,9356,401
+2020-06-23,United States,Illinois,LaSalle,0,0,190,16
+2020-06-23,United States,Illinois,Lawrence,0,0,5,0
+2020-06-23,United States,Illinois,Lee,0,1,96,2
+2020-06-23,United States,Illinois,Livingston,0,0,37,2
+2020-06-23,United States,Illinois,Logan,0,0,13,0
+2020-06-23,United States,Illinois,Macon,1,0,219,21
+2020-06-23,United States,Illinois,Macoupin,0,0,47,3
+2020-06-23,United States,Illinois,Madison,2,1,815,67
+2020-06-23,United States,Illinois,Marion,0,0,60,0
+2020-06-23,United States,Illinois,Marshall,0,0,6,0
+2020-06-23,United States,Illinois,Mason,0,0,19,0
+2020-06-23,United States,Illinois,Massac,0,0,7,0
+2020-06-23,United States,Illinois,McDonough,0,0,101,15
+2020-06-23,United States,Illinois,McHenry,10,0,1921,91
+2020-06-23,United States,Illinois,McLean,3,0,254,13
+2020-06-23,United States,Illinois,Menard,0,0,23,0
+2020-06-23,United States,Illinois,Mercer,0,0,20,0
+2020-06-23,United States,Illinois,Monroe,3,0,116,12
+2020-06-23,United States,Illinois,Montgomery,0,0,41,1
+2020-06-23,United States,Illinois,Morgan,0,0,119,3
+2020-06-23,United States,Illinois,Moultrie,0,0,15,0
+2020-06-23,United States,Illinois,Ogle,2,0,236,4
+2020-06-23,United States,Illinois,Out of IL,-4,0,6,0
+2020-06-23,United States,Illinois,Peoria,6,0,434,25
+2020-06-23,United States,Illinois,Perry,0,0,44,0
+2020-06-23,United States,Illinois,Piatt,1,0,18,0
+2020-06-23,United States,Illinois,Pike,0,0,2,0
+2020-06-23,United States,Illinois,Pope,0,0,1,0
+2020-06-23,United States,Illinois,Pulaski,0,0,66,0
+2020-06-23,United States,Illinois,Putnam,0,0,1,0
+2020-06-23,United States,Illinois,Randolph,0,0,278,7
+2020-06-23,United States,Illinois,Richland,0,0,4,0
+2020-06-23,United States,Illinois,Rock Island,4,0,789,28
+2020-06-23,United States,Illinois,Saline,0,0,8,0
+2020-06-23,United States,Illinois,Sangamon,1,0,388,31
+2020-06-23,United States,Illinois,Schuyler,0,0,13,0
+2020-06-23,United States,Illinois,Scott,0,0,0,0
+2020-06-23,United States,Illinois,Shelby,0,0,16,1
+2020-06-23,United States,Illinois,St. Clair,6,1,1610,126
+2020-06-23,United States,Illinois,Stark,0,0,3,0
+2020-06-23,United States,Illinois,Stephenson,-1,0,248,5
+2020-06-23,United States,Illinois,Tazewell,1,0,112,7
+2020-06-23,United States,Illinois,Unassigned,2,0,51,0
+2020-06-23,United States,Illinois,Union,0,0,182,18
+2020-06-23,United States,Illinois,Vermilion,1,0,50,2
+2020-06-23,United States,Illinois,Wabash,0,0,22,0
+2020-06-23,United States,Illinois,Warren,0,0,129,0
+2020-06-23,United States,Illinois,Washington,0,0,19,0
+2020-06-23,United States,Illinois,Wayne,0,0,11,1
+2020-06-23,United States,Illinois,White,0,0,3,0
+2020-06-23,United States,Illinois,Whiteside,1,0,173,15
+2020-06-23,United States,Illinois,Will,31,0,6398,310
+2020-06-23,United States,Illinois,Williamson,0,0,93,4
+2020-06-23,United States,Illinois,Winnebago,22,0,2883,82
+2020-06-23,United States,Illinois,Woodford,0,0,32,2
+2020-06-23,United States,Indiana,Adams,0,0,36,1
+2020-06-23,United States,Indiana,Allen,13,4,2427,95
+2020-06-23,United States,Indiana,Bartholomew,-1,0,566,47
+2020-06-23,United States,Indiana,Benton,2,0,43,0
+2020-06-23,United States,Indiana,Blackford,0,0,32,2
+2020-06-23,United States,Indiana,Boone,3,0,393,40
+2020-06-23,United States,Indiana,Brown,0,0,37,1
+2020-06-23,United States,Indiana,Carroll,0,0,103,2
+2020-06-23,United States,Indiana,Cass,0,0,1625,9
+2020-06-23,United States,Indiana,Clark,0,0,592,43
+2020-06-23,United States,Indiana,Clay,0,0,56,3
+2020-06-23,United States,Indiana,Clinton,0,0,273,1
+2020-06-23,United States,Indiana,Crawford,0,0,27,0
+2020-06-23,United States,Indiana,Daviess,0,0,132,16
+2020-06-23,United States,Indiana,Dearborn,0,0,189,22
+2020-06-23,United States,Indiana,Decatur,0,0,239,32
+2020-06-23,United States,Indiana,DeKalb,0,1,139,5
+2020-06-23,United States,Indiana,Delaware,0,1,407,47
+2020-06-23,United States,Indiana,Dubois,1,0,252,6
+2020-06-23,United States,Indiana,Elkhart,22,0,2625,38
+2020-06-23,United States,Indiana,Fayette,0,0,85,7
+2020-06-23,United States,Indiana,Floyd,1,0,345,44
+2020-06-23,United States,Indiana,Fountain,0,0,24,2
+2020-06-23,United States,Indiana,Franklin,0,0,121,8
+2020-06-23,United States,Indiana,Fulton,0,0,62,1
+2020-06-23,United States,Indiana,Gibson,0,0,27,2
+2020-06-23,United States,Indiana,Grant,0,1,278,26
+2020-06-23,United States,Indiana,Greene,0,0,184,29
+2020-06-23,United States,Indiana,Hamilton,5,0,1374,100
+2020-06-23,United States,Indiana,Hancock,2,0,393,33
+2020-06-23,United States,Indiana,Harrison,0,0,200,22
+2020-06-23,United States,Indiana,Hendricks,2,0,1320,96
+2020-06-23,United States,Indiana,Henry,1,0,210,15
+2020-06-23,United States,Indiana,Howard,1,1,500,52
+2020-06-23,United States,Indiana,Huntington,1,0,61,2
+2020-06-23,United States,Indiana,Jackson,-1,0,430,3
+2020-06-23,United States,Indiana,Jasper,1,1,92,2
+2020-06-23,United States,Indiana,Jay,1,0,64,0
+2020-06-23,United States,Indiana,Jefferson,0,0,56,1
+2020-06-23,United States,Indiana,Jennings,2,0,163,9
+2020-06-23,United States,Indiana,Johnson,0,0,1200,122
+2020-06-23,United States,Indiana,Knox,2,0,46,0
+2020-06-23,United States,Indiana,Kosciusko,9,0,390,2
+2020-06-23,United States,Indiana,LaGrange,19,1,396,6
+2020-06-23,United States,Indiana,Lake,37,2,4437,247
+2020-06-23,United States,Indiana,LaPorte,3,0,489,25
+2020-06-23,United States,Indiana,Lawrence,3,0,196,25
+2020-06-23,United States,Indiana,Madison,1,0,621,65
+2020-06-23,United States,Indiana,Marion,17,1,10962,695
+2020-06-23,United States,Indiana,Marshall,6,0,365,3
+2020-06-23,United States,Indiana,Martin,0,0,21,0
+2020-06-23,United States,Indiana,Miami,1,0,177,2
+2020-06-23,United States,Indiana,Monroe,1,0,209,26
+2020-06-23,United States,Indiana,Montgomery,1,0,273,20
+2020-06-23,United States,Indiana,Morgan,-1,0,305,30
+2020-06-23,United States,Indiana,Newton,1,0,89,11
+2020-06-23,United States,Indiana,Noble,7,0,374,28
+2020-06-23,United States,Indiana,Ohio,0,0,13,0
+2020-06-23,United States,Indiana,Orange,0,0,132,23
+2020-06-23,United States,Indiana,Owen,0,0,40,1
+2020-06-23,United States,Indiana,Parke,0,0,20,0
+2020-06-23,United States,Indiana,Perry,2,0,107,3
+2020-06-23,United States,Indiana,Pike,0,0,6,0
+2020-06-23,United States,Indiana,Porter,7,0,622,38
+2020-06-23,United States,Indiana,Posey,2,0,26,0
+2020-06-23,United States,Indiana,Pulaski,0,0,54,1
+2020-06-23,United States,Indiana,Putnam,1,0,159,8
+2020-06-23,United States,Indiana,Randolph,1,0,72,4
+2020-06-23,United States,Indiana,Ripley,0,0,112,7
+2020-06-23,United States,Indiana,Rush,0,0,52,3
+2020-06-23,United States,Indiana,Scott,0,0,149,6
+2020-06-23,United States,Indiana,Shelby,-1,0,407,24
+2020-06-23,United States,Indiana,Spencer,1,0,25,1
+2020-06-23,United States,Indiana,St. Joseph,15,1,1677,63
+2020-06-23,United States,Indiana,Starke,0,0,60,3
+2020-06-23,United States,Indiana,Steuben,1,0,110,2
+2020-06-23,United States,Indiana,Sullivan,0,0,41,1
+2020-06-23,United States,Indiana,Switzerland,0,0,22,0
+2020-06-23,United States,Indiana,Tippecanoe,9,0,539,7
+2020-06-23,United States,Indiana,Tipton,0,0,28,1
+2020-06-23,United States,Indiana,Unassigned,0,1,0,52
+2020-06-23,United States,Indiana,Union,0,0,12,0
+2020-06-23,United States,Indiana,Vanderburgh,1,0,343,8
+2020-06-23,United States,Indiana,Vermillion,0,0,13,0
+2020-06-23,United States,Indiana,Vigo,2,0,212,10
+2020-06-23,United States,Indiana,Wabash,2,0,95,2
+2020-06-23,United States,Indiana,Warren,0,0,14,1
+2020-06-23,United States,Indiana,Warrick,1,0,181,29
+2020-06-23,United States,Indiana,Washington,0,0,62,1
+2020-06-23,United States,Indiana,Wayne,2,0,110,6
+2020-06-23,United States,Indiana,Wells,0,0,65,1
+2020-06-23,United States,Indiana,White,0,0,249,10
+2020-06-23,United States,Indiana,Whitley,1,0,72,4
+2020-06-23,United States,Iowa,Adair,0,0,12,0
+2020-06-23,United States,Iowa,Adams,0,0,7,0
+2020-06-23,United States,Iowa,Allamakee,0,0,121,4
+2020-06-23,United States,Iowa,Appanoose,0,0,20,3
+2020-06-23,United States,Iowa,Audubon,0,0,15,1
+2020-06-23,United States,Iowa,Benton,0,0,52,1
+2020-06-23,United States,Iowa,Black Hawk,5,0,1897,56
+2020-06-23,United States,Iowa,Boone,-2,0,115,1
+2020-06-23,United States,Iowa,Bremer,0,0,82,6
+2020-06-23,United States,Iowa,Buchanan,1,0,38,1
+2020-06-23,United States,Iowa,Buena Vista,2,0,1668,10
+2020-06-23,United States,Iowa,Butler,0,0,35,2
+2020-06-23,United States,Iowa,Calhoun,0,0,25,0
+2020-06-23,United States,Iowa,Carroll,-1,0,69,1
+2020-06-23,United States,Iowa,Cass,0,0,16,0
+2020-06-23,United States,Iowa,Cedar,1,0,61,1
+2020-06-23,United States,Iowa,Cerro Gordo,1,0,60,1
+2020-06-23,United States,Iowa,Cherokee,0,0,66,0
+2020-06-23,United States,Iowa,Chickasaw,-1,0,20,0
+2020-06-23,United States,Iowa,Clarke,-1,0,111,2
+2020-06-23,United States,Iowa,Clay,0,0,105,0
+2020-06-23,United States,Iowa,Clayton,0,0,35,3
+2020-06-23,United States,Iowa,Clinton,0,0,75,1
+2020-06-23,United States,Iowa,Crawford,0,0,640,2
+2020-06-23,United States,Iowa,Dallas,6,0,1079,29
+2020-06-23,United States,Iowa,Davis,0,0,36,1
+2020-06-23,United States,Iowa,Decatur,0,0,9,0
+2020-06-23,United States,Iowa,Delaware,0,0,33,1
+2020-06-23,United States,Iowa,Des Moines,2,0,78,2
+2020-06-23,United States,Iowa,Dickinson,5,0,205,2
+2020-06-23,United States,Iowa,Dubuque,6,0,421,22
+2020-06-23,United States,Iowa,Emmet,1,0,58,0
+2020-06-23,United States,Iowa,Fayette,0,0,29,0
+2020-06-23,United States,Iowa,Floyd,3,0,36,1
+2020-06-23,United States,Iowa,Franklin,6,0,66,0
+2020-06-23,United States,Iowa,Fremont,0,0,4,0
+2020-06-23,United States,Iowa,Greene,0,0,28,0
+2020-06-23,United States,Iowa,Grundy,0,0,26,0
+2020-06-23,United States,Iowa,Guthrie,1,0,63,4
+2020-06-23,United States,Iowa,Hamilton,10,0,168,0
+2020-06-23,United States,Iowa,Hancock,1,0,38,0
+2020-06-23,United States,Iowa,Hardin,0,0,53,0
+2020-06-23,United States,Iowa,Harrison,2,0,44,0
+2020-06-23,United States,Iowa,Henry,0,0,78,3
+2020-06-23,United States,Iowa,Howard,0,0,14,0
+2020-06-23,United States,Iowa,Humboldt,1,0,41,1
+2020-06-23,United States,Iowa,Ida,0,0,20,0
+2020-06-23,United States,Iowa,Iowa,1,0,40,0
+2020-06-23,United States,Iowa,Jackson,0,0,19,0
+2020-06-23,United States,Iowa,Jasper,1,0,297,17
+2020-06-23,United States,Iowa,Jefferson,1,0,48,0
+2020-06-23,United States,Iowa,Johnson,19,0,775,8
+2020-06-23,United States,Iowa,Jones,1,0,47,0
+2020-06-23,United States,Iowa,Keokuk,0,0,16,1
+2020-06-23,United States,Iowa,Kossuth,1,0,25,0
+2020-06-23,United States,Iowa,Lee,-1,0,44,1
+2020-06-23,United States,Iowa,Linn,4,0,1099,80
+2020-06-23,United States,Iowa,Louisa,-1,0,355,13
+2020-06-23,United States,Iowa,Lucas,0,0,26,3
+2020-06-23,United States,Iowa,Lyon,4,0,36,0
+2020-06-23,United States,Iowa,Madison,-1,0,34,2
+2020-06-23,United States,Iowa,Mahaska,1,0,112,15
+2020-06-23,United States,Iowa,Marion,1,0,46,0
+2020-06-23,United States,Iowa,Marshall,0,0,974,18
+2020-06-23,United States,Iowa,Mills,0,0,31,0
+2020-06-23,United States,Iowa,Mitchell,1,0,9,0
+2020-06-23,United States,Iowa,Monona,0,0,59,0
+2020-06-23,United States,Iowa,Monroe,0,0,49,6
+2020-06-23,United States,Iowa,Montgomery,0,0,10,2
+2020-06-23,United States,Iowa,Muscatine,2,0,585,43
+2020-06-23,United States,Iowa,O`Brien,2,0,73,1
+2020-06-23,United States,Iowa,Osceola,0,0,49,0
+2020-06-23,United States,Iowa,Page,0,0,18,0
+2020-06-23,United States,Iowa,Palo Alto,0,0,22,0
+2020-06-23,United States,Iowa,Plymouth,6,0,249,4
+2020-06-23,United States,Iowa,Pocahontas,1,0,39,1
+2020-06-23,United States,Iowa,Polk,34,0,5532,167
+2020-06-23,United States,Iowa,Pottawattamie,6,0,626,11
+2020-06-23,United States,Iowa,Poweshiek,1,0,97,8
+2020-06-23,United States,Iowa,Ringgold,0,0,11,0
+2020-06-23,United States,Iowa,Sac,0,0,47,0
+2020-06-23,United States,Iowa,Scott,6,0,451,10
+2020-06-23,United States,Iowa,Shelby,0,0,78,0
+2020-06-23,United States,Iowa,Sioux,3,0,422,0
+2020-06-23,United States,Iowa,Story,14,0,483,3
+2020-06-23,United States,Iowa,Tama,1,0,432,29
+2020-06-23,United States,Iowa,Taylor,0,0,76,0
+2020-06-23,United States,Iowa,Unassigned,3,0,8,0
+2020-06-23,United States,Iowa,Union,2,0,14,0
+2020-06-23,United States,Iowa,Van Buren,1,0,13,0
+2020-06-23,United States,Iowa,Wapello,1,0,689,27
+2020-06-23,United States,Iowa,Warren,3,0,213,2
+2020-06-23,United States,Iowa,Washington,2,0,214,9
+2020-06-23,United States,Iowa,Wayne,0,0,5,0
+2020-06-23,United States,Iowa,Webster,6,0,126,1
+2020-06-23,United States,Iowa,Winnebago,0,0,15,0
+2020-06-23,United States,Iowa,Winneshiek,0,0,24,0
+2020-06-23,United States,Iowa,Woodbury,3,0,3069,42
+2020-06-23,United States,Iowa,Worth,2,0,8,0
+2020-06-23,United States,Iowa,Wright,3,0,335,0
+2020-06-23,United States,Kansas,Allen,0,0,2,0
+2020-06-23,United States,Kansas,Anderson,0,0,3,0
+2020-06-23,United States,Kansas,Atchison,1,0,28,0
+2020-06-23,United States,Kansas,Barber,0,0,1,0
+2020-06-23,United States,Kansas,Barton,0,0,54,2
+2020-06-23,United States,Kansas,Bourbon,5,0,14,1
+2020-06-23,United States,Kansas,Brown,0,0,14,0
+2020-06-23,United States,Kansas,Butler,3,0,50,0
+2020-06-23,United States,Kansas,Chase,1,0,4,0
+2020-06-23,United States,Kansas,Chautauqua,0,0,4,0
+2020-06-23,United States,Kansas,Cherokee,1,0,18,0
+2020-06-23,United States,Kansas,Cheyenne,0,0,2,0
+2020-06-23,United States,Kansas,Clark,0,0,34,1
+2020-06-23,United States,Kansas,Clay,0,0,6,2
+2020-06-23,United States,Kansas,Cloud,0,0,7,0
+2020-06-23,United States,Kansas,Coffey,1,0,53,8
+2020-06-23,United States,Kansas,Comanche,0,0,2,0
+2020-06-23,United States,Kansas,Cowley,4,0,59,1
+2020-06-23,United States,Kansas,Crawford,25,0,192,1
+2020-06-23,United States,Kansas,Dickinson,0,0,6,1
+2020-06-23,United States,Kansas,Doniphan,0,0,24,0
+2020-06-23,United States,Kansas,Douglas,11,0,102,0
+2020-06-23,United States,Kansas,Edwards,0,0,6,0
+2020-06-23,United States,Kansas,Elk,0,0,0,0
+2020-06-23,United States,Kansas,Ellis,0,0,14,0
+2020-06-23,United States,Kansas,Ellsworth,0,0,3,0
+2020-06-23,United States,Kansas,Finney,8,0,1554,10
+2020-06-23,United States,Kansas,Ford,6,0,1898,8
+2020-06-23,United States,Kansas,Franklin,8,0,65,0
+2020-06-23,United States,Kansas,Geary,3,0,36,1
+2020-06-23,United States,Kansas,Gove,0,0,1,0
+2020-06-23,United States,Kansas,Grant,1,0,24,1
+2020-06-23,United States,Kansas,Gray,0,0,24,0
+2020-06-23,United States,Kansas,Greenwood,0,0,11,0
+2020-06-23,United States,Kansas,Hamilton,0,0,28,0
+2020-06-23,United States,Kansas,Harper,0,0,2,0
+2020-06-23,United States,Kansas,Harvey,7,0,20,0
+2020-06-23,United States,Kansas,Haskell,0,0,23,0
+2020-06-23,United States,Kansas,Hodgeman,1,0,9,0
+2020-06-23,United States,Kansas,Jackson,0,0,104,1
+2020-06-23,United States,Kansas,Jefferson,0,0,22,0
+2020-06-23,United States,Kansas,Jewell,0,0,4,0
+2020-06-23,United States,Kansas,Johnson,20,0,1277,80
+2020-06-23,United States,Kansas,Kearny,2,0,48,1
+2020-06-23,United States,Kansas,Kiowa,0,0,3,0
+2020-06-23,United States,Kansas,Labette,0,0,28,0
+2020-06-23,United States,Kansas,Lane,0,0,5,0
+2020-06-23,United States,Kansas,Leavenworth,10,0,1132,7
+2020-06-23,United States,Kansas,Linn,0,0,12,0
+2020-06-23,United States,Kansas,Lyon,0,0,476,6
+2020-06-23,United States,Kansas,Marion,0,0,7,1
+2020-06-23,United States,Kansas,McPherson,8,0,49,0
+2020-06-23,United States,Kansas,Meade,0,0,30,0
+2020-06-23,United States,Kansas,Miami,0,0,20,0
+2020-06-23,United States,Kansas,Mitchell,0,0,4,0
+2020-06-23,United States,Kansas,Montgomery,1,0,26,3
+2020-06-23,United States,Kansas,Morris,0,0,5,0
+2020-06-23,United States,Kansas,Morton,0,0,6,1
+2020-06-23,United States,Kansas,Nemaha,1,0,23,0
+2020-06-23,United States,Kansas,Neosho,0,0,17,0
+2020-06-23,United States,Kansas,Ness,0,0,4,0
+2020-06-23,United States,Kansas,Norton,0,0,3,0
+2020-06-23,United States,Kansas,Osage,0,0,10,0
+2020-06-23,United States,Kansas,Osborne,0,0,2,0
+2020-06-23,United States,Kansas,Ottawa,0,0,4,0
+2020-06-23,United States,Kansas,Pawnee,0,0,3,0
+2020-06-23,United States,Kansas,Phillips,1,0,3,0
+2020-06-23,United States,Kansas,Pottawatomie,6,0,48,0
+2020-06-23,United States,Kansas,Pratt,0,0,6,0
+2020-06-23,United States,Kansas,Reno,5,0,60,0
+2020-06-23,United States,Kansas,Republic,0,0,4,0
+2020-06-23,United States,Kansas,Rice,0,0,4,0
+2020-06-23,United States,Kansas,Riley,29,0,132,3
+2020-06-23,United States,Kansas,Rooks,0,0,6,0
+2020-06-23,United States,Kansas,Saline,10,0,50,2
+2020-06-23,United States,Kansas,Scott,0,0,16,0
+2020-06-23,United States,Kansas,Sedgwick,14,0,896,25
+2020-06-23,United States,Kansas,Seward,13,0,968,2
+2020-06-23,United States,Kansas,Shawnee,12,0,503,9
+2020-06-23,United States,Kansas,Sheridan,0,0,3,0
+2020-06-23,United States,Kansas,Sherman,0,0,7,0
+2020-06-23,United States,Kansas,Smith,0,0,3,0
+2020-06-23,United States,Kansas,Stafford,0,0,1,0
+2020-06-23,United States,Kansas,Stanton,1,0,10,0
+2020-06-23,United States,Kansas,Stevens,0,0,30,0
+2020-06-23,United States,Kansas,Sumner,1,0,10,1
+2020-06-23,United States,Kansas,Thomas,0,0,10,0
+2020-06-23,United States,Kansas,Trego,0,0,1,0
+2020-06-23,United States,Kansas,Unassigned,0,1,0,1
+2020-06-23,United States,Kansas,Wabaunsee,0,0,32,0
+2020-06-23,United States,Kansas,Washington,0,0,1,0
+2020-06-23,United States,Kansas,Wilson,0,0,1,0
+2020-06-23,United States,Kansas,Woodson,0,0,6,0
+2020-06-23,United States,Kansas,Wyandotte,62,0,1896,78
+2020-06-23,United States,Kentucky,Adair,0,0,105,19
+2020-06-23,United States,Kentucky,Allen,0,0,152,4
+2020-06-23,United States,Kentucky,Anderson,0,0,27,1
+2020-06-23,United States,Kentucky,Ballard,0,0,14,0
+2020-06-23,United States,Kentucky,Barren,0,0,71,2
+2020-06-23,United States,Kentucky,Bath,0,0,10,1
+2020-06-23,United States,Kentucky,Bell,0,0,5,0
+2020-06-23,United States,Kentucky,Boone,3,0,571,23
+2020-06-23,United States,Kentucky,Bourbon,0,0,27,1
+2020-06-23,United States,Kentucky,Boyd,0,0,49,3
+2020-06-23,United States,Kentucky,Boyle,2,0,34,0
+2020-06-23,United States,Kentucky,Bracken,0,0,16,0
+2020-06-23,United States,Kentucky,Breathitt,0,0,4,0
+2020-06-23,United States,Kentucky,Breckinridge,0,0,24,2
+2020-06-23,United States,Kentucky,Bullitt,1,0,145,4
+2020-06-23,United States,Kentucky,Butler,0,0,246,14
+2020-06-23,United States,Kentucky,Caldwell,0,0,13,0
+2020-06-23,United States,Kentucky,Calloway,2,0,68,1
+2020-06-23,United States,Kentucky,Campbell,5,0,232,12
+2020-06-23,United States,Kentucky,Carlisle,0,0,5,1
+2020-06-23,United States,Kentucky,Carroll,0,0,29,0
+2020-06-23,United States,Kentucky,Carter,0,0,21,0
+2020-06-23,United States,Kentucky,Casey,0,0,13,0
+2020-06-23,United States,Kentucky,Christian,2,0,147,3
+2020-06-23,United States,Kentucky,Clark,2,0,89,0
+2020-06-23,United States,Kentucky,Clay,0,0,32,3
+2020-06-23,United States,Kentucky,Clinton,0,0,5,0
+2020-06-23,United States,Kentucky,Crittenden,0,0,7,1
+2020-06-23,United States,Kentucky,Cumberland,0,0,6,0
+2020-06-23,United States,Kentucky,Daviess,1,0,382,8
+2020-06-23,United States,Kentucky,Edmonson,0,0,71,11
+2020-06-23,United States,Kentucky,Elliott,0,0,2,0
+2020-06-23,United States,Kentucky,Estill,0,0,5,0
+2020-06-23,United States,Kentucky,Fayette,3,0,1156,19
+2020-06-23,United States,Kentucky,Fleming,0,0,12,0
+2020-06-23,United States,Kentucky,Floyd,0,0,26,0
+2020-06-23,United States,Kentucky,Franklin,3,0,112,3
+2020-06-23,United States,Kentucky,Fulton,1,0,16,0
+2020-06-23,United States,Kentucky,Gallatin,0,0,57,7
+2020-06-23,United States,Kentucky,Garrard,0,0,16,0
+2020-06-23,United States,Kentucky,Grant,0,0,53,4
+2020-06-23,United States,Kentucky,Graves,2,0,185,20
+2020-06-23,United States,Kentucky,Grayson,0,0,137,10
+2020-06-23,United States,Kentucky,Green,0,0,6,1
+2020-06-23,United States,Kentucky,Greenup,1,0,20,0
+2020-06-23,United States,Kentucky,Hancock,0,0,11,0
+2020-06-23,United States,Kentucky,Hardin,0,0,134,5
+2020-06-23,United States,Kentucky,Harlan,0,0,17,1
+2020-06-23,United States,Kentucky,Harrison,0,0,59,0
+2020-06-23,United States,Kentucky,Hart,0,0,36,0
+2020-06-23,United States,Kentucky,Henderson,0,0,144,3
+2020-06-23,United States,Kentucky,Henry,0,0,29,2
+2020-06-23,United States,Kentucky,Hickman,0,0,5,0
+2020-06-23,United States,Kentucky,Hopkins,0,0,233,32
+2020-06-23,United States,Kentucky,Jackson,0,0,90,13
+2020-06-23,United States,Kentucky,Jefferson,27,0,3609,184
+2020-06-23,United States,Kentucky,Jessamine,1,0,99,0
+2020-06-23,United States,Kentucky,Johnson,1,0,10,0
+2020-06-23,United States,Kentucky,Kenton,3,0,726,36
+2020-06-23,United States,Kentucky,Knott,0,0,4,0
+2020-06-23,United States,Kentucky,Knox,0,0,13,0
+2020-06-23,United States,Kentucky,Larue,0,0,11,1
+2020-06-23,United States,Kentucky,Laurel,0,0,55,2
+2020-06-23,United States,Kentucky,Lawrence,0,0,5,0
+2020-06-23,United States,Kentucky,Lee,0,0,1,0
+2020-06-23,United States,Kentucky,Leslie,1,0,8,0
+2020-06-23,United States,Kentucky,Letcher,0,0,8,0
+2020-06-23,United States,Kentucky,Lewis,0,0,17,0
+2020-06-23,United States,Kentucky,Lincoln,2,0,20,1
+2020-06-23,United States,Kentucky,Livingston,0,0,8,0
+2020-06-23,United States,Kentucky,Logan,0,0,202,10
+2020-06-23,United States,Kentucky,Lyon,0,0,18,3
+2020-06-23,United States,Kentucky,Madison,1,0,95,1
+2020-06-23,United States,Kentucky,Magoffin,0,0,5,0
+2020-06-23,United States,Kentucky,Marion,2,0,48,0
+2020-06-23,United States,Kentucky,Marshall,2,0,52,2
+2020-06-23,United States,Kentucky,Martin,0,0,4,0
+2020-06-23,United States,Kentucky,Mason,0,0,24,0
+2020-06-23,United States,Kentucky,McCracken,5,0,148,3
+2020-06-23,United States,Kentucky,McCreary,0,0,14,0
+2020-06-23,United States,Kentucky,McLean,0,0,24,1
+2020-06-23,United States,Kentucky,Meade,0,0,24,2
+2020-06-23,United States,Kentucky,Menifee,0,0,10,0
+2020-06-23,United States,Kentucky,Mercer,0,0,17,0
+2020-06-23,United States,Kentucky,Metcalfe,0,0,8,2
+2020-06-23,United States,Kentucky,Monroe,0,0,34,0
+2020-06-23,United States,Kentucky,Montgomery,0,0,45,0
+2020-06-23,United States,Kentucky,Morgan,0,0,7,0
+2020-06-23,United States,Kentucky,Muhlenberg,0,0,492,8
+2020-06-23,United States,Kentucky,Nelson,1,0,54,1
+2020-06-23,United States,Kentucky,Nicholas,0,0,5,0
+2020-06-23,United States,Kentucky,Ohio,0,0,171,0
+2020-06-23,United States,Kentucky,Oldham,0,0,117,6
+2020-06-23,United States,Kentucky,Owen,0,0,5,0
+2020-06-23,United States,Kentucky,Owsley,0,0,2,0
+2020-06-23,United States,Kentucky,Pendleton,0,0,14,0
+2020-06-23,United States,Kentucky,Perry,2,0,43,1
+2020-06-23,United States,Kentucky,Pike,0,0,63,2
+2020-06-23,United States,Kentucky,Powell,0,0,5,0
+2020-06-23,United States,Kentucky,Pulaski,0,0,77,2
+2020-06-23,United States,Kentucky,Rockcastle,0,0,17,0
+2020-06-23,United States,Kentucky,Rowan,0,0,17,0
+2020-06-23,United States,Kentucky,Russell,0,0,38,4
+2020-06-23,United States,Kentucky,Scott,0,0,67,0
+2020-06-23,United States,Kentucky,Shelby,4,0,365,6
+2020-06-23,United States,Kentucky,Simpson,0,0,62,3
+2020-06-23,United States,Kentucky,Spencer,0,0,29,0
+2020-06-23,United States,Kentucky,Taylor,0,0,29,1
+2020-06-23,United States,Kentucky,Todd,0,0,23,0
+2020-06-23,United States,Kentucky,Trigg,1,0,23,0
+2020-06-23,United States,Kentucky,Trimble,0,0,5,0
+2020-06-23,United States,Kentucky,Unassigned,0,0,21,0
+2020-06-23,United States,Kentucky,Union,0,0,25,0
+2020-06-23,United States,Kentucky,Warren,4,0,1361,10
+2020-06-23,United States,Kentucky,Washington,3,0,21,0
+2020-06-23,United States,Kentucky,Wayne,0,0,12,0
+2020-06-23,United States,Kentucky,Webster,0,0,39,0
+2020-06-23,United States,Kentucky,Whitley,1,0,21,0
+2020-06-23,United States,Kentucky,Wolfe,0,0,1,0
+2020-06-23,United States,Kentucky,Woodford,0,0,61,0
+2020-06-23,United States,Louisiana,Acadia,15,2,669,34
+2020-06-23,United States,Louisiana,Allen,2,0,228,10
+2020-06-23,United States,Louisiana,Ascension,11,0,1008,58
+2020-06-23,United States,Louisiana,Assumption,3,0,330,14
+2020-06-23,United States,Louisiana,Avoyelles,2,0,206,11
+2020-06-23,United States,Louisiana,Beauregard,1,0,159,7
+2020-06-23,United States,Louisiana,Bienville,0,0,200,26
+2020-06-23,United States,Louisiana,Bossier,3,0,668,28
+2020-06-23,United States,Louisiana,Caddo,15,0,2920,223
+2020-06-23,United States,Louisiana,Calcasieu,33,0,921,53
+2020-06-23,United States,Louisiana,Caldwell,2,0,97,1
+2020-06-23,United States,Louisiana,Cameron,1,0,28,0
+2020-06-23,United States,Louisiana,Catahoula,1,0,153,3
+2020-06-23,United States,Louisiana,Claiborne,0,0,106,10
+2020-06-23,United States,Louisiana,Concordia,1,0,102,5
+2020-06-23,United States,Louisiana,De Soto,2,0,318,18
+2020-06-23,United States,Louisiana,East Baton Rouge,24,2,4398,265
+2020-06-23,United States,Louisiana,East Carroll,7,0,339,0
+2020-06-23,United States,Louisiana,East Feliciana,3,0,271,32
+2020-06-23,United States,Louisiana,Evangeline,2,0,125,1
+2020-06-23,United States,Louisiana,Franklin,5,0,421,14
+2020-06-23,United States,Louisiana,Grant,0,0,76,1
+2020-06-23,United States,Louisiana,Iberia,13,0,482,42
+2020-06-23,United States,Louisiana,Iberville,1,0,666,43
+2020-06-23,United States,Louisiana,Jackson,2,1,191,16
+2020-06-23,United States,Louisiana,Jefferson,60,0,8741,477
+2020-06-23,United States,Louisiana,Jefferson Davis,32,0,240,7
+2020-06-23,United States,Louisiana,Lafayette,44,0,1440,33
+2020-06-23,United States,Louisiana,Lafourche,17,0,1027,83
+2020-06-23,United States,Louisiana,LaSalle,0,0,86,0
+2020-06-23,United States,Louisiana,Lincoln,0,-1,274,18
+2020-06-23,United States,Louisiana,Livingston,7,1,690,36
+2020-06-23,United States,Louisiana,Madison,3,0,320,2
+2020-06-23,United States,Louisiana,Morehouse,2,1,188,7
+2020-06-23,United States,Louisiana,Natchitoches,0,0,192,13
+2020-06-23,United States,Louisiana,Orleans,18,0,7536,529
+2020-06-23,United States,Louisiana,Ouachita,20,1,1980,67
+2020-06-23,United States,Louisiana,Plaquemines,0,0,239,17
+2020-06-23,United States,Louisiana,Pointe Coupee,2,0,224,27
+2020-06-23,United States,Louisiana,Rapides,3,1,1323,51
+2020-06-23,United States,Louisiana,Red River,0,0,54,8
+2020-06-23,United States,Louisiana,Richland,2,0,150,3
+2020-06-23,United States,Louisiana,Sabine,0,0,61,1
+2020-06-23,United States,Louisiana,St. Bernard,0,0,601,23
+2020-06-23,United States,Louisiana,St. Charles,2,0,691,46
+2020-06-23,United States,Louisiana,St. Helena,0,0,86,1
+2020-06-23,United States,Louisiana,St. James,0,0,334,28
+2020-06-23,United States,Louisiana,St. John the Baptist,2,0,926,85
+2020-06-23,United States,Louisiana,St. Landry,19,0,484,55
+2020-06-23,United States,Louisiana,St. Martin,12,0,526,28
+2020-06-23,United States,Louisiana,St. Mary,9,0,393,35
+2020-06-23,United States,Louisiana,St. Tammany,26,2,2043,172
+2020-06-23,United States,Louisiana,Tangipahoa,3,0,1123,42
+2020-06-23,United States,Louisiana,Tensas,0,0,24,0
+2020-06-23,United States,Louisiana,Terrebonne,9,0,857,60
+2020-06-23,United States,Louisiana,Unassigned,0,1,8,113
+2020-06-23,United States,Louisiana,Union,3,0,378,20
+2020-06-23,United States,Louisiana,Vermilion,9,0,139,5
+2020-06-23,United States,Louisiana,Vernon,1,1,77,5
+2020-06-23,United States,Louisiana,Washington,4,0,585,44
+2020-06-23,United States,Louisiana,Webster,2,0,323,9
+2020-06-23,United States,Louisiana,West Baton Rouge,0,0,234,30
+2020-06-23,United States,Louisiana,West Carroll,1,0,108,3
+2020-06-23,United States,Louisiana,West Feliciana,0,0,226,14
+2020-06-23,United States,Louisiana,Winn,0,0,226,5
+2020-06-23,United States,Maine,Androscoggin,1,0,453,4
+2020-06-23,United States,Maine,Aroostook,2,0,19,1
+2020-06-23,United States,Maine,Cumberland,2,0,1542,58
+2020-06-23,United States,Maine,Franklin,0,0,38,1
+2020-06-23,United States,Maine,Hancock,1,0,15,1
+2020-06-23,United States,Maine,Kennebec,0,0,138,9
+2020-06-23,United States,Maine,Knox,0,0,24,1
+2020-06-23,United States,Maine,Lincoln,0,0,21,0
+2020-06-23,United States,Maine,Oxford,0,0,34,0
+2020-06-23,United States,Maine,Penobscot,1,0,103,2
+2020-06-23,United States,Maine,Piscataquis,0,0,2,0
+2020-06-23,United States,Maine,Sagadahoc,1,0,31,0
+2020-06-23,United States,Maine,Somerset,0,0,26,0
+2020-06-23,United States,Maine,Unassigned,1,0,2,0
+2020-06-23,United States,Maine,Waldo,0,0,55,14
+2020-06-23,United States,Maine,Washington,0,0,2,0
+2020-06-23,United States,Maine,York,5,0,466,11
+2020-06-23,United States,Maryland,Allegany,1,0,189,17
+2020-06-23,United States,Maryland,Anne Arundel,12,0,4916,200
+2020-06-23,United States,Maryland,Baltimore,48,4,7585,455
+2020-06-23,United States,Maryland,Baltimore City,42,3,7095,316
+2020-06-23,United States,Maryland,Calvert,3,0,397,23
+2020-06-23,United States,Maryland,Caroline,0,0,294,2
+2020-06-23,United States,Maryland,Carroll,1,0,1031,109
+2020-06-23,United States,Maryland,Cecil,1,0,461,29
+2020-06-23,United States,Maryland,Charles,15,0,1328,86
+2020-06-23,United States,Maryland,Dorchester,0,0,183,4
+2020-06-23,United States,Maryland,Frederick,14,0,2407,116
+2020-06-23,United States,Maryland,Garrett,0,0,10,0
+2020-06-23,United States,Maryland,Harford,4,0,1060,61
+2020-06-23,United States,Maryland,Howard,13,0,2436,80
+2020-06-23,United States,Maryland,Kent,1,0,194,23
+2020-06-23,United States,Maryland,Montgomery,62,3,14141,723
+2020-06-23,United States,Maryland,Prince George`s,61,2,17935,661
+2020-06-23,United States,Maryland,Queen Anne`s,6,1,211,15
+2020-06-23,United States,Maryland,Somerset,0,0,83,3
+2020-06-23,United States,Maryland,St. Mary`s,-3,1,599,46
+2020-06-23,United States,Maryland,Talbot,2,0,117,4
+2020-06-23,United States,Maryland,Unassigned,0,-6,0,22
+2020-06-23,United States,Maryland,Washington,8,0,611,25
+2020-06-23,United States,Maryland,Wicomico,3,0,1046,37
+2020-06-23,United States,Maryland,Worcester,3,0,274,17
+2020-06-23,United States,Massachusetts,Barnstable,2,1,1517,138
+2020-06-23,United States,Massachusetts,Berkshire,1,0,591,44
+2020-06-23,United States,Massachusetts,Bristol,22,4,8057,546
+2020-06-23,United States,Massachusetts,Dukes and Nantucket,2,0,59,0
+2020-06-23,United States,Massachusetts,Essex,22,1,15851,1077
+2020-06-23,United States,Massachusetts,Franklin,0,0,358,53
+2020-06-23,United States,Massachusetts,Hampden,12,-1,6610,647
+2020-06-23,United States,Massachusetts,Hampshire,2,0,946,107
+2020-06-23,United States,Massachusetts,Middlesex,35,2,23609,1809
+2020-06-23,United States,Massachusetts,Norfolk,16,2,9010,914
+2020-06-23,United States,Massachusetts,Plymouth,9,3,8592,646
+2020-06-23,United States,Massachusetts,Suffolk,16,1,19567,979
+2020-06-23,United States,Massachusetts,Unassigned,-3,0,300,10
+2020-06-23,United States,Massachusetts,Worcester,13,3,12143,903
+2020-06-23,United States,Michigan,Alcona,0,0,21,1
+2020-06-23,United States,Michigan,Alger,0,0,2,0
+2020-06-23,United States,Michigan,Allegan,2,0,301,6
+2020-06-23,United States,Michigan,Alpena,1,0,116,11
+2020-06-23,United States,Michigan,Antrim,0,0,16,0
+2020-06-23,United States,Michigan,Arenac,0,0,38,2
+2020-06-23,United States,Michigan,Baraga,0,0,1,0
+2020-06-23,United States,Michigan,Barry,1,0,95,2
+2020-06-23,United States,Michigan,Bay,1,0,379,29
+2020-06-23,United States,Michigan,Benzie,0,0,5,0
+2020-06-23,United States,Michigan,Berrien,0,0,852,60
+2020-06-23,United States,Michigan,Branch,0,0,250,2
+2020-06-23,United States,Michigan,Calhoun,2,0,506,31
+2020-06-23,United States,Michigan,Cass,2,0,124,4
+2020-06-23,United States,Michigan,Charlevoix,0,0,22,2
+2020-06-23,United States,Michigan,Cheboygan,0,0,26,2
+2020-06-23,United States,Michigan,Chippewa,0,0,3,0
+2020-06-23,United States,Michigan,Clare,0,0,27,2
+2020-06-23,United States,Michigan,Clinton,0,0,201,11
+2020-06-23,United States,Michigan,Crawford,0,0,66,5
+2020-06-23,United States,Michigan,Delta,0,0,21,2
+2020-06-23,United States,Michigan,Dickinson,0,0,7,2
+2020-06-23,United States,Michigan,Eaton,2,0,271,7
+2020-06-23,United States,Michigan,Emmet,0,0,26,2
+2020-06-23,United States,Michigan,Federal Correctional Institution (FCI),1,0,169,5
+2020-06-23,United States,Michigan,Genesee,3,0,2634,284
+2020-06-23,United States,Michigan,Gladwin,3,0,26,1
+2020-06-23,United States,Michigan,Gogebic,0,0,6,1
+2020-06-23,United States,Michigan,Grand Traverse,1,1,39,6
+2020-06-23,United States,Michigan,Gratiot,0,0,93,13
+2020-06-23,United States,Michigan,Hillsdale,0,0,183,25
+2020-06-23,United States,Michigan,Houghton,2,0,11,0
+2020-06-23,United States,Michigan,Huron,0,2,63,3
+2020-06-23,United States,Michigan,Ingham,14,0,859,29
+2020-06-23,United States,Michigan,Ionia,2,0,192,4
+2020-06-23,United States,Michigan,Iosco,0,0,111,10
+2020-06-23,United States,Michigan,Iron,0,0,4,0
+2020-06-23,United States,Michigan,Isabella,1,0,113,8
+2020-06-23,United States,Michigan,Jackson,-1,0,488,30
+2020-06-23,United States,Michigan,Kalamazoo,0,1,996,66
+2020-06-23,United States,Michigan,Kalkaska,0,0,30,2
+2020-06-23,United States,Michigan,Kent,13,0,4603,124
+2020-06-23,United States,Michigan,Keweenaw,0,0,1,0
+2020-06-23,United States,Michigan,Lake,0,0,7,0
+2020-06-23,United States,Michigan,Lapeer,22,0,266,31
+2020-06-23,United States,Michigan,Leelanau,0,0,12,0
+2020-06-23,United States,Michigan,Lenawee,0,0,199,6
+2020-06-23,United States,Michigan,Livingston,2,0,541,28
+2020-06-23,United States,Michigan,Luce,0,0,3,0
+2020-06-23,United States,Michigan,Mackinac,0,0,8,0
+2020-06-23,United States,Michigan,Macomb,13,0,7165,899
+2020-06-23,United States,Michigan,Manistee,0,0,15,0
+2020-06-23,United States,Michigan,Marquette,1,0,63,11
+2020-06-23,United States,Michigan,Mason,0,0,41,0
+2020-06-23,United States,Michigan,Mecosta,0,0,29,2
+2020-06-23,United States,Michigan,Menominee,0,0,9,0
+2020-06-23,United States,Michigan,Michigan Department of Corrections (MDOC),1,0,4084,68
+2020-06-23,United States,Michigan,Midland,0,0,159,9
+2020-06-23,United States,Michigan,Missaukee,0,0,24,1
+2020-06-23,United States,Michigan,Monroe,5,0,581,21
+2020-06-23,United States,Michigan,Montcalm,0,0,83,1
+2020-06-23,United States,Michigan,Montmorency,0,0,5,0
+2020-06-23,United States,Michigan,Muskegon,2,0,786,49
+2020-06-23,United States,Michigan,Newaygo,3,0,142,0
+2020-06-23,United States,Michigan,Oakland,55,1,11740,1078
+2020-06-23,United States,Michigan,Oceana,10,0,186,3
+2020-06-23,United States,Michigan,Ogemaw,0,0,32,2
+2020-06-23,United States,Michigan,Osceola,-1,0,26,0
+2020-06-23,United States,Michigan,Oscoda,0,0,9,1
+2020-06-23,United States,Michigan,Otsego,0,0,121,10
+2020-06-23,United States,Michigan,Ottawa,6,0,971,51
+2020-06-23,United States,Michigan,Out of MI,6,0,59,0
+2020-06-23,United States,Michigan,Presque Isle,0,0,12,0
+2020-06-23,United States,Michigan,Roscommon,0,0,26,0
+2020-06-23,United States,Michigan,Saginaw,9,0,1202,120
+2020-06-23,United States,Michigan,Sanilac,0,0,43,6
+2020-06-23,United States,Michigan,Schoolcraft,0,0,4,0
+2020-06-23,United States,Michigan,Shiawassee,0,0,265,27
+2020-06-23,United States,Michigan,St. Clair,2,0,527,48
+2020-06-23,United States,Michigan,St. Joseph,9,0,228,3
+2020-06-23,United States,Michigan,Tuscola,2,0,248,26
+2020-06-23,United States,Michigan,Unassigned,0,0,2,0
+2020-06-23,United States,Michigan,Van Buren,1,0,217,7
+2020-06-23,United States,Michigan,Washtenaw,7,0,1622,103
+2020-06-23,United States,Michigan,Wayne,41,2,22180,2689
+2020-06-23,United States,Michigan,Wexford,0,0,18,3
+2020-06-23,United States,Minnesota,Aitkin,0,0,13,0
+2020-06-23,United States,Minnesota,Anoka,16,1,1910,103
+2020-06-23,United States,Minnesota,Becker,1,0,50,0
+2020-06-23,United States,Minnesota,Beltrami,0,0,25,0
+2020-06-23,United States,Minnesota,Benton,1,0,202,3
+2020-06-23,United States,Minnesota,Big Stone,0,0,14,0
+2020-06-23,United States,Minnesota,Blue Earth,13,0,227,2
+2020-06-23,United States,Minnesota,Brown,0,0,21,2
+2020-06-23,United States,Minnesota,Carlton,0,0,81,0
+2020-06-23,United States,Minnesota,Carver,3,0,297,1
+2020-06-23,United States,Minnesota,Cass,0,0,12,2
+2020-06-23,United States,Minnesota,Chippewa,1,0,67,1
+2020-06-23,United States,Minnesota,Chisago,0,0,87,1
+2020-06-23,United States,Minnesota,Clay,2,0,528,37
+2020-06-23,United States,Minnesota,Clearwater,0,0,6,0
+2020-06-23,United States,Minnesota,Cook,0,0,1,0
+2020-06-23,United States,Minnesota,Cottonwood,2,0,123,0
+2020-06-23,United States,Minnesota,Crow Wing,0,0,94,11
+2020-06-23,United States,Minnesota,Dakota,26,1,1941,83
+2020-06-23,United States,Minnesota,Dodge,1,0,66,0
+2020-06-23,United States,Minnesota,Douglas,0,0,54,0
+2020-06-23,United States,Minnesota,Faribault,0,0,33,0
+2020-06-23,United States,Minnesota,Fillmore,0,0,23,1
+2020-06-23,United States,Minnesota,Freeborn,7,0,258,0
+2020-06-23,United States,Minnesota,Goodhue,2,0,107,7
+2020-06-23,United States,Minnesota,Grant,0,0,6,0
+2020-06-23,United States,Minnesota,Hennepin,90,0,10920,747
+2020-06-23,United States,Minnesota,Houston,0,0,13,0
+2020-06-23,United States,Minnesota,Hubbard,0,0,5,0
+2020-06-23,United States,Minnesota,Isanti,1,0,56,0
+2020-06-23,United States,Minnesota,Itasca,0,0,59,12
+2020-06-23,United States,Minnesota,Jackson,1,0,53,0
+2020-06-23,United States,Minnesota,Kanabec,0,0,13,1
+2020-06-23,United States,Minnesota,Kandiyohi,0,0,560,1
+2020-06-23,United States,Minnesota,Kittson,0,0,1,0
+2020-06-23,United States,Minnesota,Koochiching,0,0,9,0
+2020-06-23,United States,Minnesota,Lac qui Parle,0,0,4,0
+2020-06-23,United States,Minnesota,Lake,1,0,5,0
+2020-06-23,United States,Minnesota,Le Sueur,0,0,62,1
+2020-06-23,United States,Minnesota,Lincoln,0,0,6,0
+2020-06-23,United States,Minnesota,Lyon,2,0,276,2
+2020-06-23,United States,Minnesota,Mahnomen,0,0,6,1
+2020-06-23,United States,Minnesota,Marshall,0,0,12,0
+2020-06-23,United States,Minnesota,Martin,0,0,148,5
+2020-06-23,United States,Minnesota,McLeod,1,0,68,0
+2020-06-23,United States,Minnesota,Meeker,0,0,51,1
+2020-06-23,United States,Minnesota,Mille Lacs,0,0,30,1
+2020-06-23,United States,Minnesota,Morrison,1,0,56,1
+2020-06-23,United States,Minnesota,Mower,5,0,802,2
+2020-06-23,United States,Minnesota,Murray,0,0,47,0
+2020-06-23,United States,Minnesota,Nicollet,1,0,109,12
+2020-06-23,United States,Minnesota,Nobles,1,0,1632,6
+2020-06-23,United States,Minnesota,Norman,0,0,18,0
+2020-06-23,United States,Minnesota,Olmsted,7,1,910,15
+2020-06-23,United States,Minnesota,Otter Tail,0,0,85,1
+2020-06-23,United States,Minnesota,Pennington,0,0,50,0
+2020-06-23,United States,Minnesota,Pine,0,0,97,0
+2020-06-23,United States,Minnesota,Pipestone,1,0,15,0
+2020-06-23,United States,Minnesota,Polk,0,0,72,2
+2020-06-23,United States,Minnesota,Pope,0,0,10,0
+2020-06-23,United States,Minnesota,Ramsey,46,1,4352,211
+2020-06-23,United States,Minnesota,Red Lake,0,0,3,0
+2020-06-23,United States,Minnesota,Redwood,0,0,12,0
+2020-06-23,United States,Minnesota,Renville,4,0,16,1
+2020-06-23,United States,Minnesota,Rice,6,0,754,4
+2020-06-23,United States,Minnesota,Rock,0,0,28,0
+2020-06-23,United States,Minnesota,Roseau,0,0,6,0
+2020-06-23,United States,Minnesota,Scott,17,0,587,4
+2020-06-23,United States,Minnesota,Sherburne,1,0,276,4
+2020-06-23,United States,Minnesota,Sibley,0,0,29,2
+2020-06-23,United States,Minnesota,St. Louis,1,0,143,14
+2020-06-23,United States,Minnesota,Stearns,3,0,2137,19
+2020-06-23,United States,Minnesota,Steele,5,0,199,0
+2020-06-23,United States,Minnesota,Stevens,0,0,2,0
+2020-06-23,United States,Minnesota,Swift,0,0,20,1
+2020-06-23,United States,Minnesota,Todd,2,0,390,2
+2020-06-23,United States,Minnesota,Traverse,0,0,5,0
+2020-06-23,United States,Minnesota,Unassigned,-2,0,80,31
+2020-06-23,United States,Minnesota,Wabasha,1,0,28,0
+2020-06-23,United States,Minnesota,Wadena,0,0,12,0
+2020-06-23,United States,Minnesota,Waseca,1,0,41,0
+2020-06-23,United States,Minnesota,Washington,13,0,898,38
+2020-06-23,United States,Minnesota,Watonwan,13,0,157,0
+2020-06-23,United States,Minnesota,Wilkin,0,0,20,3
+2020-06-23,United States,Minnesota,Winona,5,0,99,15
+2020-06-23,United States,Minnesota,Wright,2,0,403,2
+2020-06-23,United States,Minnesota,Yellow Medicine,2,0,24,0
+2020-06-23,United States,Mississippi,Adams,0,0,227,18
+2020-06-23,United States,Mississippi,Alcorn,3,0,35,1
+2020-06-23,United States,Mississippi,Amite,2,0,75,2
+2020-06-23,United States,Mississippi,Attala,1,0,336,23
+2020-06-23,United States,Mississippi,Benton,2,0,20,0
+2020-06-23,United States,Mississippi,Bolivar,11,0,208,13
+2020-06-23,United States,Mississippi,Calhoun,13,0,96,4
+2020-06-23,United States,Mississippi,Carroll,11,0,133,11
+2020-06-23,United States,Mississippi,Chickasaw,19,1,196,17
+2020-06-23,United States,Mississippi,Choctaw,0,1,71,3
+2020-06-23,United States,Mississippi,Claiborne,24,0,168,9
+2020-06-23,United States,Mississippi,Clarke,14,0,182,21
+2020-06-23,United States,Mississippi,Clay,25,0,210,6
+2020-06-23,United States,Mississippi,Coahoma,5,0,161,6
+2020-06-23,United States,Mississippi,Copiah,51,4,476,11
+2020-06-23,United States,Mississippi,Covington,25,0,238,3
+2020-06-23,United States,Mississippi,DeSoto,122,0,912,14
+2020-06-23,United States,Mississippi,Forrest,32,1,729,42
+2020-06-23,United States,Mississippi,Franklin,0,0,30,2
+2020-06-23,United States,Mississippi,George,12,0,53,2
+2020-06-23,United States,Mississippi,Greene,14,1,70,5
+2020-06-23,United States,Mississippi,Grenada,25,1,195,5
+2020-06-23,United States,Mississippi,Hancock,3,0,103,13
+2020-06-23,United States,Mississippi,Harrison,71,0,464,7
+2020-06-23,United States,Mississippi,Hinds,146,4,1536,33
+2020-06-23,United States,Mississippi,Holmes,12,2,489,37
+2020-06-23,United States,Mississippi,Humphreys,10,1,93,9
+2020-06-23,United States,Mississippi,Itawamba,3,0,109,8
+2020-06-23,United States,Mississippi,Jackson,17,0,402,16
+2020-06-23,United States,Mississippi,Jasper,9,2,212,6
+2020-06-23,United States,Mississippi,Jefferson,6,0,63,2
+2020-06-23,United States,Mississippi,Jefferson Davis,4,0,90,3
+2020-06-23,United States,Mississippi,Jones,18,3,928,47
+2020-06-23,United States,Mississippi,Kemper,0,0,169,13
+2020-06-23,United States,Mississippi,Lafayette,45,0,254,4
+2020-06-23,United States,Mississippi,Lamar,41,1,341,7
+2020-06-23,United States,Mississippi,Lauderdale,29,2,847,77
+2020-06-23,United States,Mississippi,Lawrence,8,0,129,1
+2020-06-23,United States,Mississippi,Leake,7,0,503,16
+2020-06-23,United States,Mississippi,Lee,44,0,374,14
+2020-06-23,United States,Mississippi,Leflore,35,0,420,47
+2020-06-23,United States,Mississippi,Lincoln,48,0,378,32
+2020-06-23,United States,Mississippi,Lowndes,32,0,384,10
+2020-06-23,United States,Mississippi,Madison,73,0,995,31
+2020-06-23,United States,Mississippi,Marion,23,1,186,10
+2020-06-23,United States,Mississippi,Marshall,20,0,142,3
+2020-06-23,United States,Mississippi,Monroe,10,1,311,27
+2020-06-23,United States,Mississippi,Montgomery,6,0,104,1
+2020-06-23,United States,Mississippi,Neshoba,0,2,921,58
+2020-06-23,United States,Mississippi,Newton,0,0,325,8
+2020-06-23,United States,Mississippi,Noxubee,5,0,223,6
+2020-06-23,United States,Mississippi,Oktibbeha,34,1,420,19
+2020-06-23,United States,Mississippi,Panola,33,1,179,5
+2020-06-23,United States,Mississippi,Pearl River,2,0,226,32
+2020-06-23,United States,Mississippi,Perry,0,1,55,4
+2020-06-23,United States,Mississippi,Pike,30,0,278,11
+2020-06-23,United States,Mississippi,Pontotoc,35,0,128,3
+2020-06-23,United States,Mississippi,Prentiss,8,0,78,3
+2020-06-23,United States,Mississippi,Quitman,0,0,52,0
+2020-06-23,United States,Mississippi,Rankin,48,2,611,12
+2020-06-23,United States,Mississippi,Scott,4,2,700,14
+2020-06-23,United States,Mississippi,Sharkey,4,0,13,0
+2020-06-23,United States,Mississippi,Simpson,40,1,166,2
+2020-06-23,United States,Mississippi,Smith,5,0,187,11
+2020-06-23,United States,Mississippi,Stone,7,0,42,1
+2020-06-23,United States,Mississippi,Sunflower,27,0,155,4
+2020-06-23,United States,Mississippi,Tallahatchie,15,0,64,1
+2020-06-23,United States,Mississippi,Tate,27,1,182,2
+2020-06-23,United States,Mississippi,Tippah,6,0,106,11
+2020-06-23,United States,Mississippi,Tishomingo,5,0,52,1
+2020-06-23,United States,Mississippi,Tunica,9,0,76,3
+2020-06-23,United States,Mississippi,Unassigned,0,0,0,0
+2020-06-23,United States,Mississippi,Union,19,0,128,8
+2020-06-23,United States,Mississippi,Walthall,22,1,133,2
+2020-06-23,United States,Mississippi,Warren,51,0,331,14
+2020-06-23,United States,Mississippi,Washington,26,0,302,9
+2020-06-23,United States,Mississippi,Wayne,25,0,434,8
+2020-06-23,United States,Mississippi,Webster,9,2,118,10
+2020-06-23,United States,Mississippi,Wilkinson,0,0,85,9
+2020-06-23,United States,Mississippi,Winston,20,0,178,2
+2020-06-23,United States,Mississippi,Yalobusha,0,0,139,7
+2020-06-23,United States,Mississippi,Yazoo,41,0,395,6
+2020-06-23,United States,Missouri,Adair,1,0,86,0
+2020-06-23,United States,Missouri,Andrew,1,0,42,0
+2020-06-23,United States,Missouri,Atchison,0,0,3,0
+2020-06-23,United States,Missouri,Audrain,0,0,134,1
+2020-06-23,United States,Missouri,Barry,0,0,31,0
+2020-06-23,United States,Missouri,Barton,0,0,15,0
+2020-06-23,United States,Missouri,Bates,0,0,12,1
+2020-06-23,United States,Missouri,Benton,0,0,15,0
+2020-06-23,United States,Missouri,Bollinger,-1,0,12,0
+2020-06-23,United States,Missouri,Boone,8,0,266,2
+2020-06-23,United States,Missouri,Buchanan,4,0,809,3
+2020-06-23,United States,Missouri,Butler,0,0,62,0
+2020-06-23,United States,Missouri,Caldwell,0,0,9,0
+2020-06-23,United States,Missouri,Callaway,0,0,42,1
+2020-06-23,United States,Missouri,Camden,2,0,50,1
+2020-06-23,United States,Missouri,Cape Girardeau,1,0,121,3
+2020-06-23,United States,Missouri,Carroll,0,0,11,0
+2020-06-23,United States,Missouri,Carter,0,0,6,1
+2020-06-23,United States,Missouri,Cass,0,0,116,8
+2020-06-23,United States,Missouri,Cedar,0,0,9,0
+2020-06-23,United States,Missouri,Chariton,0,0,6,0
+2020-06-23,United States,Missouri,Christian,0,0,32,0
+2020-06-23,United States,Missouri,Clark,0,0,1,0
+2020-06-23,United States,Missouri,Clay,6,0,348,8
+2020-06-23,United States,Missouri,Clinton,0,0,23,0
+2020-06-23,United States,Missouri,Cole,1,0,61,1
+2020-06-23,United States,Missouri,Cooper,1,0,13,0
+2020-06-23,United States,Missouri,Crawford,0,0,10,0
+2020-06-23,United States,Missouri,Dade,0,0,1,0
+2020-06-23,United States,Missouri,Dallas,1,0,10,0
+2020-06-23,United States,Missouri,Daviess,0,0,7,0
+2020-06-23,United States,Missouri,DeKalb,0,0,10,0
+2020-06-23,United States,Missouri,Dent,0,0,1,0
+2020-06-23,United States,Missouri,Douglas,0,0,3,0
+2020-06-23,United States,Missouri,Dunklin,0,0,79,3
+2020-06-23,United States,Missouri,Franklin,3,0,191,18
+2020-06-23,United States,Missouri,Gasconade,0,0,4,0
+2020-06-23,United States,Missouri,Gentry,0,0,55,9
+2020-06-23,United States,Missouri,Greene,3,0,228,8
+2020-06-23,United States,Missouri,Grundy,0,0,17,0
+2020-06-23,United States,Missouri,Harrison,2,0,11,0
+2020-06-23,United States,Missouri,Henry,0,0,17,3
+2020-06-23,United States,Missouri,Hickory,0,0,0,0
+2020-06-23,United States,Missouri,Holt,-1,0,1,0
+2020-06-23,United States,Missouri,Howard,2,0,5,0
+2020-06-23,United States,Missouri,Howell,0,0,30,0
+2020-06-23,United States,Missouri,Iron,0,0,2,0
+2020-06-23,United States,Missouri,Jackson,12,1,1030,23
+2020-06-23,United States,Missouri,Jasper,3,0,269,0
+2020-06-23,United States,Missouri,Jefferson,0,0,401,19
+2020-06-23,United States,Missouri,Johnson,0,0,89,0
+2020-06-23,United States,Missouri,Kansas City,24,1,1945,31
+2020-06-23,United States,Missouri,Knox,0,0,2,0
+2020-06-23,United States,Missouri,Laclede,4,0,20,0
+2020-06-23,United States,Missouri,Lafayette,0,0,86,2
+2020-06-23,United States,Missouri,Lawrence,0,0,13,0
+2020-06-23,United States,Missouri,Lewis,0,0,7,1
+2020-06-23,United States,Missouri,Lincoln,1,0,92,1
+2020-06-23,United States,Missouri,Linn,0,0,13,1
+2020-06-23,United States,Missouri,Livingston,0,0,7,0
+2020-06-23,United States,Missouri,Macon,0,0,7,0
+2020-06-23,United States,Missouri,Madison,0,0,3,0
+2020-06-23,United States,Missouri,Maries,1,0,3,0
+2020-06-23,United States,Missouri,Marion,0,0,11,0
+2020-06-23,United States,Missouri,McDonald,5,0,371,0
+2020-06-23,United States,Missouri,Mercer,0,0,5,0
+2020-06-23,United States,Missouri,Miller,1,0,11,0
+2020-06-23,United States,Missouri,Mississippi,2,0,79,0
+2020-06-23,United States,Missouri,Moniteau,0,0,49,1
+2020-06-23,United States,Missouri,Monroe,0,0,5,0
+2020-06-23,United States,Missouri,Montgomery,0,0,13,0
+2020-06-23,United States,Missouri,Morgan,0,0,12,0
+2020-06-23,United States,Missouri,New Madrid,-2,0,34,1
+2020-06-23,United States,Missouri,Newton,3,0,268,2
+2020-06-23,United States,Missouri,Nodaway,0,0,17,0
+2020-06-23,United States,Missouri,Oregon,0,0,6,0
+2020-06-23,United States,Missouri,Osage,0,0,5,0
+2020-06-23,United States,Missouri,Ozark,0,0,1,0
+2020-06-23,United States,Missouri,Pemiscot,1,0,106,6
+2020-06-23,United States,Missouri,Perry,2,0,104,0
+2020-06-23,United States,Missouri,Pettis,2,0,100,1
+2020-06-23,United States,Missouri,Phelps,0,0,7,0
+2020-06-23,United States,Missouri,Pike,1,0,34,1
+2020-06-23,United States,Missouri,Platte,0,0,102,4
+2020-06-23,United States,Missouri,Polk,0,0,10,0
+2020-06-23,United States,Missouri,Pulaski,0,0,106,1
+2020-06-23,United States,Missouri,Putnam,0,0,2,0
+2020-06-23,United States,Missouri,Ralls,0,0,6,0
+2020-06-23,United States,Missouri,Randolph,0,0,12,0
+2020-06-23,United States,Missouri,Ray,0,0,25,0
+2020-06-23,United States,Missouri,Reynolds,0,0,2,0
+2020-06-23,United States,Missouri,Ripley,0,0,14,0
+2020-06-23,United States,Missouri,Saline,0,0,278,4
+2020-06-23,United States,Missouri,Schuyler,0,0,4,0
+2020-06-23,United States,Missouri,Scotland,0,0,8,1
+2020-06-23,United States,Missouri,Scott,1,1,160,11
+2020-06-23,United States,Missouri,Shannon,0,0,6,0
+2020-06-23,United States,Missouri,Shelby,0,0,2,0
+2020-06-23,United States,Missouri,St. Charles,3,0,957,69
+2020-06-23,United States,Missouri,St. Clair,0,0,2,0
+2020-06-23,United States,Missouri,St. Francois,2,0,68,2
+2020-06-23,United States,Missouri,St. Louis,28,1,5878,551
+2020-06-23,United States,Missouri,St. Louis City,56,0,2443,164
+2020-06-23,United States,Missouri,Ste. Genevieve,0,0,16,1
+2020-06-23,United States,Missouri,Stoddard,1,1,127,8
+2020-06-23,United States,Missouri,Stone,0,0,10,0
+2020-06-23,United States,Missouri,Sullivan,1,0,102,0
+2020-06-23,United States,Missouri,Taney,2,0,32,2
+2020-06-23,United States,Missouri,Texas,0,0,2,0
+2020-06-23,United States,Missouri,Unassigned,3,0,28,0
+2020-06-23,United States,Missouri,Vernon,1,0,13,0
+2020-06-23,United States,Missouri,Warren,0,0,33,0
+2020-06-23,United States,Missouri,Washington,0,0,14,1
+2020-06-23,United States,Missouri,Wayne,0,0,1,0
+2020-06-23,United States,Missouri,Webster,0,0,21,0
+2020-06-23,United States,Missouri,Worth,0,0,4,0
+2020-06-23,United States,Missouri,Wright,0,0,14,0
+2020-06-23,United States,Montana,Beaverhead,0,0,1,0
+2020-06-23,United States,Montana,Big Horn,4,0,63,3
+2020-06-23,United States,Montana,Broadwater,0,0,5,0
+2020-06-23,United States,Montana,Carbon,2,0,15,0
+2020-06-23,United States,Montana,Cascade,0,0,22,2
+2020-06-23,United States,Montana,Custer,0,0,22,0
+2020-06-23,United States,Montana,Dawson,0,0,1,0
+2020-06-23,United States,Montana,Deer Lodge,0,0,3,0
+2020-06-23,United States,Montana,Fergus,0,0,2,0
+2020-06-23,United States,Montana,Flathead,2,0,48,2
+2020-06-23,United States,Montana,Gallatin,4,0,213,1
+2020-06-23,United States,Montana,Glacier,0,0,7,0
+2020-06-23,United States,Montana,Golden Valley,0,0,3,0
+2020-06-23,United States,Montana,Hill,0,0,1,0
+2020-06-23,United States,Montana,Jefferson,0,0,3,0
+2020-06-23,United States,Montana,Lake,1,0,12,0
+2020-06-23,United States,Montana,Lewis and Clark,1,0,23,0
+2020-06-23,United States,Montana,Liberty,0,0,1,0
+2020-06-23,United States,Montana,Lincoln,0,0,7,1
+2020-06-23,United States,Montana,Madison,0,0,8,1
+2020-06-23,United States,Montana,Meagher,0,0,1,0
+2020-06-23,United States,Montana,Missoula,0,0,49,1
+2020-06-23,United States,Montana,Musselshell,0,0,1,0
+2020-06-23,United States,Montana,Park,0,0,9,0
+2020-06-23,United States,Montana,Pondera,0,0,2,0
+2020-06-23,United States,Montana,Ravalli,0,0,17,0
+2020-06-23,United States,Montana,Richland,0,0,8,0
+2020-06-23,United States,Montana,Roosevelt,0,0,7,0
+2020-06-23,United States,Montana,Rosebud,0,0,7,0
+2020-06-23,United States,Montana,Silver Bow,0,0,11,0
+2020-06-23,United States,Montana,Stillwater,1,0,4,0
+2020-06-23,United States,Montana,Toole,0,0,31,6
+2020-06-23,United States,Montana,Unassigned,0,0,0,0
+2020-06-23,United States,Montana,Valley,0,0,1,0
+2020-06-23,United States,Montana,Wheatland,0,0,1,0
+2020-06-23,United States,Montana,Yellowstone,2,1,125,4
+2020-06-23,United States,Nebraska,Adams,0,0,282,11
+2020-06-23,United States,Nebraska,Antelope,0,0,8,0
+2020-06-23,United States,Nebraska,Arthur,0,0,0,0
+2020-06-23,United States,Nebraska,Banner,0,0,1,0
+2020-06-23,United States,Nebraska,Boone,0,0,7,0
+2020-06-23,United States,Nebraska,Box Butte,0,0,3,0
+2020-06-23,United States,Nebraska,Boyd,0,0,1,0
+2020-06-23,United States,Nebraska,Buffalo,1,0,180,1
+2020-06-23,United States,Nebraska,Burt,0,0,11,0
+2020-06-23,United States,Nebraska,Butler,0,0,51,0
+2020-06-23,United States,Nebraska,Cass,0,0,61,0
+2020-06-23,United States,Nebraska,Cedar,1,0,10,0
+2020-06-23,United States,Nebraska,Chase,0,0,1,0
+2020-06-23,United States,Nebraska,Cherry,0,0,1,0
+2020-06-23,United States,Nebraska,Cheyenne,1,0,14,0
+2020-06-23,United States,Nebraska,Clay,0,0,27,0
+2020-06-23,United States,Nebraska,Colfax,3,0,661,4
+2020-06-23,United States,Nebraska,Cuming,0,0,34,0
+2020-06-23,United States,Nebraska,Custer,0,0,34,4
+2020-06-23,United States,Nebraska,Dakota,2,0,1741,29
+2020-06-23,United States,Nebraska,Dawes,0,0,2,0
+2020-06-23,United States,Nebraska,Dawson,0,0,850,8
+2020-06-23,United States,Nebraska,Dixon,1,0,44,1
+2020-06-23,United States,Nebraska,Dodge,1,0,655,6
+2020-06-23,United States,Nebraska,Douglas,87,3,6386,80
+2020-06-23,United States,Nebraska,Fillmore,0,0,13,1
+2020-06-23,United States,Nebraska,Franklin,0,0,6,0
+2020-06-23,United States,Nebraska,Frontier,0,0,1,0
+2020-06-23,United States,Nebraska,Furnas,0,0,9,1
+2020-06-23,United States,Nebraska,Gage,0,0,47,4
+2020-06-23,United States,Nebraska,Garden,0,0,4,0
+2020-06-23,United States,Nebraska,Garfield,0,0,1,0
+2020-06-23,United States,Nebraska,Gosper,0,0,13,0
+2020-06-23,United States,Nebraska,Greeley,0,0,3,0
+2020-06-23,United States,Nebraska,Hall,0,0,1574,45
+2020-06-23,United States,Nebraska,Hamilton,0,0,58,11
+2020-06-23,United States,Nebraska,Harlan,0,0,0,0
+2020-06-23,United States,Nebraska,Hitchcock,0,0,1,0
+2020-06-23,United States,Nebraska,Holt,1,0,2,0
+2020-06-23,United States,Nebraska,Hooker,0,0,0,0
+2020-06-23,United States,Nebraska,Howard,1,0,45,4
+2020-06-23,United States,Nebraska,Jefferson,0,0,9,0
+2020-06-23,United States,Nebraska,Johnson,0,0,6,0
+2020-06-23,United States,Nebraska,Kearney,1,0,13,0
+2020-06-23,United States,Nebraska,Keith,0,0,2,0
+2020-06-23,United States,Nebraska,Keya Paha,0,0,0,0
+2020-06-23,United States,Nebraska,Kimball,0,0,8,0
+2020-06-23,United States,Nebraska,Knox,0,0,16,0
+2020-06-23,United States,Nebraska,Lancaster,16,0,1617,10
+2020-06-23,United States,Nebraska,Lincoln,0,0,54,2
+2020-06-23,United States,Nebraska,Logan,0,0,0,0
+2020-06-23,United States,Nebraska,Madison,6,0,350,4
+2020-06-23,United States,Nebraska,McPherson,0,0,0,0
+2020-06-23,United States,Nebraska,Merrick,0,0,37,0
+2020-06-23,United States,Nebraska,Morrill,0,0,14,0
+2020-06-23,United States,Nebraska,Nance,0,0,4,0
+2020-06-23,United States,Nebraska,Nemaha,0,0,5,0
+2020-06-23,United States,Nebraska,Nuckolls,0,0,1,0
+2020-06-23,United States,Nebraska,Otoe,1,0,15,0
+2020-06-23,United States,Nebraska,Phelps,0,0,21,0
+2020-06-23,United States,Nebraska,Pierce,0,0,6,0
+2020-06-23,United States,Nebraska,Platte,0,1,652,3
+2020-06-23,United States,Nebraska,Polk,0,0,12,0
+2020-06-23,United States,Nebraska,Red Willow,0,0,6,0
+2020-06-23,United States,Nebraska,Richardson,0,0,5,1
+2020-06-23,United States,Nebraska,Saline,5,0,530,2
+2020-06-23,United States,Nebraska,Sarpy,20,0,1038,8
+2020-06-23,United States,Nebraska,Saunders,0,0,63,2
+2020-06-23,United States,Nebraska,Scotts Bluff,3,1,193,3
+2020-06-23,United States,Nebraska,Seward,0,0,32,1
+2020-06-23,United States,Nebraska,Sheridan,0,0,0,0
+2020-06-23,United States,Nebraska,Sherman,0,0,5,0
+2020-06-23,United States,Nebraska,Sioux,0,0,1,0
+2020-06-23,United States,Nebraska,Stanton,0,0,21,0
+2020-06-23,United States,Nebraska,Thayer,0,0,1,0
+2020-06-23,United States,Nebraska,Thomas,0,0,1,0
+2020-06-23,United States,Nebraska,Thurston,0,0,72,1
+2020-06-23,United States,Nebraska,Unassigned,0,0,187,1
+2020-06-23,United States,Nebraska,Valley,0,0,7,0
+2020-06-23,United States,Nebraska,Washington,0,0,45,1
+2020-06-23,United States,Nebraska,Wayne,0,0,26,0
+2020-06-23,United States,Nebraska,Webster,0,0,6,0
+2020-06-23,United States,Nebraska,York,0,0,40,0
+2020-06-23,United States,Nevada,Carson City,0,0,128,5
+2020-06-23,United States,Nevada,Churchill,0,0,10,1
+2020-06-23,United States,Nevada,Clark,288,2,10774,400
+2020-06-23,United States,Nevada,Douglas,0,0,52,0
+2020-06-23,United States,Nevada,Elko,0,0,60,1
+2020-06-23,United States,Nevada,Eureka,0,0,0,0
+2020-06-23,United States,Nevada,Humboldt,0,0,79,4
+2020-06-23,United States,Nevada,Lander,0,0,24,0
+2020-06-23,United States,Nevada,Lincoln,0,0,2,0
+2020-06-23,United States,Nevada,Lyon,0,0,99,2
+2020-06-23,United States,Nevada,Mineral,0,0,4,0
+2020-06-23,United States,Nevada,Nye,0,0,78,3
+2020-06-23,United States,Nevada,Pershing,0,0,5,0
+2020-06-23,United States,Nevada,Storey,0,0,1,0
+2020-06-23,United States,Nevada,Unassigned,0,0,0,0
+2020-06-23,United States,Nevada,Washoe,0,0,2209,73
+2020-06-23,United States,Nevada,White Pine,0,0,3,0
+2020-06-23,United States,New Hampshire,Belknap,0,0,78,1
+2020-06-23,United States,New Hampshire,Carroll,0,0,52,0
+2020-06-23,United States,New Hampshire,Cheshire,0,0,64,2
+2020-06-23,United States,New Hampshire,Coos,0,0,6,0
+2020-06-23,United States,New Hampshire,Grafton,0,0,76,1
+2020-06-23,United States,New Hampshire,Hillsborough,8,0,3134,220
+2020-06-23,United States,New Hampshire,Merrimack,1,0,397,18
+2020-06-23,United States,New Hampshire,Rockingham,3,0,1439,83
+2020-06-23,United States,New Hampshire,Strafford,1,0,285,13
+2020-06-23,United States,New Hampshire,Sullivan,0,0,24,1
+2020-06-23,United States,New Hampshire,Unassigned,1,0,3,0
+2020-06-23,United States,New Jersey,Atlantic,21,0,2743,188
+2020-06-23,United States,New Jersey,Bergen,32,5,19158,1701
+2020-06-23,United States,New Jersey,Burlington,24,1,5061,372
+2020-06-23,United States,New Jersey,Camden,18,1,7168,417
+2020-06-23,United States,New Jersey,Cape May,10,0,758,62
+2020-06-23,United States,New Jersey,Cumberland,30,0,2892,124
+2020-06-23,United States,New Jersey,Essex,32,1,18656,1761
+2020-06-23,United States,New Jersey,Gloucester,5,0,2482,171
+2020-06-23,United States,New Jersey,Hudson,38,14,19419,1308
+2020-06-23,United States,New Jersey,Hunterdon,6,0,1063,67
+2020-06-23,United States,New Jersey,Mercer,8,0,7557,524
+2020-06-23,United States,New Jersey,Middlesex,16,0,16655,1101
+2020-06-23,United States,New Jersey,Monmouth,24,1,8987,696
+2020-06-23,United States,New Jersey,Morris,19,2,6736,643
+2020-06-23,United States,New Jersey,Ocean,18,3,9473,850
+2020-06-23,United States,New Jersey,Passaic,3,1,16825,1015
+2020-06-23,United States,New Jersey,Salem,2,1,753,65
+2020-06-23,United States,New Jersey,Somerset,6,2,4851,440
+2020-06-23,United States,New Jersey,Sussex,1,0,1224,189
+2020-06-23,United States,New Jersey,Unassigned,-30,0,53,0
+2020-06-23,United States,New Jersey,Union,20,3,16411,1138
+2020-06-23,United States,New Jersey,Warren,2,0,1223,142
+2020-06-23,United States,New Mexico,Bernalillo,23,0,1828,82
+2020-06-23,United States,New Mexico,Catron,0,0,2,1
+2020-06-23,United States,New Mexico,Chaves,2,0,66,2
+2020-06-23,United States,New Mexico,Cibola,1,0,197,11
+2020-06-23,United States,New Mexico,Colfax,0,0,9,0
+2020-06-23,United States,New Mexico,Curry,1,0,111,0
+2020-06-23,United States,New Mexico,De Baca,0,0,0,0
+2020-06-23,United States,New Mexico,Dona Ana,16,0,734,6
+2020-06-23,United States,New Mexico,Eddy,3,0,56,1
+2020-06-23,United States,New Mexico,Grant,0,0,17,0
+2020-06-23,United States,New Mexico,Guadalupe,0,0,20,0
+2020-06-23,United States,New Mexico,Harding,0,0,1,0
+2020-06-23,United States,New Mexico,Hidalgo,11,0,39,0
+2020-06-23,United States,New Mexico,Lea,8,0,75,0
+2020-06-23,United States,New Mexico,Lincoln,0,0,7,0
+2020-06-23,United States,New Mexico,Los Alamos,0,0,7,0
+2020-06-23,United States,New Mexico,Luna,1,0,55,2
+2020-06-23,United States,New Mexico,McKinley,32,0,3105,161
+2020-06-23,United States,New Mexico,Otero,1,0,32,6
+2020-06-23,United States,New Mexico,Quay,0,0,5,1
+2020-06-23,United States,New Mexico,Rio Arriba,0,0,79,1
+2020-06-23,United States,New Mexico,Roosevelt,1,0,54,1
+2020-06-23,United States,New Mexico,San Juan,11,0,2194,155
+2020-06-23,United States,New Mexico,San Miguel,0,0,18,0
+2020-06-23,United States,New Mexico,Sandoval,6,0,681,28
+2020-06-23,United States,New Mexico,Santa Fe,5,0,201,3
+2020-06-23,United States,New Mexico,Sierra,2,0,7,0
+2020-06-23,United States,New Mexico,Socorro,2,0,58,5
+2020-06-23,United States,New Mexico,Taos,2,0,35,0
+2020-06-23,United States,New Mexico,Torrance,0,0,36,1
+2020-06-23,United States,New Mexico,Unassigned,0,0,863,0
+2020-06-23,United States,New Mexico,Union,0,0,5,0
+2020-06-23,United States,New Mexico,Valencia,1,0,97,2
+2020-06-23,United States,New York,Albany,6,0,2060,120
+2020-06-23,United States,New York,Allegany,0,0,58,0
+2020-06-23,United States,New York,Broome,2,4,670,56
+2020-06-23,United States,New York,Cattaraugus,0,1,115,6
+2020-06-23,United States,New York,Cayuga,0,0,108,2
+2020-06-23,United States,New York,Chautauqua,0,0,116,4
+2020-06-23,United States,New York,Chemung,0,0,139,2
+2020-06-23,United States,New York,Chenango,1,0,140,5
+2020-06-23,United States,New York,Clinton,0,0,100,4
+2020-06-23,United States,New York,Columbia,1,0,452,37
+2020-06-23,United States,New York,Cortland,0,0,44,0
+2020-06-23,United States,New York,Delaware,0,0,90,4
+2020-06-23,United States,New York,Dutchess,7,0,4145,151
+2020-06-23,United States,New York,Erie,31,0,7035,623
+2020-06-23,United States,New York,Essex,0,0,41,0
+2020-06-23,United States,New York,Franklin,0,0,27,0
+2020-06-23,United States,New York,Fulton,1,0,244,24
+2020-06-23,United States,New York,Genesee,3,0,225,5
+2020-06-23,United States,New York,Greene,0,0,256,18
+2020-06-23,United States,New York,Hamilton,0,0,6,0
+2020-06-23,United States,New York,Herkimer,1,0,137,3
+2020-06-23,United States,New York,Jefferson,0,0,84,0
+2020-06-23,United States,New York,Lewis,0,0,23,0
+2020-06-23,United States,New York,Livingston,1,0,124,8
+2020-06-23,United States,New York,Madison,2,0,347,17
+2020-06-23,United States,New York,Monroe,14,0,3512,259
+2020-06-23,United States,New York,Montgomery,2,0,108,4
+2020-06-23,United States,New York,Nassau,34,0,41513,2178
+2020-06-23,United States,New York,New York City,295,43,212741,22321
+2020-06-23,United States,New York,Niagara,1,0,1193,87
+2020-06-23,United States,New York,Oneida,23,0,1416,77
+2020-06-23,United States,New York,Onondaga,9,0,2675,178
+2020-06-23,United States,New York,Ontario,2,0,242,9
+2020-06-23,United States,New York,Orange,6,0,10654,473
+2020-06-23,United States,New York,Orleans,0,1,276,51
+2020-06-23,United States,New York,Oswego,0,0,173,3
+2020-06-23,United States,New York,Otsego,1,0,83,5
+2020-06-23,United States,New York,Putnam,4,0,1305,62
+2020-06-23,United States,New York,Rensselaer,4,0,528,28
+2020-06-23,United States,New York,Rockland,10,0,13514,506
+2020-06-23,United States,New York,Saratoga,2,0,535,14
+2020-06-23,United States,New York,Schenectady,7,0,761,36
+2020-06-23,United States,New York,Schoharie,0,0,57,0
+2020-06-23,United States,New York,Schuyler,0,0,12,0
+2020-06-23,United States,New York,Seneca,0,0,64,0
+2020-06-23,United States,New York,St. Lawrence,1,0,217,2
+2020-06-23,United States,New York,Steuben,2,0,263,41
+2020-06-23,United States,New York,Suffolk,38,1,41010,1965
+2020-06-23,United States,New York,Sullivan,1,0,1438,45
+2020-06-23,United States,New York,Tioga,0,0,140,24
+2020-06-23,United States,New York,Tompkins,0,0,175,0
+2020-06-23,United States,New York,Ulster,2,0,1756,85
+2020-06-23,United States,New York,Unassigned,0,0,0,0
+2020-06-23,United States,New York,Warren,1,0,262,30
+2020-06-23,United States,New York,Washington,0,0,244,14
+2020-06-23,United States,New York,Wayne,0,0,143,3
+2020-06-23,United States,New York,Westchester,36,1,34557,1415
+2020-06-23,United States,New York,Wyoming,0,0,93,5
+2020-06-23,United States,New York,Yates,1,0,42,6
+2020-06-23,United States,North Carolina,Alamance,12,1,951,36
+2020-06-23,United States,North Carolina,Alexander,1,0,66,0
+2020-06-23,United States,North Carolina,Alleghany,0,0,30,0
+2020-06-23,United States,North Carolina,Anson,4,1,106,2
+2020-06-23,United States,North Carolina,Ashe,0,0,47,1
+2020-06-23,United States,North Carolina,Avery,0,0,8,0
+2020-06-23,United States,North Carolina,Beaufort,2,0,59,0
+2020-06-23,United States,North Carolina,Bertie,0,0,136,4
+2020-06-23,United States,North Carolina,Bladen,3,0,310,2
+2020-06-23,United States,North Carolina,Brunswick,11,0,356,3
+2020-06-23,United States,North Carolina,Buncombe,3,2,504,37
+2020-06-23,United States,North Carolina,Burke,1,1,912,19
+2020-06-23,United States,North Carolina,Cabarrus,19,5,888,30
+2020-06-23,United States,North Carolina,Caldwell,1,0,315,4
+2020-06-23,United States,North Carolina,Camden,0,0,19,0
+2020-06-23,United States,North Carolina,Carteret,8,0,61,3
+2020-06-23,United States,North Carolina,Caswell,0,0,116,1
+2020-06-23,United States,North Carolina,Catawba,48,3,600,13
+2020-06-23,United States,North Carolina,Chatham,0,0,882,39
+2020-06-23,United States,North Carolina,Cherokee,2,0,34,1
+2020-06-23,United States,North Carolina,Chowan,0,0,19,0
+2020-06-23,United States,North Carolina,Clay,3,0,12,0
+2020-06-23,United States,North Carolina,Cleveland,2,0,227,2
+2020-06-23,United States,North Carolina,Columbus,7,0,468,35
+2020-06-23,United States,North Carolina,Craven,5,0,315,6
+2020-06-23,United States,North Carolina,Cumberland,6,0,1014,31
+2020-06-23,United States,North Carolina,Currituck,0,0,16,0
+2020-06-23,United States,North Carolina,Dare,2,0,29,1
+2020-06-23,United States,North Carolina,Davidson,36,0,771,15
+2020-06-23,United States,North Carolina,Davie,8,2,164,4
+2020-06-23,United States,North Carolina,Duplin,13,8,1345,28
+2020-06-23,United States,North Carolina,Durham,16,0,3212,60
+2020-06-23,United States,North Carolina,Edgecombe,1,0,274,9
+2020-06-23,United States,North Carolina,Forsyth,51,0,2575,28
+2020-06-23,United States,North Carolina,Franklin,4,0,284,21
+2020-06-23,United States,North Carolina,Gaston,34,0,771,9
+2020-06-23,United States,North Carolina,Gates,0,0,25,2
+2020-06-23,United States,North Carolina,Graham,0,0,6,0
+2020-06-23,United States,North Carolina,Granville,7,0,742,17
+2020-06-23,United States,North Carolina,Greene,3,0,147,2
+2020-06-23,United States,North Carolina,Guilford,32,0,2434,106
+2020-06-23,United States,North Carolina,Halifax,7,0,272,3
+2020-06-23,United States,North Carolina,Harnett,10,0,509,30
+2020-06-23,United States,North Carolina,Haywood,2,0,72,0
+2020-06-23,United States,North Carolina,Henderson,17,1,514,49
+2020-06-23,United States,North Carolina,Hertford,0,0,156,7
+2020-06-23,United States,North Carolina,Hoke,0,0,326,3
+2020-06-23,United States,North Carolina,Hyde,0,0,6,0
+2020-06-23,United States,North Carolina,Iredell,29,0,569,7
+2020-06-23,United States,North Carolina,Jackson,6,0,77,1
+2020-06-23,United States,North Carolina,Johnston,24,0,1135,26
+2020-06-23,United States,North Carolina,Jones,0,0,28,3
+2020-06-23,United States,North Carolina,Lee,1,0,718,7
+2020-06-23,United States,North Carolina,Lenoir,0,0,342,10
+2020-06-23,United States,North Carolina,Lincoln,3,1,189,1
+2020-06-23,United States,North Carolina,Macon,1,2,253,3
+2020-06-23,United States,North Carolina,Madison,0,0,6,0
+2020-06-23,United States,North Carolina,Martin,1,0,113,4
+2020-06-23,United States,North Carolina,McDowell,0,1,197,2
+2020-06-23,United States,North Carolina,Mecklenburg,204,8,8956,143
+2020-06-23,United States,North Carolina,Mitchell,1,0,26,0
+2020-06-23,United States,North Carolina,Montgomery,6,0,252,6
+2020-06-23,United States,North Carolina,Moore,1,1,371,12
+2020-06-23,United States,North Carolina,Nash,4,0,352,4
+2020-06-23,United States,North Carolina,New Hanover,54,0,611,5
+2020-06-23,United States,North Carolina,Northampton,15,0,190,15
+2020-06-23,United States,North Carolina,Onslow,2,0,213,3
+2020-06-23,United States,North Carolina,Orange,10,0,548,41
+2020-06-23,United States,North Carolina,Pamlico,2,0,17,0
+2020-06-23,United States,North Carolina,Pasquotank,1,0,164,15
+2020-06-23,United States,North Carolina,Pender,16,0,182,1
+2020-06-23,United States,North Carolina,Perquimans,0,0,30,2
+2020-06-23,United States,North Carolina,Person,4,0,96,1
+2020-06-23,United States,North Carolina,Pitt,6,0,567,4
+2020-06-23,United States,North Carolina,Polk,0,0,65,4
+2020-06-23,United States,North Carolina,Randolph,4,1,1058,27
+2020-06-23,United States,North Carolina,Richmond,1,0,234,5
+2020-06-23,United States,North Carolina,Robeson,75,9,1160,34
+2020-06-23,United States,North Carolina,Rockingham,6,0,172,2
+2020-06-23,United States,North Carolina,Rowan,6,1,1025,40
+2020-06-23,United States,North Carolina,Rutherford,8,2,263,9
+2020-06-23,United States,North Carolina,Sampson,17,1,894,6
+2020-06-23,United States,North Carolina,Scotland,0,0,123,1
+2020-06-23,United States,North Carolina,Stanly,43,0,277,5
+2020-06-23,United States,North Carolina,Stokes,4,0,109,1
+2020-06-23,United States,North Carolina,Surry,4,0,386,2
+2020-06-23,United States,North Carolina,Swain,2,0,42,0
+2020-06-23,United States,North Carolina,Transylvania,0,0,19,1
+2020-06-23,United States,North Carolina,Tyrrell,0,0,5,0
+2020-06-23,United States,North Carolina,Unassigned,0,0,0,0
+2020-06-23,United States,North Carolina,Union,29,1,949,24
+2020-06-23,United States,North Carolina,Vance,1,0,453,35
+2020-06-23,United States,North Carolina,Wake,151,0,4035,44
+2020-06-23,United States,North Carolina,Warren,0,1,148,5
+2020-06-23,United States,North Carolina,Washington,0,0,37,3
+2020-06-23,United States,North Carolina,Watauga,2,0,49,0
+2020-06-23,United States,North Carolina,Wayne,15,0,1658,23
+2020-06-23,United States,North Carolina,Wilkes,0,0,555,6
+2020-06-23,United States,North Carolina,Wilson,19,2,622,18
+2020-06-23,United States,North Carolina,Yadkin,4,0,284,4
+2020-06-23,United States,North Carolina,Yancey,0,0,35,0
+2020-06-23,United States,North Dakota,Barnes,0,0,18,0
+2020-06-23,United States,North Dakota,Benson,0,0,3,0
+2020-06-23,United States,North Dakota,Billings,0,0,1,0
+2020-06-23,United States,North Dakota,Bottineau,0,0,5,0
+2020-06-23,United States,North Dakota,Bowman,0,0,1,0
+2020-06-23,United States,North Dakota,Burke,0,0,5,0
+2020-06-23,United States,North Dakota,Burleigh,4,0,202,0
+2020-06-23,United States,North Dakota,Cass,5,0,2143,64
+2020-06-23,United States,North Dakota,Cavalier,1,0,2,0
+2020-06-23,United States,North Dakota,Dickey,0,0,4,0
+2020-06-23,United States,North Dakota,Divide,0,0,1,0
+2020-06-23,United States,North Dakota,Dunn,1,0,13,0
+2020-06-23,United States,North Dakota,Eddy,0,0,5,0
+2020-06-23,United States,North Dakota,Emmons,0,0,4,1
+2020-06-23,United States,North Dakota,Foster,0,0,1,0
+2020-06-23,United States,North Dakota,Grand Forks,4,0,365,4
+2020-06-23,United States,North Dakota,Grant,0,0,2,0
+2020-06-23,United States,North Dakota,Griggs,0,0,2,0
+2020-06-23,United States,North Dakota,Kidder,0,0,2,0
+2020-06-23,United States,North Dakota,LaMoure,0,0,11,0
+2020-06-23,United States,North Dakota,McHenry,0,0,3,1
+2020-06-23,United States,North Dakota,McIntosh,0,0,1,0
+2020-06-23,United States,North Dakota,McKenzie,0,0,24,0
+2020-06-23,United States,North Dakota,McLean,0,0,11,0
+2020-06-23,United States,North Dakota,Mercer,0,0,6,0
+2020-06-23,United States,North Dakota,Morton,0,0,70,2
+2020-06-23,United States,North Dakota,Mountrail,0,0,43,0
+2020-06-23,United States,North Dakota,Nelson,0,0,1,0
+2020-06-23,United States,North Dakota,Oliver,0,0,1,0
+2020-06-23,United States,North Dakota,Pembina,0,0,7,0
+2020-06-23,United States,North Dakota,Pierce,0,0,4,0
+2020-06-23,United States,North Dakota,Ramsey,1,0,9,1
+2020-06-23,United States,North Dakota,Ransom,0,0,15,0
+2020-06-23,United States,North Dakota,Renville,0,0,3,0
+2020-06-23,United States,North Dakota,Richland,1,0,39,0
+2020-06-23,United States,North Dakota,Rolette,0,0,9,0
+2020-06-23,United States,North Dakota,Sargent,0,0,4,0
+2020-06-23,United States,North Dakota,Sheridan,0,0,1,0
+2020-06-23,United States,North Dakota,Sioux,7,0,19,0
+2020-06-23,United States,North Dakota,Slope,0,0,3,0
+2020-06-23,United States,North Dakota,Stark,0,0,68,2
+2020-06-23,United States,North Dakota,Steele,0,0,1,0
+2020-06-23,United States,North Dakota,Stutsman,0,0,62,1
+2020-06-23,United States,North Dakota,Traill,0,0,15,0
+2020-06-23,United States,North Dakota,Unassigned,0,0,0,0
+2020-06-23,United States,North Dakota,Walsh,0,0,17,0
+2020-06-23,United States,North Dakota,Ward,1,0,53,1
+2020-06-23,United States,North Dakota,Wells,0,0,8,0
+2020-06-23,United States,North Dakota,Williams,0,0,26,0
+2020-06-23,United States,Northern Mariana Islands,,0,0,30,2
+2020-06-23,United States,Ohio,Adams,1,0,19,1
+2020-06-23,United States,Ohio,Allen,2,0,253,31
+2020-06-23,United States,Ohio,Ashland,1,0,40,1
+2020-06-23,United States,Ohio,Ashtabula,3,0,410,35
+2020-06-23,United States,Ohio,Athens,0,0,25,2
+2020-06-23,United States,Ohio,Auglaize,0,0,90,1
+2020-06-23,United States,Ohio,Belmont,9,0,493,20
+2020-06-23,United States,Ohio,Brown,2,0,45,1
+2020-06-23,United States,Ohio,Butler,22,2,1223,43
+2020-06-23,United States,Ohio,Carroll,1,0,42,4
+2020-06-23,United States,Ohio,Champaign,0,0,37,1
+2020-06-23,United States,Ohio,Clark,17,0,670,11
+2020-06-23,United States,Ohio,Clermont,8,0,287,5
+2020-06-23,United States,Ohio,Clinton,0,0,55,1
+2020-06-23,United States,Ohio,Columbiana,14,0,975,64
+2020-06-23,United States,Ohio,Coshocton,0,0,60,1
+2020-06-23,United States,Ohio,Crawford,0,0,122,6
+2020-06-23,United States,Ohio,Cuyahoga,101,0,5734,334
+2020-06-23,United States,Ohio,Darke,1,0,228,17
+2020-06-23,United States,Ohio,Defiance,0,0,42,2
+2020-06-23,United States,Ohio,Delaware,6,0,433,14
+2020-06-23,United States,Ohio,Erie,1,0,218,12
+2020-06-23,United States,Ohio,Fairfield,5,1,414,10
+2020-06-23,United States,Ohio,Fayette,0,0,45,0
+2020-06-23,United States,Ohio,Franklin,121,8,7915,330
+2020-06-23,United States,Ohio,Fulton,0,0,53,4
+2020-06-23,United States,Ohio,Gallia,0,0,9,2
+2020-06-23,United States,Ohio,Geauga,4,0,361,37
+2020-06-23,United States,Ohio,Greene,6,0,175,12
+2020-06-23,United States,Ohio,Guernsey,1,0,46,5
+2020-06-23,United States,Ohio,Hamilton,191,1,4020,165
+2020-06-23,United States,Ohio,Hancock,1,0,63,5
+2020-06-23,United States,Ohio,Hardin,0,0,107,10
+2020-06-23,United States,Ohio,Harrison,0,0,11,1
+2020-06-23,United States,Ohio,Henry,0,0,23,1
+2020-06-23,United States,Ohio,Highland,0,0,39,1
+2020-06-23,United States,Ohio,Hocking,1,0,74,8
+2020-06-23,United States,Ohio,Holmes,9,0,136,3
+2020-06-23,United States,Ohio,Huron,12,0,122,3
+2020-06-23,United States,Ohio,Jackson,0,0,16,1
+2020-06-23,United States,Ohio,Jefferson,0,0,74,3
+2020-06-23,United States,Ohio,Knox,0,0,34,2
+2020-06-23,United States,Ohio,Lake,2,0,369,18
+2020-06-23,United States,Ohio,Lawrence,1,0,45,0
+2020-06-23,United States,Ohio,Licking,6,0,337,15
+2020-06-23,United States,Ohio,Logan,2,0,50,3
+2020-06-23,United States,Ohio,Lorain,11,1,854,63
+2020-06-23,United States,Ohio,Lucas,21,0,2511,258
+2020-06-23,United States,Ohio,Madison,1,0,175,6
+2020-06-23,United States,Ohio,Mahoning,11,0,1665,201
+2020-06-23,United States,Ohio,Marion,-2,0,2713,30
+2020-06-23,United States,Ohio,Medina,3,0,416,33
+2020-06-23,United States,Ohio,Meigs,0,0,9,3
+2020-06-23,United States,Ohio,Mercer,-1,0,257,8
+2020-06-23,United States,Ohio,Miami,5,0,405,25
+2020-06-23,United States,Ohio,Monroe,0,0,82,15
+2020-06-23,United States,Ohio,Montgomery,29,1,1292,20
+2020-06-23,United States,Ohio,Morgan,0,0,6,0
+2020-06-23,United States,Ohio,Morrow,0,0,110,1
+2020-06-23,United States,Ohio,Muskingum,1,0,65,0
+2020-06-23,United States,Ohio,Noble,0,0,6,0
+2020-06-23,United States,Ohio,Ottawa,3,0,122,21
+2020-06-23,United States,Ohio,Paulding,1,0,19,0
+2020-06-23,United States,Ohio,Perry,0,0,26,1
+2020-06-23,United States,Ohio,Pickaway,2,0,2141,33
+2020-06-23,United States,Ohio,Pike,3,0,17,2
+2020-06-23,United States,Ohio,Portage,0,0,369,50
+2020-06-23,United States,Ohio,Preble,1,0,52,2
+2020-06-23,United States,Ohio,Putnam,0,0,105,10
+2020-06-23,United States,Ohio,Richland,6,1,277,5
+2020-06-23,United States,Ohio,Ross,1,0,85,2
+2020-06-23,United States,Ohio,Sandusky,1,0,110,12
+2020-06-23,United States,Ohio,Scioto,1,0,22,0
+2020-06-23,United States,Ohio,Seneca,0,0,31,3
+2020-06-23,United States,Ohio,Shelby,1,1,52,4
+2020-06-23,United States,Ohio,Stark,15,0,957,88
+2020-06-23,United States,Ohio,Summit,24,0,1780,163
+2020-06-23,United States,Ohio,Trumbull,15,1,726,60
+2020-06-23,United States,Ohio,Tuscarawas,7,0,436,8
+2020-06-23,United States,Ohio,Unassigned,0,0,0,0
+2020-06-23,United States,Ohio,Union,0,0,71,2
+2020-06-23,United States,Ohio,Van Wert,0,0,16,1
+2020-06-23,United States,Ohio,Vinton,0,0,22,2
+2020-06-23,United States,Ohio,Warren,10,0,594,16
+2020-06-23,United States,Ohio,Washington,1,0,120,17
+2020-06-23,United States,Ohio,Wayne,3,0,330,50
+2020-06-23,United States,Ohio,Williams,1,0,60,0
+2020-06-23,United States,Ohio,Wood,3,0,337,36
+2020-06-23,United States,Ohio,Wyandot,0,0,55,4
+2020-06-23,United States,Oklahoma,Adair,1,0,108,4
+2020-06-23,United States,Oklahoma,Alfalfa,0,0,1,0
+2020-06-23,United States,Oklahoma,Atoka,1,0,14,0
+2020-06-23,United States,Oklahoma,Beaver,0,0,30,0
+2020-06-23,United States,Oklahoma,Beckham,1,0,9,0
+2020-06-23,United States,Oklahoma,Blaine,0,0,14,0
+2020-06-23,United States,Oklahoma,Bryan,1,0,72,1
+2020-06-23,United States,Oklahoma,Caddo,1,0,181,10
+2020-06-23,United States,Oklahoma,Canadian,3,0,200,3
+2020-06-23,United States,Oklahoma,Carter,1,0,70,1
+2020-06-23,United States,Oklahoma,Cherokee,0,0,66,1
+2020-06-23,United States,Oklahoma,Choctaw,1,0,108,1
+2020-06-23,United States,Oklahoma,Cimarron,0,0,1,0
+2020-06-23,United States,Oklahoma,Cleveland,7,0,684,40
+2020-06-23,United States,Oklahoma,Coal,0,0,6,0
+2020-06-23,United States,Oklahoma,Comanche,12,0,377,5
+2020-06-23,United States,Oklahoma,Cotton,0,0,5,2
+2020-06-23,United States,Oklahoma,Craig,0,0,18,0
+2020-06-23,United States,Oklahoma,Creek,1,0,124,7
+2020-06-23,United States,Oklahoma,Custer,1,0,50,0
+2020-06-23,United States,Oklahoma,Delaware,0,0,117,16
+2020-06-23,United States,Oklahoma,Dewey,0,0,4,0
+2020-06-23,United States,Oklahoma,Ellis,0,0,1,0
+2020-06-23,United States,Oklahoma,Garfield,0,0,55,1
+2020-06-23,United States,Oklahoma,Garvin,4,0,49,1
+2020-06-23,United States,Oklahoma,Grady,0,0,125,5
+2020-06-23,United States,Oklahoma,Grant,0,0,2,0
+2020-06-23,United States,Oklahoma,Greer,0,0,66,7
+2020-06-23,United States,Oklahoma,Harmon,0,0,1,0
+2020-06-23,United States,Oklahoma,Harper,0,0,1,0
+2020-06-23,United States,Oklahoma,Haskell,0,0,7,0
+2020-06-23,United States,Oklahoma,Hughes,0,0,5,0
+2020-06-23,United States,Oklahoma,Jackson,2,0,34,3
+2020-06-23,United States,Oklahoma,Jefferson,0,0,4,0
+2020-06-23,United States,Oklahoma,Johnston,1,0,9,0
+2020-06-23,United States,Oklahoma,Kay,0,0,80,7
+2020-06-23,United States,Oklahoma,Kingfisher,0,0,19,0
+2020-06-23,United States,Oklahoma,Kiowa,0,0,6,0
+2020-06-23,United States,Oklahoma,Latimer,0,0,7,1
+2020-06-23,United States,Oklahoma,Le Flore,0,0,27,1
+2020-06-23,United States,Oklahoma,Lincoln,1,0,27,2
+2020-06-23,United States,Oklahoma,Logan,2,0,30,1
+2020-06-23,United States,Oklahoma,Love,0,0,26,0
+2020-06-23,United States,Oklahoma,Major,0,0,8,1
+2020-06-23,United States,Oklahoma,Marshall,1,0,23,0
+2020-06-23,United States,Oklahoma,Mayes,1,0,70,4
+2020-06-23,United States,Oklahoma,McClain,0,0,130,4
+2020-06-23,United States,Oklahoma,McCurtain,29,0,331,2
+2020-06-23,United States,Oklahoma,McIntosh,2,0,40,1
+2020-06-23,United States,Oklahoma,Murray,1,0,14,0
+2020-06-23,United States,Oklahoma,Muskogee,3,0,97,9
+2020-06-23,United States,Oklahoma,Noble,1,0,29,0
+2020-06-23,United States,Oklahoma,Nowata,0,0,28,1
+2020-06-23,United States,Oklahoma,Okfuskee,4,0,11,0
+2020-06-23,United States,Oklahoma,Oklahoma,48,0,2147,65
+2020-06-23,United States,Oklahoma,Okmulgee,3,0,48,0
+2020-06-23,United States,Oklahoma,Osage,2,0,142,8
+2020-06-23,United States,Oklahoma,Ottawa,0,0,44,2
+2020-06-23,United States,Oklahoma,Out of OK,0,0,0,0
+2020-06-23,United States,Oklahoma,Pawnee,2,0,50,2
+2020-06-23,United States,Oklahoma,Payne,22,0,264,1
+2020-06-23,United States,Oklahoma,Pittsburg,2,0,50,3
+2020-06-23,United States,Oklahoma,Pontotoc,0,0,27,2
+2020-06-23,United States,Oklahoma,Pottawatomie,3,0,88,4
+2020-06-23,United States,Oklahoma,Pushmataha,-1,0,8,0
+2020-06-23,United States,Oklahoma,Rogers,2,0,128,5
+2020-06-23,United States,Oklahoma,Seminole,0,0,35,3
+2020-06-23,United States,Oklahoma,Sequoyah,1,0,26,3
+2020-06-23,United States,Oklahoma,Stephens,0,0,49,1
+2020-06-23,United States,Oklahoma,Texas,0,0,980,6
+2020-06-23,United States,Oklahoma,Tillman,0,0,23,1
+2020-06-23,United States,Oklahoma,Tulsa,43,0,2392,66
+2020-06-23,United States,Oklahoma,Unassigned,0,0,0,0
+2020-06-23,United States,Oklahoma,Wagoner,5,0,215,17
+2020-06-23,United States,Oklahoma,Washington,2,0,377,38
+2020-06-23,United States,Oklahoma,Washita,0,0,3,0
+2020-06-23,United States,Oklahoma,Woods,0,0,5,0
+2020-06-23,United States,Oklahoma,Woodward,0,0,12,0
+2020-06-23,United States,Oregon,Baker,0,0,1,0
+2020-06-23,United States,Oregon,Benton,3,0,69,5
+2020-06-23,United States,Oregon,Clackamas,46,1,607,23
+2020-06-23,United States,Oregon,Clatsop,0,0,46,0
+2020-06-23,United States,Oregon,Columbia,0,0,26,0
+2020-06-23,United States,Oregon,Coos,3,0,36,0
+2020-06-23,United States,Oregon,Crook,0,0,9,0
+2020-06-23,United States,Oregon,Curry,0,0,7,0
+2020-06-23,United States,Oregon,Deschutes,5,0,147,0
+2020-06-23,United States,Oregon,Douglas,2,0,34,0
+2020-06-23,United States,Oregon,Gilliam,0,0,0,0
+2020-06-23,United States,Oregon,Grant,0,0,1,0
+2020-06-23,United States,Oregon,Harney,0,0,1,0
+2020-06-23,United States,Oregon,Hood River,1,0,88,0
+2020-06-23,United States,Oregon,Jackson,6,0,91,0
+2020-06-23,United States,Oregon,Jefferson,2,0,79,0
+2020-06-23,United States,Oregon,Josephine,0,0,26,1
+2020-06-23,United States,Oregon,Klamath,8,0,88,0
+2020-06-23,United States,Oregon,Lake,0,0,6,0
+2020-06-23,United States,Oregon,Lane,13,0,106,3
+2020-06-23,United States,Oregon,Lincoln,31,1,292,1
+2020-06-23,United States,Oregon,Linn,2,0,129,9
+2020-06-23,United States,Oregon,Malheur,8,0,51,1
+2020-06-23,United States,Oregon,Marion,84,1,1348,35
+2020-06-23,United States,Oregon,Morrow,5,1,32,1
+2020-06-23,United States,Oregon,Multnomah,135,0,1849,68
+2020-06-23,United States,Oregon,Polk,-1,0,130,12
+2020-06-23,United States,Oregon,Sherman,0,0,1,0
+2020-06-23,United States,Oregon,Tillamook,0,0,6,0
+2020-06-23,United States,Oregon,Umatilla,49,0,279,4
+2020-06-23,United States,Oregon,Unassigned,0,0,0,0
+2020-06-23,United States,Oregon,Union,10,0,263,0
+2020-06-23,United States,Oregon,Wallowa,3,0,8,0
+2020-06-23,United States,Oregon,Wasco,6,0,48,1
+2020-06-23,United States,Oregon,Washington,86,0,1078,20
+2020-06-23,United States,Oregon,Wheeler,0,0,0,0
+2020-06-23,United States,Oregon,Yamhill,4,0,101,8
+2020-06-23,United States,Pennsylvania,Adams,3,0,317,11
+2020-06-23,United States,Pennsylvania,Allegheny,45,0,2220,179
+2020-06-23,United States,Pennsylvania,Armstrong,0,0,69,6
+2020-06-23,United States,Pennsylvania,Beaver,1,0,625,77
+2020-06-23,United States,Pennsylvania,Bedford,0,0,66,2
+2020-06-23,United States,Pennsylvania,Berks,12,1,4419,345
+2020-06-23,United States,Pennsylvania,Blair,0,0,58,1
+2020-06-23,United States,Pennsylvania,Bradford,0,0,50,3
+2020-06-23,United States,Pennsylvania,Bucks,20,0,5567,552
+2020-06-23,United States,Pennsylvania,Butler,3,0,271,13
+2020-06-23,United States,Pennsylvania,Cambria,0,0,61,3
+2020-06-23,United States,Pennsylvania,Cameron,0,0,2,0
+2020-06-23,United States,Pennsylvania,Carbon,0,0,267,24
+2020-06-23,United States,Pennsylvania,Centre,4,0,184,6
+2020-06-23,United States,Pennsylvania,Chester,19,1,3565,326
+2020-06-23,United States,Pennsylvania,Clarion,0,0,31,2
+2020-06-23,United States,Pennsylvania,Clearfield,1,0,67,0
+2020-06-23,United States,Pennsylvania,Clinton,1,0,71,3
+2020-06-23,United States,Pennsylvania,Columbia,5,0,397,33
+2020-06-23,United States,Pennsylvania,Crawford,2,0,42,0
+2020-06-23,United States,Pennsylvania,Cumberland,6,0,792,61
+2020-06-23,United States,Pennsylvania,Dauphin,48,0,1810,120
+2020-06-23,United States,Pennsylvania,Delaware,13,0,7051,635
+2020-06-23,United States,Pennsylvania,Elk,1,0,9,0
+2020-06-23,United States,Pennsylvania,Erie,3,0,535,9
+2020-06-23,United States,Pennsylvania,Fayette,0,0,104,4
+2020-06-23,United States,Pennsylvania,Forest,0,0,7,0
+2020-06-23,United States,Pennsylvania,Franklin,3,0,882,42
+2020-06-23,United States,Pennsylvania,Fulton,0,0,18,1
+2020-06-23,United States,Pennsylvania,Greene,0,0,35,0
+2020-06-23,United States,Pennsylvania,Huntingdon,0,0,240,4
+2020-06-23,United States,Pennsylvania,Indiana,0,0,98,5
+2020-06-23,United States,Pennsylvania,Jefferson,0,0,20,1
+2020-06-23,United States,Pennsylvania,Juniata,0,0,108,5
+2020-06-23,United States,Pennsylvania,Lackawanna,5,0,1627,200
+2020-06-23,United States,Pennsylvania,Lancaster,30,1,4029,347
+2020-06-23,United States,Pennsylvania,Lawrence,2,0,92,9
+2020-06-23,United States,Pennsylvania,Lebanon,10,0,1261,40
+2020-06-23,United States,Pennsylvania,Lehigh,6,1,4091,279
+2020-06-23,United States,Pennsylvania,Luzerne,6,0,2870,171
+2020-06-23,United States,Pennsylvania,Lycoming,0,0,173,19
+2020-06-23,United States,Pennsylvania,McKean,1,0,15,1
+2020-06-23,United States,Pennsylvania,Mercer,0,0,119,6
+2020-06-23,United States,Pennsylvania,Mifflin,0,0,61,1
+2020-06-23,United States,Pennsylvania,Monroe,2,0,1378,107
+2020-06-23,United States,Pennsylvania,Montgomery,20,0,8123,784
+2020-06-23,United States,Pennsylvania,Montour,0,0,68,0
+2020-06-23,United States,Pennsylvania,Northampton,3,0,3312,252
+2020-06-23,United States,Pennsylvania,Northumberland,8,0,279,4
+2020-06-23,United States,Pennsylvania,Perry,0,0,83,5
+2020-06-23,United States,Pennsylvania,Philadelphia,275,0,25116,1553
+2020-06-23,United States,Pennsylvania,Pike,0,0,489,20
+2020-06-23,United States,Pennsylvania,Potter,0,0,13,0
+2020-06-23,United States,Pennsylvania,Schuylkill,1,0,715,43
+2020-06-23,United States,Pennsylvania,Snyder,0,0,61,1
+2020-06-23,United States,Pennsylvania,Somerset,1,0,48,1
+2020-06-23,United States,Pennsylvania,Sullivan,0,0,3,0
+2020-06-23,United States,Pennsylvania,Susquehanna,0,0,178,20
+2020-06-23,United States,Pennsylvania,Tioga,1,0,23,2
+2020-06-23,United States,Pennsylvania,Unassigned,0,0,0,0
+2020-06-23,United States,Pennsylvania,Union,1,0,89,2
+2020-06-23,United States,Pennsylvania,Venango,0,0,17,0
+2020-06-23,United States,Pennsylvania,Warren,0,0,5,0
+2020-06-23,United States,Pennsylvania,Washington,0,0,168,6
+2020-06-23,United States,Pennsylvania,Wayne,0,0,130,9
+2020-06-23,United States,Pennsylvania,Westmoreland,16,0,546,38
+2020-06-23,United States,Pennsylvania,Wyoming,0,0,37,7
+2020-06-23,United States,Pennsylvania,York,55,0,1351,36
+2020-06-23,United States,Puerto Rico,,39,0,6564,149
+2020-06-23,United States,Recovered,,0,0,0,0
+2020-06-23,United States,Rhode Island,Bristol,7,0,247,15
+2020-06-23,United States,Rhode Island,Kent,41,0,1169,90
+2020-06-23,United States,Rhode Island,Newport,17,0,294,7
+2020-06-23,United States,Rhode Island,Providence,349,0,12712,734
+2020-06-23,United States,Rhode Island,Unassigned,-299,2,1514,41
+2020-06-23,United States,Rhode Island,Washington,7,0,523,59
+2020-06-23,United States,South Carolina,Abbeville,-1,0,87,0
+2020-06-23,United States,South Carolina,Aiken,5,0,279,9
+2020-06-23,United States,South Carolina,Allendale,1,0,46,3
+2020-06-23,United States,South Carolina,Anderson,20,0,461,10
+2020-06-23,United States,South Carolina,Bamberg,0,0,66,0
+2020-06-23,United States,South Carolina,Barnwell,1,0,60,1
+2020-06-23,United States,South Carolina,Beaufort,27,0,884,15
+2020-06-23,United States,South Carolina,Berkeley,45,0,644,20
+2020-06-23,United States,South Carolina,Calhoun,4,0,73,1
+2020-06-23,United States,South Carolina,Charleston,208,0,2044,19
+2020-06-23,United States,South Carolina,Cherokee,6,0,112,6
+2020-06-23,United States,South Carolina,Chester,8,0,146,1
+2020-06-23,United States,South Carolina,Chesterfield,11,0,322,10
+2020-06-23,United States,South Carolina,Clarendon,6,1,365,42
+2020-06-23,United States,South Carolina,Colleton,1,0,245,20
+2020-06-23,United States,South Carolina,Darlington,8,1,384,14
+2020-06-23,United States,South Carolina,Dillon,4,0,230,5
+2020-06-23,United States,South Carolina,Dorchester,3,0,390,3
+2020-06-23,United States,South Carolina,Edgefield,1,0,70,2
+2020-06-23,United States,South Carolina,Fairfield,2,0,259,20
+2020-06-23,United States,South Carolina,Florence,56,0,977,47
+2020-06-23,United States,South Carolina,Georgetown,11,0,269,3
+2020-06-23,United States,South Carolina,Greenville,98,1,3768,74
+2020-06-23,United States,South Carolina,Greenwood,3,0,374,5
+2020-06-23,United States,South Carolina,Hampton,1,0,55,1
+2020-06-23,United States,South Carolina,Horry,123,0,2054,39
+2020-06-23,United States,South Carolina,Jasper,6,0,82,3
+2020-06-23,United States,South Carolina,Kershaw,26,0,557,16
+2020-06-23,United States,South Carolina,Lancaster,13,1,335,11
+2020-06-23,United States,South Carolina,Laurens,17,0,254,4
+2020-06-23,United States,South Carolina,Lee,2,0,256,20
+2020-06-23,United States,South Carolina,Lexington,22,0,1513,42
+2020-06-23,United States,South Carolina,Marion,9,1,155,6
+2020-06-23,United States,South Carolina,Marlboro,7,0,274,3
+2020-06-23,United States,South Carolina,McCormick,0,0,11,1
+2020-06-23,United States,South Carolina,Newberry,5,0,137,3
+2020-06-23,United States,South Carolina,Oconee,18,0,154,1
+2020-06-23,United States,South Carolina,Orangeburg,18,0,524,8
+2020-06-23,United States,South Carolina,Pickens,30,0,529,4
+2020-06-23,United States,South Carolina,Richland,41,1,2704,80
+2020-06-23,United States,South Carolina,Saluda,2,0,185,1
+2020-06-23,United States,South Carolina,Spartanburg,47,0,1247,39
+2020-06-23,United States,South Carolina,Sumter,34,0,825,21
+2020-06-23,United States,South Carolina,Unassigned,0,0,0,0
+2020-06-23,United States,South Carolina,Union,4,0,62,0
+2020-06-23,United States,South Carolina,Williamsburg,6,0,339,15
+2020-06-23,United States,South Carolina,York,46,0,859,11
+2020-06-23,United States,South Dakota,Aurora,0,0,34,0
+2020-06-23,United States,South Dakota,Beadle,0,0,494,6
+2020-06-23,United States,South Dakota,Bennett,0,0,2,0
+2020-06-23,United States,South Dakota,Bon Homme,0,0,11,0
+2020-06-23,United States,South Dakota,Brookings,1,0,52,0
+2020-06-23,United States,South Dakota,Brown,2,0,326,2
+2020-06-23,United States,South Dakota,Brule,0,0,15,0
+2020-06-23,United States,South Dakota,Buffalo,0,0,66,0
+2020-06-23,United States,South Dakota,Butte,0,0,0,0
+2020-06-23,United States,South Dakota,Charles Mix,1,0,49,0
+2020-06-23,United States,South Dakota,Clark,1,0,12,0
+2020-06-23,United States,South Dakota,Clay,0,0,73,0
+2020-06-23,United States,South Dakota,Codington,0,0,49,0
+2020-06-23,United States,South Dakota,Corson,0,0,15,0
+2020-06-23,United States,South Dakota,Custer,0,0,7,0
+2020-06-23,United States,South Dakota,Davison,0,0,35,0
+2020-06-23,United States,South Dakota,Day,0,0,13,0
+2020-06-23,United States,South Dakota,Deuel,0,0,1,0
+2020-06-23,United States,South Dakota,Dewey,0,0,4,0
+2020-06-23,United States,South Dakota,Douglas,0,0,4,0
+2020-06-23,United States,South Dakota,Edmunds,0,0,5,0
+2020-06-23,United States,South Dakota,Fall River,1,0,7,0
+2020-06-23,United States,South Dakota,Faulk,0,0,22,0
+2020-06-23,United States,South Dakota,Grant,0,0,13,0
+2020-06-23,United States,South Dakota,Gregory,0,0,1,0
+2020-06-23,United States,South Dakota,Hamlin,1,0,11,0
+2020-06-23,United States,South Dakota,Hand,0,0,7,0
+2020-06-23,United States,South Dakota,Hanson,1,0,5,0
+2020-06-23,United States,South Dakota,Hughes,0,0,32,0
+2020-06-23,United States,South Dakota,Hutchinson,0,0,10,0
+2020-06-23,United States,South Dakota,Hyde,0,0,3,0
+2020-06-23,United States,South Dakota,Jackson,0,0,6,1
+2020-06-23,United States,South Dakota,Jerauld,0,0,39,1
+2020-06-23,United States,South Dakota,Kingsbury,0,0,5,0
+2020-06-23,United States,South Dakota,Lake,0,0,17,1
+2020-06-23,United States,South Dakota,Lawrence,0,0,16,0
+2020-06-23,United States,South Dakota,Lincoln,0,0,323,1
+2020-06-23,United States,South Dakota,Lyman,1,0,48,0
+2020-06-23,United States,South Dakota,Marshall,0,0,5,0
+2020-06-23,United States,South Dakota,McCook,0,0,8,1
+2020-06-23,United States,South Dakota,McPherson,0,0,4,0
+2020-06-23,United States,South Dakota,Meade,1,0,43,1
+2020-06-23,United States,South Dakota,Mellette,0,0,2,0
+2020-06-23,United States,South Dakota,Miner,0,0,5,0
+2020-06-23,United States,South Dakota,Minnehaha,11,0,3534,54
+2020-06-23,United States,South Dakota,Moody,0,0,21,0
+2020-06-23,United States,South Dakota,Oglala Lakota,1,0,56,0
+2020-06-23,United States,South Dakota,Pennington,5,0,462,11
+2020-06-23,United States,South Dakota,Roberts,0,0,40,0
+2020-06-23,United States,South Dakota,Sanborn,0,0,12,0
+2020-06-23,United States,South Dakota,Spink,1,0,8,0
+2020-06-23,United States,South Dakota,Stanley,0,0,12,0
+2020-06-23,United States,South Dakota,Sully,0,0,1,0
+2020-06-23,United States,South Dakota,Todd,0,0,50,1
+2020-06-23,United States,South Dakota,Tripp,0,0,12,0
+2020-06-23,United States,South Dakota,Turner,0,0,24,0
+2020-06-23,United States,South Dakota,Unassigned,0,0,0,0
+2020-06-23,United States,South Dakota,Union,0,0,117,1
+2020-06-23,United States,South Dakota,Walworth,0,0,7,0
+2020-06-23,United States,South Dakota,Yankton,1,0,69,0
+2020-06-23,United States,South Dakota,Ziebach,0,0,2,0
+2020-06-23,United States,Tennessee,Anderson,1,0,75,2
+2020-06-23,United States,Tennessee,Bedford,2,0,432,4
+2020-06-23,United States,Tennessee,Benton,0,0,8,1
+2020-06-23,United States,Tennessee,Bledsoe,0,0,613,1
+2020-06-23,United States,Tennessee,Blount,3,0,130,3
+2020-06-23,United States,Tennessee,Bradley,11,0,349,3
+2020-06-23,United States,Tennessee,Campbell,0,0,26,1
+2020-06-23,United States,Tennessee,Cannon,0,0,23,0
+2020-06-23,United States,Tennessee,Carroll,0,0,36,1
+2020-06-23,United States,Tennessee,Carter,0,0,30,1
+2020-06-23,United States,Tennessee,Cheatham,2,0,167,0
+2020-06-23,United States,Tennessee,Chester,0,0,14,0
+2020-06-23,United States,Tennessee,Claiborne,0,0,16,0
+2020-06-23,United States,Tennessee,Clay,0,0,13,0
+2020-06-23,United States,Tennessee,Cocke,2,0,31,0
+2020-06-23,United States,Tennessee,Coffee,0,0,99,0
+2020-06-23,United States,Tennessee,Crockett,0,0,25,3
+2020-06-23,United States,Tennessee,Cumberland,3,0,145,3
+2020-06-23,United States,Tennessee,Davidson,48,1,7716,96
+2020-06-23,United States,Tennessee,Decatur,0,0,15,0
+2020-06-23,United States,Tennessee,DeKalb,-1,0,42,0
+2020-06-23,United States,Tennessee,Dickson,-1,0,146,0
+2020-06-23,United States,Tennessee,Dyer,6,0,164,0
+2020-06-23,United States,Tennessee,Fayette,8,0,203,2
+2020-06-23,United States,Tennessee,Fentress,0,0,15,0
+2020-06-23,United States,Tennessee,Franklin,2,0,69,2
+2020-06-23,United States,Tennessee,Gibson,0,0,77,1
+2020-06-23,United States,Tennessee,Giles,0,0,24,0
+2020-06-23,United States,Tennessee,Grainger,0,0,25,0
+2020-06-23,United States,Tennessee,Greene,1,0,56,2
+2020-06-23,United States,Tennessee,Grundy,2,0,48,1
+2020-06-23,United States,Tennessee,Hamblen,4,0,121,4
+2020-06-23,United States,Tennessee,Hamilton,29,1,2103,26
+2020-06-23,United States,Tennessee,Hancock,0,0,3,0
+2020-06-23,United States,Tennessee,Hardeman,2,0,257,1
+2020-06-23,United States,Tennessee,Hardin,12,0,69,5
+2020-06-23,United States,Tennessee,Hawkins,1,0,40,2
+2020-06-23,United States,Tennessee,Haywood,3,0,48,2
+2020-06-23,United States,Tennessee,Henderson,1,0,22,0
+2020-06-23,United States,Tennessee,Henry,0,0,36,0
+2020-06-23,United States,Tennessee,Hickman,0,0,64,0
+2020-06-23,United States,Tennessee,Houston,0,0,10,0
+2020-06-23,United States,Tennessee,Humphreys,0,0,18,1
+2020-06-23,United States,Tennessee,Jackson,1,0,22,0
+2020-06-23,United States,Tennessee,Jefferson,3,0,64,0
+2020-06-23,United States,Tennessee,Johnson,0,0,26,0
+2020-06-23,United States,Tennessee,Knox,37,0,693,5
+2020-06-23,United States,Tennessee,Lake,0,0,689,0
+2020-06-23,United States,Tennessee,Lauderdale,3,0,75,1
+2020-06-23,United States,Tennessee,Lawrence,0,0,81,2
+2020-06-23,United States,Tennessee,Lewis,0,0,5,0
+2020-06-23,United States,Tennessee,Lincoln,0,0,49,0
+2020-06-23,United States,Tennessee,Loudon,2,0,234,1
+2020-06-23,United States,Tennessee,Macon,1,0,223,3
+2020-06-23,United States,Tennessee,Madison,3,0,196,2
+2020-06-23,United States,Tennessee,Marion,0,0,50,3
+2020-06-23,United States,Tennessee,Marshall,0,0,46,1
+2020-06-23,United States,Tennessee,Maury,4,0,224,2
+2020-06-23,United States,Tennessee,McMinn,2,0,175,15
+2020-06-23,United States,Tennessee,McNairy,2,0,42,0
+2020-06-23,United States,Tennessee,Meigs,0,0,31,0
+2020-06-23,United States,Tennessee,Monroe,1,0,109,4
+2020-06-23,United States,Tennessee,Montgomery,1,0,385,5
+2020-06-23,United States,Tennessee,Moore,0,0,5,0
+2020-06-23,United States,Tennessee,Morgan,0,0,22,1
+2020-06-23,United States,Tennessee,Obion,0,0,71,1
+2020-06-23,United States,Tennessee,Out of TN,-18,0,632,8
+2020-06-23,United States,Tennessee,Overton,1,0,43,0
+2020-06-23,United States,Tennessee,Perry,0,0,28,0
+2020-06-23,United States,Tennessee,Pickett,1,0,5,0
+2020-06-23,United States,Tennessee,Polk,4,0,36,0
+2020-06-23,United States,Tennessee,Putnam,10,0,673,7
+2020-06-23,United States,Tennessee,Rhea,-1,0,255,0
+2020-06-23,United States,Tennessee,Roane,0,0,34,0
+2020-06-23,United States,Tennessee,Robertson,3,1,708,10
+2020-06-23,United States,Tennessee,Rutherford,40,0,2100,32
+2020-06-23,United States,Tennessee,Scott,0,0,14,0
+2020-06-23,United States,Tennessee,Sequatchie,0,0,24,0
+2020-06-23,United States,Tennessee,Sevier,2,0,422,3
+2020-06-23,United States,Tennessee,Shelby,148,2,8064,165
+2020-06-23,United States,Tennessee,Smith,0,0,50,1
+2020-06-23,United States,Tennessee,Stewart,0,0,17,0
+2020-06-23,United States,Tennessee,Sullivan,1,0,73,2
+2020-06-23,United States,Tennessee,Sumner,15,0,1196,49
+2020-06-23,United States,Tennessee,Tipton,1,0,563,4
+2020-06-23,United States,Tennessee,Trousdale,0,0,1466,5
+2020-06-23,United States,Tennessee,Unassigned,19,0,225,0
+2020-06-23,United States,Tennessee,Unicoi,1,0,53,0
+2020-06-23,United States,Tennessee,Union,0,0,10,0
+2020-06-23,United States,Tennessee,Van Buren,0,0,5,0
+2020-06-23,United States,Tennessee,Warren,0,0,34,0
+2020-06-23,United States,Tennessee,Washington,1,0,103,0
+2020-06-23,United States,Tennessee,Wayne,1,0,65,0
+2020-06-23,United States,Tennessee,Weakley,1,0,43,0
+2020-06-23,United States,Tennessee,White,0,0,54,3
+2020-06-23,United States,Tennessee,Williamson,11,0,793,13
+2020-06-23,United States,Tennessee,Wilson,9,0,625,15
+2020-06-23,United States,Texas,Anderson,0,0,1006,2
+2020-06-23,United States,Texas,Andrews,0,0,44,0
+2020-06-23,United States,Texas,Angelina,0,0,380,6
+2020-06-23,United States,Texas,Aransas,0,0,7,0
+2020-06-23,United States,Texas,Archer,0,0,3,0
+2020-06-23,United States,Texas,Armstrong,0,0,3,0
+2020-06-23,United States,Texas,Atascosa,0,0,70,2
+2020-06-23,United States,Texas,Austin,3,0,48,0
+2020-06-23,United States,Texas,Bailey,3,0,86,0
+2020-06-23,United States,Texas,Bandera,0,0,15,0
+2020-06-23,United States,Texas,Bastrop,23,0,363,4
+2020-06-23,United States,Texas,Baylor,0,0,1,0
+2020-06-23,United States,Texas,Bee,0,0,36,0
+2020-06-23,United States,Texas,Bell,0,0,822,10
+2020-06-23,United States,Texas,Bexar,538,1,6882,97
+2020-06-23,United States,Texas,Blanco,8,0,22,1
+2020-06-23,United States,Texas,Bosque,0,0,10,0
+2020-06-23,United States,Texas,Bowie,0,0,400,12
+2020-06-23,United States,Texas,Brazoria,34,0,1762,19
+2020-06-23,United States,Texas,Brazos,16,0,1260,25
+2020-06-23,United States,Texas,Brewster,15,0,39,0
+2020-06-23,United States,Texas,Briscoe,0,0,1,0
+2020-06-23,United States,Texas,Brooks,0,0,3,0
+2020-06-23,United States,Texas,Brown,0,0,62,10
+2020-06-23,United States,Texas,Burleson,5,0,60,0
+2020-06-23,United States,Texas,Burnet,9,0,89,3
+2020-06-23,United States,Texas,Caldwell,10,0,226,1
+2020-06-23,United States,Texas,Calhoun,0,0,55,3
+2020-06-23,United States,Texas,Callahan,0,0,13,2
+2020-06-23,United States,Texas,Cameron,0,0,1546,48
+2020-06-23,United States,Texas,Camp,0,0,110,1
+2020-06-23,United States,Texas,Carson,0,0,6,0
+2020-06-23,United States,Texas,Cass,0,0,36,2
+2020-06-23,United States,Texas,Castro,7,0,58,1
+2020-06-23,United States,Texas,Chambers,0,0,156,1
+2020-06-23,United States,Texas,Cherokee,0,0,67,2
+2020-06-23,United States,Texas,Childress,0,0,6,0
+2020-06-23,United States,Texas,Clay,0,0,5,0
+2020-06-23,United States,Texas,Cochran,0,0,1,0
+2020-06-23,United States,Texas,Coke,0,0,4,0
+2020-06-23,United States,Texas,Coleman,0,0,3,0
+2020-06-23,United States,Texas,Collin,34,0,2223,38
+2020-06-23,United States,Texas,Collingsworth,0,0,5,0
+2020-06-23,United States,Texas,Colorado,0,0,55,0
+2020-06-23,United States,Texas,Comal,0,0,280,7
+2020-06-23,United States,Texas,Comanche,0,0,14,1
+2020-06-23,United States,Texas,Concho,0,0,2,0
+2020-06-23,United States,Texas,Cooke,0,0,27,0
+2020-06-23,United States,Texas,Coryell,5,0,315,2
+2020-06-23,United States,Texas,Cottle,0,0,4,1
+2020-06-23,United States,Texas,Crane,1,0,47,5
+2020-06-23,United States,Texas,Crockett,0,0,5,0
+2020-06-23,United States,Texas,Crosby,0,0,8,1
+2020-06-23,United States,Texas,Culberson,0,0,1,0
+2020-06-23,United States,Texas,Dallam,9,0,58,1
+2020-06-23,United States,Texas,Dallas,454,8,17299,370
+2020-06-23,United States,Texas,Dawson,0,0,45,1
+2020-06-23,United States,Texas,Deaf Smith,9,0,242,16
+2020-06-23,United States,Texas,Delta,0,0,4,0
+2020-06-23,United States,Texas,Denton,56,0,2220,36
+2020-06-23,United States,Texas,DeWitt,0,0,37,1
+2020-06-23,United States,Texas,Dickens,0,0,2,0
+2020-06-23,United States,Texas,Dimmit,0,0,3,0
+2020-06-23,United States,Texas,Donley,0,0,27,0
+2020-06-23,United States,Texas,Duval,0,0,5,0
+2020-06-23,United States,Texas,Eastland,0,0,7,0
+2020-06-23,United States,Texas,Ector,0,0,325,7
+2020-06-23,United States,Texas,El Paso,65,0,4553,120
+2020-06-23,United States,Texas,Ellis,0,0,510,19
+2020-06-23,United States,Texas,Erath,0,0,44,1
+2020-06-23,United States,Texas,Falls,1,0,23,0
+2020-06-23,United States,Texas,Fannin,0,0,65,6
+2020-06-23,United States,Texas,Fayette,6,0,66,2
+2020-06-23,United States,Texas,Fisher,0,0,2,1
+2020-06-23,United States,Texas,Floyd,1,0,19,1
+2020-06-23,United States,Texas,Fort Bend,118,0,3069,50
+2020-06-23,United States,Texas,Franklin,0,0,33,0
+2020-06-23,United States,Texas,Freestone,0,0,19,0
+2020-06-23,United States,Texas,Frio,0,0,139,0
+2020-06-23,United States,Texas,Gaines,0,0,14,0
+2020-06-23,United States,Texas,Galveston,83,0,1867,40
+2020-06-23,United States,Texas,Garza,0,0,7,0
+2020-06-23,United States,Texas,Gillespie,0,0,17,0
+2020-06-23,United States,Texas,Glasscock,0,0,5,0
+2020-06-23,United States,Texas,Goliad,0,0,7,0
+2020-06-23,United States,Texas,Gonzales,0,0,215,4
+2020-06-23,United States,Texas,Gray,0,0,113,4
+2020-06-23,United States,Texas,Grayson,4,0,518,5
+2020-06-23,United States,Texas,Gregg,0,0,305,12
+2020-06-23,United States,Texas,Grimes,2,0,303,2
+2020-06-23,United States,Texas,Guadalupe,0,0,323,1
+2020-06-23,United States,Texas,Hale,0,0,139,5
+2020-06-23,United States,Texas,Hall,0,0,2,1
+2020-06-23,United States,Texas,Hamilton,1,0,19,1
+2020-06-23,United States,Texas,Hansford,0,0,23,2
+2020-06-23,United States,Texas,Hardeman,0,0,4,0
+2020-06-23,United States,Texas,Hardin,0,0,172,5
+2020-06-23,United States,Texas,Harris,1994,7,23047,332
+2020-06-23,United States,Texas,Harrison,2,0,274,32
+2020-06-23,United States,Texas,Hartley,0,0,13,2
+2020-06-23,United States,Texas,Haskell,0,0,4,0
+2020-06-23,United States,Texas,Hays,103,0,1711,5
+2020-06-23,United States,Texas,Hemphill,1,0,3,0
+2020-06-23,United States,Texas,Henderson,0,0,97,3
+2020-06-23,United States,Texas,Hidalgo,133,1,1689,22
+2020-06-23,United States,Texas,Hill,1,0,49,1
+2020-06-23,United States,Texas,Hockley,1,0,30,1
+2020-06-23,United States,Texas,Hood,0,0,35,4
+2020-06-23,United States,Texas,Hopkins,0,0,50,2
+2020-06-23,United States,Texas,Houston,0,0,148,0
+2020-06-23,United States,Texas,Howard,1,0,27,1
+2020-06-23,United States,Texas,Hudspeth,0,0,14,0
+2020-06-23,United States,Texas,Hunt,0,0,258,5
+2020-06-23,United States,Texas,Hutchinson,2,0,51,0
+2020-06-23,United States,Texas,Irion,0,0,1,0
+2020-06-23,United States,Texas,Jack,0,0,4,0
+2020-06-23,United States,Texas,Jackson,0,0,25,1
+2020-06-23,United States,Texas,Jasper,0,0,36,1
+2020-06-23,United States,Texas,Jefferson,0,0,1393,32
+2020-06-23,United States,Texas,Jim Hogg,0,0,9,0
+2020-06-23,United States,Texas,Jim Wells,7,0,34,0
+2020-06-23,United States,Texas,Johnson,0,0,254,4
+2020-06-23,United States,Texas,Jones,0,0,650,0
+2020-06-23,United States,Texas,Karnes,0,0,14,0
+2020-06-23,United States,Texas,Kaufman,0,0,360,4
+2020-06-23,United States,Texas,Kendall,0,0,44,0
+2020-06-23,United States,Texas,Kerr,0,0,33,1
+2020-06-23,United States,Texas,Kimble,0,0,1,0
+2020-06-23,United States,Texas,Kinney,0,0,2,0
+2020-06-23,United States,Texas,Kleberg,2,0,29,1
+2020-06-23,United States,Texas,Knox,0,0,1,0
+2020-06-23,United States,Texas,La Salle,0,0,7,0
+2020-06-23,United States,Texas,Lamar,0,0,205,13
+2020-06-23,United States,Texas,Lamb,2,0,31,0
+2020-06-23,United States,Texas,Lampasas,1,0,18,0
+2020-06-23,United States,Texas,Lavaca,0,0,85,1
+2020-06-23,United States,Texas,Lee,4,0,53,3
+2020-06-23,United States,Texas,Leon,1,0,16,0
+2020-06-23,United States,Texas,Liberty,4,0,186,3
+2020-06-23,United States,Texas,Limestone,1,0,42,1
+2020-06-23,United States,Texas,Lipscomb,0,0,9,0
+2020-06-23,United States,Texas,Live Oak,5,0,15,0
+2020-06-23,United States,Texas,Llano,3,0,8,0
+2020-06-23,United States,Texas,Lubbock,32,0,1320,51
+2020-06-23,United States,Texas,Lynn,0,0,21,1
+2020-06-23,United States,Texas,Madison,1,0,29,0
+2020-06-23,United States,Texas,Marion,0,0,21,1
+2020-06-23,United States,Texas,Martin,1,0,7,1
+2020-06-23,United States,Texas,Mason,0,0,33,0
+2020-06-23,United States,Texas,Matagorda,1,0,110,5
+2020-06-23,United States,Texas,Maverick,27,0,250,2
+2020-06-23,United States,Texas,McCulloch,0,0,5,0
+2020-06-23,United States,Texas,McLennan,51,0,354,5
+2020-06-23,United States,Texas,Medina,0,0,250,2
+2020-06-23,United States,Texas,Menard,0,0,1,0
+2020-06-23,United States,Texas,Midland,0,0,322,13
+2020-06-23,United States,Texas,Milam,0,0,57,1
+2020-06-23,United States,Texas,Mills,0,0,1,0
+2020-06-23,United States,Texas,Mitchell,0,0,2,0
+2020-06-23,United States,Texas,Montague,0,0,12,1
+2020-06-23,United States,Texas,Montgomery,92,0,1647,34
+2020-06-23,United States,Texas,Moore,2,0,879,14
+2020-06-23,United States,Texas,Morris,0,0,34,0
+2020-06-23,United States,Texas,Motley,0,0,1,0
+2020-06-23,United States,Texas,Nacogdoches,1,0,346,25
+2020-06-23,United States,Texas,Navarro,0,0,120,4
+2020-06-23,United States,Texas,Newton,3,0,11,0
+2020-06-23,United States,Texas,Nolan,3,0,13,0
+2020-06-23,United States,Texas,Nueces,36,0,633,6
+2020-06-23,United States,Texas,Ochiltree,0,0,53,2
+2020-06-23,United States,Texas,Oldham,0,0,4,1
+2020-06-23,United States,Texas,Orange,0,0,143,3
+2020-06-23,United States,Texas,Palo Pinto,0,0,14,2
+2020-06-23,United States,Texas,Panola,0,0,209,23
+2020-06-23,United States,Texas,Parker,0,0,124,1
+2020-06-23,United States,Texas,Parmer,3,2,158,2
+2020-06-23,United States,Texas,Pecos,0,0,112,0
+2020-06-23,United States,Texas,Polk,0,0,75,0
+2020-06-23,United States,Texas,Potter,0,0,2822,39
+2020-06-23,United States,Texas,Presidio,2,0,13,0
+2020-06-23,United States,Texas,Rains,0,0,8,0
+2020-06-23,United States,Texas,Randall,0,0,775,6
+2020-06-23,United States,Texas,Reagan,0,0,2,0
+2020-06-23,United States,Texas,Real,0,0,1,0
+2020-06-23,United States,Texas,Red River,0,0,99,8
+2020-06-23,United States,Texas,Reeves,0,0,14,0
+2020-06-23,United States,Texas,Refugio,0,0,6,0
+2020-06-23,United States,Texas,Roberts,1,0,3,0
+2020-06-23,United States,Texas,Robertson,3,0,30,0
+2020-06-23,United States,Texas,Rockwall,0,0,264,16
+2020-06-23,United States,Texas,Runnels,0,0,3,0
+2020-06-23,United States,Texas,Rusk,0,0,250,2
+2020-06-23,United States,Texas,Sabine,0,0,19,1
+2020-06-23,United States,Texas,San Augustine,0,0,87,6
+2020-06-23,United States,Texas,San Jacinto,1,0,24,0
+2020-06-23,United States,Texas,San Patricio,0,0,66,0
+2020-06-23,United States,Texas,San Saba,1,0,3,0
+2020-06-23,United States,Texas,Schleicher,0,0,12,0
+2020-06-23,United States,Texas,Scurry,0,0,29,0
+2020-06-23,United States,Texas,Shackelford,0,0,1,0
+2020-06-23,United States,Texas,Shelby,0,0,254,9
+2020-06-23,United States,Texas,Sherman,0,0,30,0
+2020-06-23,United States,Texas,Smith,0,0,340,4
+2020-06-23,United States,Texas,Somervell,0,0,3,0
+2020-06-23,United States,Texas,Starr,103,0,370,1
+2020-06-23,United States,Texas,Stephens,0,0,5,0
+2020-06-23,United States,Texas,Sutton,0,0,1,0
+2020-06-23,United States,Texas,Swisher,0,0,23,1
+2020-06-23,United States,Texas,Tarrant,260,1,9386,262
+2020-06-23,United States,Texas,Taylor,7,0,289,5
+2020-06-23,United States,Texas,Terry,0,0,14,0
+2020-06-23,United States,Texas,Throckmorton,0,0,1,0
+2020-06-23,United States,Texas,Titus,1,0,657,5
+2020-06-23,United States,Texas,Tom Green,11,0,250,1
+2020-06-23,United States,Texas,Travis,506,1,6210,110
+2020-06-23,United States,Texas,Trinity,0,0,23,0
+2020-06-23,United States,Texas,Tyler,0,0,18,0
+2020-06-23,United States,Texas,Unassigned,0,0,0,0
+2020-06-23,United States,Texas,Upshur,0,0,43,0
+2020-06-23,United States,Texas,Upton,0,0,1,0
+2020-06-23,United States,Texas,Uvalde,1,0,38,0
+2020-06-23,United States,Texas,Val Verde,26,0,85,0
+2020-06-23,United States,Texas,Van Zandt,0,0,54,3
+2020-06-23,United States,Texas,Victoria,0,0,241,8
+2020-06-23,United States,Texas,Walker,0,0,1912,28
+2020-06-23,United States,Texas,Waller,4,0,114,0
+2020-06-23,United States,Texas,Ward,0,0,8,0
+2020-06-23,United States,Texas,Washington,6,1,235,27
+2020-06-23,United States,Texas,Webb,55,1,929,25
+2020-06-23,United States,Texas,Wharton,0,0,118,1
+2020-06-23,United States,Texas,Wheeler,0,0,16,0
+2020-06-23,United States,Texas,Wichita,0,0,169,2
+2020-06-23,United States,Texas,Wilbarger,0,0,7,0
+2020-06-23,United States,Texas,Willacy,6,0,93,3
+2020-06-23,United States,Texas,Williamson,74,0,1411,32
+2020-06-23,United States,Texas,Wilson,0,0,72,5
+2020-06-23,United States,Texas,Winkler,0,0,6,0
+2020-06-23,United States,Texas,Wise,0,0,62,5
+2020-06-23,United States,Texas,Wood,0,0,71,5
+2020-06-23,United States,Texas,Yoakum,0,0,13,0
+2020-06-23,United States,Texas,Young,0,0,16,1
+2020-06-23,United States,Texas,Zapata,0,0,33,0
+2020-06-23,United States,Texas,Zavala,0,0,13,0
+2020-06-23,United States,Utah,Bear River,42,0,1316,2
+2020-06-23,United States,Utah,Central Utah,8,0,110,0
+2020-06-23,United States,Utah,Davis,21,0,877,4
+2020-06-23,United States,Utah,Salt Lake,174,0,9052,102
+2020-06-23,United States,Utah,San Juan,3,0,386,7
+2020-06-23,United States,Utah,Southeast Utah,0,0,31,0
+2020-06-23,United States,Utah,Southwest Utah,48,0,1104,10
+2020-06-23,United States,Utah,Summit,3,0,466,0
+2020-06-23,United States,Utah,Tooele,3,0,202,0
+2020-06-23,United States,Utah,TriCounty,1,0,39,0
+2020-06-23,United States,Utah,Unassigned,0,0,0,0
+2020-06-23,United States,Utah,Utah,127,0,3263,21
+2020-06-23,United States,Utah,Wasatch,4,0,384,3
+2020-06-23,United States,Utah,Weber-Morgan,10,0,676,9
+2020-06-23,United States,Vermont,Addison,0,0,67,2
+2020-06-23,United States,Vermont,Bennington,0,0,69,1
+2020-06-23,United States,Vermont,Caledonia,0,0,18,0
+2020-06-23,United States,Vermont,Chittenden,4,0,590,39
+2020-06-23,United States,Vermont,Essex,0,0,3,0
+2020-06-23,United States,Vermont,Franklin,0,0,102,6
+2020-06-23,United States,Vermont,Grand Isle,0,0,8,0
+2020-06-23,United States,Vermont,Lamoille,0,0,30,1
+2020-06-23,United States,Vermont,Orange,0,0,9,0
+2020-06-23,United States,Vermont,Orleans,0,0,14,0
+2020-06-23,United States,Vermont,Rutland,0,0,61,1
+2020-06-23,United States,Vermont,Unassigned,0,0,5,0
+2020-06-23,United States,Vermont,Washington,0,0,41,1
+2020-06-23,United States,Vermont,Windham,0,0,91,3
+2020-06-23,United States,Vermont,Windsor,0,0,55,2
+2020-06-23,United States,Virgin Islands,,0,0,76,6
+2020-06-23,United States,Virginia,Accomack,1,0,1032,14
+2020-06-23,United States,Virginia,Albemarle,6,0,340,8
+2020-06-23,United States,Virginia,Alexandria,9,0,2236,49
+2020-06-23,United States,Virginia,Alleghany,1,0,31,2
+2020-06-23,United States,Virginia,Amelia,1,0,42,1
+2020-06-23,United States,Virginia,Amherst,0,0,29,0
+2020-06-23,United States,Virginia,Appomattox,0,0,36,0
+2020-06-23,United States,Virginia,Arlington,6,0,2424,126
+2020-06-23,United States,Virginia,Augusta,2,0,171,2
+2020-06-23,United States,Virginia,Bath,0,0,0,0
+2020-06-23,United States,Virginia,Bedford,0,0,99,2
+2020-06-23,United States,Virginia,Bland,0,0,2,0
+2020-06-23,United States,Virginia,Botetourt,1,0,59,4
+2020-06-23,United States,Virginia,Bristol,0,0,4,0
+2020-06-23,United States,Virginia,Brunswick,1,0,92,1
+2020-06-23,United States,Virginia,Buchanan,0,0,18,0
+2020-06-23,United States,Virginia,Buckingham,1,0,553,3
+2020-06-23,United States,Virginia,Buena Vista,0,0,12,0
+2020-06-23,United States,Virginia,Campbell,0,0,32,1
+2020-06-23,United States,Virginia,Caroline,0,0,126,4
+2020-06-23,United States,Virginia,Carroll,1,0,189,5
+2020-06-23,United States,Virginia,Charles City,0,1,37,3
+2020-06-23,United States,Virginia,Charlotte,0,0,31,0
+2020-06-23,United States,Virginia,Charlottesville,3,0,172,3
+2020-06-23,United States,Virginia,Chesapeake,26,0,759,16
+2020-06-23,United States,Virginia,Chesterfield,20,0,2577,46
+2020-06-23,United States,Virginia,Clarke,1,0,46,0
+2020-06-23,United States,Virginia,Colonial Heights,0,0,131,17
+2020-06-23,United States,Virginia,Covington,0,0,4,0
+2020-06-23,United States,Virginia,Craig,0,0,6,0
+2020-06-23,United States,Virginia,Culpeper,0,0,795,9
+2020-06-23,United States,Virginia,Cumberland,1,0,51,0
+2020-06-23,United States,Virginia,Danville,0,0,73,2
+2020-06-23,United States,Virginia,Dickenson,0,0,1,0
+2020-06-23,United States,Virginia,Dinwiddie,2,0,123,0
+2020-06-23,United States,Virginia,Emporia,4,0,116,6
+2020-06-23,United States,Virginia,Essex,0,0,54,0
+2020-06-23,United States,Virginia,Fairfax,80,3,13499,438
+2020-06-23,United States,Virginia,Fairfax City,0,1,68,7
+2020-06-23,United States,Virginia,Falls Church,0,0,59,7
+2020-06-23,United States,Virginia,Fauquier,5,0,409,6
+2020-06-23,United States,Virginia,Floyd,0,0,14,1
+2020-06-23,United States,Virginia,Fluvanna,0,0,105,6
+2020-06-23,United States,Virginia,Franklin,0,0,50,1
+2020-06-23,United States,Virginia,Franklin City,0,0,45,2
+2020-06-23,United States,Virginia,Frederick,4,0,460,4
+2020-06-23,United States,Virginia,Fredericksburg,5,0,232,0
+2020-06-23,United States,Virginia,Galax,1,0,224,11
+2020-06-23,United States,Virginia,Giles,0,0,7,0
+2020-06-23,United States,Virginia,Gloucester,0,0,42,1
+2020-06-23,United States,Virginia,Goochland,1,0,116,6
+2020-06-23,United States,Virginia,Grayson,1,0,80,2
+2020-06-23,United States,Virginia,Greene,6,0,55,1
+2020-06-23,United States,Virginia,Greensville,3,0,346,7
+2020-06-23,United States,Virginia,Halifax,0,0,39,1
+2020-06-23,United States,Virginia,Hampton,7,0,271,5
+2020-06-23,United States,Virginia,Hanover,2,0,405,25
+2020-06-23,United States,Virginia,Harrisonburg,4,0,893,23
+2020-06-23,United States,Virginia,Henrico,13,0,2426,138
+2020-06-23,United States,Virginia,Henry,1,0,227,3
+2020-06-23,United States,Virginia,Highland,0,0,3,0
+2020-06-23,United States,Virginia,Hopewell,1,0,152,2
+2020-06-23,United States,Virginia,Isle of Wight,2,0,163,8
+2020-06-23,United States,Virginia,James City,3,0,245,15
+2020-06-23,United States,Virginia,King and Queen,0,0,24,1
+2020-06-23,United States,Virginia,King George,0,0,96,4
+2020-06-23,United States,Virginia,King William,1,0,37,0
+2020-06-23,United States,Virginia,Lancaster,0,0,12,0
+2020-06-23,United States,Virginia,Lee,0,0,9,0
+2020-06-23,United States,Virginia,Lexington,1,0,10,0
+2020-06-23,United States,Virginia,Loudoun,27,1,3612,84
+2020-06-23,United States,Virginia,Louisa,0,0,109,1
+2020-06-23,United States,Virginia,Lunenburg,6,0,28,0
+2020-06-23,United States,Virginia,Lynchburg,0,0,108,1
+2020-06-23,United States,Virginia,Madison,0,0,43,1
+2020-06-23,United States,Virginia,Manassas,3,0,1366,16
+2020-06-23,United States,Virginia,Manassas Park,4,0,414,5
+2020-06-23,United States,Virginia,Martinsville,1,0,60,1
+2020-06-23,United States,Virginia,Mathews,0,0,5,0
+2020-06-23,United States,Virginia,Mecklenburg,1,0,235,24
+2020-06-23,United States,Virginia,Middlesex,0,0,15,0
+2020-06-23,United States,Virginia,Montgomery,0,0,110,2
+2020-06-23,United States,Virginia,Nelson,0,0,18,0
+2020-06-23,United States,Virginia,New Kent,0,0,49,1
+2020-06-23,United States,Virginia,Newport News,9,0,447,10
+2020-06-23,United States,Virginia,Norfolk,9,0,746,7
+2020-06-23,United States,Virginia,Northampton,1,0,271,28
+2020-06-23,United States,Virginia,Northumberland,0,0,28,1
+2020-06-23,United States,Virginia,Norton,2,0,4,0
+2020-06-23,United States,Virginia,Nottoway,20,0,99,0
+2020-06-23,United States,Virginia,Orange,1,0,138,2
+2020-06-23,United States,Virginia,Page,0,0,263,24
+2020-06-23,United States,Virginia,Patrick,1,0,39,0
+2020-06-23,United States,Virginia,Petersburg,1,0,199,3
+2020-06-23,United States,Virginia,Pittsylvania,2,0,87,1
+2020-06-23,United States,Virginia,Poquoson,0,0,16,0
+2020-06-23,United States,Virginia,Portsmouth,13,0,419,13
+2020-06-23,United States,Virginia,Powhatan,0,0,62,2
+2020-06-23,United States,Virginia,Prince Edward,0,0,173,3
+2020-06-23,United States,Virginia,Prince George,2,0,215,0
+2020-06-23,United States,Virginia,Prince William,25,0,6904,133
+2020-06-23,United States,Virginia,Pulaski,0,0,36,1
+2020-06-23,United States,Virginia,Radford,0,0,10,0
+2020-06-23,United States,Virginia,Rappahannock,1,0,17,0
+2020-06-23,United States,Virginia,Richmond,0,0,317,7
+2020-06-23,United States,Virginia,Richmond City,23,0,2008,29
+2020-06-23,United States,Virginia,Roanoke,6,0,177,5
+2020-06-23,United States,Virginia,Roanoke City,11,0,324,10
+2020-06-23,United States,Virginia,Rockbridge,3,0,21,0
+2020-06-23,United States,Virginia,Rockingham,4,2,657,9
+2020-06-23,United States,Virginia,Russell,0,0,9,0
+2020-06-23,United States,Virginia,Salem,0,0,50,3
+2020-06-23,United States,Virginia,Scott,0,0,8,2
+2020-06-23,United States,Virginia,Shenandoah,2,0,542,27
+2020-06-23,United States,Virginia,Smyth,1,0,33,0
+2020-06-23,United States,Virginia,Southampton,0,0,154,2
+2020-06-23,United States,Virginia,Spotsylvania,7,1,909,21
+2020-06-23,United States,Virginia,Stafford,6,0,930,5
+2020-06-23,United States,Virginia,Staunton,1,0,67,0
+2020-06-23,United States,Virginia,Suffolk,12,0,377,34
+2020-06-23,United States,Virginia,Surry,0,0,13,1
+2020-06-23,United States,Virginia,Sussex,1,0,186,2
+2020-06-23,United States,Virginia,Tazewell,0,0,9,0
+2020-06-23,United States,Virginia,Unassigned,0,0,0,0
+2020-06-23,United States,Virginia,Virginia Beach,18,0,1006,27
+2020-06-23,United States,Virginia,Warren,11,0,265,4
+2020-06-23,United States,Virginia,Washington,0,0,60,4
+2020-06-23,United States,Virginia,Waynesboro,0,0,63,0
+2020-06-23,United States,Virginia,Westmoreland,0,0,91,1
+2020-06-23,United States,Virginia,Williamsburg,0,0,54,5
+2020-06-23,United States,Virginia,Winchester,6,0,292,3
+2020-06-23,United States,Virginia,Wise,0,0,27,2
+2020-06-23,United States,Virginia,Wythe,0,0,44,1
+2020-06-23,United States,Virginia,York,2,0,101,3
+2020-06-23,United States,Washington,Adams,1,0,109,0
+2020-06-23,United States,Washington,Asotin,0,0,20,2
+2020-06-23,United States,Washington,Benton,28,0,1455,74
+2020-06-23,United States,Washington,Chelan,3,0,289,6
+2020-06-23,United States,Washington,Clallam,0,0,33,0
+2020-06-23,United States,Washington,Clark,7,0,661,33
+2020-06-23,United States,Washington,Columbia,6,0,8,0
+2020-06-23,United States,Washington,Cowlitz,5,0,151,0
+2020-06-23,United States,Washington,Douglas,0,0,195,3
+2020-06-23,United States,Washington,Ferry,0,0,1,0
+2020-06-23,United States,Washington,Franklin,28,1,1339,29
+2020-06-23,United States,Washington,Garfield,0,0,0,0
+2020-06-23,United States,Washington,Grant,31,0,405,5
+2020-06-23,United States,Washington,Grays Harbor,0,0,23,0
+2020-06-23,United States,Washington,Island,1,0,188,10
+2020-06-23,United States,Washington,Jefferson,0,0,33,0
+2020-06-23,United States,Washington,King,125,0,9374,601
+2020-06-23,United States,Washington,Kitsap,4,0,195,2
+2020-06-23,United States,Washington,Kittitas,0,0,100,0
+2020-06-23,United States,Washington,Klickitat,2,0,54,2
+2020-06-23,United States,Washington,Lewis,1,0,50,3
+2020-06-23,United States,Washington,Lincoln,0,0,2,0
+2020-06-23,United States,Washington,Mason,1,0,44,1
+2020-06-23,United States,Washington,Okanogan,0,0,63,2
+2020-06-23,United States,Washington,Pacific,0,0,12,1
+2020-06-23,United States,Washington,Pend Oreille,0,0,3,0
+2020-06-23,United States,Washington,Pierce,24,1,2324,92
+2020-06-23,United States,Washington,San Juan,0,0,18,0
+2020-06-23,United States,Washington,Skagit,1,0,486,14
+2020-06-23,United States,Washington,Skamania,0,0,3,0
+2020-06-23,United States,Washington,Snohomish,77,1,3336,160
+2020-06-23,United States,Washington,Spokane,39,0,1023,37
+2020-06-23,United States,Washington,Stevens,0,0,16,1
+2020-06-23,United States,Washington,Thurston,5,0,221,4
+2020-06-23,United States,Washington,Unassigned,0,0,18,0
+2020-06-23,United States,Washington,Wahkiakum,0,0,4,0
+2020-06-23,United States,Washington,Walla Walla,3,0,144,2
+2020-06-23,United States,Washington,Whatcom,26,0,522,33
+2020-06-23,United States,Washington,Whitman,1,0,31,0
+2020-06-23,United States,Washington,Yakima,101,2,6441,136
+2020-06-23,United States,West Virginia,Barbour,1,0,13,1
+2020-06-23,United States,West Virginia,Berkeley,1,0,433,10
+2020-06-23,United States,West Virginia,Boone,-1,0,19,0
+2020-06-23,United States,West Virginia,Braxton,0,0,3,0
+2020-06-23,United States,West Virginia,Brooke,0,0,6,0
+2020-06-23,United States,West Virginia,Cabell,1,0,84,0
+2020-06-23,United States,West Virginia,Calhoun,0,0,2,0
+2020-06-23,United States,West Virginia,Clay,0,0,10,0
+2020-06-23,United States,West Virginia,Fayette,0,0,58,4
+2020-06-23,United States,West Virginia,Gilmer,0,0,10,0
+2020-06-23,United States,West Virginia,Grant,0,0,16,0
+2020-06-23,United States,West Virginia,Greenbrier,1,0,51,0
+2020-06-23,United States,West Virginia,Hampshire,0,0,40,1
+2020-06-23,United States,West Virginia,Hancock,0,0,21,0
+2020-06-23,United States,West Virginia,Hardy,1,0,42,0
+2020-06-23,United States,West Virginia,Harrison,1,0,50,1
+2020-06-23,United States,West Virginia,Jackson,0,0,141,18
+2020-06-23,United States,West Virginia,Jefferson,1,0,216,4
+2020-06-23,United States,West Virginia,Kanawha,2,0,268,20
+2020-06-23,United States,West Virginia,Lewis,0,0,15,1
+2020-06-23,United States,West Virginia,Lincoln,0,0,5,0
+2020-06-23,United States,West Virginia,Logan,0,0,21,1
+2020-06-23,United States,West Virginia,Marion,0,0,55,2
+2020-06-23,United States,West Virginia,Marshall,0,0,37,0
+2020-06-23,United States,West Virginia,Mason,0,0,15,0
+2020-06-23,United States,West Virginia,McDowell,0,0,6,0
+2020-06-23,United States,West Virginia,Mercer,0,0,22,0
+2020-06-23,United States,West Virginia,Mineral,0,0,53,2
+2020-06-23,United States,West Virginia,Mingo,0,0,14,2
+2020-06-23,United States,West Virginia,Monongalia,3,0,154,5
+2020-06-23,United States,West Virginia,Monroe,0,0,9,0
+2020-06-23,United States,West Virginia,Morgan,0,0,20,0
+2020-06-23,United States,West Virginia,Nicholas,0,0,7,1
+2020-06-23,United States,West Virginia,Ohio,2,0,72,1
+2020-06-23,United States,West Virginia,Pendleton,0,0,13,1
+2020-06-23,United States,West Virginia,Pleasants,1,0,5,0
+2020-06-23,United States,West Virginia,Pocahontas,0,0,24,0
+2020-06-23,United States,West Virginia,Preston,2,0,63,2
+2020-06-23,United States,West Virginia,Putnam,0,0,44,0
+2020-06-23,United States,West Virginia,Raleigh,2,0,34,0
+2020-06-23,United States,West Virginia,Randolph,0,0,150,0
+2020-06-23,United States,West Virginia,Ritchie,0,0,3,0
+2020-06-23,United States,West Virginia,Roane,0,0,12,1
+2020-06-23,United States,West Virginia,Summers,0,0,1,0
+2020-06-23,United States,West Virginia,Taylor,0,0,13,0
+2020-06-23,United States,West Virginia,Tucker,0,0,5,0
+2020-06-23,United States,West Virginia,Tyler,0,0,3,0
+2020-06-23,United States,West Virginia,Unassigned,1,0,1,0
+2020-06-23,United States,West Virginia,Upshur,0,0,11,0
+2020-06-23,United States,West Virginia,Wayne,0,0,106,9
+2020-06-23,United States,West Virginia,Wetzel,0,0,9,0
+2020-06-23,United States,West Virginia,Wirt,0,0,4,0
+2020-06-23,United States,West Virginia,Wood,0,0,56,2
+2020-06-23,United States,West Virginia,Wyoming,0,0,7,0
+2020-06-23,United States,Wisconsin,Adams,1,0,11,2
+2020-06-23,United States,Wisconsin,Ashland,0,0,3,0
+2020-06-23,United States,Wisconsin,Barron,0,0,31,0
+2020-06-23,United States,Wisconsin,Bayfield,0,0,3,1
+2020-06-23,United States,Wisconsin,Brown,1,0,2581,39
+2020-06-23,United States,Wisconsin,Buffalo,0,0,6,2
+2020-06-23,United States,Wisconsin,Burnett,0,0,2,1
+2020-06-23,United States,Wisconsin,Calumet,0,0,92,2
+2020-06-23,United States,Wisconsin,Chippewa,1,0,70,0
+2020-06-23,United States,Wisconsin,Clark,2,0,60,6
+2020-06-23,United States,Wisconsin,Columbia,1,0,69,1
+2020-06-23,United States,Wisconsin,Crawford,0,0,31,0
+2020-06-23,United States,Wisconsin,Dane,41,0,1139,32
+2020-06-23,United States,Wisconsin,Dodge,3,0,437,5
+2020-06-23,United States,Wisconsin,Door,0,0,40,3
+2020-06-23,United States,Wisconsin,Douglas,0,0,20,0
+2020-06-23,United States,Wisconsin,Dunn,0,0,29,0
+2020-06-23,United States,Wisconsin,Eau Claire,2,1,163,1
+2020-06-23,United States,Wisconsin,Florence,0,0,2,0
+2020-06-23,United States,Wisconsin,Fond du Lac,5,0,295,6
+2020-06-23,United States,Wisconsin,Forest,0,0,35,3
+2020-06-23,United States,Wisconsin,Grant,4,0,129,12
+2020-06-23,United States,Wisconsin,Green,0,0,80,1
+2020-06-23,United States,Wisconsin,Green Lake,0,0,24,0
+2020-06-23,United States,Wisconsin,Iowa,1,0,22,0
+2020-06-23,United States,Wisconsin,Iron,0,0,2,1
+2020-06-23,United States,Wisconsin,Jackson,0,0,24,1
+2020-06-23,United States,Wisconsin,Jefferson,4,0,181,4
+2020-06-23,United States,Wisconsin,Juneau,1,0,29,1
+2020-06-23,United States,Wisconsin,Kenosha,5,0,1421,39
+2020-06-23,United States,Wisconsin,Kewaunee,0,0,44,1
+2020-06-23,United States,Wisconsin,La Crosse,24,0,274,0
+2020-06-23,United States,Wisconsin,Lafayette,2,0,56,0
+2020-06-23,United States,Wisconsin,Langlade,0,0,7,0
+2020-06-23,United States,Wisconsin,Lincoln,0,0,8,0
+2020-06-23,United States,Wisconsin,Manitowoc,2,0,70,1
+2020-06-23,United States,Wisconsin,Marathon,4,0,115,1
+2020-06-23,United States,Wisconsin,Marinette,0,0,42,3
+2020-06-23,United States,Wisconsin,Marquette,1,0,10,1
+2020-06-23,United States,Wisconsin,Menominee,0,0,4,0
+2020-06-23,United States,Wisconsin,Milwaukee,88,0,10355,371
+2020-06-23,United States,Wisconsin,Monroe,4,0,50,1
+2020-06-23,United States,Wisconsin,Oconto,3,0,49,0
+2020-06-23,United States,Wisconsin,Oneida,0,0,17,0
+2020-06-23,United States,Wisconsin,Outagamie,6,0,402,8
+2020-06-23,United States,Wisconsin,Ozaukee,2,0,209,15
+2020-06-23,United States,Wisconsin,Pepin,0,0,1,0
+2020-06-23,United States,Wisconsin,Pierce,0,0,57,0
+2020-06-23,United States,Wisconsin,Polk,0,0,40,1
+2020-06-23,United States,Wisconsin,Portage,5,0,96,0
+2020-06-23,United States,Wisconsin,Price,0,0,2,0
+2020-06-23,United States,Wisconsin,Racine,9,0,2090,58
+2020-06-23,United States,Wisconsin,Richland,0,0,15,4
+2020-06-23,United States,Wisconsin,Rock,0,0,791,23
+2020-06-23,United States,Wisconsin,Rusk,0,0,11,0
+2020-06-23,United States,Wisconsin,Sauk,0,0,96,3
+2020-06-23,United States,Wisconsin,Sawyer,0,0,9,0
+2020-06-23,United States,Wisconsin,Shawano,2,0,70,0
+2020-06-23,United States,Wisconsin,Sheboygan,0,0,185,4
+2020-06-23,United States,Wisconsin,St. Croix,3,0,131,1
+2020-06-23,United States,Wisconsin,Taylor,-1,0,8,0
+2020-06-23,United States,Wisconsin,Trempealeau,1,0,92,0
+2020-06-23,United States,Wisconsin,Unassigned,0,0,0,0
+2020-06-23,United States,Wisconsin,Vernon,1,0,30,0
+2020-06-23,United States,Wisconsin,Vilas,0,0,10,0
+2020-06-23,United States,Wisconsin,Walworth,0,0,498,18
+2020-06-23,United States,Wisconsin,Washburn,0,0,4,0
+2020-06-23,United States,Wisconsin,Washington,1,0,322,13
+2020-06-23,United States,Wisconsin,Waukesha,12,0,1015,38
+2020-06-23,United States,Wisconsin,Waupaca,0,0,91,5
+2020-06-23,United States,Wisconsin,Waushara,0,0,20,0
+2020-06-23,United States,Wisconsin,Winnebago,7,0,608,11
+2020-06-23,United States,Wisconsin,Wood,1,0,33,1
+2020-06-23,United States,Wyoming,Albany,1,0,29,0
+2020-06-23,United States,Wyoming,Big Horn,0,0,11,0
+2020-06-23,United States,Wyoming,Campbell,0,0,47,0
+2020-06-23,United States,Wyoming,Carbon,0,0,22,0
+2020-06-23,United States,Wyoming,Converse,1,0,25,0
+2020-06-23,United States,Wyoming,Crook,0,0,6,0
+2020-06-23,United States,Wyoming,Fremont,6,0,335,0
+2020-06-23,United States,Wyoming,Goshen,0,0,5,0
+2020-06-23,United States,Wyoming,Hot Springs,0,0,12,0
+2020-06-23,United States,Wyoming,Johnson,0,0,19,1
+2020-06-23,United States,Wyoming,Laramie,7,0,211,0
+2020-06-23,United States,Wyoming,Lincoln,-1,0,15,0
+2020-06-23,United States,Wyoming,Natrona,2,0,98,0
+2020-06-23,United States,Wyoming,Niobrara,0,0,2,0
+2020-06-23,United States,Wyoming,Park,1,0,12,0
+2020-06-23,United States,Wyoming,Platte,1,0,2,0
+2020-06-23,United States,Wyoming,Sheridan,0,0,19,0
+2020-06-23,United States,Wyoming,Sublette,1,0,5,0
+2020-06-23,United States,Wyoming,Sweetwater,3,0,56,0
+2020-06-23,United States,Wyoming,Teton,1,0,111,0
+2020-06-23,United States,Wyoming,Uinta,10,0,148,0
+2020-06-23,United States,Wyoming,Unassigned,0,0,0,19
+2020-06-23,United States,Wyoming,Washakie,0,0,39,0
+2020-06-23,United States,Wyoming,Weston,0,0,1,0
