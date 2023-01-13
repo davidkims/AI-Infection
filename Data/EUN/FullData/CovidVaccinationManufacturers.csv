@@ -28508,8 +28508,8 @@
 2022-12-26,France,Pfizer/BioNTech,120190486
 2022-12-26,France,Sanofi/GSK,69
 2022-12-26,Germany,Pfizer/BioNTech,137945678
-2022-12-26,Italy,Moderna,34281693
-2022-12-26,Italy,Pfizer/BioNTech,95318399
+2022-12-26,Italy,Moderna,34281724
+2022-12-26,Italy,Pfizer/BioNTech,95318639
 2022-12-26,Japan,Moderna,82694162
 2022-12-26,Japan,Novavax,276894
 2022-12-26,Japan,Pfizer/BioNTech,287045330
@@ -28521,7 +28521,7 @@
 2022-12-26,Switzerland,Pfizer/BioNTech,6186726
 2022-12-27,Czechia,Moderna,1640662
 2022-12-27,Czechia,Novavax,11039
-2022-12-27,Czechia,Pfizer/BioNTech,15636092
+2022-12-27,Czechia,Pfizer/BioNTech,15636143
 2022-12-27,France,Moderna,24095758
 2022-12-27,France,Novavax,36700
 2022-12-27,France,Pfizer/BioNTech,120227556
@@ -28531,57 +28531,355 @@
 2022-12-27,Germany,Novavax,156690
 2022-12-27,Germany,Pfizer/BioNTech,137946568
 2022-12-27,Germany,Valneva,5281
-2022-12-27,Italy,Moderna,34282466
-2022-12-27,Italy,Pfizer/BioNTech,95328763
+2022-12-27,Italy,Moderna,34282495
+2022-12-27,Italy,Pfizer/BioNTech,95329225
 2022-12-27,Japan,Moderna,82707073
 2022-12-27,Japan,Novavax,277388
 2022-12-27,Japan,Pfizer/BioNTech,287341670
-2022-12-27,South Korea,Johnson&Johnson,1518191
-2022-12-27,South Korea,Novavax,253067
-2022-12-27,South Korea,Pfizer/BioNTech,52599823
+2022-12-27,South Korea,Johnson&Johnson,1518203
+2022-12-27,South Korea,Novavax,253068
+2022-12-27,South Korea,Pfizer/BioNTech,52599964
 2022-12-27,South Korea,SKYCovione,434
 2022-12-27,Switzerland,Johnson&Johnson,63240
 2022-12-27,Switzerland,Moderna,10599532
 2022-12-27,Switzerland,Novavax,3068
 2022-12-27,Switzerland,Pfizer/BioNTech,6187101
-2022-12-28,Czechia,Johnson&Johnson,414019
+2022-12-28,Czechia,Johnson&Johnson,414020
 2022-12-28,Czechia,Moderna,1640680
-2022-12-28,Czechia,Novavax,11043
-2022-12-28,Czechia,Pfizer/BioNTech,15636467
-2022-12-28,France,Moderna,24096570
-2022-12-28,France,Novavax,36747
-2022-12-28,France,Pfizer/BioNTech,120255745
-2022-12-28,France,Sanofi/GSK,132
-2022-12-28,Germany,Johnson&Johnson,3756949
-2022-12-28,Germany,Moderna,31559570
-2022-12-28,Germany,Novavax,156767
-2022-12-28,Germany,Pfizer/BioNTech,137947387
+2022-12-28,Czechia,Novavax,11044
+2022-12-28,Czechia,Pfizer/BioNTech,15636545
+2022-12-28,France,Moderna,24096696
+2022-12-28,France,Novavax,36749
+2022-12-28,France,Pfizer/BioNTech,120258368
+2022-12-28,France,Sanofi/GSK,135
+2022-12-28,Germany,Johnson&Johnson,3757536
+2022-12-28,Germany,Moderna,31568517
+2022-12-28,Germany,Novavax,156803
+2022-12-28,Germany,Pfizer/BioNTech,137975006
 2022-12-28,Germany,Valneva,5327
-2022-12-28,Italy,Moderna,34283394
-2022-12-28,Italy,Pfizer/BioNTech,95341619
-2022-12-28,South Korea,Johnson&Johnson,1518204
-2022-12-28,South Korea,Novavax,253338
-2022-12-28,South Korea,Pfizer/BioNTech,52600084
+2022-12-28,Italy,Moderna,34283445
+2022-12-28,Italy,Pfizer/BioNTech,95342743
+2022-12-28,South Korea,Johnson&Johnson,1515944
+2022-12-28,South Korea,Novavax,250399
+2022-12-28,South Korea,Pfizer/BioNTech,52309033
 2022-12-28,South Korea,SKYCovione,435
 2022-12-28,United States,Johnson&Johnson,18952708
 2022-12-28,United States,Moderna,248567365
 2022-12-28,United States,Novavax,69062
 2022-12-28,United States,Pfizer/BioNTech,395452177
-2022-12-29,Czechia,Novavax,11045
-2022-12-29,Czechia,Pfizer/BioNTech,15636734
-2022-12-29,France,Moderna,24097397
-2022-12-29,France,Novavax,36783
-2022-12-29,France,Pfizer/BioNTech,120284539
-2022-12-29,France,Sanofi/GSK,182
-2022-12-29,Germany,Johnson&Johnson,3756962
-2022-12-29,Germany,Moderna,31559585
-2022-12-29,Germany,Novavax,156850
-2022-12-29,Germany,Pfizer/BioNTech,137948820
-2022-12-29,Germany,Valneva,5384
-2022-12-29,Italy,Moderna,34284702
+2022-12-29,Czechia,Novavax,11051
+2022-12-29,Czechia,Pfizer/BioNTech,15636959
+2022-12-29,France,Moderna,24097675
+2022-12-29,France,Novavax,36792
+2022-12-29,France,Pfizer/BioNTech,120289138
+2022-12-29,France,Sanofi/GSK,189
+2022-12-29,Germany,Johnson&Johnson,3757555
+2022-12-29,Germany,Moderna,31568609
+2022-12-29,Germany,Novavax,156890
+2022-12-29,Germany,Pfizer/BioNTech,137977455
+2022-12-29,Germany,Valneva,5385
+2022-12-29,Italy,Moderna,34284776
 2022-12-29,Italy,Novavax,42945
-2022-12-29,Italy,Pfizer/BioNTech,95355553
-2022-12-29,South Korea,Johnson&Johnson,1518213
-2022-12-29,South Korea,Novavax,253540
-2022-12-29,South Korea,Pfizer/BioNTech,52600322
+2022-12-29,Italy,Pfizer/BioNTech,95357329
+2022-12-29,Japan,Moderna,82748469
+2022-12-29,Japan,Novavax,278410
+2022-12-29,Japan,Pfizer/BioNTech,288216041
+2022-12-29,South Korea,Johnson&Johnson,1515951
+2022-12-29,South Korea,Novavax,250610
+2022-12-29,South Korea,Pfizer/BioNTech,52307670
 2022-12-29,South Korea,SKYCovione,443
+2022-12-30,Czechia,Moderna,1640706
+2022-12-30,Czechia,Pfizer/BioNTech,15637145
+2022-12-30,France,Johnson&Johnson,1090466
+2022-12-30,France,Moderna,24098484
+2022-12-30,France,Novavax,36854
+2022-12-30,France,Pfizer/BioNTech,120313139
+2022-12-30,France,Sanofi/GSK,227
+2022-12-30,Germany,Johnson&Johnson,3757579
+2022-12-30,Germany,Moderna,31568894
+2022-12-30,Germany,Novavax,156999
+2022-12-30,Germany,Oxford/AstraZeneca,12799230
+2022-12-30,Germany,Pfizer/BioNTech,137979595
+2022-12-30,Germany,Valneva,5442
+2022-12-30,Italy,Moderna,34286326
+2022-12-30,Italy,Pfizer/BioNTech,95370370
+2022-12-30,Japan,Moderna,82749835
+2022-12-30,Japan,Novavax,278562
+2022-12-30,Japan,Pfizer/BioNTech,288239310
+2022-12-30,South Korea,Johnson&Johnson,1515960
+2022-12-30,South Korea,Novavax,250825
+2022-12-30,South Korea,Pfizer/BioNTech,52306771
+2022-12-30,South Korea,SKYCovione,446
+2022-12-31,Czechia,Pfizer/BioNTech,15637120
+2022-12-31,France,Moderna,24098707
+2022-12-31,France,Novavax,36868
+2022-12-31,France,Pfizer/BioNTech,120318459
+2022-12-31,France,Sanofi/GSK,242
+2022-12-31,Germany,Moderna,31569289
+2022-12-31,Germany,Novavax,157052
+2022-12-31,Germany,Pfizer/BioNTech,137981181
+2022-12-31,Germany,Valneva,5449
+2022-12-31,Italy,Moderna,34286654
+2022-12-31,Italy,Pfizer/BioNTech,95372880
+2022-12-31,Japan,Moderna,82769461
+2022-12-31,Japan,Novavax,279191
+2022-12-31,Japan,Pfizer/BioNTech,288662589
+2022-12-31,South Korea,Johnson&Johnson,1515958
+2022-12-31,South Korea,Novavax,250874
+2022-12-31,South Korea,Pfizer/BioNTech,52305932
+2022-12-31,Switzerland,Moderna,10603101
+2022-12-31,Switzerland,Pfizer/BioNTech,6189423
+2023-01-01,Czechia,Pfizer/BioNTech,15637012
+2023-01-01,France,Moderna,24098857
+2023-01-01,France,Novavax,36875
+2023-01-01,France,Pfizer/BioNTech,120321087
+2023-01-01,France,Sanofi/GSK,249
+2023-01-01,Germany,Pfizer/BioNTech,137981241
+2023-01-01,Italy,Pfizer/BioNTech,95373002
+2023-01-01,Japan,Pfizer/BioNTech,288662887
+2023-01-01,South Korea,Pfizer/BioNTech,52305933
+2023-01-01,Switzerland,Pfizer/BioNTech,6189424
+2023-01-02,Czechia,Johnson&Johnson,414026
+2023-01-02,Czechia,Moderna,1640708
+2023-01-02,Czechia,Pfizer/BioNTech,15637464
+2023-01-02,France,Johnson&Johnson,1090488
+2023-01-02,France,Moderna,24099546
+2023-01-02,France,Novavax,36903
+2023-01-02,France,Pfizer/BioNTech,120342206
+2023-01-02,France,Sanofi/GSK,292
+2023-01-02,Germany,Johnson&Johnson,3757593
+2023-01-02,Germany,Moderna,31569323
+2023-01-02,Germany,Novavax,157100
+2023-01-02,Germany,Pfizer/BioNTech,137981741
+2023-01-02,Germany,Valneva,5482
+2023-01-02,Italy,Moderna,34287905
+2023-01-02,Italy,Pfizer/BioNTech,95381614
+2023-01-02,Japan,Moderna,82769788
+2023-01-02,Japan,Novavax,279243
+2023-01-02,Japan,Pfizer/BioNTech,288664997
+2023-01-02,South Korea,Johnson&Johnson,1515972
+2023-01-02,South Korea,Novavax,251091
+2023-01-02,South Korea,Pfizer/BioNTech,52306162
+2023-01-02,South Korea,SKYCovione,448
+2023-01-02,Switzerland,Moderna,10603261
+2023-01-02,Switzerland,Pfizer/BioNTech,6189565
+2023-01-03,Czechia,Johnson&Johnson,414029
+2023-01-03,Czechia,Moderna,1640729
+2023-01-03,Czechia,Novavax,11056
+2023-01-03,Czechia,Pfizer/BioNTech,15637996
+2023-01-03,France,Moderna,24100779
+2023-01-03,France,Novavax,36957
+2023-01-03,France,Pfizer/BioNTech,120390071
+2023-01-03,France,Sanofi/GSK,363
+2023-01-03,Germany,Johnson&Johnson,3757595
+2023-01-03,Germany,Novavax,157107
+2023-01-03,Germany,Pfizer/BioNTech,137982225
+2023-01-03,Germany,Valneva,5484
+2023-01-03,Italy,Moderna,34289104
+2023-01-03,Italy,Pfizer/BioNTech,95397554
+2023-01-03,Japan,Moderna,82769988
+2023-01-03,Japan,Novavax,279292
+2023-01-03,Japan,Pfizer/BioNTech,288667386
+2023-01-03,South Korea,Johnson&Johnson,1515968
+2023-01-03,South Korea,Novavax,251293
+2023-01-03,South Korea,Pfizer/BioNTech,52304664
+2023-01-03,South Korea,SKYCovione,451
+2023-01-03,Switzerland,Johnson&Johnson,63254
+2023-01-03,Switzerland,Moderna,10604121
+2023-01-03,Switzerland,Novavax,3099
+2023-01-03,Switzerland,Pfizer/BioNTech,6190047
+2023-01-04,Czechia,Johnson&Johnson,414030
+2023-01-04,Czechia,Moderna,1640745
+2023-01-04,Czechia,Novavax,11059
+2023-01-04,Czechia,Pfizer/BioNTech,15638877
+2023-01-04,France,Moderna,24101932
+2023-01-04,France,Novavax,36988
+2023-01-04,France,Pfizer/BioNTech,120428792
+2023-01-04,France,Sanofi/GSK,424
+2023-01-04,Germany,Johnson&Johnson,3757598
+2023-01-04,Germany,Moderna,31569340
+2023-01-04,Germany,Novavax,157212
+2023-01-04,Germany,Pfizer/BioNTech,137983196
+2023-01-04,Germany,Valneva,5569
+2023-01-04,Italy,Moderna,34290601
+2023-01-04,Italy,Pfizer/BioNTech,95415346
+2023-01-04,Japan,Moderna,82782431
+2023-01-04,Japan,Novavax,279625
+2023-01-04,Japan,Pfizer/BioNTech,288966075
+2023-01-04,South Korea,Johnson&Johnson,1515983
+2023-01-04,South Korea,Novavax,251502
+2023-01-04,South Korea,Pfizer/BioNTech,52304990
+2023-01-04,South Korea,SKYCovione,454
+2023-01-04,Switzerland,Johnson&Johnson,63271
+2023-01-04,Switzerland,Moderna,10605519
+2023-01-04,Switzerland,Novavax,3119
+2023-01-04,Switzerland,Pfizer/BioNTech,6191359
+2023-01-04,United States,Johnson&Johnson,18954913
+2023-01-04,United States,Moderna,248998772
+2023-01-04,United States,Novavax,70373
+2023-01-04,United States,Pfizer/BioNTech,396267682
+2023-01-05,Czechia,Johnson&Johnson,414033
+2023-01-05,Czechia,Moderna,1640757
+2023-01-05,Czechia,Novavax,11061
+2023-01-05,Czechia,Pfizer/BioNTech,15639948
+2023-01-05,France,Moderna,24103194
+2023-01-05,France,Novavax,37038
+2023-01-05,France,Pfizer/BioNTech,120477984
+2023-01-05,France,Sanofi/GSK,515
+2023-01-05,Germany,Johnson&Johnson,3757623
+2023-01-05,Germany,Moderna,31569569
+2023-01-05,Germany,Novavax,157278
+2023-01-05,Germany,Pfizer/BioNTech,137985821
+2023-01-05,Germany,Valneva,5603
+2023-01-05,Italy,Moderna,34291764
+2023-01-05,Italy,Pfizer/BioNTech,95427890
+2023-01-05,Japan,Moderna,82794800
+2023-01-05,Japan,Novavax,279848
+2023-01-05,Japan,Pfizer/BioNTech,289246686
+2023-01-05,South Korea,Johnson&Johnson,1515992
+2023-01-05,South Korea,Novavax,251702
+2023-01-05,South Korea,Pfizer/BioNTech,52304351
+2023-01-05,South Korea,SKYCovione,462
+2023-01-05,Switzerland,Johnson&Johnson,63273
+2023-01-05,Switzerland,Moderna,10607119
+2023-01-05,Switzerland,Novavax,3127
+2023-01-05,Switzerland,Pfizer/BioNTech,6192348
+2023-01-06,Czechia,Johnson&Johnson,414049
+2023-01-06,Czechia,Moderna,1640786
+2023-01-06,Czechia,Novavax,11067
+2023-01-06,Czechia,Pfizer/BioNTech,15641698
+2023-01-06,France,Moderna,24104866
+2023-01-06,France,Novavax,37115
+2023-01-06,France,Pfizer/BioNTech,120532780
+2023-01-06,France,Sanofi/GSK,645
+2023-01-06,Germany,Johnson&Johnson,3757624
+2023-01-06,Germany,Moderna,31569592
+2023-01-06,Germany,Novavax,157291
+2023-01-06,Germany,Pfizer/BioNTech,137986692
+2023-01-06,Germany,Valneva,5604
+2023-01-06,Italy,Moderna,34291827
+2023-01-06,Italy,Pfizer/BioNTech,95428997
+2023-01-06,Japan,Moderna,82817865
+2023-01-06,Japan,Novavax,280492
+2023-01-06,Japan,Pfizer/BioNTech,289656909
+2023-01-06,South Korea,Johnson&Johnson,1516006
+2023-01-06,South Korea,Novavax,251967
+2023-01-06,South Korea,Pfizer/BioNTech,52304077
+2023-01-06,South Korea,SKYCovione,464
+2023-01-06,Switzerland,Johnson&Johnson,63282
+2023-01-06,Switzerland,Moderna,10608693
+2023-01-06,Switzerland,Novavax,3136
+2023-01-06,Switzerland,Pfizer/BioNTech,6193402
+2023-01-07,Czechia,Pfizer/BioNTech,15641764
+2023-01-07,France,Johnson&Johnson,1090544
+2023-01-07,France,Moderna,24105489
+2023-01-07,France,Novavax,37150
+2023-01-07,France,Pfizer/BioNTech,120549272
+2023-01-07,France,Sanofi/GSK,692
+2023-01-07,Germany,Johnson&Johnson,3758125
+2023-01-07,Germany,Moderna,31577235
+2023-01-07,Germany,Novavax,157379
+2023-01-07,Germany,Pfizer/BioNTech,138005103
+2023-01-07,Germany,Valneva,5631
+2023-01-07,Italy,Johnson&Johnson,1508352
+2023-01-07,Italy,Moderna,34292481
+2023-01-07,Italy,Novavax,42947
+2023-01-07,Italy,Pfizer/BioNTech,95434338
+2023-01-07,Japan,Moderna,82845976
+2023-01-07,Japan,Novavax,281557
+2023-01-07,Japan,Pfizer/BioNTech,290072482
+2023-01-07,South Korea,Johnson&Johnson,1516016
+2023-01-07,South Korea,Novavax,252058
+2023-01-07,South Korea,Pfizer/BioNTech,52303755
+2023-01-07,South Korea,SKYCovione,465
+2023-01-07,Switzerland,Moderna,10609052
+2023-01-07,Switzerland,Pfizer/BioNTech,6193658
+2023-01-08,Czechia,Pfizer/BioNTech,15641793
+2023-01-08,France,Johnson&Johnson,1090545
+2023-01-08,France,Moderna,24105607
+2023-01-08,France,Novavax,37174
+2023-01-08,France,Pfizer/BioNTech,120552647
+2023-01-08,France,Sanofi/GSK,702
+2023-01-08,Germany,Johnson&Johnson,3758142
+2023-01-08,Germany,Novavax,157384
+2023-01-08,Germany,Pfizer/BioNTech,138005223
+2023-01-08,Italy,Moderna,34292593
+2023-01-08,Italy,Pfizer/BioNTech,95435284
+2023-01-08,Japan,Moderna,82854639
+2023-01-08,Japan,Novavax,282062
+2023-01-08,Japan,Pfizer/BioNTech,290171119
+2023-01-08,South Korea,Novavax,252065
+2023-01-08,South Korea,Pfizer/BioNTech,52303758
+2023-01-08,Switzerland,Moderna,10609055
+2023-01-08,Switzerland,Pfizer/BioNTech,6193659
+2023-01-09,Czechia,Johnson&Johnson,414077
+2023-01-09,Czechia,Moderna,1640797
+2023-01-09,Czechia,Novavax,11068
+2023-01-09,Czechia,Pfizer/BioNTech,15642615
+2023-01-09,France,Johnson&Johnson,1090546
+2023-01-09,France,Moderna,24106350
+2023-01-09,France,Novavax,37239
+2023-01-09,France,Pfizer/BioNTech,120577352
+2023-01-09,France,Sanofi/GSK,779
+2023-01-09,Germany,Johnson&Johnson,3758147
+2023-01-09,Germany,Moderna,31577256
+2023-01-09,Germany,Novavax,157440
+2023-01-09,Germany,Pfizer/BioNTech,138005869
+2023-01-09,Germany,Valneva,5678
+2023-01-09,Italy,Moderna,34293951
+2023-01-09,Italy,Pfizer/BioNTech,95447463
+2023-01-09,Japan,Moderna,82856824
+2023-01-09,Japan,Novavax,282217
+2023-01-09,Japan,Pfizer/BioNTech,290194406
+2023-01-09,South Korea,Johnson&Johnson,1516038
+2023-01-09,South Korea,Moderna,13436451
+2023-01-09,South Korea,Novavax,252297
+2023-01-09,South Korea,Pfizer/BioNTech,52304013
+2023-01-09,South Korea,SKYCovione,469
+2023-01-09,Switzerland,Johnson&Johnson,63289
+2023-01-09,Switzerland,Moderna,10610238
+2023-01-09,Switzerland,Novavax,3152
+2023-01-09,Switzerland,Pfizer/BioNTech,6194533
+2023-01-10,Czechia,Johnson&Johnson,414083
+2023-01-10,Czechia,Moderna,1640820
+2023-01-10,Czechia,Pfizer/BioNTech,15643526
+2023-01-10,France,Johnson&Johnson,1090547
+2023-01-10,France,Moderna,24107498
+2023-01-10,France,Novavax,37300
+2023-01-10,France,Pfizer/BioNTech,120621809
+2023-01-10,France,Sanofi/GSK,921
+2023-01-10,Germany,Johnson&Johnson,3758177
+2023-01-10,Germany,Moderna,31577273
+2023-01-10,Germany,Novavax,157541
+2023-01-10,Germany,Pfizer/BioNTech,138007205
+2023-01-10,Germany,Valneva,5739
+2023-01-10,Italy,Moderna,34295359
+2023-01-10,Italy,Pfizer/BioNTech,95464194
+2023-01-10,Japan,Moderna,82862502
+2023-01-10,Japan,Novavax,282725
+2023-01-10,Japan,Pfizer/BioNTech,290407129
+2023-01-10,South Korea,Johnson&Johnson,1516045
+2023-01-10,South Korea,Novavax,252566
+2023-01-10,South Korea,Pfizer/BioNTech,52304249
+2023-01-10,South Korea,SKYCovione,473
+2023-01-11,Czechia,Johnson&Johnson,414095
+2023-01-11,Czechia,Moderna,1640912
+2023-01-11,Czechia,Pfizer/BioNTech,15644768
+2023-01-11,France,Moderna,24108267
+2023-01-11,France,Novavax,37350
+2023-01-11,France,Pfizer/BioNTech,120648592
+2023-01-11,France,Sanofi/GSK,1021
+2023-01-11,Germany,Johnson&Johnson,3758189
+2023-01-11,Germany,Moderna,31577420
+2023-01-11,Germany,Novavax,157618
+2023-01-11,Germany,Pfizer/BioNTech,138007983
+2023-01-11,Germany,Valneva,5801
+2023-01-11,Italy,Moderna,34296715
+2023-01-11,Italy,Pfizer/BioNTech,95481295
+2023-01-11,Japan,Moderna,82869547
+2023-01-11,Japan,Novavax,282902
+2023-01-11,Japan,Pfizer/BioNTech,290613744
+2023-01-11,South Korea,Johnson&Johnson,1516060
+2023-01-11,South Korea,Novavax,252827
+2023-01-11,South Korea,Pfizer/BioNTech,52304545
+2023-01-11,South Korea,SKYCovione,480
