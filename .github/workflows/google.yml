@@ -25,6 +25,9 @@ env:
   REPOSITORY: samples # TODO: update to Artifact Registry docker repository
   IMAGE: static-site
 
+permissions:
+  contents: read
+
 jobs:
   setup-build-publish-deploy:
     name: Setup, Build, Publish, and Deploy
@@ -36,13 +39,18 @@ jobs:
       id-token: 'write'
 
     steps:
+    - name: Harden Runner
+      uses: step-security/harden-runner@1b05615854632b887b69ae1be8cbefe72d3ae423 # v2.6.0
+      with:
+        egress-policy: audit
+
     - name: Checkout
-      uses: actions/checkout@v3
+      uses: actions/checkout@f43a0e5ff2bd294095638e18286ca9a3d1956744 # v3.6.0
 
     # Configure Workload Identity Federation and generate an access token.
     - id: 'auth'
       name: 'Authenticate to Google Cloud'
-      uses: 'google-github-actions/auth@v0'
+      uses: 'google-github-actions/auth@c4799db9111fba4461e9f9da8732e5057b394f72 # v0.8.3'
       with:
         token_format: 'access_token'
         workload_identity_provider: 'projects/123456789/locations/global/workloadIdentityPools/my-pool/providers/my-provider'
@@ -50,7 +58,7 @@ jobs:
 
     # Alternative option - authentication via credentials json
     # - id: 'auth'
-    #   uses: 'google-github-actions/auth@v0'
+    #   uses: 'google-github-actions/auth@c4799db9111fba4461e9f9da8732e5057b394f72 # v0.8.3'
     #   with:
     #     credentials_json: '${{ secrets.GCP_CREDENTIALS }}'
 
@@ -59,7 +67,7 @@ jobs:
         echo ${{steps.auth.outputs.access_token}} | docker login -u oauth2accesstoken --password-stdin https://$GAR_LOCATION-docker.pkg.dev
     # Get the GKE credentials so we can deploy to the cluster
     - name: Set up GKE credentials
-      uses: google-github-actions/get-gke-credentials@v0
+      uses: google-github-actions/get-gke-credentials@45e9605d689a4ad17a24d232effa1a70b641502a # v0.8.2
       with:
         cluster_name: ${{ env.GKE_CLUSTER }}
         location: ${{ env.GKE_ZONE }}
